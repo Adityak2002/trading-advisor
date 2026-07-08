@@ -60,10 +60,17 @@ jobs:
       - name: Step 4 — Score and rank ETF instruments
         run: python scripts/score.py --mode etf
 
-      - name: Step 5 — Generate ETF daily report
+      - name: Step 5 — Generate ETF report
         run: python scripts/generate_report.py --mode etf
 
-      # ── 6. Commit and push updated files ─────────────────────────────────────
+      - name: Step 6 — Send Email Notification
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: python scripts/send_email.py --mode etf
+
+      # ── 7. Commit and push updated files ─────────────────────────────────────
       - name: Commit ETF report and state files
         run: |
           git config --global user.name  "Trading Advisory Bot"

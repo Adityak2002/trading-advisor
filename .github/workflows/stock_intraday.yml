@@ -67,7 +67,14 @@ jobs:
       - name: Step 5 — Generate stock delivery report
         run: python scripts/generate_report.py --mode stock
 
-      # ── 6. Commit and push updated files ─────────────────────────────────────
+      - name: Step 6 — Send Email Notification
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: python scripts/send_email.py --mode stock
+
+      # ── 7. Commit and push updated files ─────────────────────────────────────
       - name: Commit stock report and state files
         run: |
           git config --global user.name  "Trading Advisory Bot"
