@@ -84,14 +84,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── 7. Update Secret Gist (for Claude read access in Private Repos) ──────
-      - name: Update Secret Gist
-        run: |
-          if [ -n "${{ secrets.GIST_PAT }}" ] && [ -n "${{ secrets.ETF_GIST_ID }}" ]; then
-            echo "${{ secrets.GIST_PAT }}" | gh auth login --with-token
-            gh gist edit "${{ secrets.ETF_GIST_ID }}" --filename etf_report.md reports/etf_report.md
-            echo "Secret Gist updated successfully."
-          else
-            echo "GIST_PAT or ETF_GIST_ID not set. Skipping Gist update."
-          fi
-
