@@ -26,3 +26,8 @@ data/cache/
 # OS files
 .DS_Store
 Thumbs.db
+
+# ── Reference: Secret Gist URLs (latest versions without commit hash) ────
+# Stock Delivery Gist: https://gist.githubusercontent.com/Adityak2002/c367f5f984d23240566c5657609f922f/raw/stock_report.md
+# ETF Swing Gist:       https://gist.githubusercontent.com/Adityak2002/131ba7a474fa2af554f0d3d4259dbdde/raw/etf_report.md
+

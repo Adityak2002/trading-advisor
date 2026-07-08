@@ -85,20 +85,18 @@ Go to: **Repo → Actions** tab
 
 ✅ You're live! Both workflows will now run on their schedules automatically.
 
-### Step 6 — View Reports
-
-After each run, reports are available at:
+After each run, reports are available at your **Secret Gist** URLs (always showing the latest run):
 
 ```
-# ETF report:
-https://raw.githubusercontent.com/YOUR_USERNAME/trading-advisor/main/reports/etf_report.md
+# ETF Swing Report (Daily):
+https://gist.githubusercontent.com/Adityak2002/131ba7a474fa2af554f0d3d4259dbdde/raw/etf_report.md
 
-# Stock delivery report:
-https://raw.githubusercontent.com/YOUR_USERNAME/trading-advisor/main/reports/stock_report.md
+# Stock Delivery Report (2h):
+https://gist.githubusercontent.com/Adityak2002/c367f5f984d23240566c5657609f922f/raw/stock_report.md
 ```
 
 In Claude chat, say:
-> "Fetch this URL and explain today's trading signals: https://raw.githubusercontent.com/..."
+> "Fetch this URL and explain today's trading signals: https://gist.githubusercontent.com/..."
 
 ---
 
