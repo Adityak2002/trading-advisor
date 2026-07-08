@@ -107,6 +107,35 @@ MACRO_TICKERS = {
 }
 
 # ---------------------------------------------------------------------------
+# SECTOR INDEX TICKERS — for relative strength comparison
+# Used to suppress entries in stocks whose sector is underperforming Nifty.
+# ---------------------------------------------------------------------------
+
+SECTOR_TICKERS = {
+    "bank_nifty":    "^NSEBANK",   # Nifty Bank (banking & financial services)
+    "nifty_it":      "^CNXIT",     # Nifty IT
+}
+
+# Maps each stock ticker to its sector index key (from SECTOR_TICKERS).
+# Stocks mapped to "nifty" use Nifty 50 itself as the benchmark.
+STOCK_SECTOR_MAP = {
+    "ICICIBANK.NS":   "bank_nifty",
+    "HDFCBANK.NS":    "bank_nifty",
+    "BAJFINANCE.NS":  "bank_nifty",
+    "ANGELONE.NS":    "bank_nifty",
+    "CDSL.NS":        "bank_nifty",
+    "RELIANCE.NS":    "nifty",
+    "TITAN.NS":       "nifty",
+    "POLYCAB.NS":     "nifty",
+    "KEI.NS":         "nifty",
+    "HAVELLS.NS":     "nifty",
+    "PIDILITIND.NS":  "nifty",
+}
+
+# Suppress stock entry if its sector underperforms Nifty by more than this %
+SECTOR_UNDERPERFORM_THRESHOLD = -3.0  # percent
+
+# ---------------------------------------------------------------------------
 # ── MODE A: ETF SWING — SCORING WEIGHTS  (must sum to 1.0) ──────────────
 # ---------------------------------------------------------------------------
 
@@ -153,6 +182,8 @@ STOCK_ENTRY_RULES = {
     "ema21_proximity_pct":       0.04,  # Price within 4% of EMA21 = pullback zone
     "volume_zscore_max":         2.0,   # Calm volume during dip (< 2 = consolidating)
     "max_open_positions":        2,     # Max concurrent delivery positions
+    "require_nifty_trend":       True,  # Hard gate: Nifty must be above 20-EMA
+    "require_sector_strength":   True,  # Gate: stock's sector must not underperform
 }
 
 # ---------------------------------------------------------------------------
@@ -165,6 +196,7 @@ POSITION_SIZING = {
     "position_2_pct":               0.40,   # Secondary position = 40% (₹4,000)
     "max_crude_allocation":         3000,   # Crude ETF cap (volatile)
     "max_international_positions":  1,      # Only 1 intl ETF at a time
+    "risk_per_trade_pct":           0.05,   # ATR risk sizing: risk 5% of capital per trade (₹500)
 }
 
 # ── MODE B: STOCK DELIVERY — POSITION SIZING ─────────────────────────────
@@ -172,10 +204,11 @@ POSITION_SIZING = {
 
 STOCK_POSITION_SIZING = {
     "total_capital":                10000,  # ₹ second corpus
-    "position_1_pct":               0.70,   # Primary position = 70% (₹7,000)
-    "position_2_pct":               0.30,   # Secondary position = 30% (₹3,000)
+    "position_1_pct":               0.70,   # Fallback if ATR sizing gives too many shares
+    "position_2_pct":               0.30,   # Fallback secondary
     "idle_reserve":                 3000,   # Psychological buffer — don't deploy all
     "max_positions":                2,      # Max concurrent delivery positions
+    "risk_per_trade_pct":           0.05,   # ATR risk sizing: risk 5% of capital per trade (₹500)
 }
 
 # ---------------------------------------------------------------------------
@@ -186,6 +219,10 @@ EXIT_RULES = {
     "profit_target_pct":         0.04,   # 4% take-profit
     "stop_loss_atr_multiplier":  1.5,    # Stop = Entry − (1.5 × ATR14)
     "max_hold_days":             10,     # Flag for review after 10 trading days
+    # ── Partial exit + trailing stop (new) ─────────────────────────────────
+    "partial_exit_pct":          0.03,   # Sell half at +3% for ETFs (shorter hold)
+    "partial_exit_fraction":     0.50,   # Fraction of shares to sell
+    "trailing_stop_trigger_pct": 0.02,   # Move stop to breakeven at +2% for ETFs
 }
 
 # ── MODE B: STOCK DELIVERY — EXIT RULES ──────────────────────────────────
@@ -196,6 +233,10 @@ STOCK_EXIT_RULES = {
     "stop_loss_atr_multiplier":  2.5,    # Wider stop — avoid noise shakeouts
     "max_hold_days":             20,     # Review after 20 trading days (~4 weeks)
     "review_hold_days":          15,     # Soft review flag at 15 days
+    # ── Partial exit + trailing stop (new) ─────────────────────────────────
+    "partial_exit_pct":          0.05,   # Sell half at +5% profit
+    "partial_exit_fraction":     0.50,   # Fraction of shares to sell (50%)
+    "trailing_stop_trigger_pct": 0.04,   # Move stop to breakeven at +4%
 }
 
 # ---------------------------------------------------------------------------

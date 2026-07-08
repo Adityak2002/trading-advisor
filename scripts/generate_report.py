@@ -114,10 +114,16 @@ def process_open_positions(
     """
     Returns (still_open, closed_today).
     Mutates position dicts with current_price, current_pnl, etc.
+    Handles: target hit, stop hit, time exit, partial exit, trailing stop.
     """
     exit_rules   = cfg["exit_rules"]
     still_open   = []
     closed_today = []
+
+    # Partial exit + trailing stop config
+    partial_exit_pct      = exit_rules.get("partial_exit_pct", 0)
+    partial_exit_fraction  = exit_rules.get("partial_exit_fraction", 0.50)
+    trailing_trigger_pct   = exit_rules.get("trailing_stop_trigger_pct", 0)
 
     for pos in positions:
         if pos.get("status") != "open":
@@ -141,6 +147,62 @@ def process_open_positions(
             ((pos["target_price"] - current_price) / current_price) * 100, 3)
         pos["pct_to_stop"]   = round(
             ((current_price - pos["stop_price"])   / current_price) * 100, 3)
+
+        # ── Trailing stop: move stop to breakeven at +4% (stock) / +2% (ETF) ──
+        if trailing_trigger_pct > 0 and pnl_pct >= (trailing_trigger_pct * 100):
+            if pos["stop_price"] < pos["entry_price"]:
+                old_stop = pos["stop_price"]
+                pos["stop_price"] = pos["entry_price"]
+                pos["trailing_stop_active"] = True
+                logger.info(
+                    f"  TRAILING STOP ↑ {ticker}: stop moved from "
+                    f"₹{old_stop:.2f} → ₹{pos['entry_price']:.2f} (breakeven)"
+                )
+
+        # ── Partial exit: sell half at +5% (stock) / +3% (ETF) ────────────────
+        if (partial_exit_pct > 0 and
+                not pos.get("partial_exit_taken") and
+                pnl_pct >= (partial_exit_pct * 100) and
+                pos["shares"] >= 2):
+            shares_to_sell = max(1, int(pos["shares"] * partial_exit_fraction))
+            partial_pnl = (current_price - pos["entry_price"]) * shares_to_sell
+            partial_pnl_pct = pnl_pct
+
+            # Record partial exit in history
+            partial_trade = {
+                "instrument":       ticker,
+                "entry_date":       pos["entry_date"],
+                "entry_price":      pos["entry_price"],
+                "exit_date":        today_str,
+                "exit_price":       current_price,
+                "shares":           shares_to_sell,
+                "capital_deployed": round(pos["entry_price"] * shares_to_sell, 2),
+                "gross_pnl":        round(partial_pnl, 2),
+                "pnl_pct":          round(partial_pnl_pct, 3),
+                "exit_reason":      "PARTIAL_EXIT",
+            }
+            append_to_history(partial_trade, cfg["history_file"])
+
+            pos["shares"] -= shares_to_sell
+            pos["capital_deployed"] = round(pos["entry_price"] * pos["shares"], 2)
+            pos["partial_exit_taken"] = True
+            pos["partial_shares_sold"] = shares_to_sell
+            pos["partial_pnl_booked"] = round(partial_pnl, 2)
+
+            # Also move stop to breakeven after partial exit
+            if pos["stop_price"] < pos["entry_price"]:
+                pos["stop_price"] = pos["entry_price"]
+                pos["trailing_stop_active"] = True
+
+            logger.info(
+                f"  PARTIAL EXIT {ticker}: sold {shares_to_sell} shares "
+                f"@ ₹{current_price:.2f} | Booked P&L: ₹{partial_pnl:+.2f} | "
+                f"Remaining: {pos['shares']} shares with stop at breakeven"
+            )
+
+        # Recompute P&L with updated shares
+        pnl = (current_price - pos["entry_price"]) * pos["shares"]
+        pos["current_pnl"] = round(pnl, 2)
 
         exit_reason: Optional[str] = None
         review_days = exit_rules.get("review_hold_days", exit_rules["max_hold_days"])
@@ -245,30 +307,38 @@ def get_entry_candidates(
         current_price = sig["current_price"]
         atr14         = sig["atr14"]
 
-        # Capital allocation
-        if slots_to_fill >= 2 and len(candidates) == 0:
-            allocated = available * pos_sizing.get("position_1_pct", 0.60) * vix_factor
-        elif slots_to_fill == 1 and len(candidates) == 0:
-            allocated = available * vix_factor
+        # ── ATR-based risk sizing (new) ────────────────────────────────────
+        # "I'm willing to risk ₹X per trade" → work backwards from stop distance
+        risk_pct_per_trade = pos_sizing.get("risk_per_trade_pct", 0.05)
+        risk_budget = pos_sizing["total_capital"] * risk_pct_per_trade * vix_factor
+        stop_mult   = exit_rules["stop_loss_atr_multiplier"]
+        stop_distance = stop_mult * atr14
+
+        if stop_distance > 0:
+            atr_shares = int(risk_budget / stop_distance)
         else:
-            allocated = available * pos_sizing.get("position_2_pct", 0.40) * vix_factor
+            atr_shares = 0
+
+        # Capital cap — don't exceed available capital
+        max_shares_by_capital = int(available / current_price) if current_price > 0 else 0
+        shares = min(atr_shares, max_shares_by_capital)
 
         # ETF-only: cap crude exposure
         if mode == "etf" and ticker == "OILIETF.NS":
-            allocated = min(allocated, pos_sizing.get("max_crude_allocation", 3000) * vix_factor)
+            crude_cap = pos_sizing.get("max_crude_allocation", 3000) * vix_factor
+            max_crude_shares = int(crude_cap / current_price)
+            shares = min(shares, max_crude_shares)
 
-        shares = int(allocated / current_price)
         if shares < 1:
             continue
 
         actual_deploy = shares * current_price
         profit_pct    = exit_rules["profit_target_pct"]
-        stop_mult     = exit_rules["stop_loss_atr_multiplier"]
 
         target_price = round(current_price * (1 + profit_pct), 4)
-        stop_price   = round(current_price - stop_mult * atr14, 4)
-        risk_amt     = round((current_price - stop_price) * shares, 2)
-        risk_pct     = round(((current_price - stop_price) / current_price) * 100, 3)
+        stop_price   = round(current_price - stop_distance, 4)
+        risk_amt     = round(stop_distance * shares, 2)
+        risk_pct     = round((stop_distance / current_price) * 100, 3)
 
         candidates.append({
             "ticker":            ticker,
@@ -282,6 +352,7 @@ def get_entry_candidates(
             "atr14":             atr14,
             "risk_amount":       risk_amt,
             "risk_pct":          risk_pct,
+            "risk_budget":       round(risk_budget, 2),
             "vix_factor":        vix_factor,
             "entry_conditions":  item["entry_conditions"],
             "component_scores":  item["component_scores"],
@@ -356,6 +427,8 @@ def _stock_entry_checklist(cand: dict, sig: dict) -> list[str]:
         f"- {'✅' if ec['price_near_ema21'] else '❌'} Price within 4% of EMA21 &nbsp; *(distance: {dist_pct:+.2f}%)*",
         f"- {'✅' if ec['volume_calm'] else '❌'} Volume Z-score ≤ 2.0 (calm pullback) &nbsp; *(actual: {sig['volume_zscore']:.2f})*",
         f"- {'✅' if ec['score_sufficient'] else '❌'} Composite score ≥ 50 &nbsp; *(actual: {cand['composite_score']:.1f})*",
+        f"- {'✅' if ec.get('nifty_trend_ok', True) else '❌'} Nifty above 20-EMA (market trend gate)",
+        f"- {'✅' if ec.get('sector_strength_ok', True) else '❌'} Sector not underperforming Nifty by >3%",
     ]
 
 
@@ -486,15 +559,26 @@ def build_report(
                     f"Consider exiting before capital becomes stale.")
                 add("")
 
+            # Show partial exit and trailing stop status
+            if pos.get("partial_exit_taken"):
+                add(f"> ✅ **Partial profit booked:** Sold {pos.get('partial_shares_sold', '?')} shares, "
+                    f"locked in ₹{pos.get('partial_pnl_booked', 0):+,.2f}. "
+                    f"Remaining {pos['shares']} shares riding with stop at breakeven.")
+                add("")
+            if pos.get("trailing_stop_active") and not pos.get("partial_exit_taken"):
+                add(f"> 🛡️ **Trailing stop active:** Stop moved to breakeven (₹{pos['entry_price']:,.4f}). "
+                    f"This trade can no longer lose money.")
+                add("")
+
             add("| Field | Value |")
             add("|-------|-------|")
             add(f"| Entry Date | {pos['entry_date']} |")
             add(f"| Entry Price | ₹{pos['entry_price']:,.4f} |")
             add(f"| Current Price | ₹{pos.get('current_price', '?'):,.4f} |")
-            add(f"| Shares | {pos['shares']} |")
+            add(f"| Shares | {pos['shares']}{' (after partial exit)' if pos.get('partial_exit_taken') else ''} |")
             add(f"| Capital Deployed | ₹{pos['capital_deployed']:,.2f} |")
             add(f"| 🎯 Target (+{profit_pct}%) | **₹{pos['target_price']:,.4f}** |")
-            add(f"| 🛑 Stop-Loss | **₹{pos['stop_price']:,.4f}** |")
+            add(f"| 🛑 Stop-Loss | **₹{pos['stop_price']:,.4f}**{' (🟢 breakeven)' if pos.get('trailing_stop_active') else ''} |")
             add(f"| P&L | {pnl_em} **₹{pnl:+,.2f} ({pnl_pct:+.2f}%)** |")
             add(f"| Distance to Target | {pos.get('pct_to_target', 0):.2f}% remaining |")
             add(f"| Distance to Stop | {pos.get('pct_to_stop', 0):.2f}% buffer |")
@@ -536,6 +620,7 @@ def build_report(
             add(f"| 🛑 **Stop-Loss ({exit_rules['stop_loss_atr_multiplier']}×ATR)** | **₹{cand['stop_price']:,.4f}** |")
             add(f"| ATR(14) | ₹{cand['atr14']:.4f} |")
             add(f"| Max Risk (if stop hit) | ₹{cand['risk_amount']:,.2f} ({cand['risk_pct']:.2f}% of deployed) |")
+            add(f"| Risk Budget (ATR-sized) | ₹{cand.get('risk_budget', 0):,.2f} |")
             if mode == "stock":
                 hold_hint = f"~{exit_rules['max_hold_days']} trading days (~4 weeks)"
                 add(f"| Expected Hold Period | {hold_hint} |")
@@ -563,7 +648,7 @@ def build_report(
 
             # Entry checklist
             if mode == "stock":
-                add("**Entry Checklist** *(all 5 must be ✅)*")
+                add("**Entry Checklist** *(all 7 must be ✅)*")
                 add("")
                 for line in _stock_entry_checklist(cand, sig):
                     add(line)
@@ -613,6 +698,10 @@ def build_report(
                         reasons.append(f"Price {dist:+.1f}% from EMA21 (need ±4%)")
                     if not ec.get("volume_calm"):
                         reasons.append(f"VolZ={sig.get('volume_zscore',0):.1f} (need ≤2.0)")
+                    if not ec.get("nifty_trend_ok", True):
+                        reasons.append("Nifty below 20-EMA ❌")
+                    if not ec.get("sector_strength_ok", True):
+                        reasons.append("Sector underperforming ❌")
                 else:
                     if not ec.get("rsi_oversold"):
                         reasons.append(f"RSI={sig.get('rsi',0):.0f} (need <38)")

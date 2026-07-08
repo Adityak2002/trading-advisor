@@ -26,6 +26,7 @@ from config import (
     MACRO_CACHE, NEWS_CACHE,
     WATCHLIST, STOCK_DELIVERY_WATCHLIST,
     VIX_THRESHOLDS,
+    STOCK_SECTOR_MAP, SECTOR_UNDERPERFORM_THRESHOLD,
 )
 
 logging.basicConfig(
@@ -253,6 +254,22 @@ def compute_composite(
 
         # ── Entry conditions for stock delivery ──────────────────────────────
         rsi_val = sig["rsi"]
+
+        # Nifty 20-EMA hard gate
+        nifty_trend_ok = True
+        if entry_rules.get("require_nifty_trend", False):
+            nifty_trend_ok = macro_data.get("_signal", {}).get("nifty_above_ema20", True)
+
+        # Sector relative strength gate
+        sector_ok = True
+        if entry_rules.get("require_sector_strength", False):
+            sector_key = STOCK_SECTOR_MAP.get(ticker)
+            if sector_key and sector_key != "nifty":
+                sector_data = macro_data.get("_sector_data", {})
+                sdata = sector_data.get(sector_key)
+                if sdata and "relative_to_nifty" in sdata:
+                    sector_ok = sdata["relative_to_nifty"] >= SECTOR_UNDERPERFORM_THRESHOLD
+
         entry_conditions = {
             "rsi_pullback_zone": (
                 entry_rules.get("rsi_pullback_min", 42) <= rsi_val <=
@@ -262,6 +279,8 @@ def compute_composite(
             "price_near_ema21":   sig.get("price_near_ema21", False),
             "volume_calm":        sig["volume_zscore"] <= entry_rules.get("volume_zscore_max", 2.0),
             "score_sufficient":   composite >= entry_rules.get("min_composite_score", 50),
+            "nifty_trend_ok":     nifty_trend_ok,
+            "sector_strength_ok": sector_ok,
         }
 
         component_scores = {

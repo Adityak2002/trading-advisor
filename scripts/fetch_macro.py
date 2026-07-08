@@ -15,7 +15,8 @@ import logging
 from datetime import datetime
 
 from config import (
-    MACRO_TICKERS, NEWS_FEEDS, POSITIVE_KEYWORDS, NEGATIVE_KEYWORDS,
+    MACRO_TICKERS, SECTOR_TICKERS, NEWS_FEEDS,
+    POSITIVE_KEYWORDS, NEGATIVE_KEYWORDS,
     WATCHLIST, STOCK_DELIVERY_WATCHLIST,
     MACRO_CACHE, NEWS_CACHE, CACHE_DIR, VIX_THRESHOLDS
 )
@@ -38,8 +39,10 @@ def fetch_macro_data() -> dict:
 
     for name, ticker in MACRO_TICKERS.items():
         try:
+            # Use longer period for Nifty to compute 20-EMA trend gate
+            period = "2mo" if name == "nifty" else "5d"
             df = yf.download(
-                ticker, period="5d", interval="1d",
+                ticker, period=period, interval="1d",
                 auto_adjust=True, progress=False, threads=False
             )
             if isinstance(df.columns, type(df.columns)) and hasattr(df.columns, "levels"):
@@ -51,13 +54,29 @@ def fetch_macro_data() -> dict:
                 prev    = float(df["Close"].iloc[-2])
                 pct_chg = ((latest - prev) / prev) * 100
 
-                macro[name] = {
+                entry = {
                     "ticker":     ticker,
                     "current":    round(latest, 4),
                     "prev_close": round(prev, 4),
                     "pct_change": round(pct_chg, 3),
                     "trend":      "up" if pct_chg >= 0 else "down",
                 }
+
+                # Nifty-specific: compute 20-EMA and 20-day return for trend gate
+                if name == "nifty" and len(df) >= 22:
+                    ema20 = float(df["Close"].ewm(span=20, adjust=False).mean().iloc[-1])
+                    nifty_20d_ago = float(df["Close"].iloc[-21]) if len(df) >= 21 else latest
+                    nifty_20d_return = ((latest - nifty_20d_ago) / nifty_20d_ago) * 100
+                    entry["ema20"] = round(ema20, 4)
+                    entry["above_ema20"] = latest > ema20
+                    entry["return_20d"] = round(nifty_20d_return, 3)
+                    logger.info(
+                        f"  ⮞ Nifty 20-EMA: {ema20:.2f} | "
+                        f"{'ABOVE ✅' if latest > ema20 else 'BELOW ❌'} | "
+                        f"20d return: {nifty_20d_return:+.2f}%"
+                    )
+
+                macro[name] = entry
                 logger.info(
                     f"  ✓ {name:<12} ({ticker}): "
                     f"{latest:.2f} ({pct_chg:+.2f}%)"
@@ -165,12 +184,18 @@ def compute_macro_signal(macro: dict) -> dict:
     else:
         summary = "🔴 Bearish — Avoid new entries; protect open positions"
 
+    # Nifty trend gate flag
+    nifty_above_ema20 = True  # default: don't block if data unavailable
+    if macro.get("nifty") and "above_ema20" in macro["nifty"]:
+        nifty_above_ema20 = macro["nifty"]["above_ema20"]
+
     return {
-        "score":      round(score, 3),
-        "vix_factor": vix_factor,
-        "summary":    summary,
-        "factors":    factors,
-        "timestamp":  datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "score":             round(score, 3),
+        "vix_factor":        vix_factor,
+        "summary":           summary,
+        "factors":           factors,
+        "nifty_above_ema20": nifty_above_ema20,
+        "timestamp":         datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
     }
 
 
@@ -260,6 +285,55 @@ def compute_news_sentiment(headlines: list[str]) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# SECTOR RELATIVE STRENGTH
+# ---------------------------------------------------------------------------
+
+def fetch_sector_data() -> dict:
+    """
+    Fetch sector indices (Bank Nifty, Nifty IT) with 2-month history.
+    Compute 20-day return for each sector and for Nifty.
+    Returns dict with sector_name -> {return_20d, relative_to_nifty}.
+    """
+    sector_data = {}
+
+    # Get Nifty's 20-day return from macro cache if available
+    nifty_20d_return = 0.0
+
+    for name, ticker in SECTOR_TICKERS.items():
+        try:
+            df = yf.download(
+                ticker, period="2mo", interval="1d",
+                auto_adjust=True, progress=False, threads=False
+            )
+            if isinstance(df.columns, type(df.columns)) and hasattr(df.columns, "levels"):
+                df.columns = df.columns.get_level_values(0)
+
+            df = df.dropna()
+            if len(df) >= 21:
+                latest = float(df["Close"].iloc[-1])
+                d20_ago = float(df["Close"].iloc[-21])
+                ret_20d = ((latest - d20_ago) / d20_ago) * 100
+
+                sector_data[name] = {
+                    "ticker":     ticker,
+                    "current":    round(latest, 4),
+                    "return_20d": round(ret_20d, 3),
+                }
+                logger.info(
+                    f"  ✓ Sector {name:<12} ({ticker}): "
+                    f"{latest:.2f} | 20d return: {ret_20d:+.2f}%"
+                )
+            else:
+                logger.warning(f"  ✗ Sector {name}: insufficient data ({len(df)} rows)")
+                sector_data[name] = None
+        except Exception as e:
+            logger.error(f"  ✗ Sector {name} ({ticker}): {e}")
+            sector_data[name] = None
+
+    return sector_data
+
+
+# ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
 
@@ -272,9 +346,30 @@ def main():
     signal = compute_macro_signal(macro)
     macro["_signal"] = signal
 
+    # ── Sector indices (for relative strength gate) ────────────────────────
+    logger.info("Fetching sector index data ...")
+    sector_data = fetch_sector_data()
+
+    # Compute relative strength vs Nifty for each sector
+    nifty_20d = 0.0
+    if macro.get("nifty") and "return_20d" in macro["nifty"]:
+        nifty_20d = macro["nifty"]["return_20d"]
+
+    for name, sdata in sector_data.items():
+        if sdata:
+            relative = round(sdata["return_20d"] - nifty_20d, 3)
+            sdata["relative_to_nifty"] = relative
+            emoji = "✅" if relative >= -3.0 else "❌"
+            logger.info(
+                f"  ⮞ {name}: {sdata['return_20d']:+.2f}% vs Nifty {nifty_20d:+.2f}% "
+                f"→ relative {relative:+.2f}% {emoji}"
+            )
+
+    macro["_sector_data"] = sector_data
+
     with open(MACRO_CACHE, "w") as f:
         json.dump(macro, f, indent=2)
-    logger.info(f"Macro data saved → {MACRO_CACHE}")
+    logger.info(f"Macro + sector data saved → {MACRO_CACHE}")
 
     # ── News ────────────────────────────────────────────────────────────────
     logger.info("Fetching news headlines ...")
@@ -289,11 +384,12 @@ def main():
     print(f"\n{'='*55}")
     print(f"  MACRO SIGNAL  : {signal['summary']}")
     print(f"  VIX Factor    : {signal['vix_factor']} (sizing multiplier)")
+    print(f"  Nifty > EMA20 : {'YES ✅' if signal.get('nifty_above_ema20', True) else 'NO ❌ (entries suppressed)'}")
     print(f"  Headlines     : {len(headlines)} fetched")
     print(f"  Market Sent   : {news['market_sentiment']:+.2f}")
     print(f"{'='*55}\n")
-    for f in signal["factors"]:
-        print(f"  • {f}")
+    for f_item in signal["factors"]:
+        print(f"  • {f_item}")
     print()
 
 
