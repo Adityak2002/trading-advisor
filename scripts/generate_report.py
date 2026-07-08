@@ -13,6 +13,7 @@
 
 import sys
 import os
+import shutil
 sys.path.insert(0, os.path.dirname(__file__))
 
 import argparse
@@ -862,7 +863,14 @@ def main():
     with open(cfg["report_file"], "w", encoding="utf-8") as f:
         f.write(report)
 
+    # Archive a copy into a date-based folder
+    dated_dir = os.path.join(REPORTS_DIR, today_str)
+    os.makedirs(dated_dir, exist_ok=True)
+    archived_file = os.path.join(dated_dir, os.path.basename(cfg["report_file"]))
+    shutil.copy2(cfg["report_file"], archived_file)
+
     logger.info(f"Report written → {cfg['report_file']}")
+    logger.info(f"Report archived → {archived_file}")
 
     print(f"\n{'='*60}")
     print(f"  MODE             : {cfg['label']}")
