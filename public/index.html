@@ -28,33 +28,16 @@
         </header>
 
         <main class="main-content">
-            <!-- Sidebar for controls -->
+            <!-- Left Sidebar -->
             <aside class="sidebar">
                 <nav class="nav-tabs">
                     <button class="tab-btn active" data-mode="stock">Stock Delivery</button>
                     <button class="tab-btn" data-mode="etf">ETF Swing</button>
                 </nav>
-                
-                <div class="ai-card">
-                    <div class="ai-card-header">
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-                        <h3>Gemini Analysis</h3>
-                    </div>
-                    <p class="ai-desc">Get an AI-generated summary and actionable insights for the current report.</p>
-                    <button id="analyze-btn" class="btn btn-primary w-full">Generate Insights</button>
-                </div>
             </aside>
 
-            <!-- Main report viewing area -->
+            <!-- Middle: Report Viewing Area -->
             <section class="report-view">
-                <div id="ai-insights-container" class="insights-container hidden">
-                    <div class="insights-header">
-                        <h4>✨ AI Insights</h4>
-                        <button id="close-insights" class="btn-icon">×</button>
-                    </div>
-                    <div id="insights-content" class="markdown-body loading">Analyzing...</div>
-                </div>
-
                 <div class="report-header">
                     <h2 id="report-title">Loading Report...</h2>
                     <span id="report-timestamp" class="timestamp"></span>
@@ -64,6 +47,33 @@
                     <!-- Markdown will be rendered here -->
                 </div>
             </section>
+
+            <!-- Right Sidebar: Gemini Chat -->
+            <aside class="chat-sidebar">
+                <div class="chat-header">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    <h3>Gemini Chat</h3>
+                </div>
+                
+                <div class="chat-history" id="chat-history">
+                    <div class="chat-message assistant">
+                        <div class="message-bubble markdown-body">
+                            <p>Hi! I'm ready to answer any questions about the current report. Or, click below to generate a quick summary!</p>
+                            <button id="quick-summary-btn" class="btn btn-primary" style="margin-top: 10px;">Generate Summary</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-input-area">
+                    <textarea id="chat-input" placeholder="Ask about the report..." rows="1"></textarea>
+                    <button id="send-btn" class="btn-icon">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+            </aside>
         </main>
     </div>
 

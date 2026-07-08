@@ -1,28 +1,29 @@
 document.addEventListener('DOMContentLoaded', () => {
     const tabBtns = document.querySelectorAll('.tab-btn');
     const triggerBtn = document.getElementById('trigger-btn');
-    const analyzeBtn = document.getElementById('analyze-btn');
     const reportContent = document.getElementById('report-content');
     const reportTitle = document.getElementById('report-title');
     const reportTimestamp = document.getElementById('report-timestamp');
     
-    const insightsContainer = document.getElementById('ai-insights-container');
-    const insightsContent = document.getElementById('insights-content');
-    const closeInsightsBtn = document.getElementById('close-insights');
+    // Chat DOM Elements
+    const chatHistoryEl = document.getElementById('chat-history');
+    const chatInput = document.getElementById('chat-input');
+    const sendBtn = document.getElementById('send-btn');
+    const quickSummaryBtn = document.getElementById('quick-summary-btn');
 
     let currentMode = 'stock';
     let currentReportText = '';
+    let chatHistory = [];
 
-    // Initialize Markdown parser options
-    marked.setOptions({
-        breaks: true,
-        gfm: true
-    });
+    // Initialize Markdown parser
+    marked.setOptions({ breaks: true, gfm: true });
 
     // Fetch report
     async function fetchReport(mode) {
         reportContent.innerHTML = '<p style="color: var(--text-muted);">Fetching latest report...</p>';
-        
+        chatHistory = []; // Reset chat on tab switch
+        resetChatUI();
+
         try {
             const res = await fetch(`/api/report?mode=${mode}`);
             if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
@@ -30,21 +31,16 @@ document.addEventListener('DOMContentLoaded', () => {
             const text = await res.text();
             currentReportText = text;
             
-            // Extract title and render markdown
             const lines = text.split('\n');
             let title = mode === 'stock' ? 'Stock Delivery Report' : 'ETF Swing Report';
-            
-            // Try to grab the first H1
             const h1Index = lines.findIndex(l => l.startsWith('# '));
             if (h1Index !== -1) {
                 title = lines[h1Index].replace('# ', '').trim();
-                lines.splice(h1Index, 1); // Remove title from body
+                lines.splice(h1Index, 1);
             }
 
             reportTitle.textContent = title;
             reportTimestamp.textContent = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
-            
-            // Parse remaining markdown
             reportContent.innerHTML = marked.parse(lines.join('\n'));
             
         } catch (error) {
@@ -61,8 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             const res = await fetch(`/api/trigger?mode=${currentMode}`);
             if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-            
-            alert(`✅ ${currentMode.toUpperCase()} Workflow triggered successfully!\nIt will take about 2-3 minutes to run. The report will update automatically on refresh.`);
+            alert(`✅ Workflow triggered successfully!\nIt will take about 2-3 minutes. Refresh later.`);
         } catch (error) {
             alert(`❌ Error triggering workflow: ${error.message}`);
         } finally {
@@ -71,40 +66,102 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Generate AI Insights
-    analyzeBtn.addEventListener('click', async () => {
-        if (!currentReportText) {
-            alert("Please wait for the report to load first.");
-            return;
-        }
+    // --- Chat Logic ---
 
-        analyzeBtn.disabled = true;
-        analyzeBtn.textContent = 'Analyzing...';
-        insightsContainer.classList.remove('hidden');
-        insightsContent.innerHTML = '<p>Gemini is reading the report...</p>';
+    function resetChatUI() {
+        chatHistoryEl.innerHTML = `
+            <div class="chat-message assistant">
+                <div class="message-bubble markdown-body">
+                    <p>Hi! I'm ready to answer any questions about the current report. Or, click below to generate a quick summary!</p>
+                    <button id="quick-summary-btn" class="btn btn-primary" style="margin-top: 10px;">Generate Summary</button>
+                </div>
+            </div>
+        `;
+        document.getElementById('quick-summary-btn').addEventListener('click', () => {
+            sendChatMessage("Provide a concise, high-level summary of the market context, top entry candidates, and any critical warnings or exits. Format your response in clean markdown with bullet points. Keep it punchy and actionable.");
+        });
+    }
+
+    function appendMessage(role, text) {
+        const msgDiv = document.createElement('div');
+        msgDiv.className = `chat-message ${role}`;
+        
+        const bubble = document.createElement('div');
+        bubble.className = 'message-bubble markdown-body';
+        
+        if (role === 'assistant') {
+            bubble.innerHTML = marked.parse(text);
+        } else {
+            bubble.textContent = text; // Plain text for user input
+        }
+        
+        msgDiv.appendChild(bubble);
+        chatHistoryEl.appendChild(msgDiv);
+        chatHistoryEl.scrollTop = chatHistoryEl.scrollHeight;
+        
+        return bubble;
+    }
+
+    async function sendChatMessage(text) {
+        if (!text.trim() || !currentReportText) return;
+
+        // Hide quick summary button if it exists
+        const qBtn = document.getElementById('quick-summary-btn');
+        if (qBtn) qBtn.style.display = 'none';
+
+        // Add user message to UI and history
+        appendMessage('user', text);
+        chatHistory.push({ role: 'user', parts: [{ text }] });
+        
+        chatInput.value = '';
+        sendBtn.disabled = true;
+        chatInput.disabled = true;
+
+        // Add loading bubble
+        const loadingBubble = appendMessage('assistant', '...');
 
         try {
             const res = await fetch('/api/analyze', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ reportText: currentReportText })
+                body: JSON.stringify({ 
+                    reportText: currentReportText,
+                    messages: chatHistory 
+                })
             });
             
             const data = await res.json();
             
-            if (!res.ok) throw new Error(data.error || 'Failed to generate insights');
+            if (!res.ok) throw new Error(data.error || 'Failed to generate response');
             
-            insightsContent.innerHTML = marked.parse(data.insights);
+            // Remove loading bubble
+            chatHistoryEl.lastChild.remove();
+            
+            // Add AI response
+            appendMessage('assistant', data.reply);
+            chatHistory.push({ role: 'model', parts: [{ text: data.reply }] });
+
         } catch (error) {
-            insightsContent.innerHTML = `<p style="color: var(--danger);">Error: ${error.message}</p><p style="font-size: 0.8rem; color: var(--text-muted);">Ensure GEMINI_API_KEY is set in Vercel environment variables.</p>`;
+            chatHistoryEl.lastChild.remove();
+            appendMessage('assistant', `**Error:** ${error.message}`);
+            // Remove the failed user message from history so they can retry
+            chatHistory.pop();
         } finally {
-            analyzeBtn.disabled = false;
-            analyzeBtn.textContent = 'Generate Insights';
+            sendBtn.disabled = false;
+            chatInput.disabled = false;
+            chatInput.focus();
         }
+    }
+
+    sendBtn.addEventListener('click', () => {
+        sendChatMessage(chatInput.value);
     });
 
-    closeInsightsBtn.addEventListener('click', () => {
-        insightsContainer.classList.add('hidden');
+    chatInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendChatMessage(chatInput.value);
+        }
     });
 
     // Handle Tabs
@@ -114,7 +171,6 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.classList.add('active');
             
             currentMode = btn.dataset.mode;
-            insightsContainer.classList.add('hidden');
             fetchReport(currentMode);
         });
     });
