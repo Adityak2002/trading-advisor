@@ -1,0 +1,85 @@
+name: ETF Daily Report
+
+on:
+  schedule:
+    # 3:00 AM UTC = 8:30 AM IST (Mon–Fri)
+    - cron: '00 3 * * 1-5'
+
+  # ── Manual trigger ─────────────────────────────────────────────────────────
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual run (e.g. testing, holiday makeup)'
+        required: false
+        default: 'Manual trigger'
+
+permissions:
+  contents: write   # Required to push the updated report back
+
+jobs:
+  generate-etf-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Python setup ──────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ──────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Create required directories ──────────────────────────────────────
+      - name: Create directories
+        run: |
+          mkdir -p data/cache reports
+
+      # ── 5. Pipeline — ETF mode ───────────────────────────────────────────────
+      - name: Step 1 — Fetch ETF price data
+        run: python scripts/fetch_data.py --mode etf
+
+      - name: Step 2 — Fetch macro & news
+        run: python scripts/fetch_macro.py
+
+      - name: Step 3 — Compute ETF technical signals
+        run: python scripts/signals.py --mode etf
+
+      - name: Step 4 — Score and rank ETF instruments
+        run: python scripts/score.py --mode etf
+
+      - name: Step 5 — Generate ETF daily report
+        run: python scripts/generate_report.py --mode etf
+
+      # ── 6. Commit and push updated files ─────────────────────────────────────
+      - name: Commit ETF report and state files
+        run: |
+          git config --global user.name  "Trading Advisory Bot"
+          git config --global user.email "trading-bot@users.noreply.github.com"
+
+          git add reports/etf_report.md
+          git add data/positions_etf.json
+          git add data/history_etf.csv || true   # OK if not created yet
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit — report unchanged."
+          else
+            DATE=$(date +'%Y-%m-%d %H:%M IST')
+            git commit -m "📊 ETF report: ${DATE}"
+            git push
+            echo "ETF report pushed successfully."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

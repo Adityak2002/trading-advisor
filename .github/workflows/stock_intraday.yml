@@ -1,0 +1,89 @@
+name: Stock Delivery Report
+
+on:
+  schedule:
+    # Every 2 hours during NSE market hours (Mon–Fri)
+    # 4:00, 6:00, 8:00, 10:00 UTC = 9:30, 11:30, 13:30, 15:30 IST
+    - cron: '0 4 * * 1-5'
+    - cron: '0 6 * * 1-5'
+    - cron: '0 8 * * 1-5'
+    - cron: '0 10 * * 1-5'
+
+  # ── Manual trigger ─────────────────────────────────────────────────────────
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual run (e.g. testing, midday check)'
+        required: false
+        default: 'Manual trigger'
+
+permissions:
+  contents: write   # Required to push the updated report back
+
+jobs:
+  generate-stock-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Python setup ──────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ──────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Create required directories ──────────────────────────────────────
+      - name: Create directories
+        run: |
+          mkdir -p data/cache reports
+
+      # ── 5. Pipeline — Stock delivery mode ────────────────────────────────────
+      - name: Step 1 — Fetch stock price data
+        run: python scripts/fetch_data.py --mode stock
+
+      - name: Step 2 — Fetch macro & news (shared with ETF)
+        run: python scripts/fetch_macro.py
+
+      - name: Step 3 — Compute stock delivery signals
+        run: python scripts/signals.py --mode stock
+
+      - name: Step 4 — Score and rank stocks (momentum pullback)
+        run: python scripts/score.py --mode stock
+
+      - name: Step 5 — Generate stock delivery report
+        run: python scripts/generate_report.py --mode stock
+
+      # ── 6. Commit and push updated files ─────────────────────────────────────
+      - name: Commit stock report and state files
+        run: |
+          git config --global user.name  "Trading Advisory Bot"
+          git config --global user.email "trading-bot@users.noreply.github.com"
+
+          git add reports/stock_report.md
+          git add data/positions_stock.json
+          git add data/history_stock.csv || true   # OK if not created yet
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit — report unchanged."
+          else
+            TIME=$(date +'%Y-%m-%d %H:%M IST')
+            git commit -m "📈 Stock report: ${TIME}"
+            git push
+            echo "Stock report pushed successfully."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
