@@ -1,28 +1,28 @@
 # 📈 Stock Delivery Report — 2026-07-08
-> *Auto-generated at 08:53 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 09:06 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,896.95 | 📉 -2.06% |
-| India VIX | 14.79 | 📈 +26.95% |
+| Nifty 50 | 23,858.75 | 📉 -2.21% |
+| India VIX | 15.12 | 📈 +29.79% |
 | S&P 500 (overnight) | 7,503.85 | 📉 -0.45% |
 | NASDAQ | 25,818.69 | 📉 -1.16% |
-| WTI Crude Oil | $74.80 | 📈 +6.19% |
-| USD / INR | 95.5325 | 📉 -0.07% |
+| WTI Crude Oil | $74.76 | 📈 +6.13% |
+| USD / INR | 95.5670 | 📉 -0.04% |
 
 **Key Factors:**
-- VIX 14.8 — Low fear 🟢 (full sizing)
+- VIX 15.1 — Moderate 🟡 (70% sizing)
 - S&P 500 -0.45% — Neutral
 - NASDAQ -1.16% — Tech bearish
-- Nifty -2.06% — Domestic market bearish
-- WTI Crude $74.80 (+6.19%) — Bullish for OILIETF 📈
-- USD/INR 95.53 (-0.074%) — USD stable
+- Nifty -2.21% — Domestic market bearish
+- WTI Crude $74.76 (+6.13%) — Bullish for OILIETF 📈
+- USD/INR 95.57 (-0.038%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -45,43 +45,45 @@
 ## 🎯 Entry Candidates
 
 ### #1 — PIDILITIND.NS
-**Composite Score:** 78.8 / 100 &nbsp;|&nbsp; **Strategy:** Stock Delivery &nbsp;|&nbsp; **Category:** Quality Midcaps
+**Composite Score:** 77.2 / 100 &nbsp;|&nbsp; **Strategy:** Stock Delivery &nbsp;|&nbsp; **Category:** Quality Midcaps
+
+> ⚠️ Position sized at **70%** of normal due to elevated VIX
 
 | Field | Value |
 |-------|-------|
-| Current Price | ₹1,576.7000 |
-| 🟢 **Buy at (market/limit)** | **₹1,576.7000** |
-| **Shares to Buy** | **4** |
-| **Capital to Deploy** | **₹6,306.80** |
-| 🎯 **Target Price (+10%)** | **₹1,734.3700** |
-| 🛑 **Stop-Loss (2.5×ATR)** | **₹1,508.1285** |
-| ATR(14) | ₹27.4286 |
-| Max Risk (if stop hit) | ₹274.29 (4.35% of deployed) |
+| Current Price | ₹1,568.6000 |
+| 🟢 **Buy at (market/limit)** | **₹1,568.6000** |
+| **Shares to Buy** | **3** |
+| **Capital to Deploy** | **₹4,705.80** |
+| 🎯 **Target Price (+10%)** | **₹1,725.4600** |
+| 🛑 **Stop-Loss (2.5×ATR)** | **₹1,498.3500** |
+| ATR(14) | ₹28.1000 |
+| Max Risk (if stop hit) | ₹210.75 (4.48% of deployed) |
 | Expected Hold Period | ~20 trading days (~4 weeks) |
 
 **Signal Breakdown:**
 
 | Indicator | Raw Value | Signal |
 |-----------|-----------|--------|
-| RSI(14) | 48.7 | +1.000 |
+| RSI(14) | 46.4 | +1.000 |
 | EMA Trend | 🟢 EMA9>21 | +1.000 |
-| EMA21 Proximity | +0.32% from EMA21 🟢 | +1.000 |
-| Volume Z-score | -0.99 | +0.200 |
+| EMA21 Proximity | -0.15% from EMA21 🟢 | +1.000 |
+| Volume Z-score | -0.91 | +0.200 |
 | News Sentiment | — | +0.000 |
-| Macro Filter | — | +0.150 |
+| Macro Filter | — | -0.150 |
 
 **Entry Checklist** *(all 5 must be ✅)*
 
-- ✅ RSI in 42–55 (healthy pullback) &nbsp; *(actual: 48.7)*
-- ✅ EMA21 > EMA50 (medium uptrend intact) &nbsp; *(EMA21: ₹1,571.6665 | EMA50: ₹1,520.2500)*
-- ✅ Price within 4% of EMA21 &nbsp; *(distance: +0.32%)*
-- ✅ Volume Z-score ≤ 2.0 (calm pullback) &nbsp; *(actual: -0.99)*
-- ✅ Composite score ≥ 50 &nbsp; *(actual: 78.8)*
+- ✅ RSI in 42–55 (healthy pullback) &nbsp; *(actual: 46.4)*
+- ✅ EMA21 > EMA50 (medium uptrend intact) &nbsp; *(EMA21: ₹1,570.9301 | EMA50: ₹1,519.9323)*
+- ✅ Price within 4% of EMA21 &nbsp; *(distance: -0.15%)*
+- ✅ Volume Z-score ≤ 2.0 (calm pullback) &nbsp; *(actual: -0.91)*
+- ✅ Composite score ≥ 50 &nbsp; *(actual: 77.2)*
 
 > **Action on Groww:**
-> 1. Search `PIDILITIND` → Buy **4 shares** at market
-> 2. Immediately place GTT (Good-Till-Triggered) sell at **₹1,734.37** (target)
-> 3. Place Stop-Loss sell at **₹1,508.13**
+> 1. Search `PIDILITIND` → Buy **3 shares** at market
+> 2. Immediately place GTT (Good-Till-Triggered) sell at **₹1,725.46** (target)
+> 3. Place Stop-Loss sell at **₹1,498.35**
 > 4. Run `python scripts/update_position.py --mode stock` to record the trade
 
 ---
@@ -94,17 +96,17 @@
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | PIDILITIND.NS | 78.8 | 49 | 🟢 | ✅ | -1.0 | 🎯 ENTRY |
-| 2 | CDSL.NS | 66.8 | 40 | 🟢 | ✅ | -0.4 | 👀 Watch |
-| 3 | ANGELONE.NS | 51.2 | 34 | 🟢 | ✅ | 0.1 | 👀 Watch |
-| 4 | ICICIBANK.NS | 50.8 | 61 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 5 | HDFCBANK.NS | 46.8 | 63 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 6 | TITAN.NS | 34.2 | 66 | 🟢 | — | -0.4 | 👀 Watch |
-| 7 | BAJFINANCE.NS | 28.2 | 69 | 🟢 | ✅ | -0.8 | ⏸ Skip |
-| 8 | HAVELLS.NS | 22.2 | 53 | 🔴 | ✅ | 1.8 | ⏸ Skip |
-| 9 | KEI.NS | -36.2 | 22 | 🟢 | — | -0.5 | ⏸ Skip |
-| 10 | RELIANCE.NS | -65.2 | 35 | 🔴 | — | 0.4 | ⏸ Skip |
-| 11 | POLYCAB.NS | -77.2 | 33 | 🟢 | — | -0.6 | ⏸ Skip |
+| 1 | PIDILITIND.NS | 77.2 | 46 | 🟢 | ✅ | -0.9 | 🎯 ENTRY |
+| 2 | CDSL.NS | 65.2 | 39 | 🟢 | ✅ | -0.3 | 👀 Watch |
+| 3 | HDFCBANK.NS | 55.2 | 62 | 🟢 | ✅ | -0.4 | 👀 Watch |
+| 4 | ANGELONE.NS | 49.8 | 34 | 🟢 | ✅ | 0.3 | 👀 Watch |
+| 5 | ICICIBANK.NS | 49.2 | 60 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 6 | BAJFINANCE.NS | 39.2 | 68 | 🟢 | ✅ | -0.6 | 👀 Watch |
+| 7 | TITAN.NS | 32.8 | 66 | 🟢 | — | -0.3 | 👀 Watch |
+| 8 | HAVELLS.NS | 16.2 | 53 | 🔴 | ✅ | 2.3 | ⏸ Skip |
+| 9 | KEI.NS | -31.8 | 21 | 🟢 | — | -0.4 | ⏸ Skip |
+| 10 | RELIANCE.NS | -63.8 | 34 | 🔴 | — | 0.6 | ⏸ Skip |
+| 11 | POLYCAB.NS | -78.8 | 32 | 🟢 | — | -0.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -112,6 +114,6 @@
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-08 08:53 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-08 09:06 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
