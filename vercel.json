@@ -5,5 +5,9 @@
       "src": "api/*.js",
       "use": "@vercel/node"
     }
+  ],
+  "routes": [
+    { "src": "/api/report", "dest": "/api/report.js" },
+    { "src": "/api/trigger", "dest": "/api/trigger.js" }
   ]
 }
