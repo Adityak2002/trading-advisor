@@ -66,6 +66,20 @@ jobs:
       - name: Step 4 — Generate intraday report
         run: python scripts/generate_intraday_report.py
 
+      # ── 5. Send Email — Every 2 hours (even-hour UTC crons) or manual ─────────
+      # Fires at 04:00, 06:00, 08:00 UTC = 9:30, 11:30, 13:30 IST
+      - name: Step 5 — Send Email Notification (every 2 hours)
+        if: |
+          github.event.schedule == '0,30 4 * * 1-5' ||
+          github.event.schedule == '0,30 6 * * 1-5' ||
+          github.event.schedule == '0,30 8 * * 1-5' ||
+          github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: python scripts/send_email.py --mode intraday
+
       # ── 6. Commit and push updated report ────────────────────────────────────
       - name: Commit intraday report
         run: |

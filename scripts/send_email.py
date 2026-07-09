@@ -12,6 +12,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from config import get_mode_config
 
 # Config
+# Sender: adityapkulkarni3@gmail.com (set as EMAIL_SENDER in GitHub Secrets)
 RECIPIENTS = [
     'kulkarni.adi23@gmail.com',
     'amolbk3@gmail.com',
@@ -85,7 +86,7 @@ def send_email(subject: str, html_content: str, text_content: str):
 
 def main():
     parser = argparse.ArgumentParser(description="Send trading report via email with AI summary.")
-    parser.add_argument("--mode", choices=["etf", "stock"], default="etf", help="Which report to send.")
+    parser.add_argument("--mode", choices=["etf", "stock", "intraday"], default="etf", help="Which report to send.")
     args = parser.parse_args()
 
     cfg = get_mode_config(args.mode)
@@ -124,7 +125,10 @@ def main():
     </html>
     """
 
-    subject = f"[{mode_label}] Trading Advisor Report & AI Insights"
+    if args.mode == "intraday":
+        subject = f"[Intraday ORB] Trading Advisor Report & AI Insights"
+    else:
+        subject = f"[{mode_label}] Trading Advisor Report & AI Insights"
     
     send_email(subject, html_body, full_markdown)
 

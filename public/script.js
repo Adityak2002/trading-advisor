@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const tabBtns = document.querySelectorAll('.tab-btn');
     const triggerBtn = document.getElementById('trigger-btn');
+    const sendEmailBtn = document.getElementById('send-email-btn');
     const reportContent = document.getElementById('report-content');
     const reportTitle = document.getElementById('report-title');
     const reportTimestamp = document.getElementById('report-timestamp');
@@ -47,6 +48,28 @@ document.addEventListener('DOMContentLoaded', () => {
             reportContent.innerHTML = `<div style="color: var(--danger);">Error loading report: ${error.message}</div>`;
         }
     }
+
+    // Send Email (manual)
+    sendEmailBtn.addEventListener('click', async () => {
+        sendEmailBtn.disabled = true;
+        sendEmailBtn.textContent = 'Sending...';
+
+        try {
+            const res = await fetch('/api/send_email', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ mode: currentMode })
+            });
+            const data = await res.json();
+            if (!res.ok) throw new Error(data.error);
+            alert(data.message);
+        } catch (error) {
+            alert(`❌ Error sending email: ${error.message}`);
+        } finally {
+            sendEmailBtn.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg> Send Email`;
+            sendEmailBtn.disabled = false;
+        }
+    });
 
     // Trigger workflow
     triggerBtn.addEventListener('click', async () => {
