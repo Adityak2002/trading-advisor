@@ -1,7 +1,13 @@
 export default async function handler(req, res) {
-  const mode = req.query.mode === 'stock' ? 'stock' : 'etf';
-  const workflowFile = mode === 'stock' ? 'stock_intraday.yml' : 'etf_daily.yml';
-  
+  const validModes = ['stock', 'etf', 'intraday'];
+  const mode = validModes.includes(req.query.mode) ? req.query.mode : 'etf';
+  const workflowMap = {
+    stock:    'stock_intraday.yml',
+    etf:      'etf_daily.yml',
+    intraday: 'intraday.yml',
+  };
+  const workflowFile = workflowMap[mode];
+
   // GitHub API endpoint to trigger a workflow_dispatch event
   const url = `https://api.github.com/repos/Adityak2002/trading-advisor/actions/workflows/${workflowFile}/dispatches`;
 

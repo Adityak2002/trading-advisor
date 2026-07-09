@@ -1,0 +1,87 @@
+name: Intraday Report (ORB)
+
+on:
+  schedule:
+    # Every 30 minutes during NSE market hours (Mon–Fri)
+    # 9:30–15:00 IST = 4:00–9:30 UTC
+    - cron: '0,30 4 * * 1-5'
+    - cron: '0,30 5 * * 1-5'
+    - cron: '0,30 6 * * 1-5'
+    - cron: '0,30 7 * * 1-5'
+    - cron: '0,30 8 * * 1-5'
+    - cron: '0 9 * * 1-5'
+
+  # ── Manual trigger ─────────────────────────────────────────────────────────
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual run'
+        required: false
+        default: 'Manual trigger'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-intraday-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Python setup ──────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Install dependencies ──────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Create required directories ──────────────────────────────────────
+      - name: Create directories
+        run: |
+          mkdir -p data/cache reports
+
+      # ── 5. Pipeline — Intraday ORB mode ──────────────────────────────────────
+      - name: Step 1 — Fetch 5-minute intraday candles
+        run: python scripts/fetch_intraday.py
+
+      - name: Step 2 — Compute intraday ORB signals
+        run: python scripts/signals_intraday.py
+
+      - name: Step 3 — Score and rank ORB setups
+        run: python scripts/score_intraday.py
+
+      - name: Step 4 — Generate intraday report
+        run: python scripts/generate_intraday_report.py
+
+      # ── 6. Commit and push updated report ────────────────────────────────────
+      - name: Commit intraday report
+        run: |
+          git config --global user.name  "Trading Advisory Bot"
+          git config --global user.email "trading-bot@users.noreply.github.com"
+
+          git add reports/intraday_report.md
+          git add reports/ || true   # Picks up any dated archive folders
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit — report unchanged."
+          else
+            TIME=$(date +'%Y-%m-%d %H:%M IST')
+            git commit -m "📊 Intraday ORB report: ${TIME}"
+            git push
+            echo "Intraday report pushed successfully."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,7 +1,13 @@
 export default async function handler(req, res) {
-  const mode = req.query.mode === 'stock' ? 'stock' : 'etf';
-  const targetFile = mode === 'stock' ? 'stock_report.md' : 'etf_report.md';
-  
+  const validModes = ['stock', 'etf', 'intraday'];
+  const mode = validModes.includes(req.query.mode) ? req.query.mode : 'etf';
+  const fileMap = {
+    stock:    'stock_report.md',
+    etf:      'etf_report.md',
+    intraday: 'intraday_report.md',
+  };
+  const targetFile = fileMap[mode];
+
   // Use GitHub API to fetch the file contents securely
   const url = `https://api.github.com/repos/Adityak2002/trading-advisor/contents/reports/${targetFile}`;
 

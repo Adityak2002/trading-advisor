@@ -136,6 +136,70 @@ STOCK_SECTOR_MAP = {
 SECTOR_UNDERPERFORM_THRESHOLD = -3.0  # percent
 
 # ---------------------------------------------------------------------------
+# ── MODE C: INTRADAY — WATCHLIST ─────────────────────────────────────────
+# High-liquidity, high-beta NSE stocks that generate clean intraday moves.
+# Only the top ~12 names by volume/liquidity — essential for tight spreads.
+# ---------------------------------------------------------------------------
+
+INTRADAY_WATCHLIST = [
+    "RELIANCE.NS",     # Reliance Industries — highest market cap, liquid
+    "ICICIBANK.NS",    # ICICI Bank — best intraday banking play
+    "HDFCBANK.NS",     # HDFC Bank — consistent intraday mover
+    "INFY.NS",         # Infosys — liquid IT large-cap
+    "TCS.NS",          # TCS — liquid, responds to global IT cues
+    "SBIN.NS",         # SBI — PSU bank, high-beta
+    "TATAMOTORS.NS",   # Tata Motors — high-beta, EV plays
+    "BAJFINANCE.NS",   # Bajaj Finance — NBFC, high-beta
+    "AXISBANK.NS",     # Axis Bank — private bank, clean mover
+    "ADANIENT.NS",     # Adani Enterprises — volatile, high-beta
+    "WIPRO.NS",        # Wipro — IT, global cue follower
+    "POWERGRID.NS",    # Power Grid — defensive high-volume
+]
+
+# ---------------------------------------------------------------------------
+# ── MODE C: INTRADAY — SCORING WEIGHTS  (must sum to 1.0) ────────────────
+# ORB breakout + volume confirmation are the primary drivers.
+# ---------------------------------------------------------------------------
+
+INTRADAY_WEIGHTS = {
+    "orb_breakout": 0.40,   # Opening Range Breakout — most critical
+    "volume":       0.25,   # Volume multiplier at breakout
+    "vwap":         0.20,   # Price position relative to VWAP
+    "rsi":          0.15,   # Intraday RSI momentum
+}
+
+# ── MODE C: INTRADAY — ENTRY RULES ───────────────────────────────────────
+
+INTRADAY_ENTRY_RULES = {
+    "min_composite_score":      55,    # Higher bar — intraday capital at stake
+    "orb_period_minutes":       15,    # Opening range = first 15 minutes (9:15–9:30 IST)
+    "breakout_buffer_pct":      0.001, # 0.1% buffer above OR High to confirm breakout
+    "min_volume_multiplier":    1.5,   # Breakout candle volume must be 1.5× 5-min avg
+    "rsi_max":                  75,    # Don't chase if already overbought (RSI > 75)
+    "max_entry_time_ist":       "13:30",# No new entries after 1:30 PM IST
+    "max_open_positions":       2,     # Max concurrent intraday positions
+    "require_nifty_trend":      True,  # Only buy when Nifty is trending up intraday
+}
+
+# ── MODE C: INTRADAY — EXIT RULES ────────────────────────────────────────
+
+INTRADAY_EXIT_RULES = {
+    "profit_target_pct":    0.008,  # 0.8% target per trade
+    "stop_loss_pct":        0.004,  # 0.4% stop loss (2:1 R:R)
+    "hard_squareoff_time":  "15:10",# Hard square-off time — never carry intraday positions overnight
+    "trailing_trigger_pct": 0.005, # Activate trailing stop at +0.5% profit
+    "trailing_stop_pct":    0.003, # Trail 0.3% below the running high
+}
+
+# ── MODE C: INTRADAY — POSITION SIZING ───────────────────────────────────
+
+INTRADAY_POSITION_SIZING = {
+    "total_capital":        5000,   # ₹5,000 dedicated intraday corpus
+    "risk_per_trade_pct":   0.02,   # Risk 2% of capital = ₹100 per trade
+    "max_positions":        2,      # Max 2 concurrent intraday trades
+}
+
+# ---------------------------------------------------------------------------
 # ── MODE A: ETF SWING — SCORING WEIGHTS  (must sum to 1.0) ──────────────
 # ---------------------------------------------------------------------------
 
@@ -302,6 +366,12 @@ STOCK_POSITIONS_FILE = os.path.join(DATA_DIR, "positions_stock.json")
 STOCK_HISTORY_FILE   = os.path.join(DATA_DIR, "history_stock.csv")
 STOCK_REPORT_FILE    = os.path.join(REPORTS_DIR, "stock_report.md")
 
+# ── Intraday mode paths ───────────────────────────────────────────────────
+INTRADAY_PRICES_CACHE   = os.path.join(CACHE_DIR, "prices_intraday.json")
+INTRADAY_SIGNALS_CACHE  = os.path.join(CACHE_DIR, "signals_intraday.json")
+INTRADAY_SCORES_CACHE   = os.path.join(CACHE_DIR, "scores_intraday.json")
+INTRADAY_REPORT_FILE    = os.path.join(REPORTS_DIR, "intraday_report.md")
+
 # ---------------------------------------------------------------------------
 # MODE CONFIG HELPER
 # Call get_mode_config(mode) in every pipeline script to get the right
@@ -313,12 +383,11 @@ def get_mode_config(mode: str) -> dict:
     Returns a unified config dict for the requested mode.
 
     Args:
-        mode: "etf" or "stock"
+        mode: "etf", "stock", or "intraday"
 
     Returns:
         dict with keys: watchlist, prices_cache, signals_cache, scores_cache,
-                        positions_file, history_file, report_file,
-                        position_sizing, entry_rules, exit_rules, weights
+                        report_file, position_sizing, entry_rules, exit_rules, weights
     """
     if mode == "stock":
         return {
@@ -335,6 +404,20 @@ def get_mode_config(mode: str) -> dict:
             "entry_rules":     STOCK_ENTRY_RULES,
             "exit_rules":      STOCK_EXIT_RULES,
             "weights":         STOCK_WEIGHTS,
+        }
+    elif mode == "intraday":
+        return {
+            "mode":            "intraday",
+            "label":           "Intraday (ORB)",
+            "watchlist":       INTRADAY_WATCHLIST,
+            "prices_cache":    INTRADAY_PRICES_CACHE,
+            "signals_cache":   INTRADAY_SIGNALS_CACHE,
+            "scores_cache":    INTRADAY_SCORES_CACHE,
+            "report_file":     INTRADAY_REPORT_FILE,
+            "position_sizing": INTRADAY_POSITION_SIZING,
+            "entry_rules":     INTRADAY_ENTRY_RULES,
+            "exit_rules":      INTRADAY_EXIT_RULES,
+            "weights":         INTRADAY_WEIGHTS,
         }
     else:  # "etf" (default)
         return {
