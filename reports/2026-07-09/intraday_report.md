@@ -1,6 +1,6 @@
 # 📈 Intraday Report — 2026-07-09
 
-> Auto-generated at **13:05 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
+> Auto-generated at **13:51 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
 
 ---
 
@@ -17,17 +17,17 @@
 
 | Ticker | Price (₹) | ORB Status | Score | RSI | VWAP | Vol Mult | Entry? |
 |--------|-----------|------------|-------|-----|------|----------|--------|
-| **POWERGRID.NS** | ₹283.05 | 🔼 breakout_long | 26.9 | 42.4 | ✅ | 5.8× | — |
-| **RELIANCE.NS** | ₹1,291.00 | 🔼 breakout_long | 21.2 | 56.6 | ✅ | 1.5× | — |
-| **SBIN.NS** | ₹1,026.90 | 🔼 breakout_long | 20.8 | 53.4 | ✅ | 1.2× | — |
-| **HDFCBANK.NS** | ₹821.50 | 🔼 breakout_long | 16.4 | 74.4 | ✅ | 0.8× | — |
-| **INFY.NS** | ₹1,057.80 | ▶ inside | 14.8 | 63.6 | ✅ | — | — |
-| **WIPRO.NS** | ₹173.67 | 🔼 breakout_long | 14.3 | 44.5 | ✅ | 0.8× | — |
-| **TCS.NS** | ₹2,052.70 | ▶ inside | 13.1 | 57.5 | ✅ | — | — |
-| **ADANIENT.NS** | ₹3,078.60 | ▶ inside | 9.0 | 60.9 | ✅ | — | — |
-| **BAJFINANCE.NS** | ₹1,004.40 | ▶ inside | 1.8 | 47.3 | ✅ | — | — |
-| **ICICIBANK.NS** | ₹1,385.00 | ▶ inside | -1.3 | 56.8 | ❌ | — | — |
-| **AXISBANK.NS** | ₹1,304.00 | 🔽 breakout_short | -23.6 | 30.3 | ❌ | 0.4× | — |
+| **POWERGRID.NS** | ₹283.20 | 🔼 breakout_long | 29.9 | 56.0 | ✅ | 6.2× | — |
+| **RELIANCE.NS** | ₹1,289.10 | 🔼 breakout_long | 25.2 | 58.2 | ✅ | 1.5× | — |
+| **SBIN.NS** | ₹1,026.30 | 🔼 breakout_long | 20.8 | 56.6 | ✅ | 1.1× | — |
+| **HDFCBANK.NS** | ₹821.90 | 🔼 breakout_long | 18.8 | 67.2 | ✅ | 0.8× | — |
+| **INFY.NS** | ₹1,056.90 | ▶ inside | 12.5 | 53.7 | ✅ | — | — |
+| **ADANIENT.NS** | ₹3,088.40 | ▶ inside | 12.1 | 53.8 | ✅ | — | — |
+| **TCS.NS** | ₹2,048.70 | ▶ inside | 9.3 | 56.3 | ✅ | — | — |
+| **WIPRO.NS** | ₹173.60 | ▶ inside | 8.9 | 48.3 | ✅ | — | — |
+| **BAJFINANCE.NS** | ₹1,005.70 | ▶ inside | 8.4 | 60.0 | ✅ | — | — |
+| **ICICIBANK.NS** | ₹1,385.40 | ▶ inside | -1.0 | 58.3 | ❌ | — | — |
+| **AXISBANK.NS** | ₹1,303.20 | 🔽 breakout_short | -17.0 | 52.3 | ❌ | 0.4× | — |
 
 ---
 
@@ -41,12 +41,12 @@
 
 | Ticker | Current Price | ORB High | ORB Low | RSI | VWAP |
 |--------|--------------|----------|---------|-----|------|
-| POWERGRID.NS | ₹283.05 | ₹282.70 | ₹280.95 | 42.4 | ✅ |
-| RELIANCE.NS | ₹1,291.00 | ₹1286.50 | ₹1275.00 | 56.6 | ✅ |
-| SBIN.NS | ₹1,026.90 | ₹1025.00 | ₹1019.50 | 53.4 | ✅ |
-| HDFCBANK.NS | ₹821.50 | ₹818.80 | ₹812.85 | 74.4 | ✅ |
-| INFY.NS | ₹1,057.80 | ₹1059.90 | ₹1040.60 | 63.6 | ✅ |
-| WIPRO.NS | ₹173.67 | ₹173.47 | ₹171.76 | 44.5 | ✅ |
+| POWERGRID.NS | ₹283.20 | ₹282.70 | ₹280.95 | 56.0 | ✅ |
+| RELIANCE.NS | ₹1,289.10 | ₹1286.50 | ₹1275.00 | 58.2 | ✅ |
+| SBIN.NS | ₹1,026.30 | ₹1025.00 | ₹1019.50 | 56.6 | ✅ |
+| HDFCBANK.NS | ₹821.90 | ₹818.80 | ₹812.85 | 67.2 | ✅ |
+| INFY.NS | ₹1,056.90 | ₹1059.90 | ₹1040.60 | 53.7 | ✅ |
+| ADANIENT.NS | ₹3,088.40 | ₹3097.80 | ₹3051.40 | 53.8 | ✅ |
 
 ---
 
