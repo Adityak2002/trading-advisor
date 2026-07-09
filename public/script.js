@@ -11,6 +11,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const chatInput = document.getElementById('chat-input');
     const sendBtn = document.getElementById('send-btn');
     const quickSummaryBtn = document.getElementById('quick-summary-btn');
+    
+    // Mobile Responsive elements
+    const mobileChatToggle = document.getElementById('mobile-chat-toggle');
+    const chatCloseBtn = document.getElementById('chat-close-btn');
+    const chatSidebar = document.querySelector('.chat-sidebar');
+    const chatBadge = document.getElementById('chat-badge');
 
     let currentMode = 'stock';
     let currentReportText = '';
@@ -193,10 +199,30 @@ document.addEventListener('DOMContentLoaded', () => {
             tabBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             
+            // Close mobile chat on tab switch to avoid overlay confusion
+            chatSidebar.classList.remove('active');
+
             currentMode = btn.dataset.mode;
             fetchReport(currentMode);
         });
     });
+
+    // Mobile Chat toggles
+    if (mobileChatToggle && chatSidebar) {
+        mobileChatToggle.addEventListener('click', () => {
+            chatSidebar.classList.toggle('active');
+            // Hide badge when user opens chat
+            if (chatSidebar.classList.contains('active') && chatBadge) {
+                chatBadge.style.display = 'none';
+            }
+        });
+    }
+
+    if (chatCloseBtn && chatSidebar) {
+        chatCloseBtn.addEventListener('click', () => {
+            chatSidebar.classList.remove('active');
+        });
+    }
 
     // Initial load
     fetchReport(currentMode);
