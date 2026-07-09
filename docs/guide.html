@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trading Advisory System — Complete System Guide</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm;
+        }
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            color: #2D3748;
+            line-height: 1.6;
+            font-size: 10.5pt;
+        }
+        h1 {
+            font-size: 26pt;
+            color: #1A365D;
+            margin-top: 0;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-bottom: 3px solid #3182CE;
+            padding-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 13pt;
+            color: #4A5568;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        h2 {
+            font-size: 17pt;
+            color: #2B6CB0;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #E2E8F0;
+            padding-bottom: 5px;
+            page-break-after: avoid;
+        }
+        h3 {
+            font-size: 12.5pt;
+            color: #2D3748;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            page-break-after: avoid;
+        }
+        p {
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .formula {
+            background-color: #F7FAFC;
+            border-left: 4px solid #3182CE;
+            padding: 12px 15px;
+            margin: 15px 0;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 10pt;
+            color: #2C5282;
+            page-break-inside: avoid;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 9.5pt;
+            page-break-inside: avoid;
+        }
+        th {
+            background-color: #2B6CB0;
+            color: white;
+            font-weight: bold;
+            text-align: left;
+            padding: 8px 10px;
+            border: 1px solid #2B6CB0;
+        }
+        td {
+            padding: 8px 10px;
+            border: 1px solid #E2E8F0;
+        }
+        tr:nth-child(even) td {
+            background-color: #F7FAFC;
+        }
+        .tag {
+            display: inline-block;
+            padding: 2px 6px;
+            font-weight: bold;
+            font-size: 8pt;
+            border-radius: 3px;
+            text-transform: uppercase;
+        }
+        .tag-etf { background-color: #EBF8FF; color: #2B6CB0; }
+        .tag-stock { background-color: #E6FFFA; color: #319795; }
+        .tag-intraday { background-color: #FAF5FF; color: #805AD5; }
+        
+        .highlight-box {
+            background-color: #FFF5F5;
+            border-left: 4px solid #E53E3E;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 0 4px 4px 0;
+            page-break-inside: avoid;
+        }
+        .highlight-box-title {
+            font-weight: bold;
+            color: #C53030;
+            margin-bottom: 5px;
+        }
+        ul, ol {
+            margin-top: 0;
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .page-break {
+            page-break-before: always;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- COVER SECTION -->
+    <div style="text-align: center; margin-top: 5cm; margin-bottom: 5cm;">
+        <h1 style="border-bottom: none; font-size: 32pt; color: #1A365D; margin-bottom: 10px;">Trading Advisor</h1>
+        <div style="font-size: 16pt; color: #4A5568; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 50px;">System Specifications & Strategy Guide</div>
+        <div style="width: 150px; height: 4px; background-color: #3182CE; margin: 0 auto 50px auto;"></div>
+        <div style="font-size: 11pt; color: #718096; line-height: 1.8;">
+            A Quantitative Multi-Regime Framework for NSE Instruments<br>
+            <strong>Modes:</strong> ETF Swing • Stock Delivery • Intraday ORB<br>
+            <span style="font-size: 9.5pt; margin-top: 15px; display: block;">Generated: July 2026</span>
+        </div>
+    </div>
+
+    <div class="page-break"></div>
+
+    <!-- INTRODUCTION -->
+    <h2>1. Executive System Overview</h2>
+    <p>
+        The Trading Advisor system is a fully automated, quantitative scanning and position management framework designed for National Stock Exchange (NSE) instruments. The platform operates across three distinct trading horizons (Modes) to optimize capital allocation and risk adjusted returns:
+    </p>
+    <ul>
+        <li><strong>Mode A: ETF / Mutual Fund Swing Trading</strong> — Focused on mean-reversion anomalies in index and sector-level ETFs. Run frequency: Daily.</li>
+        <li><strong>Mode B: Stock Delivery Positional Trading</strong> — Focuses on trend pullback entries in high-quality large and mid-cap stocks. Run frequency: Every 2 hours.</li>
+        <li><strong>Mode C: Intraday Opening Range Breakout (ORB)</strong> — Capitalizes on short-term breakout momentum during session open. Run frequency: Every 30 minutes.</li>
+    </ul>
+    
+    <h3>Market Horizons Comparison</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Parameter</th>
+                <th>Mode A: ETF Swing</th>
+                <th>Mode B: Stock Delivery</th>
+                <th>Mode C: Intraday ORB</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Time Horizon</strong></td>
+                <td>3 to 10 Days</td>
+                <td>10 to 20 Days</td>
+                <td>Same-day (No Overnight)</td>
+            </tr>
+            <tr>
+                <td><strong>Primary Strategy</strong></td>
+                <td>Mean Reversion</td>
+                <td>Momentum Pullback</td>
+                <td>Opening Range Breakout</td>
+            </tr>
+            <tr>
+                <td><strong>Allocation Corpus</strong></td>
+                <td>₹10,000</td>
+                <td>₹10,000</td>
+                <td>₹5,000</td>
+            </tr>
+            <tr>
+                <td><strong>Max Positions</strong></td>
+                <td>2 concurrent</td>
+                <td>2 concurrent</td>
+                <td>2 concurrent</td>
+            </tr>
+            <tr>
+                <td><strong>Data Interval</strong></td>
+                <td>Daily (1D)</td>
+                <td>Daily (1D)</td>
+                <td>5-minute (5m)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="highlight-box">
+        <div class="highlight-box-title">CRITICAL RISK LIMITATION</div>
+        <p style="margin-bottom: 0;">
+            The system executes hard-coded risk management parameters. No single trade in Mode A or B is sized manually; instead, position sizing is dynamically computed using the Average True Range (ATR) over 14 periods to restrict exposure to a maximum of 5% of the respective mode's total capital.
+        </p>
+    </div>
+
+    <div class="page-break"></div>
+
+    <!-- MODE A SPECIFICATION -->
+    <h2>2. Mode A: ETF / Mutual Fund Swing Trading</h2>
+    <p>
+        Mode A focuses on index and sectoral exchange-traded funds listed on the NSE. ETFs provide intrinsic diversification, reducing the threat of sudden corporate governance failures or company-specific earnings gaps.
+    </p>
+    
+    <h3>Watchlist and Market Segment</h3>
+    <p>
+        The watchlist consists of liquid asset classes including Indian Sectoral/Thematic ETFs, global technology indices, and commodities:
+    </p>
+    <ul>
+        <li><strong>Sectoral:</strong> <code>BANKBEES.NS</code>, <code>PSUBNKBEES.NS</code>, <code>PHARMABEES.NS</code>, <code>ITETF.NS</code>, <code>AUTOBEES.NS</code>, <code>JUNIORBEES.NS</code></li>
+        <li><strong>Commodities:</strong> <code>OILIETF.NS</code> (tracks Crude Oil)</li>
+        <li><strong>International:</strong> <code>N100.NS</code> (Nasdaq 100), <code>MAFANG.NS</code> (FANG+ Index), <code>HNGSNGBEES.NS</code> (Hang Seng)</li>
+        <li><strong>High Beta Swing Stocks:</strong> <code>IRFC.NS</code>, <code>RVNL.NS</code>, <code>IREDA.NS</code>, <code>TATAPOWER.NS</code>, <code>SUZLON.NS</code></li>
+    </ul>
+
+    <h3>Signal Calculus & Scoring</h3>
+    <p>
+        The score is derived out of 100 points, calculated using the formula:
+    </p>
+    <div class="formula">
+        ETF Score = (0.25 * RSI) + (0.25 * EMA_Cross) + (0.15 * Bollinger) + (0.15 * Volume) + (0.10 * News) + (0.10 * Macro)
+    </div>
+    <ul>
+        <li><strong>RSI (25%):</strong> Evaluates oversold states. RSI &lt; 20 yields a signal score of +1.0. RSI &gt; 70 yields -1.0.</li>
+        <li><strong>EMA Cross (25%):</strong> Detects short-term momentum shifts. Fresh bullish crossing of 9 EMA over 21 EMA gives +0.90.</li>
+        <li><strong>Bollinger Bands (15%):</strong> Measures price location inside volatility bands. Price &lt; lower band gives +1.00 (oversold bounce candidate).</li>
+        <li><strong>Volume Z-Score (15%):</strong> Z-score of today's volume against 20-day average. Spike &gt; 3.0 gives +1.00.</li>
+    </ul>
+
+    <h3>Rules for Entry and Exit</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Rule Type</th>
+                <th>Condition</th>
+                <th>Threshold Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>RSI Oversold Filter</td>
+                <td>RSI &lt; 38</td>
+            </tr>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>Volume Confirmation</td>
+                <td>Z-Score &ge; 1.5</td>
+            </tr>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>Minimum Composite Score</td>
+                <td>&ge; 40 / 100</td>
+            </tr>
+            <tr>
+                <td><strong>Exit</strong></td>
+                <td>Take Profit Target</td>
+                <td>+4.0% from entry</td>
+            </tr>
+            <tr>
+                <td><strong>Exit</strong></td>
+                <td>Stop Loss Limit</td>
+                <td>Entry - (1.5 * ATR14)</td>
+            </tr>
+            <tr>
+                <td><strong>Exit</strong></td>
+                <td>Time Out Exit</td>
+                <td>10 Trading Days max hold</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+
+    <!-- MODE B SPECIFICATION -->
+    <h2>3. Mode B: Stock Delivery Positional Trading</h2>
+    <p>
+        Mode B is configured to find momentum pullbacks in high-conviction, large and mid-cap stocks. Unlike Mode A, this mode does not buy oversold instruments (which are often "falling knives" in individual equities). Instead, it enters strong, structured uptrends on brief technical corrections.
+    </p>
+
+    <h3>Watchlist and Sector Mapping</h3>
+    <p>
+        The watchlist consists of high-beta, institutional-grade stocks. Every stock is mapped to a sectoral index to check relative strength:
+    </p>
+    <ul>
+        <li><strong>Large Caps:</strong> <code>ICICIBANK.NS</code>, <code>HDFCBANK.NS</code>, <code>RELIANCE.NS</code></li>
+        <li><strong>Quality Midcaps:</strong> <code>CDSL.NS</code>, <code>POLYCAB.NS</code>, <code>BAJFINANCE.NS</code>, <code>TITAN.NS</code>, <code>ANGELONE.NS</code>, <code>PIDILITIND.NS</code>, <code>KEI.NS</code>, <code>HAVELLS.NS</code></li>
+    </ul>
+
+    <h3>Relative Strength & Sector Gating</h3>
+    <p>
+        A core risk filter in Mode B is sector relative strength. If a stock belongs to the banking sector, it is mapped to <code>^NSEBANK</code>. If that sector index is underperforming the Nifty 50 Index (<code>^NSEI</code>) by more than <strong>3.0%</strong>, the system suspends all entries in that stock, preventing capital exposure to structurally weak sectors.
+    </p>
+
+    <h3>Scoring Calculus</h3>
+    <p>
+        Calculated using the formula:
+    </p>
+    <div class="formula">
+        Stock Score = (0.20 * RSI) + (0.30 * EMA_Cross) + (0.25 * Pullback) + (0.15 * Volume) + (0.05 * News) + (0.05 * Macro)
+    </div>
+    <ul>
+        <li><strong>RSI Pullback (20%):</strong> Target range is RSI 42 to 55 (score +1.0). RSI &lt; 38 is penalized as trend failure risk (score -0.3).</li>
+        <li><strong>EMA Alignment (30%):</strong> Bullish alignment (EMA9 &gt; EMA21 &gt; EMA50) yields +1.0.</li>
+        <li><strong>EMA21 Pullback Proximity (25%):</strong> Measures distance of price to 21-day EMA. Distance within -2% to +1% of EMA21 yields +1.0.</li>
+        <li><strong>Volume Calm (15%):</strong> Low volume on a dip indicates healthy consolidation. Volume Z-score &lt; 0.5 yields +0.8. High volume dips are penalized.</li>
+    </ul>
+
+    <h3>Rules for Entry and Exit</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Rule Type</th>
+                <th>Condition</th>
+                <th>Threshold Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>RSI Pullback Range</td>
+                <td>RSI between 42 and 55</td>
+            </tr>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>EMA Proximity</td>
+                <td>Within 4.0% of daily EMA21</td>
+            </tr>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>Nifty Trend Filter</td>
+                <td>Nifty 50 above its 20-EMA</td>
+            </tr>
+            <tr>
+                <td><strong>Entry</strong></td>
+                <td>Minimum Composite Score</td>
+                <td>&ge; 50 / 100</td>
+            </tr>
+            <tr>
+                <td><strong>Exit</strong></td>
+                <td>Take Profit Target</td>
+                <td>+10.0% from entry (5% partial profit booking)</td>
+            </tr>
+            <tr>
+                <td><strong>Exit</strong></td>
+                <td>Stop Loss Limit</td>
+                <td>Entry - (2.5 * ATR14)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-break"></div>
+
+    <!-- MODE C SPECIFICATION -->
+    <h2>4. Mode C: Intraday Opening Range Breakout (ORB)</h2>
+    <p>
+        Mode C is designed to catch rapid intraday breakouts in high-liquidity stocks. All positions are entered, managed, and closed within a single session. Overnight exposure is strictly prohibited to avoid gap risk.
+    </p>
+
+    <h3>Intraday Watchlist</h3>
+    <p>
+        We restrict scanning to 12 highly liquid, institutional favorites:
+        <code>RELIANCE.NS</code>, <code>ICICIBANK.NS</code>, <code>HDFCBANK.NS</code>, <code>INFY.NS</code>, <code>TCS.NS</code>, <code>SBIN.NS</code>, <code>TATAMOTORS.NS</code>, <code>BAJFINANCE.NS</code>, <code>AXISBANK.NS</code>, <code>ADANIENT.NS</code>, <code>WIPRO.NS</code>, <code>POWERGRID.NS</code>.
+    </p>
+
+    <h3>Opening Range Definition & Execution</h3>
+    <p>
+        The opening range is defined by the high and low of the first **15 minutes** of the session (9:15 AM to 9:30 AM IST). 
+    </p>
+    <ul>
+        <li><strong>ORB High:</strong> The maximum high achieved in 9:15–9:30 IST.</li>
+        <li><strong>ORB Low:</strong> The minimum low achieved in 9:15–9:30 IST.</li>
+        <li><strong>Trigger Level:</strong> A 0.1% breakout buffer is applied above the ORB High to avoid whipsaws.</li>
+    </ul>
+
+    <h3>Intraday Scoring Calculus</h3>
+    <p>
+        Calculated using the formula:
+    </p>
+    <div class="formula">
+        Intraday Score = (0.40 * ORB_Status) + (0.25 * Volume) + (0.20 * VWAP) + (0.15 * RSI)
+    </div>
+    <ul>
+        <li><strong>ORB Status (40%):</strong> Price sustaining above the breakout level yields +0.8 to +1.0.</li>
+        <li><strong>Volume Multiplier (25%):</strong> Volume of the breakout candle divided by the session's average 5-minute candle volume. Must be &ge; 1.5x (score +0.5). Spike &ge; 3x yields +1.0.</li>
+        <li><strong>VWAP Proximity (20%):</strong> Price must be above the Volume Weighted Average Price (VWAP) for long setups (score +0.35 to +1.0).</li>
+        <li><strong>RSI Momentum (15%):</strong> 5-minute RSI must be between 60 and 70 (+0.9).</li>
+    </ul>
+
+    <h3>Risk and Execution Parameters</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Execution Metric</th>
+                <th>Value</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Intraday Corpus</strong></td>
+                <td>₹5,000</td>
+                <td>Separated from swing corpus</td>
+            </tr>
+            <tr>
+                <td><strong>Max Risk Per Trade</strong></td>
+                <td>2.0% (₹100)</td>
+                <td>Restricts risk of ruin</td>
+            </tr>
+            <tr>
+                <td><strong>Profit Target</strong></td>
+                <td>+0.8%</td>
+                <td>Take profit execution limit</td>
+            </tr>
+            <tr>
+                <td><strong>Stop Loss</strong></td>
+                <td>-0.4%</td>
+                <td>2:1 Risk-to-Reward ratio</td>
+            </tr>
+            <tr>
+                <td><strong>Time Restriction</strong></td>
+                <td>1:30 PM IST</td>
+                <td>No new entries allowed after this time</td>
+            </tr>
+            <tr>
+                <td><strong>Hard Square-Off</strong></td>
+                <td>3:10 PM IST</td>
+                <td>All outstanding positions closed via market orders</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
