@@ -1,6 +1,6 @@
 # 📈 Intraday Report — 2026-07-10
 
-> Auto-generated at **15:43 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
+> Auto-generated at **16:25 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
 
 ---
 
@@ -17,16 +17,16 @@
 
 | Ticker | Price (₹) | ORB Status | Score | RSI | VWAP | Vol Mult | Entry? |
 |--------|-----------|------------|-------|-----|------|----------|--------|
-| **SBIN.NS** | ₹1,036.10 | 🔼 breakout_long | 29.6 | 57.3 | ✅ | 4.2× | — |
+| **SBIN.NS** | ₹1,036.00 | 🔼 breakout_long | 29.6 | 57.0 | ✅ | 4.2× | — |
 | **RELIANCE.NS** | ₹1,309.60 | 🔼 breakout_long | 27.5 | 70.7 | ✅ | 1.7× | — |
 | **AXISBANK.NS** | ₹1,323.70 | 🔼 breakout_long | 26.8 | 63.9 | ✅ | 1.6× | — |
 | **BAJFINANCE.NS** | ₹1,023.00 | 🔼 breakout_long | 21.7 | 67.5 | ✅ | 0.3× | — |
 | **POWERGRID.NS** | ₹283.60 | ▶ inside | 11.1 | 72.2 | ✅ | — | — |
-| **HDFCBANK.NS** | ₹824.25 | ▶ inside | 2.0 | 41.2 | ❌ | — | — |
-| **ICICIBANK.NS** | ₹1,400.50 | ▶ inside | 1.4 | 42.2 | ❌ | — | — |
-| **ADANIENT.NS** | ₹3,152.20 | 🔼 breakout_long | -1.2 | 40.0 | ❌ | 1.7× | — |
+| **HDFCBANK.NS** | ₹824.95 | ▶ inside | 7.8 | 45.6 | ✅ | — | — |
+| **ADANIENT.NS** | ₹3,157.30 | 🔼 breakout_long | 2.4 | 43.2 | ❌ | 1.7× | — |
+| **ICICIBANK.NS** | ₹1,401.20 | ▶ inside | 2.1 | 44.6 | ❌ | — | — |
 | **WIPRO.NS** | ₹175.52 | ▶ inside | -8.9 | 38.4 | ❌ | — | — |
-| **INFY.NS** | ₹1,067.50 | 🔽 breakout_short | -9.0 | 43.9 | ❌ | 2.5× | — |
+| **INFY.NS** | ₹1,068.00 | 🔽 breakout_short | -9.0 | 45.8 | ❌ | 2.5× | — |
 | **TCS.NS** | ₹2,067.90 | 🔽 breakout_short | -10.2 | 45.7 | ❌ | 4.7× | — |
 
 ---
@@ -41,12 +41,12 @@
 
 | Ticker | Current Price | ORB High | ORB Low | RSI | VWAP |
 |--------|--------------|----------|---------|-----|------|
-| SBIN.NS | ₹1,036.10 | ₹1031.60 | ₹1027.60 | 57.3 | ✅ |
+| SBIN.NS | ₹1,036.00 | ₹1031.60 | ₹1027.60 | 57.0 | ✅ |
 | RELIANCE.NS | ₹1,309.60 | ₹1301.90 | ₹1289.10 | 70.7 | ✅ |
 | AXISBANK.NS | ₹1,323.70 | ₹1314.50 | ₹1304.90 | 63.9 | ✅ |
 | BAJFINANCE.NS | ₹1,023.00 | ₹1013.80 | ₹1005.40 | 67.5 | ✅ |
 | POWERGRID.NS | ₹283.60 | ₹283.50 | ₹281.65 | 72.2 | ✅ |
-| HDFCBANK.NS | ₹824.25 | ₹825.15 | ₹820.40 | 41.2 | ❌ |
+| HDFCBANK.NS | ₹824.95 | ₹825.15 | ₹820.40 | 45.6 | ✅ |
 
 ---
 
