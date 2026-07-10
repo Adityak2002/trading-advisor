@@ -1,6 +1,6 @@
 # 📈 Intraday Report — 2026-07-10
 
-> Auto-generated at **16:25 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
+> Auto-generated at **17:22 IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹5,000 | Hard Square-Off: 15:10 IST
 
 ---
 
