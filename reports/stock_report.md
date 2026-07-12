@@ -1,5 +1,32 @@
-# 📈 Stock Delivery Report — 2026-07-10
-> *Auto-generated at 17:53 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 🤖 Gemini AI Insights
+
+Here is your quick, actionable summary of the trading report for **July 12, 2026**:
+
+### 🌍 Market Context: **🟢 Green Light (Bullish)**
+*   **Market Mood:** Highly favorable for buying. The Indian market (Nifty 50) is up **+1.02%**.
+*   **Fear is Low:** The India VIX (fear index) crashed **-8.31%** to a very safe level of 12.25. This means you can deploy capital with confidence.
+*   **Global Support:** US markets are stable and slightly positive, providing a calm backdrop.
+
+---
+
+### 🎯 Top Entry Candidate: **ANGELONE (ANGELONE.NS)**
+With ₹10,000 in idle cash, the system has identified one high-quality setup:
+
+*   **The Setup:** A fundamentally strong stock in a healthy pullback (buying on a temporary dip before the next rise).
+*   **Action Plan on Groww:**
+    *   🛒 **Buy:** **18 shares** at **₹346.05** (Total investment: ~₹6,229)
+    *   🎯 **Profit Target:** Set a GTT sell order at **₹380.65** (Aiming for a **+10% gain** in ~20 days)
+    *   🛑 **Safety Net (Stop-Loss):** Set a GTT sell order at **₹319.45** (Limits your maximum loss to ₹478)
+
+---
+
+### ⚠️ Critical Warnings & Exits
+*
+
+---
+
+# 📈 Stock Delivery Report — 2026-07-12
+> *Auto-generated at 22:33 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -10,19 +37,18 @@
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
 | Nifty 50 | 24,206.90 | 📈 +1.02% |
-| India VIX | 12.25 | 📉 -8.29% |
-| S&P 500 (overnight) | 7,543.64 | 📈 +0.81% |
-| NASDAQ | 26,206.89 | 📈 +1.30% |
-| WTI Crude Oil | $72.35 | 📈 +0.38% |
-| USD / INR | 95.3150 | 📉 -0.57% |
+| India VIX | 12.25 | 📉 -8.31% |
+| S&P 500 (overnight) | 7,575.39 | 📈 +0.42% |
+| NASDAQ | 26,281.61 | 📈 +0.28% |
+| WTI Crude Oil | $71.41 | 📉 -0.93% |
+| USD / INR | 95.3700 | 📉 -0.02% |
 
 **Key Factors:**
-- VIX 12.3 — Low fear 🟢 (full sizing)
-- S&P 500 +0.81% — Positive overnight cues 📈
-- NASDAQ +1.30% — Tech bullish (N100/MAFANG +ve)
+- VIX 12.2 — Low fear 🟢 (full sizing)
+- S&P 500 +0.42% — Neutral
 - Nifty +1.02% — Domestic market bullish
-- WTI Crude $72.35 (+0.38%) — Neutral for OILIETF
-- USD/INR 95.31 (-0.570%) — Dollar weakening → intl ETFs headwind
+- WTI Crude $71.41 (-0.93%) — Neutral for OILIETF
+- USD/INR 95.37 (-0.021%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -44,48 +70,41 @@
 ---
 ## 🎯 Entry Candidates
 
-### #1 — ANGELONE.NS
-**Composite Score:** 72.5 / 100 &nbsp;|&nbsp; **Strategy:** Stock Delivery &nbsp;|&nbsp; **Category:** Quality Midcaps
+### 📁 Category A: Long-Term Hold
+Premium, highly stable blue-chip companies suitable for longer holding periods.
 
-| Field | Value |
-|-------|-------|
-| Current Price | ₹346.0500 |
-| 🟢 **Buy at (market/limit)** | **₹346.0500** |
-| **Shares to Buy** | **18** |
-| **Capital to Deploy** | **₹6,228.90** |
-| 🎯 **Target Price (+10%)** | **₹380.6550** |
-| 🛑 **Stop-Loss (2.5×ATR)** | **₹319.4518** |
-| ATR(14) | ₹10.6393 |
-| Max Risk (if stop hit) | ₹478.77 (7.69% of deployed) |
-| Risk Budget (ATR-sized) | ₹500.00 |
-| Expected Hold Period | ~20 trading days (~4 weeks) |
+*No long-term candidates currently meeting entry conditions.*
 
-**Signal Breakdown:**
+### 📁 Category B: Short-Term Fundamentally Strong
+High-growth quality stocks entering a strong pullback/momentum setup.
 
-| Indicator | Raw Value | Signal |
-|-----------|-----------|--------|
-| RSI(14) | 44.9 | +1.000 |
-| EMA Trend | 🟢 EMA9>21 | +1.000 |
-| EMA21 Proximity | +1.82% from EMA21 🟢 | +0.600 |
-| Volume Z-score | -0.78 | +0.200 |
-| News Sentiment | — | +0.000 |
-| Macro Filter | — | +0.900 |
+#### #1 — ANGELONE.NS
+**Action Rating:** Strong (Score: 70.8/100)
 
-**Entry Checklist** *(all 7 must be ✅)*
+| Action Details | Value | Notes |
+|---|---|---|
+| 🟢 **Buy Price** | **₹346.05** | Buy at market or limit |
+| **Shares to Buy** | **18** | Sized to limit your risk |
+| **Investment Amount** | **₹6,228.90** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹380.65** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹319.45** | Hard exit to cut losses |
+| Max Risk | ₹478.77 | Only 7.69% of investment at risk |
+| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
-- ✅ RSI in 42–55 (healthy pullback) &nbsp; *(actual: 44.9)*
-- ✅ EMA21 > EMA50 (medium uptrend intact) &nbsp; *(EMA21: ₹339.8523 | EMA50: ₹328.7068)*
-- ✅ Price within 4% of EMA21 &nbsp; *(distance: +1.82%)*
-- ✅ Volume Z-score ≤ 2.0 (calm pullback) &nbsp; *(actual: -0.78)*
-- ✅ Composite score ≥ 50 &nbsp; *(actual: 72.5)*
-- ✅ Nifty above 20-EMA (market trend gate)
-- ✅ Sector not underperforming Nifty by >3%
+**Simple Buying Checklist:**
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 44.9)*
+- ✅ Medium-term trend is upward *(EMA21: ₹339.85 > EMA50: ₹328.71)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: +1.82%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -0.78)*
+- ✅ Overall setup is strong *(Score: 70.8/100)*
+- ✅ Overall market trend is stable (Nifty above 20-day average)
+- ✅ Sector is performing well compared to Nifty
 
 > **Action on Groww:**
-> 1. Search `ANGELONE` → Buy **18 shares** at market
-> 2. Immediately place GTT (Good-Till-Triggered) sell at **₹380.65** (target)
-> 3. Place Stop-Loss sell at **₹319.45**
-> 4. Run `python scripts/update_position.py --mode stock` to record the trade
+> 1. Search `ANGELONE` ➔ Buy **18 shares** at market
+> 2. Immediately place GTT sell order at **₹380.65** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹319.45**
+> 4. Run `python scripts/update_position.py --mode stock` to log this trade
 
 ---
 ## 📰 News & Sentiment
@@ -97,17 +116,17 @@
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ANGELONE.NS | 72.5 | 45 | 🟢 | ✅ | -0.8 | 🎯 ENTRY |
-| 2 | PIDILITIND.NS | 60.5 | 57 | 🟢 | ✅ | -0.1 | 👀 Watch |
-| 3 | ICICIBANK.NS | 44.5 | 63 | 🟢 | ✅ | -1.2 | 👀 Watch |
-| 4 | BAJFINANCE.NS | 38.0 | 67 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 5 | TITAN.NS | 38.0 | 70 | 🟢 | — | -0.4 | 👀 Watch |
-| 6 | HDFCBANK.NS | 32.0 | 68 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 7 | CDSL.NS | 20.5 | 60 | 🟢 | — | 2.7 | ⏸ Skip |
-| 8 | POLYCAB.NS | -26.5 | 30 | 🟢 | — | 0.2 | ⏸ Skip |
-| 9 | KEI.NS | -26.5 | 29 | 🟢 | — | -0.4 | ⏸ Skip |
-| 10 | HAVELLS.NS | -38.5 | 52 | 🔴 | — | 2.1 | ⏸ Skip |
-| 11 | RELIANCE.NS | -41.5 | 44 | 🔴 | — | -0.9 | ⏸ Skip |
+| 1 | ANGELONE.NS | 70.8 | 45 | 🟢 | ✅ | -0.8 | 🎯 ENTRY |
+| 2 | PIDILITIND.NS | 58.8 | 57 | 🟢 | ✅ | -0.1 | 👀 Watch |
+| 3 | ICICIBANK.NS | 42.8 | 63 | 🟢 | ✅ | -1.2 | 👀 Watch |
+| 4 | BAJFINANCE.NS | 36.2 | 67 | 🟢 | ✅ | -0.5 | 👀 Watch |
+| 5 | TITAN.NS | 36.2 | 70 | 🟢 | — | -0.4 | 👀 Watch |
+| 6 | HDFCBANK.NS | 30.2 | 68 | 🟢 | ✅ | -0.9 | 👀 Watch |
+| 7 | CDSL.NS | 18.8 | 60 | 🟢 | — | 2.7 | ⏸ Skip |
+| 8 | POLYCAB.NS | -28.2 | 30 | 🟢 | — | 0.2 | ⏸ Skip |
+| 9 | KEI.NS | -28.2 | 29 | 🟢 | — | -0.4 | ⏸ Skip |
+| 10 | HAVELLS.NS | -40.2 | 52 | 🔴 | — | 2.1 | ⏸ Skip |
+| 11 | RELIANCE.NS | -43.2 | 44 | 🔴 | — | -0.9 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -115,6 +134,6 @@
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-10 17:53 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-12 22:33 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
