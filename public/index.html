@@ -14,18 +14,22 @@
     <div class="dashboard-container">
         <header class="header">
             <div class="logo">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                     <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
                 </svg>
                 <h1>Trading Advisor</h1>
             </div>
             <div class="actions">
+                <button id="log-trade-btn" class="btn btn-primary">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+                    Log Groww Trade
+                </button>
                 <button id="send-email-btn" class="btn btn-outline">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,12 2,6"/></svg>
                     Send Email
                 </button>
                 <button id="trigger-btn" class="btn btn-outline">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.59-9.21l5.8-5.8"/></svg>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.59-9.21l5.8-5.8"/></svg>
                     Trigger Scan
                 </button>
             </div>
@@ -48,32 +52,41 @@
                     <span id="report-timestamp" class="timestamp"></span>
                 </div>
                 
-                <div id="report-content" class="markdown-body">
-                    <!-- Markdown will be rendered here -->
+                <div class="report-scrollable">
+                    <!-- Layman Action Console Container -->
+                    <div id="layman-action-console" class="action-console-container"></div>
+                    
+                    <!-- Visual Position Gauges Container -->
+                    <div id="visual-position-gauges" class="visual-gauges-container"></div>
+
+                    <!-- Raw Report Content -->
+                    <div id="report-content" class="markdown-body">
+                        <!-- Markdown will be rendered here -->
+                    </div>
                 </div>
             </section>
 
             <!-- Right Sidebar: Gemini Chat -->
             <aside class="chat-sidebar">
                 <div class="chat-header">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-                    <h3>Gemini Chat</h3>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2.5"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    <h3>Gemini Insights Chat</h3>
                     <button id="chat-close-btn" class="chat-close-btn">&times;</button>
                 </div>
                 
                 <div class="chat-history" id="chat-history">
                     <div class="chat-message assistant">
                         <div class="message-bubble markdown-body">
-                            <p>Hi! I'm ready to answer any questions about the current report. Or, click below to generate a quick summary!</p>
+                            <p>Hi Aditya! Ask me any questions about the current report setups, or click below for a quick AI summary.</p>
                             <button id="quick-summary-btn" class="btn btn-primary" style="margin-top: 10px;">Generate Summary</button>
                         </div>
                     </div>
                 </div>
 
                 <div class="chat-input-area">
-                    <textarea id="chat-input" placeholder="Ask about the report..." rows="1"></textarea>
+                    <textarea id="chat-input" placeholder="Ask Gemini..." rows="1"></textarea>
                     <button id="send-btn" class="btn-icon">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                             <line x1="22" y1="2" x2="11" y2="13"></line>
                             <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
                         </svg>
@@ -83,9 +96,62 @@
         </main>
     </div>
 
+    <!-- Log Trade Modal Dialog -->
+    <div id="log-trade-modal" class="modal-overlay">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3>📈 Log Groww Manual Trade</h3>
+                <button class="modal-close" id="modal-close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form id="log-trade-form">
+                    <div class="form-group">
+                        <label for="trade-mode">Corpus / Mode</label>
+                        <select id="trade-mode" required>
+                            <option value="stock">Stock Delivery</option>
+                            <option value="etf">ETF Swing</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="trade-ticker">Stock / ETF Ticker</label>
+                        <input type="text" id="trade-ticker" placeholder="e.g. ANGELONE or CDSL" required>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="trade-price">Entry Price (₹)</label>
+                            <input type="number" id="trade-price" step="0.0001" placeholder="₹" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="trade-shares">Shares Bought</label>
+                            <input type="number" id="trade-shares" placeholder="e.g. 10" required>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="trade-target">Target Price (₹)</label>
+                            <input type="number" id="trade-target" step="0.0001" placeholder="₹" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="trade-stop">Stop-Loss Price (₹)</label>
+                            <input type="number" id="trade-stop" step="0.0001" placeholder="₹" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="trade-date">Entry Date</label>
+                        <input type="date" id="trade-date" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline" id="modal-cancel-btn">Cancel</button>
+                <button type="submit" form="log-trade-form" class="btn btn-primary" id="modal-submit-btn">Save Position</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Floating Action Button for Mobile Chat -->
     <button id="mobile-chat-toggle" class="chat-fab">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
         </svg>
         <span class="chat-badge" id="chat-badge">1</span>
