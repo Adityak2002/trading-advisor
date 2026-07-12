@@ -65,6 +65,8 @@ jobs:
         run: python scripts/score.py --mode stock
 
       - name: Step 5 — Generate stock delivery report
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_report.py --mode stock
 
       # ── 6. Send Email — Only once daily (last run at 15:30 IST) or manual ────

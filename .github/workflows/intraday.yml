@@ -64,6 +64,8 @@ jobs:
         run: python scripts/score_intraday.py
 
       - name: Step 4 — Generate intraday report
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_intraday_report.py
 
       # ── 5. Send Email — Every 2 hours (even-hour UTC crons) or manual ─────────

@@ -15,6 +15,7 @@ import logging
 from datetime import datetime, timedelta
 
 from config import get_mode_config, REPORTS_DIR
+from gemini_helper import get_gemini_summary
 
 logging.basicConfig(
     level=logging.INFO,
@@ -71,23 +72,21 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
     candidates = [x for x in ranked if x["meets_entry"]]
     watching   = [x for x in ranked if not x["meets_entry"] and x["orb_status"] != "breakout_short"]
 
-    lines = []
-
     # ── Header ───────────────────────────────────────────────────────────────
     lines.append(f"# 📈 Intraday Report — {today_str}")
     lines.append("")
-    lines.append(f"> Auto-generated at **{time_str} IST** | Strategy: Opening Range Breakout (ORB) | Capital: ₹{position_sizing['total_capital']:,} | Hard Square-Off: {exit_rules['hard_squareoff_time']} IST")
+    lines.append(f"> Auto-generated at **{time_str} IST** | Strategy: Opening Price Breakout | Capital: ₹{position_sizing['total_capital']:,} | Square-Off Time: {exit_rules['hard_squareoff_time']} IST")
     lines.append("")
     lines.append("---")
     lines.append("")
 
     # ── Strategy Summary ─────────────────────────────────────────────────────
-    lines.append("## 🎯 Strategy: Opening Range Breakout (ORB)")
+    lines.append("## 🎯 Strategy Summary")
     lines.append("")
-    lines.append(f"- **Opening Range Period:** First {entry_rules['orb_period_minutes']} minutes of the session (9:15–9:30 IST)")
-    lines.append(f"- **Buy Signal:** Price breaks above the OR High with ≥{entry_rules['min_volume_multiplier']}× average volume")
-    lines.append(f"- **Target:** +{exit_rules['profit_target_pct']*100:.1f}% per trade | **Stop Loss:** -{exit_rules['stop_loss_pct']*100:.1f}% | **R:R = 2:1**")
-    lines.append(f"- **Hard Square-Off:** {exit_rules['hard_squareoff_time']} IST — NO overnight positions")
+    lines.append(f"- **Opening Price Range:** Monitored during first {entry_rules['orb_period_minutes']} minutes (9:15–9:30 AM)")
+    lines.append(f"- **Buy Signal:** Price breaks above the opening high with a strong volume surge (≥{entry_rules['min_volume_multiplier']}× average volume)")
+    lines.append(f"- **Exit Target:** +{exit_rules['profit_target_pct']*100:.1f}% profit | **Stop Loss:** -{exit_rules['stop_loss_pct']*100:.1f}% risk | **R:R = 3:1**")
+    lines.append(f"- **No Overnight Positions:** Auto-closes at **{exit_rules['hard_squareoff_time']} IST** to prevent overnight risk")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -95,21 +94,21 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
     # ── All Stocks Snapshot ───────────────────────────────────────────────────
     lines.append("## 📊 Watchlist Snapshot")
     lines.append("")
-    lines.append("| Ticker | Price (₹) | ORB Status | Score | RSI | VWAP | Vol Mult | Entry? |")
-    lines.append("|--------|-----------|------------|-------|-----|------|----------|--------|")
-
+    lines.append("| Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |")
+    lines.append("|--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|")
     for item in ranked:
         t   = item["ticker"]
         sig = signals.get(t, {})
         icon = status_icon(item["orb_status"])
-        entry_str = "🎯" if item["meets_entry"] else "—"
-        vwap_str  = "✅" if sig.get("price_above_vwap") else "❌"
+        entry_str = "🎯 BUY" if item["meets_entry"] else "—"
+        vwap_str  = "✅ Yes" if sig.get("price_above_vwap") else "❌ No"
         vol_m = sig.get("volume_multiplier", 0)
         vol_str = f"{vol_m:.1f}×" if vol_m > 0 else "—"
+        status_label = "Broken Out 🔼" if item["orb_status"] == "breakout_long" else "Broken Down 🔽" if item["orb_status"] == "breakout_short" else "Inside Range ▶"
 
         lines.append(
-            f"| **{t}** | ₹{sig.get('current_price', 0):,.2f} | {icon} {item['orb_status']} "
-            f"| {item['composite_score']:.1f} | {sig.get('rsi', 0):.1f} "
+            f"| **{t}** | ₹{sig.get('current_price', 0):,.2f} | {icon} {status_label} "
+            f"| {item['composite_score']:.1f}/100 | {sig.get('rsi', 0):.0f} "
             f"| {vwap_str} | {vol_str} | {entry_str} |"
         )
 
@@ -119,7 +118,7 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
 
     # ── Entry Candidates ─────────────────────────────────────────────────────
     if candidates:
-        lines.append("## 🎯 Entry Candidates")
+        lines.append("## 🎯 Active Buy Signals (Entry Candidates)")
         lines.append("")
 
         for item in candidates:
@@ -129,46 +128,53 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
 
             lines.append(f"### {status_icon(item['orb_status'])} {t}")
             lines.append("")
-            lines.append(f"**Composite Score: {item['composite_score']:.1f}/100** | ORB Range: ₹{sig.get('orb_low', 0):.2f} – ₹{sig.get('orb_high', 0):.2f} ({sig.get('orb_range_pct', 0):.2f}% wide)")
+            lines.append(f"**Action Rating:** Strong (Score: {item['composite_score']:.1f}/100) | Opening Range: ₹{sig.get('orb_low', 0):.2f} – ₹{sig.get('orb_high', 0):.2f}")
             lines.append("")
-            lines.append("| Level | Price | Notes |")
-            lines.append("|-------|-------|-------|")
-            lines.append(f"| 🟢 **Entry**  | ₹{levels['entry']:.2f} | 0.1% above ORB High |")
-            lines.append(f"| 🎯 **Target** | ₹{levels['target']:.2f} | +{exit_rules['profit_target_pct']*100:.1f}% from entry |")
-            lines.append(f"| 🔴 **Stop**   | ₹{levels['stop']:.2f} | -{exit_rules['stop_loss_pct']*100:.1f}% from entry |")
+            lines.append("| Action | Price | Notes |")
+            lines.append("|---|---|---|")
+            add_buffer = entry_rules.get("breakout_buffer_pct", 0.001) * 100
+            lines.append(f"| 🟢 **Buy Trigger** | **₹{levels['entry']:.2f}** | Buy if price breaks above ORB high (with {add_buffer:.1f}% buffer) |")
+            lines.append(f"| 🎯 **Target (Profit)** | **₹{levels['target']:.2f}** | Auto-sell at +{exit_rules['profit_target_pct']*100:.1f}% profit |")
+            lines.append(f"| 🛑 **Stop-Loss** | **₹{levels['stop']:.2f}** | Auto-sell at -{exit_rules['stop_loss_pct']*100:.1f}% to limit loss |")
             lines.append("")
-            lines.append(f"**Position:** {levels['shares']} shares × ₹{levels['entry']:.2f} = **₹{levels['capital_deployed']:,}** deployed | Risk: ₹{levels['risk_amount']:.0f} | R:R = {levels['risk_reward']}:1")
+            lines.append(f"**Recommended Trade:** Buy **{levels['shares']} shares** (Total Investment: **₹{levels['capital_deployed']:,}** | Max Risk if stop hit: ₹{levels['risk_amount']:.0f})")
             lines.append("")
 
             ec = item["entry_conditions"]
-            lines.append("**Entry Checklist:**")
-            lines.append(f"- {format_condition(ec.get('orb_breakout_confirmed', False))} ORB Long Breakout Confirmed")
-            lines.append(f"- {format_condition(ec.get('volume_sufficient', False))} Volume Multiplier ≥ {entry_rules['min_volume_multiplier']}×")
-            lines.append(f"- {format_condition(ec.get('price_above_vwap', False))} Price Above VWAP (₹{sig.get('vwap', 0):.2f})")
-            lines.append(f"- {format_condition(ec.get('rsi_not_overbought', False))} RSI ≤ {entry_rules['rsi_max']} (Current: {sig.get('rsi', 0):.1f})")
-            lines.append(f"- {format_condition(ec.get('score_sufficient', False))} Composite Score ≥ {entry_rules['min_composite_score']}")
-            lines.append(f"- {format_condition(ec.get('time_ok', False))} Entry Window Open (before {entry_rules['max_entry_time_ist']} IST)")
+            lines.append("**Simple Entry Checklist:**")
+            lines.append(f"- {format_condition(ec.get('orb_breakout_confirmed', False))} Price has broken above the opening high")
+            lines.append(f"- {format_condition(ec.get('volume_sufficient', False))} Strong buying volume confirmed ({sig.get('volume_multiplier', 0):.1f}x vs target {entry_rules['min_volume_multiplier']}x)")
+            lines.append(f"- {format_condition(ec.get('price_above_vwap', False))} Price is trading above daily average price (₹{sig.get('vwap', 0):.2f})")
+            lines.append(f"- {format_condition(ec.get('rsi_not_overbought', False))} Stock is not overbought / over-extended (Momentum: {sig.get('rsi', 0):.1f})")
+            lines.append(f"- {format_condition(ec.get('score_sufficient', False))} Setup strength rating is high (Score ≥ {entry_rules['min_composite_score']})")
+            lines.append(f"- {format_condition(ec.get('time_ok', False))} Trade window is open (must enter before {entry_rules['max_entry_time_ist']} IST)")
+            lines.append("")
+            
+            lines.append("> **Action on Groww:**")
+            lines.append(f"> 1. Search `{t.replace('.NS', '')}` ➔ Buy **{levels['shares']} shares** at limit order of **₹{levels['entry']:.2f}**")
+            lines.append(f"> 2. Immediately place GTC/GTT Sell order at **₹{levels['target']:.2f}** (Target)")
+            lines.append(f"> 3. Place GTC/GTT Stop-Loss Sell order at **₹{levels['stop']:.2f}** (Stop)")
             lines.append("")
             lines.append("---")
             lines.append("")
     else:
-        lines.append("## 🎯 Entry Candidates")
+        lines.append("## 🎯 Active Buy Signals (Entry Candidates)")
         lines.append("")
-        lines.append("> **No confirmed ORB breakouts at this time.** Monitoring the watchlist for developing setups.")
+        lines.append("> **No active buy signals at this time.** Watchlist is stable, waiting for opening range breakouts.")
         lines.append("")
         lines.append("---")
         lines.append("")
 
     # ── Stocks to Watch ───────────────────────────────────────────────────────
     if watching:
-        lines.append("## 👁️ Stocks Building Setup (Inside ORB Range)")
+        lines.append("## 👁️ Stocks to Watch (Building Setup)")
         lines.append("")
-        lines.append("| Ticker | Current Price | ORB High | ORB Low | RSI | VWAP |")
-        lines.append("|--------|--------------|----------|---------|-----|------|")
+        lines.append("| Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |")
+        lines.append("|--------|--------------|--------------|-------------|----------|----------------------|")
         for item in watching[:6]:
             t   = item["ticker"]
             sig = signals.get(t, {})
-            vwap_str = "✅" if sig.get("price_above_vwap") else "❌"
+            vwap_str = "🟢 Yes" if sig.get("price_above_vwap") else "🔴 No"
             lines.append(
                 f"| {t} | ₹{sig.get('current_price', 0):,.2f} "
                 f"| ₹{sig.get('orb_high', 0):.2f} | ₹{sig.get('orb_low', 0):.2f} "
@@ -179,13 +185,13 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
         lines.append("")
 
     # ── Risk Reminders ────────────────────────────────────────────────────────
-    lines.append("## ⚠️ Risk Management Rules")
+    lines.append("## ⚠️ Crucial Risk Management Rules")
     lines.append("")
-    lines.append(f"- 🕒 **Hard Square-Off at {exit_rules['hard_squareoff_time']} IST** — Close ALL positions regardless of P&L.")
-    lines.append(f"- 🛑 Max **{position_sizing['max_positions']} concurrent positions** — Do not over-trade.")
-    lines.append(f"- 📉 Risk max **₹{position_sizing['total_capital'] * position_sizing['risk_per_trade_pct']:.0f} per trade** ({position_sizing['risk_per_trade_pct']*100:.0f}% of corpus).")
-    lines.append(f"- 🚫 **Never average down** on an intraday position — exit if stop is hit.")
-    lines.append(f"- ⚡ Trailing stop activates at +{exit_rules['trailing_trigger_pct']*100:.1f}% — trail {exit_rules['trailing_stop_pct']*100:.1f}% below running high.")
+    lines.append(f"- 🕒 **Auto-Close at {exit_rules['hard_squareoff_time']} IST** ➔ Exit all positions before market close, no overnight carries.")
+    lines.append(f"- 🛑 Max **{position_sizing['max_positions']} trades at once** ➔ Keep focus tight, do not over-trade.")
+    lines.append(f"- 📉 Risk cap: **₹{position_sizing['total_capital'] * position_sizing['risk_per_trade_pct']:.0f} max loss per trade** ({position_sizing['risk_per_trade_pct']*100:.0f}% of capital).")
+    lines.append(f"- 🚫 **Never add to a losing trade** ➔ If the stop loss is triggered, exit immediately.")
+    lines.append(f"- ⚡ Trailing stop moves to breakeven at +{exit_rules['trailing_trigger_pct']*100:.1f}% profit (trails {exit_rules['trailing_stop_pct']*100:.1f}% below highs).")
     lines.append("")
 
     return "\n".join(lines)
@@ -206,9 +212,17 @@ def main():
 
     report = build_report(signals, scores, cfg)
 
+    try:
+        print("Generating AI Insights Summary...")
+        ai_summary = get_gemini_summary(report)
+        full_report = f"# 🤖 Gemini AI Insights\n\n{ai_summary}\n\n---\n\n{report}"
+    except Exception as e:
+        print(f"Error generating AI Summary: {e}")
+        full_report = report
+
     os.makedirs(REPORTS_DIR, exist_ok=True)
     with open(cfg["report_file"], "w", encoding="utf-8") as f:
-        f.write(report)
+        f.write(full_report)
 
     # Archive dated copy
     ist_now = get_ist_now()

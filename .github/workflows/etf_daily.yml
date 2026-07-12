@@ -61,6 +61,8 @@ jobs:
         run: python scripts/score.py --mode etf
 
       - name: Step 5 — Generate ETF report
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_report.py --mode etf
 
       - name: Step 6 — Send Email Notification

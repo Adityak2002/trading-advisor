@@ -70,17 +70,15 @@ WATCHLIST = {
 
 STOCK_DELIVERY_WATCHLIST = {
 
-    # ── Large-Cap Anchors (lower beta, high liquidity) ───────────────────────
-    # Used as stabilisers — reliable trends, less headline risk.
-    "large_caps": [
+    # ── Long-Term Hold (lower beta, high liquidity, consistent compounders) ──
+    "long_term": [
         "ICICIBANK.NS",       # ICICI Bank — best-in-class private bank
         "HDFCBANK.NS",        # HDFC Bank — consistent compounder
         "RELIANCE.NS",        # Reliance Industries — diversified behemoth
     ],
 
-    # ── Quality Mid-Caps (growth + liquid) ──────────────────────────────────
-    # Strong business moats + part of infra/digital/consumption cycle.
-    "quality_midcaps": [
+    # ── Short-Term Fundamentally Strong (growth + liquid, strong momentum) ──
+    "short_term_fundamentally_strong": [
         "CDSL.NS",            # Central Depository — market infra monopoly
         "POLYCAB.NS",         # Polycab — cables + wires, infra capex
         "BAJFINANCE.NS",      # Bajaj Finance — NBFC leader, trend follower
@@ -174,8 +172,8 @@ INTRADAY_ENTRY_RULES = {
     "min_composite_score":      55,    # Higher bar — intraday capital at stake
     "orb_period_minutes":       15,    # Opening range = first 15 minutes (9:15–9:30 IST)
     "breakout_buffer_pct":      0.001, # 0.1% buffer above OR High to confirm breakout
-    "min_volume_multiplier":    1.5,   # Breakout candle volume must be 1.5× 5-min avg
-    "rsi_max":                  75,    # Don't chase if already overbought (RSI > 75)
+    "min_volume_multiplier":    1.8,   # Breakout candle volume must be 1.8× 5-min avg (up from 1.5)
+    "rsi_max":                  70,    # Don't chase if already overbought (RSI > 70, down from 75)
     "max_entry_time_ist":       "13:30",# No new entries after 1:30 PM IST
     "max_open_positions":       2,     # Max concurrent intraday positions
     "require_nifty_trend":      True,  # Only buy when Nifty is trending up intraday
@@ -184,8 +182,8 @@ INTRADAY_ENTRY_RULES = {
 # ── MODE C: INTRADAY — EXIT RULES ────────────────────────────────────────
 
 INTRADAY_EXIT_RULES = {
-    "profit_target_pct":    0.008,  # 0.8% target per trade
-    "stop_loss_pct":        0.004,  # 0.4% stop loss (2:1 R:R)
+    "profit_target_pct":    0.012,  # 1.2% target per trade (up from 0.8% for 3:1 R:R)
+    "stop_loss_pct":        0.004,  # 0.4% stop loss
     "hard_squareoff_time":  "15:10",# Hard square-off time — never carry intraday positions overnight
     "trailing_trigger_pct": 0.005, # Activate trailing stop at +0.5% profit
     "trailing_stop_pct":    0.003, # Trail 0.3% below the running high

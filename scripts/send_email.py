@@ -19,39 +19,7 @@ RECIPIENTS = [
     'adityak2305@gmail.com'
 ]
 
-def get_gemini_summary(report_text: str) -> str:
-    """Fetches AI summary from Gemini API using the exact same prompt as the UI."""
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("Warning: GEMINI_API_KEY not found. Skipping AI summary.")
-        return "AI Summary unavailable (No API Key)."
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={api_key}"
-    
-    prompt = "Provide a concise, high-level summary of the market context, top entry candidates, and any critical warnings or exits. Format your response in clean markdown with bullet points. Keep it punchy and actionable."
-    
-    payload = {
-        "systemInstruction": {
-            "parts": [{"text": f"You are an expert quantitative trading analyst. Review the following automated trading report.\n\nReport Context:\n{report_text}"}]
-        },
-        "contents": [
-            { "role": "user", "parts": [{"text": prompt}] }
-        ],
-        "generationConfig": {
-            "temperature": 0.2,
-            "maxOutputTokens": 1024,
-        }
-    }
-
-    try:
-        response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload)
-        response.raise_for_status()
-        data = response.json()
-        summary = data.get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
-        return summary if summary else "No insights generated."
-    except Exception as e:
-        print(f"Error calling Gemini API: {e}")
-        return f"Error generating summary: {e}"
+from gemini_helper import get_gemini_summary
 
 def send_email(subject: str, html_content: str, text_content: str):
     """Sends the email using SMTP."""
@@ -100,11 +68,13 @@ def main():
     with open(report_file, "r", encoding="utf-8") as f:
         report_text = f.read()
 
-    print(f"Generating AI Summary for {mode_label}...")
-    ai_summary = get_gemini_summary(report_text)
-
-    # Combine summary and report
-    full_markdown = f"""# 🤖 Gemini AI Insights\n\n{ai_summary}\n\n---\n\n{report_text}"""
+    if "# 🤖 Gemini AI Insights" in report_text:
+        print("AI Insights already present in report. Using report as is.")
+        full_markdown = report_text
+    else:
+        print(f"AI Insights missing. Generating AI Summary for {mode_label}...")
+        ai_summary = get_gemini_summary(report_text)
+        full_markdown = f"""# 🤖 Gemini AI Insights\n\n{ai_summary}\n\n---\n\n{report_text}"""
     
     # Convert to HTML for the email body
     html_body = f"""

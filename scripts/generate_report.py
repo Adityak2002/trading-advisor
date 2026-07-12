@@ -28,6 +28,7 @@ from config import (
     MACRO_CACHE, NEWS_CACHE, REPORTS_DIR,
     VIX_THRESHOLDS,
 )
+from gemini_helper import get_gemini_summary
 
 logging.basicConfig(
     level=logging.INFO,
@@ -413,10 +414,10 @@ def performance_summary(history_file: str) -> Optional[dict]:
 def _etf_entry_checklist(cand: dict, sig: dict) -> list[str]:
     ec = cand["entry_conditions"]
     return [
-        f"- {'✅' if ec['rsi_oversold'] else '❌'} RSI < 38 &nbsp; *(actual: {sig['rsi']:.1f})*",
-        f"- {'✅' if ec['above_ema50'] else '❌'} Price > EMA50 &nbsp; *(EMA50: ₹{sig['ema50']:,.4f})*",
-        f"- {'✅' if ec['volume_confirmed'] else '❌'} Volume Z-score ≥ 1.5 &nbsp; *(actual: {sig['volume_zscore']:.2f})*",
-        f"- {'✅' if ec['score_sufficient'] else '❌'} Composite score ≥ 40 &nbsp; *(actual: {cand['composite_score']:.1f})*",
+        f"- {'✅' if ec['rsi_oversold'] else '❌'} ETF is oversold/cheap *(Momentum RSI: {sig['rsi']:.1f})*",
+        f"- {'✅' if ec['above_ema50'] else '❌'} Long-term uptrend is intact *(Price above 50-day average)*",
+        f"- {'✅' if ec['volume_confirmed'] else '❌'} High buying interest confirmed by volume *(Volume Z-score: {sig['volume_zscore']:.2f})*",
+        f"- {'✅' if ec['score_sufficient'] else '❌'} Overall setup is strong *(Score: {cand['composite_score']:.1f}/100)*",
     ]
 
 
@@ -428,13 +429,13 @@ def _stock_entry_checklist(cand: dict, sig: dict) -> list[str]:
     ec = cand["entry_conditions"]
     dist_pct = sig.get("ema21_proximity_pct", 0) * 100
     return [
-        f"- {'✅' if ec['rsi_pullback_zone'] else '❌'} RSI in 42–55 (healthy pullback) &nbsp; *(actual: {sig['rsi']:.1f})*",
-        f"- {'✅' if ec['ema21_above_ema50'] else '❌'} EMA21 > EMA50 (medium uptrend intact) &nbsp; *(EMA21: ₹{sig['ema21']:,.4f} | EMA50: ₹{sig['ema50']:,.4f})*",
-        f"- {'✅' if ec['price_near_ema21'] else '❌'} Price within 4% of EMA21 &nbsp; *(distance: {dist_pct:+.2f}%)*",
-        f"- {'✅' if ec['volume_calm'] else '❌'} Volume Z-score ≤ 2.0 (calm pullback) &nbsp; *(actual: {sig['volume_zscore']:.2f})*",
-        f"- {'✅' if ec['score_sufficient'] else '❌'} Composite score ≥ 50 &nbsp; *(actual: {cand['composite_score']:.1f})*",
-        f"- {'✅' if ec.get('nifty_trend_ok', True) else '❌'} Nifty above 20-EMA (market trend gate)",
-        f"- {'✅' if ec.get('sector_strength_ok', True) else '❌'} Sector not underperforming Nifty by >3%",
+        f"- {'✅' if ec['rsi_pullback_zone'] else '❌'} Stock is not too expensive / overbought *(Momentum RSI: {sig['rsi']:.1f})*",
+        f"- {'✅' if ec['ema21_above_ema50'] else '❌'} Medium-term trend is upward *(EMA21: ₹{sig['ema21']:,.2f} > EMA50: ₹{sig['ema50']:,.2f})*",
+        f"- {'✅' if ec['price_near_ema21'] else '❌'} Price is in a good buying zone (near 21-day average) *(distance: {dist_pct:+.2f}%)*",
+        f"- {'✅' if ec['volume_calm'] else '❌'} No panic selling / volume is stable *(Volume multiplier: {sig['volume_zscore']:.2f})*",
+        f"- {'✅' if ec['score_sufficient'] else '❌'} Overall setup is strong *(Score: {cand['composite_score']:.1f}/100)*",
+        f"- {'✅' if ec.get('nifty_trend_ok', True) else '❌'} Overall market trend is stable (Nifty above 20-day average)",
+        f"- {'✅' if ec.get('sector_strength_ok', True) else '❌'} Sector is performing well compared to Nifty",
     ]
 
 
@@ -601,124 +602,222 @@ def build_report(
     add("")
 
     if candidates:
-        for i, cand in enumerate(candidates, 1):
-            sig  = cand["signals_snapshot"]
-            comp = cand["component_scores"]
-            vixf = cand["vix_factor"]
+        if mode == "stock":
+            long_term_cands = [c for c in candidates if c["category"] == "long_term"]
+            short_term_cands = [c for c in candidates if c["category"] == "short_term_fundamentally_strong"]
 
-            add(f"### #{i} — {cand['ticker']}")
-            add(f"**Composite Score:** {cand['composite_score']:.1f} / 100 &nbsp;|&nbsp; "
-                f"**Strategy:** {cfg['label']} &nbsp;|&nbsp; "
-                f"**Category:** {cand['category'].replace('_', ' ').title()}")
+            # 1. Print Long term
+            add("### 📁 Category A: Long-Term Hold")
+            add("Premium, highly stable blue-chip companies suitable for longer holding periods.")
             add("")
+            if long_term_cands:
+                for idx, cand in enumerate(long_term_cands, 1):
+                    sig  = cand["signals_snapshot"]
+                    comp = cand["component_scores"]
+                    vixf = cand["vix_factor"]
 
-            if vixf < 1.0:
-                add(f"> ⚠️ Position sized at **{int(vixf*100)}%** of normal due to elevated VIX")
-                add("")
+                    add(f"#### #{idx} — {cand['ticker']}")
+                    add(f"**Action Rating:** {'Strong' if cand['composite_score'] >= 65 else 'Moderate'} (Score: {cand['composite_score']:.1f}/100)")
+                    add("")
+                    if vixf < 1.0:
+                        add(f"> ⚠️ Position size reduced to **{int(vixf*100)}%** due to elevated market volatility (VIX)")
+                        add("")
 
-            add("| Field | Value |")
-            add("|-------|-------|")
-            add(f"| Current Price | ₹{cand['current_price']:,.4f} |")
-            add(f"| 🟢 **Buy at (market/limit)** | **₹{cand['current_price']:,.4f}** |")
-            add(f"| **Shares to Buy** | **{cand['shares']}** |")
-            add(f"| **Capital to Deploy** | **₹{cand['capital_to_deploy']:,.2f}** |")
-            add(f"| 🎯 **Target Price (+{profit_pct}%)** | **₹{cand['target_price']:,.4f}** |")
-            add(f"| 🛑 **Stop-Loss ({exit_rules['stop_loss_atr_multiplier']}×ATR)** | **₹{cand['stop_price']:,.4f}** |")
-            add(f"| ATR(14) | ₹{cand['atr14']:.4f} |")
-            add(f"| Max Risk (if stop hit) | ₹{cand['risk_amount']:,.2f} ({cand['risk_pct']:.2f}% of deployed) |")
-            add(f"| Risk Budget (ATR-sized) | ₹{cand.get('risk_budget', 0):,.2f} |")
-            if mode == "stock":
-                hold_hint = f"~{exit_rules['max_hold_days']} trading days (~4 weeks)"
-                add(f"| Expected Hold Period | {hold_hint} |")
-            add("")
+                    add("| Action Details | Value | Notes |")
+                    add("|---|---|---|")
+                    add(f"| 🟢 **Buy Price** | **₹{cand['current_price']:,.2f}** | Buy at market or limit |")
+                    add(f"| **Shares to Buy** | **{cand['shares']}** | Sized to limit your risk |")
+                    add(f"| **Investment Amount** | **₹{cand['capital_to_deploy']:,.2f}** | Total capital to deploy |")
+                    add(f"| 🎯 **Target Price (+{profit_pct}%)** | **₹{cand['target_price']:,.2f}** | Target exit for profit |")
+                    add(f"| 🛑 **Stop-Loss** | **₹{cand['stop_price']:,.2f}** | Hard exit to cut losses |")
+                    add(f"| Max Risk | ₹{cand['risk_amount']:,.2f} | Only {cand['risk_pct']:.2f}% of investment at risk |")
+                    hold_hint = f"~{exit_rules['max_hold_days']} trading days (~4 weeks)"
+                    add(f"| Holding Time | {hold_hint} | Expected duration |")
+                    add("")
 
-            # Signal breakdown
-            add("**Signal Breakdown:**")
-            add("")
-            add("| Indicator | Raw Value | Signal |")
-            add("|-----------|-----------|--------|")
-            add(f"| RSI(14) | {sig['rsi']:.1f} | {comp.get('rsi_signal', 0):+.3f} |")
-            add(f"| EMA Trend | {'🟢 EMA9>21' if sig['ema9_above_ema21'] else '🔴 EMA9<21'}"
-                f"{'  🔔Fresh!' if sig.get('fresh_bullish_cross') else ''} | {comp.get('ema_signal', 0):+.3f} |")
+                    add("**Simple Buying Checklist:**")
+                    for line in _stock_entry_checklist(cand, sig):
+                        add(line)
+                    add("")
 
-            if mode == "stock":
-                dist_pct = sig.get("ema21_proximity_pct", 0) * 100
-                add(f"| EMA21 Proximity | {dist_pct:+.2f}% from EMA21 {'🟢' if sig.get('price_near_ema21') else '🔴'} | {comp.get('pullback_signal', 0):+.3f} |")
+                    add("> **Action on Groww:**")
+                    add(f"> 1. Search `{cand['ticker'].replace('.NS', '')}` ➔ Buy **{cand['shares']} shares** at market")
+                    add(f"> 2. Immediately place GTT sell order at **₹{cand['target_price']:,.2f}** (Target)")
+                    add(f"> 3. Place GTT Stop-Loss sell order at **₹{cand['stop_price']:,.2f}**")
+                    add(f"> 4. Run `python scripts/update_position.py --mode stock` to log this trade")
+                    add("")
             else:
-                add(f"| Bollinger | {'Below Lower 🟢' if sig['price_below_bb_lower'] else 'Above Lower'} | {comp.get('bb_signal', 0):+.3f} |")
+                add("*No long-term candidates currently meeting entry conditions.*")
+                add("")
 
-            add(f"| Volume Z-score | {sig['volume_zscore']:.2f} | {comp.get('volume_signal', 0):+.3f} |")
-            add(f"| News Sentiment | — | {comp.get('news_signal', 0):+.3f} |")
-            add(f"| Macro Filter | — | {comp.get('macro_signal', 0):+.3f} |")
+            # 2. Print Short term
+            add("### 📁 Category B: Short-Term Fundamentally Strong")
+            add("High-growth quality stocks entering a strong pullback/momentum setup.")
             add("")
+            if short_term_cands:
+                for idx, cand in enumerate(short_term_cands, 1):
+                    sig  = cand["signals_snapshot"]
+                    comp = cand["component_scores"]
+                    vixf = cand["vix_factor"]
 
-            # Entry checklist
-            if mode == "stock":
-                add("**Entry Checklist** *(all 7 must be ✅)*")
-                add("")
-                for line in _stock_entry_checklist(cand, sig):
-                    add(line)
+                    add(f"#### #{idx} — {cand['ticker']}")
+                    add(f"**Action Rating:** {'Strong' if cand['composite_score'] >= 65 else 'Moderate'} (Score: {cand['composite_score']:.1f}/100)")
+                    add("")
+                    if vixf < 1.0:
+                        add(f"> ⚠️ Position size reduced to **{int(vixf*100)}%** due to elevated market volatility (VIX)")
+                        add("")
+
+                    add("| Action Details | Value | Notes |")
+                    add("|---|---|---|")
+                    add(f"| 🟢 **Buy Price** | **₹{cand['current_price']:,.2f}** | Buy at market or limit |")
+                    add(f"| **Shares to Buy** | **{cand['shares']}** | Sized to limit your risk |")
+                    add(f"| **Investment Amount** | **₹{cand['capital_to_deploy']:,.2f}** | Total capital to deploy |")
+                    add(f"| 🎯 **Target Price (+{profit_pct}%)** | **₹{cand['target_price']:,.2f}** | Target exit for profit |")
+                    add(f"| 🛑 **Stop-Loss** | **₹{cand['stop_price']:,.2f}** | Hard exit to cut losses |")
+                    add(f"| Max Risk | ₹{cand['risk_amount']:,.2f} | Only {cand['risk_pct']:.2f}% of investment at risk |")
+                    hold_hint = f"~{exit_rules['max_hold_days']} trading days (~4 weeks)"
+                    add(f"| Holding Time | {hold_hint} | Expected duration |")
+                    add("")
+
+                    add("**Simple Buying Checklist:**")
+                    for line in _stock_entry_checklist(cand, sig):
+                        add(line)
+                    add("")
+
+                    add("> **Action on Groww:**")
+                    add(f"> 1. Search `{cand['ticker'].replace('.NS', '')}` ➔ Buy **{cand['shares']} shares** at market")
+                    add(f"> 2. Immediately place GTT sell order at **₹{cand['target_price']:,.2f}** (Target)")
+                    add(f"> 3. Place GTT Stop-Loss sell order at **₹{cand['stop_price']:,.2f}**")
+                    add(f"> 4. Run `python scripts/update_position.py --mode stock` to log this trade")
+                    add("")
             else:
-                add("**Entry Checklist** *(all 4 must be ✅)*")
+                add("*No short-term fundamentally strong candidates currently meeting entry conditions.*")
                 add("")
+        else:
+            # ETF mode
+            for i, cand in enumerate(candidates, 1):
+                sig  = cand["signals_snapshot"]
+                comp = cand["component_scores"]
+                vixf = cand["vix_factor"]
+
+                add(f"### #{i} — {cand['ticker']}")
+                add(f"**Action Rating:** {'Strong' if cand['composite_score'] >= 55 else 'Moderate'} (Score: {cand['composite_score']:.1f}/100)")
+                add("")
+                if vixf < 1.0:
+                    add(f"> ⚠️ Position size reduced to **{int(vixf*100)}%** due to elevated market volatility (VIX)")
+                    add("")
+
+                add("| Action Details | Value | Notes |")
+                add("|---|---|---|")
+                add(f"| 🟢 **Buy Price** | **₹{cand['current_price']:,.2f}** | Buy at market or limit |")
+                add(f"| **Shares to Buy** | **{cand['shares']}** | Sized to limit your risk |")
+                add(f"| **Investment Amount** | **₹{cand['capital_to_deploy']:,.2f}** | Total capital to deploy |")
+                add(f"| 🎯 **Target Price (+{profit_pct}%)** | **₹{cand['target_price']:,.2f}** | Target exit for profit |")
+                add(f"| 🛑 **Stop-Loss** | **₹{cand['stop_price']:,.2f}** | Hard exit to cut losses |")
+                add(f"| Max Risk | ₹{cand['risk_amount']:,.2f} | Only {cand['risk_pct']:.2f}% of investment at risk |")
+                add("")
+
+                add("**Simple Buying Checklist:**")
                 for line in _etf_entry_checklist(cand, sig):
                     add(line)
-            add("")
+                add("")
 
-            # Groww action
-            add("> **Action on Groww:**")
-            add(f"> 1. Search `{cand['ticker'].replace('.NS', '')}` → Buy **{cand['shares']} shares** at market")
-            add(f"> 2. Immediately place GTT (Good-Till-Triggered) sell at **₹{cand['target_price']:,.2f}** (target)")
-            add(f"> 3. Place Stop-Loss sell at **₹{cand['stop_price']:,.2f}**")
-            if mode == "stock":
-                add(f"> 4. Run `python scripts/update_position.py --mode stock` to record the trade")
-            else:
-                add(f"> 4. Run `python scripts/update_position.py --mode etf` to record the trade")
-            add("")
+                add("> **Action on Groww:**")
+                add(f"> 1. Search `{cand['ticker'].replace('.NS', '')}` ➔ Buy **{cand['shares']} shares** at market")
+                add(f"> 2. Immediately place GTT sell order at **₹{cand['target_price']:,.2f}** (Target)")
+                add(f"> 3. Place Stop-Loss sell order at **₹{cand['stop_price']:,.2f}**")
+                add(f"> 4. Run `python scripts/update_position.py --mode etf` to log this trade")
+                add("")
 
     else:
         add("*No entry candidates right now. All conditions not met or max positions reached.*")
         add("")
 
         # Near-miss watchlist
-        ranked    = sorted(scores.values(), key=lambda x: x["composite_score"], reverse=True)
-        near_miss = [x for x in ranked if not x["meets_entry"]][:5]
+        ranked = sorted(scores.values(), key=lambda x: x["composite_score"], reverse=True)
+        if mode == "stock":
+            long_term_miss = [x for x in ranked if not x["meets_entry"] and x["category"] == "long_term"][:3]
+            short_term_miss = [x for x in ranked if not x["meets_entry"] and x["category"] == "short_term_fundamentally_strong"][:3]
 
-        if near_miss:
-            add("**🔍 Monitor These (Getting Closer):**")
-            add("")
-            add("| Ticker | Score | Blocking Reason |")
-            add("|--------|-------|-----------------|")
-            for item in near_miss:
-                tk  = item["ticker"]
-                sig = signals.get(tk, {})
-                ec  = item["entry_conditions"]
-                reasons = []
-                if mode == "stock":
-                    if not ec.get("rsi_pullback_zone"):
-                        reasons.append(f"RSI={sig.get('rsi',0):.0f} (need 42–55)")
-                    if not ec.get("ema21_above_ema50"):
-                        reasons.append("EMA21 < EMA50")
-                    if not ec.get("price_near_ema21"):
-                        dist = sig.get("ema21_proximity_pct", 0) * 100
-                        reasons.append(f"Price {dist:+.1f}% from EMA21 (need ±4%)")
-                    if not ec.get("volume_calm"):
-                        reasons.append(f"VolZ={sig.get('volume_zscore',0):.1f} (need ≤2.0)")
-                    if not ec.get("nifty_trend_ok", True):
-                        reasons.append("Nifty below 20-EMA ❌")
-                    if not ec.get("sector_strength_ok", True):
-                        reasons.append("Sector underperforming ❌")
-                else:
+            if long_term_miss or short_term_miss:
+                add("**🔍 Monitor These (Getting Closer):**")
+                add("")
+                if long_term_miss:
+                    add("#### 📁 Long-Term Hold Watchlist")
+                    add("| Ticker | Score | Blocking Reason |")
+                    add("|--------|-------|-----------------|")
+                    for item in long_term_miss:
+                        tk  = item["ticker"]
+                        sig = signals.get(tk, {})
+                        ec  = item["entry_conditions"]
+                        reasons = []
+                        if not ec.get("rsi_pullback_zone"):
+                            reasons.append(f"RSI={sig.get('rsi',0):.0f} (need 42–55)")
+                        if not ec.get("ema21_above_ema50"):
+                            reasons.append("EMA21 < EMA50")
+                        if not ec.get("price_near_ema21"):
+                            dist = sig.get("ema21_proximity_pct", 0) * 100
+                            reasons.append(f"Price {dist:+.1f}% from EMA21 (need ±4%)")
+                        if not ec.get("volume_calm"):
+                            reasons.append(f"VolZ={sig.get('volume_zscore',0):.1f} (need ≤2.0)")
+                        if not ec.get("nifty_trend_ok", True):
+                            reasons.append("Nifty below 20-EMA ❌")
+                        if not ec.get("sector_strength_ok", True):
+                            reasons.append("Sector underperforming ❌")
+                        if not ec.get("score_sufficient"):
+                            reasons.append(f"Score={item['composite_score']:.0f} (need ≥50)")
+                        add(f"| {tk} | {item['composite_score']:.1f} | {' · '.join(reasons)} |")
+                    add("")
+
+                if short_term_miss:
+                    add("#### 📁 Short-Term Fundamentally Strong Watchlist")
+                    add("| Ticker | Score | Blocking Reason |")
+                    add("|--------|-------|-----------------|")
+                    for item in short_term_miss:
+                        tk  = item["ticker"]
+                        sig = signals.get(tk, {})
+                        ec  = item["entry_conditions"]
+                        reasons = []
+                        if not ec.get("rsi_pullback_zone"):
+                            reasons.append(f"RSI={sig.get('rsi',0):.0f} (need 42–55)")
+                        if not ec.get("ema21_above_ema50"):
+                            reasons.append("EMA21 < EMA50")
+                        if not ec.get("price_near_ema21"):
+                            dist = sig.get("ema21_proximity_pct", 0) * 100
+                            reasons.append(f"Price {dist:+.1f}% from EMA21 (need ±4%)")
+                        if not ec.get("volume_calm"):
+                            reasons.append(f"VolZ={sig.get('volume_zscore',0):.1f} (need ≤2.0)")
+                        if not ec.get("nifty_trend_ok", True):
+                            reasons.append("Nifty below 20-EMA ❌")
+                        if not ec.get("sector_strength_ok", True):
+                            reasons.append("Sector underperforming ❌")
+                        if not ec.get("score_sufficient"):
+                            reasons.append(f"Score={item['composite_score']:.0f} (need ≥50)")
+                        add(f"| {tk} | {item['composite_score']:.1f} | {' · '.join(reasons)} |")
+                    add("")
+        else:
+            # ETF Mode near miss watchlist
+            near_miss = [x for x in ranked if not x["meets_entry"]][:5]
+            if near_miss:
+                add("**🔍 Monitor These (Getting Closer):**")
+                add("")
+                add("| Ticker | Score | Blocking Reason |")
+                add("|--------|-------|-----------------|")
+                for item in near_miss:
+                    tk  = item["ticker"]
+                    sig = signals.get(tk, {})
+                    ec  = item["entry_conditions"]
+                    reasons = []
                     if not ec.get("rsi_oversold"):
                         reasons.append(f"RSI={sig.get('rsi',0):.0f} (need <38)")
                     if not ec.get("above_ema50"):
                         reasons.append("Below EMA50")
                     if not ec.get("volume_confirmed"):
                         reasons.append(f"VolZ={sig.get('volume_zscore',0):.1f} (need ≥1.5)")
-                if not ec.get("score_sufficient"):
-                    reasons.append(f"Score={item['composite_score']:.0f} (need ≥{entry_rules.get('min_composite_score',40)})")
-                add(f"| {tk} | {item['composite_score']:.1f} | {' · '.join(reasons)} |")
-            add("")
+                    if not ec.get("score_sufficient"):
+                        reasons.append(f"Score={item['composite_score']:.0f} (need ≥40)")
+                    add(f"| {tk} | {item['composite_score']:.1f} | {' · '.join(reasons)} |")
+                add("")
 
     # ── News ──────────────────────────────────────────────────────────────────
     add("---")
@@ -860,8 +959,17 @@ def main():
         today_str, open_pos, closed_pos, candidates,
         scores, signals, macro_data, news_data, cfg
     )
+
+    try:
+        print("Generating AI Insights Summary...")
+        ai_summary = get_gemini_summary(report)
+        full_report = f"# 🤖 Gemini AI Insights\n\n{ai_summary}\n\n---\n\n{report}"
+    except Exception as e:
+        print(f"Error generating AI Summary: {e}")
+        full_report = report
+
     with open(cfg["report_file"], "w", encoding="utf-8") as f:
-        f.write(report)
+        f.write(full_report)
 
     # Archive a copy into a date-based folder
     dated_dir = os.path.join(REPORTS_DIR, today_str)
