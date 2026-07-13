@@ -146,7 +146,7 @@ INTRADAY_WATCHLIST = [
     "INFY.NS",         # Infosys — liquid IT large-cap
     "TCS.NS",          # TCS — liquid, responds to global IT cues
     "SBIN.NS",         # SBI — PSU bank, high-beta
-    "TATAMOTORS.NS",   # Tata Motors — high-beta, EV plays
+    "TMPV.NS",         # TMPV (Tata Motors Passenger Vehicles) — high-beta, EV plays
     "BAJFINANCE.NS",   # Bajaj Finance — NBFC, high-beta
     "AXISBANK.NS",     # Axis Bank — private bank, clean mover
     "ADANIENT.NS",     # Adani Enterprises — volatile, high-beta
