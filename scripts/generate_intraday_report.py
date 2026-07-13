@@ -72,6 +72,8 @@ def build_report(signals: dict, scores: dict, cfg: dict) -> str:
     candidates = [x for x in ranked if x["meets_entry"]]
     watching   = [x for x in ranked if not x["meets_entry"] and x["orb_status"] != "breakout_short"]
 
+    lines = []
+
     # ── Header ───────────────────────────────────────────────────────────────
     lines.append(f"# 📈 Intraday Report — {today_str}")
     lines.append("")
