@@ -1,16 +1,22 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report for **July 15, 2026**:
+Here is your quick, actionable summary of today’s trading report:
 
-### 🌍 Market Context: Proceed with Caution
-*   **Overall Signal:** 🟡 **Mildly Bullish.** The Indian market is stable, but global cues are weak.
-*   **The Good:** India's fear index (VIX) is low at **13.19** (down 4%), meaning there is no domestic panic. You can trade with normal position sizes.
-*   **The Bad:** US markets fell overnight (NASDAQ down 1.5
+### 🌍 Market Context: **Proceed with Caution** 🟡
+* **Domestic Stability:** The Indian market (**Nifty 50**) is flat (-0.02%), but market fear (**India VIX**) has dropped by **4.73%** to a low 13.10. This low fear level means it is safe to deploy capital.
+* **Global Headwinds:** US markets fell overnight (NASDAQ down **-1.55%**), which may limit aggressive upward moves today. 
+
+---
+
+### 🎯 Top Entry Candidate: **Pidilite Industries (PIDILITIND.NS)** 🟢
+A high-quality stock entering a prime buying zone. 
+* **Action:** **BUY 4 shares** at or near **₹1,591.90** (Total investment: ~₹6,367.60).
+* **Target (Profit):** **₹1,75
 
 ---
 
 # 📈 Stock Delivery Report — 2026-07-15
-> *Auto-generated at 09:44 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 11:38 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -20,19 +26,19 @@ Here is your high-level, actionable summary of the trading report for **July 15,
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,194.45 | 📉 -0.07% |
-| India VIX | 13.19 | 📉 -4.05% |
+| Nifty 50 | 24,206.60 | 📉 -0.02% |
+| India VIX | 13.10 | 📉 -4.73% |
 | S&P 500 (overnight) | 7,515.34 | 📉 -0.79% |
 | NASDAQ | 25,873.18 | 📉 -1.55% |
-| WTI Crude Oil | $80.00 | 📈 +0.83% |
-| USD / INR | 96.1130 | 📉 -0.19% |
+| WTI Crude Oil | $79.70 | 📈 +0.45% |
+| USD / INR | 96.1650 | 📉 -0.14% |
 
 **Key Factors:**
-- VIX 13.2 — Low fear 🟢 (full sizing)
+- VIX 13.1 — Low fear 🟢 (full sizing)
 - S&P 500 -0.79% — Negative overnight cues 📉
 - NASDAQ -1.55% — Tech bearish
-- WTI Crude $80.00 (+0.83%) — Neutral for OILIETF
-- USD/INR 96.11 (-0.193%) — USD stable
+- WTI Crude $79.70 (+0.45%) — Neutral for OILIETF
+- USD/INR 96.17 (-0.139%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -44,7 +50,7 @@ Here is your high-level, actionable summary of the trading report for **July 15,
 | Capital Deployed | ₹3,410.00 |
 | Idle Cash | ₹6,590.00 |
 | Open Positions | 1 / 2 |
-| Running P&L | 📈 ₹+6.00 |
+| Running P&L | 📉 ₹-10.50 |
 
 ---
 ## 📂 Open Positions
@@ -54,14 +60,14 @@ Here is your high-level, actionable summary of the trading report for **July 15,
 |-------|-------|
 | Entry Date | 2026-07-13 |
 | Entry Price | ₹341.0000 |
-| Current Price | ₹341.6000 |
+| Current Price | ₹339.9500 |
 | Shares | 10 |
 | Capital Deployed | ₹3,410.00 |
 | 🎯 Target (+10%) | **₹380.1000** |
 | 🛑 Stop-Loss | **₹320.0000** |
-| P&L | 📈 **₹+6.00 (+0.18%)** |
-| Distance to Target | 11.27% remaining |
-| Distance to Stop | 6.32% buffer |
+| P&L | 📉 **₹-10.50 (-0.31%)** |
+| Distance to Target | 11.81% remaining |
+| Distance to Stop | 5.87% buffer |
 | Trading Days Held | 2 / 20 |
 | Action | ✅ **HOLD** |
 
@@ -77,31 +83,31 @@ Premium, highly stable blue-chip companies suitable for longer holding periods.
 High-growth quality stocks entering a strong pullback/momentum setup.
 
 #### #1 — PIDILITIND.NS
-**Action Rating:** Strong (Score: 72.2/100)
+**Action Rating:** Strong (Score: 78.2/100)
 
 | Action Details | Value | Notes |
 |---|---|---|
-| 🟢 **Buy Price** | **₹1,584.70** | Buy at market or limit |
+| 🟢 **Buy Price** | **₹1,591.90** | Buy at market or limit |
 | **Shares to Buy** | **4** | Sized to limit your risk |
-| **Investment Amount** | **₹6,338.80** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,743.17** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹1,512.06** | Hard exit to cut losses |
-| Max Risk | ₹290.57 | Only 4.58% of investment at risk |
+| **Investment Amount** | **₹6,367.60** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,751.09** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹1,519.01** | Hard exit to cut losses |
+| Max Risk | ₹291.57 | Only 4.58% of investment at risk |
 | Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
 **Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 51.5)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,576.50 > EMA50: ₹1,530.08)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.52%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -1.22)*
-- ✅ Overall setup is strong *(Score: 72.2/100)*
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 53.2)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,577.16 > EMA50: ₹1,530.37)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.93%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -0.38)*
+- ✅ Overall setup is strong *(Score: 78.2/100)*
 - ✅ Overall market trend is stable (Nifty above 20-day average)
 - ✅ Sector is performing well compared to Nifty
 
 > **Action on Groww:**
 > 1. Search `PIDILITIND` ➔ Buy **4 shares** at market
-> 2. Immediately place GTT sell order at **₹1,743.17** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹1,512.06**
+> 2. Immediately place GTT sell order at **₹1,751.09** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹1,519.01**
 > 4. Run `python scripts/update_position.py --mode stock` to log this trade
 
 ---
@@ -114,17 +120,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ANGELONE.NS | 72.2 | 54 | 🟢 | ✅ | -1.7 | 🎯 ENTRY |
-| 2 | PIDILITIND.NS | 72.2 | 51 | 🟢 | ✅ | -1.2 | 🎯 ENTRY |
-| 3 | POLYCAB.NS | 69.2 | 45 | 🟢 | ✅ | -1.1 | 🎯 ENTRY |
-| 4 | HDFCBANK.NS | 50.2 | 60 | 🟢 | ✅ | -2.0 | 👀 Watch |
-| 5 | ICICIBANK.NS | 27.8 | 65 | 🟢 | ✅ | -2.0 | ⏸ Skip |
-| 6 | BAJFINANCE.NS | 27.8 | 67 | 🟢 | ✅ | -1.6 | ⏸ Skip |
-| 7 | CDSL.NS | 15.8 | 71 | 🟢 | — | -0.8 | ⏸ Skip |
-| 8 | TITAN.NS | 15.8 | 77 | 🟢 | ✅ | -1.1 | ⏸ Skip |
-| 9 | KEI.NS | -26.8 | 35 | 🟢 | — | -1.1 | ⏸ Skip |
-| 10 | HAVELLS.NS | -33.8 | 54 | 🔴 | — | -1.3 | ⏸ Skip |
-| 11 | RELIANCE.NS | -45.8 | 45 | 🔴 | — | -1.8 | ⏸ Skip |
+| 1 | PIDILITIND.NS | 78.2 | 53 | 🟢 | ✅ | -0.4 | 🎯 ENTRY |
+| 2 | ANGELONE.NS | 72.2 | 53 | 🟢 | ✅ | -1.0 | 🎯 ENTRY |
+| 3 | POLYCAB.NS | 69.2 | 43 | 🟢 | ✅ | -0.6 | 🎯 ENTRY |
+| 4 | HDFCBANK.NS | 50.2 | 61 | 🟢 | ✅ | -1.8 | 👀 Watch |
+| 5 | ICICIBANK.NS | 27.8 | 65 | 🟢 | ✅ | -1.5 | ⏸ Skip |
+| 6 | BAJFINANCE.NS | 27.8 | 66 | 🟢 | ✅ | -1.4 | ⏸ Skip |
+| 7 | CDSL.NS | 15.8 | 71 | 🟢 | — | -0.6 | ⏸ Skip |
+| 8 | TITAN.NS | 15.8 | 78 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 9 | KEI.NS | -26.8 | 34 | 🟢 | — | -0.9 | ⏸ Skip |
+| 10 | HAVELLS.NS | -33.8 | 54 | 🔴 | — | -1.0 | ⏸ Skip |
+| 11 | RELIANCE.NS | -45.8 | 46 | 🔴 | — | -1.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -132,6 +138,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-15 09:44 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-15 11:38 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
