@@ -1,14 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+### 📊 Trading Summary: 2026-07-16
 
-### 🌍 Market Health: **🟢 Bullish & Stable**
-*   **Low Fear:** The India VIX (fear
+The market remains in a **"Wait and See"** phase. With low volatility (VIX 12.9) and a neutral sentiment, the strategy is currently prioritizing capital preservation over aggressive expansion.
+
+#### **Market Context**
+*   **Sentiment:** Neutral/Stable. Global cues are slightly positive, but local indices are flat.
+*   **Risk Profile:** Low. The VIX is at a healthy level, suggesting no immediate panic, but lack of momentum is keeping new entries on hold.
+*   **Portfolio Health:** Currently holding one position (**ANGELONE**) at a minor loss (-1.82%).
+
+#### **Top Entry Candidates (Watchlist)**
+*   **PIDILITIND.NS:** The primary candidate. It is currently at the edge of the buy zone (RSI 42). If it holds this level, it is the most likely next entry.
+*   **HDFCBANK.NS & ICICIBANK.NS:** Both are fundamentally strong and on the radar. They are currently slightly "overheated" (RSI > 55); wait for a minor cooling-off period before considering an entry.
+
+#### **Critical Warnings & Exits**
+*   **Active Position (ANGELONE):** Currently holding. You have a **4.42% buffer** before hitting your stop-loss (₹320). Maintain the current plan; do not exit unless the stop-loss is triggered.
+*   **Capital Management:** You have **65% of your capital sitting idle**. Do not force trades to deploy this cash; wait for the "Momentum Pullback" criteria to be met to maintain your edge.
+*   **Avoid:** **RELIANCE.NS** and **HAVELLS.NS**. Both are currently showing poor technical alignment (EMA trends are broken) and should be avoided until the trend reverses.
+
+***
+
+**Action Plan:** Stay patient. Monitor **PIDILITIND** for a potential entry and keep a close eye on the **ANGELONE** stop-loss level.
 
 ---
 
 # 📈 Stock Delivery Report — 2026-07-16
-> *Auto-generated at 15:27 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 17:07 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -18,18 +35,18 @@ Here is your high-level, actionable summary of the trading report:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,069.40 | 📉 -0.04% |
-| India VIX | 12.88 | 📉 -2.96% |
+| Nifty 50 | 24,072.75 | 📉 -0.02% |
+| India VIX | 12.88 | 📉 -2.92% |
 | S&P 500 (overnight) | 7,572.40 | 📈 +0.38% |
 | NASDAQ | 26,269.23 | 📈 +0.62% |
-| WTI Crude Oil | $79.63 | 📈 +0.04% |
-| USD / INR | 96.3500 | 📉 -0.08% |
+| WTI Crude Oil | $79.38 | 📉 -0.28% |
+| USD / INR | 96.3350 | 📉 -0.09% |
 
 **Key Factors:**
 - VIX 12.9 — Low fear 🟢 (full sizing)
 - S&P 500 +0.38% — Neutral
-- WTI Crude $79.63 (+0.04%) — Neutral for OILIETF
-- USD/INR 96.35 (-0.078%) — USD stable
+- WTI Crude $79.38 (-0.28%) — Neutral for OILIETF
+- USD/INR 96.33 (-0.094%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -41,7 +58,7 @@ Here is your high-level, actionable summary of the trading report:
 | Capital Deployed | ₹3,410.00 |
 | Idle Cash | ₹6,590.00 |
 | Open Positions | 1 / 2 |
-| Running P&L | 📉 ₹-66.00 |
+| Running P&L | 📉 ₹-62.00 |
 
 ---
 ## 📂 Open Positions
@@ -51,14 +68,14 @@ Here is your high-level, actionable summary of the trading report:
 |-------|-------|
 | Entry Date | 2026-07-13 |
 | Entry Price | ₹341.0000 |
-| Current Price | ₹334.4000 |
+| Current Price | ₹334.8000 |
 | Shares | 10 |
 | Capital Deployed | ₹3,410.00 |
 | 🎯 Target (+10%) | **₹380.1000** |
 | 🛑 Stop-Loss | **₹320.0000** |
-| P&L | 📉 **₹-66.00 (-1.94%)** |
-| Distance to Target | 13.67% remaining |
-| Distance to Stop | 4.31% buffer |
+| P&L | 📉 **₹-62.00 (-1.82%)** |
+| Distance to Target | 13.53% remaining |
+| Distance to Stop | 4.42% buffer |
 | Trading Days Held | 3 / 20 |
 | Action | ✅ **HOLD** |
 
@@ -74,14 +91,14 @@ Here is your high-level, actionable summary of the trading report:
 |--------|-------|-----------------|
 | HDFCBANK.NS | 62.0 | RSI=56 (need 42–55) |
 | ICICIBANK.NS | 58.0 | RSI=60 (need 42–55) |
-| RELIANCE.NS | -38.0 | EMA21 < EMA50 · Price -0.5% from EMA21 (need ±4%) · Score=-38 (need ≥50) |
+| RELIANCE.NS | -35.0 | EMA21 < EMA50 · Price -0.4% from EMA21 (need ±4%) · Score=-35 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
 | PIDILITIND.NS | 68.0 | RSI=42 (need 42–55) |
 | CDSL.NS | 35.5 | RSI=65 (need 42–55) · Score=36 (need ≥50) |
-| BAJFINANCE.NS | 35.5 | RSI=68 (need 42–55) · Price +4.1% from EMA21 (need ±4%) · Score=36 (need ≥50) |
+| BAJFINANCE.NS | 35.5 | RSI=68 (need 42–55) · Score=36 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -93,17 +110,17 @@ Here is your high-level, actionable summary of the trading report:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | PIDILITIND.NS | 68.0 | 42 | 🟢 | ✅ | -0.2 | 👀 Watch |
+| 1 | PIDILITIND.NS | 68.0 | 42 | 🟢 | ✅ | -0.1 | 👀 Watch |
 | 2 | HDFCBANK.NS | 62.0 | 56 | 🟢 | ✅ | -1.0 | 👀 Watch |
 | 3 | ICICIBANK.NS | 58.0 | 60 | 🟢 | ✅ | -0.4 | 👀 Watch |
 | 4 | CDSL.NS | 35.5 | 65 | 🟢 | ✅ | -0.4 | 👀 Watch |
-| 5 | BAJFINANCE.NS | 35.5 | 68 | 🟢 | — | 0.1 | 👀 Watch |
+| 5 | BAJFINANCE.NS | 35.5 | 68 | 🟢 | ✅ | 0.1 | 👀 Watch |
 | 6 | TITAN.NS | 23.5 | 82 | 🟢 | ✅ | 0.3 | ⏸ Skip |
 | 7 | ANGELONE.NS | 5.0 | 50 | 🟢 | ✅ | 3.6 | ⏸ Skip |
 | 8 | POLYCAB.NS | -3.5 | 43 | 🟢 | — | 1.6 | ⏸ Skip |
-| 9 | KEI.NS | -11.0 | 39 | 🟢 | — | -0.2 | ⏸ Skip |
-| 10 | RELIANCE.NS | -38.0 | 43 | 🔴 | — | 0.5 | ⏸ Skip |
-| 11 | HAVELLS.NS | -44.0 | 48 | 🔴 | — | 0.4 | ⏸ Skip |
+| 9 | KEI.NS | -11.0 | 40 | 🟢 | — | -0.2 | ⏸ Skip |
+| 10 | RELIANCE.NS | -35.0 | 43 | 🔴 | — | 0.6 | ⏸ Skip |
+| 11 | HAVELLS.NS | -44.0 | 48 | 🔴 | — | 0.5 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -111,6 +128,6 @@ Here is your high-level, actionable summary of the trading report:
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-16 15:27 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-16 17:07 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
