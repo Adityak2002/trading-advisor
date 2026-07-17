@@ -10,11 +10,11 @@
     "status": "open",
     "days_held": 4,
     "mode": "stock",
-    "current_price": 328.5,
-    "current_pnl": -125.0,
-    "current_pnl_pct": -3.666,
-    "pct_to_target": 15.708,
-    "pct_to_stop": 2.588,
+    "current_price": 328.95,
+    "current_pnl": -120.5,
+    "current_pnl_pct": -3.534,
+    "pct_to_target": 15.549,
+    "pct_to_stop": 2.721,
     "exit_flag": null
   }
 ]
