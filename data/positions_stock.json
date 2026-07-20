@@ -8,13 +8,13 @@
     "target_price": 380.1,
     "stop_price": 320,
     "status": "open",
-    "days_held": 4,
+    "days_held": 5,
     "mode": "stock",
-    "current_price": 328.95,
-    "current_pnl": -120.5,
-    "current_pnl_pct": -3.534,
-    "pct_to_target": 15.549,
-    "pct_to_stop": 2.721,
+    "current_price": 324.65,
+    "current_pnl": -163.5,
+    "current_pnl_pct": -4.795,
+    "pct_to_target": 17.08,
+    "pct_to_stop": 1.432,
     "exit_flag": null
   }
 ]
