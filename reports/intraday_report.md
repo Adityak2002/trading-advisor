@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is your high-level, actionable summary of today's trading setup:
 
 ### 📈 Market Context
-The market is showing selective bullish momentum. While several stocks broke above their morning opening ranges,
+The market is showing highly selective momentum today. While heavyweights like Reliance and H
 
 ---
 
 # 📈 Intraday Report — 2026-07-20
 
-> Auto-generated at **16:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
