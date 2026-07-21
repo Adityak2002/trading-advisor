@@ -1,20 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading setup as of **11:53 AM IST**:
+Here is a high-level, actionable summary of the trading report as of **13:00 IST**:
 
-### 📉 Market Context: Bearish Morning
-* **Downward Pressure:** The market is showing significant weakness today. Out of the 12 stocks on our watchlist, **9 have broken down** below their morning opening ranges. 
-* **No Buy Signals:** Because the market is trending downward, **no active buy signals** have been triggered yet. We are patiently waiting for upside breakouts.
-
-### 👀 Top Entry Candidate to Watch
-* **ADANIENT.NS (Adani Enterprises):** This is currently our strongest candidate. 
-  * **Why:** It is holding steady inside its morning range, trading above its average price, and showing decent upward momentum (
+### 📉 Market Context: Strongly Bearish (Downward Trend)
+* **Heavy Selling Pressure:** The market is showing significant weakness today. Out of the 12 watched stocks, **9 have broken down** below their morning lows, while the remaining 3 are stuck trading sideways. 
+* **High Volume on the Drop:** Major stocks like Reliance, ICICI Bank, and TCS are falling on high volume (over 2x their average), confirming that sellers are firmly in control. 
+* **No Upward Momentum:** Not a single stock on the watchlist
 
 ---
 
 # 📈 Intraday Report — 2026-07-21
 
-> Auto-generated at **11:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -31,18 +28,18 @@ Here is a high-level, actionable summary of today’s trading setup as of **11:5
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹3,195.80 | ▶ Inside Range ▶ | 6.3/100 | 55 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹1,065.70 | ▶ Inside Range ▶ | -2.6/100 | 14 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,253.90 | ▶ Inside Range ▶ | -3.4/100 | 23 | ❌ No | — | — |
-| **INFY.NS** | ₹1,076.70 | 🔽 Broken Down 🔽 | -4.2/100 | 61 | ❌ No | 2.0× | — |
-| **ICICIBANK.NS** | ₹1,464.10 | 🔽 Broken Down 🔽 | -4.6/100 | 52 | ✅ Yes | 1.9× | — |
-| **TCS.NS** | ₹2,226.40 | 🔽 Broken Down 🔽 | -9.0/100 | 45 | ❌ No | 2.1× | — |
-| **RELIANCE.NS** | ₹1,312.70 | 🔽 Broken Down 🔽 | -12.6/100 | 38 | ❌ No | 2.2× | — |
-| **WIPRO.NS** | ₹175.00 | 🔽 Broken Down 🔽 | -15.8/100 | 34 | ❌ No | 2.0× | — |
-| **TMPV.NS** | ₹333.30 | 🔽 Broken Down 🔽 | -19.6/100 | 38 | ❌ No | 1.6× | — |
-| **SBIN.NS** | ₹1,049.60 | 🔽 Broken Down 🔽 | -22.8/100 | 31 | ❌ No | 1.6× | — |
-| **POWERGRID.NS** | ₹286.10 | 🔽 Broken Down 🔽 | -22.8/100 | 14 | ❌ No | 1.4× | — |
-| **HDFCBANK.NS** | ₹765.40 | 🔽 Broken Down 🔽 | -23.6/100 | 28 | ❌ No | 0.7× | — |
+| **BAJFINANCE.NS** | ₹1,066.60 | ▶ Inside Range ▶ | 5.4/100 | 56 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹3,193.60 | ▶ Inside Range ▶ | 1.3/100 | 58 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,253.50 | ▶ Inside Range ▶ | -0.1/100 | 48 | ❌ No | — | — |
+| **ICICIBANK.NS** | ₹1,464.60 | 🔽 Broken Down 🔽 | -1.6/100 | 56 | ✅ Yes | 2.3× | — |
+| **TCS.NS** | ₹2,221.60 | 🔽 Broken Down 🔽 | -12.2/100 | 42 | ❌ No | 2.2× | — |
+| **WIPRO.NS** | ₹174.70 | 🔽 Broken Down 🔽 | -15.2/100 | 43 | ❌ No | 1.9× | — |
+| **RELIANCE.NS** | ₹1,307.50 | 🔽 Broken Down 🔽 | -15.8/100 | 25 | ❌ No | 2.4× | — |
+| **INFY.NS** | ₹1,071.30 | 🔽 Broken Down 🔽 | -15.8/100 | 33 | ❌ No | 2.1× | — |
+| **SBIN.NS** | ₹1,050.00 | 🔽 Broken Down 🔽 | -16.2/100 | 51 | ❌ No | 1.5× | — |
+| **HDFCBANK.NS** | ₹766.00 | 🔽 Broken Down 🔽 | -17.0/100 | 54 | ❌ No | 0.8× | — |
+| **TMPV.NS** | ₹332.25 | 🔽 Broken Down 🔽 | -22.8/100 | 33 | ❌ No | 1.8× | — |
+| **POWERGRID.NS** | ₹284.80 | 🔽 Broken Down 🔽 | -22.8/100 | 12 | ❌ No | 1.6× | — |
 
 ---
 
@@ -56,9 +53,9 @@ Here is a high-level, actionable summary of today’s trading setup as of **11:5
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹3,195.80 | ₹3212.10 | ₹3180.00 | 55.3 | 🟢 Yes |
-| BAJFINANCE.NS | ₹1,065.70 | ₹1067.50 | ₹1061.40 | 13.7 | 🔴 No |
-| AXISBANK.NS | ₹1,253.90 | ₹1258.50 | ₹1246.10 | 23.1 | 🔴 No |
+| BAJFINANCE.NS | ₹1,066.60 | ₹1067.50 | ₹1061.40 | 56.1 | 🔴 No |
+| ADANIENT.NS | ₹3,193.60 | ₹3212.10 | ₹3180.00 | 57.6 | 🔴 No |
+| AXISBANK.NS | ₹1,253.50 | ₹1258.50 | ₹1246.10 | 47.8 | 🔴 No |
 
 ---
 
