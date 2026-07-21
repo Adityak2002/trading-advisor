@@ -1,15 +1,16 @@
 # 🤖 Gemini AI Insights
 
-Here is a punchy, high-level summary of the trading report for **July 21, 2026**:
+Here is a high-level, actionable summary of the trading report for **July 21, 2026**:
 
-### 📉 Market Context: Highly Bearish Day
-* **Domin
+### 📉 Market Context: Highly Bearish
+* **Dominant Downward Trend:** The market experienced heavy selling pressure today. Out of the 12 watchlist stocks, **9 broke down** below their opening ranges (including giants like HDFCBANK, RELIANCE, and SBIN). 
+* **Isolated Strength:** Only one stock managed a successful upward breakout, indicating a very weak
 
 ---
 
 # 📈 Intraday Report — 2026-07-21
 
-> Auto-generated at **15:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:38 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
