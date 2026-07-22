@@ -1,21 +1,26 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the afternoon trading session:
+### 📊 Market Summary: 2026-07-22
 
-### 📉 Market Context: Bearish & Weak
-* **Overall Sentiment:** The market is showing significant weakness today. Out of the 12 watched stocks, **8 have broken down** below their morning lows, and only 1 has broken out to the upside. 
-* **Lack of Buying Pressure:** Most stocks are trading below their average daily prices, indicating sellers are currently in control.
+The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening range. There is a notable lack of bullish momentum, meaning the "Opening Price Breakout" strategy is currently sidelined.
 
-### 🔍 Top Entry Candidates (On Watch)
-* **No Active Buy Signals:** There are currently **zero** immediate buy recommendations because no stock has met the required volume surge (at least 1.8× average volume) to confirm a safe breakout.
-* **Top Stock to Watch:** 
-  * **POWERGRID.NS (₹288.95):** This is the strongest
+#### 🎯 Top Entry Candidates
+*   **POWERGRID.NS:** The only stock currently trading above its opening high. While it has broken out, it lacks the required volume surge (0.5x vs. 1.8x threshold). **Action:** Monitor for a volume spike before considering entry.
+*   **WIPRO.NS & TCS.NS:** Both are currently "Inside Range." These are your primary candidates to watch for a potential breakout if market sentiment shifts.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The strategy has triggered zero entries today due to strict volume and breakout requirements. **Do not force trades.**
+*   **Bearish Bias:** Most tracked stocks (Reliance, HDFC Bank, SBI, etc.) have broken their opening lows with significant volume. This indicates strong selling pressure; avoid "bottom fishing."
+*   **Hard Exit Rule:** If you do enter a position, the system will **automatically liquidate all holdings at 15:10 IST**. Do not hold any positions overnight.
+*   **Risk Cap:** If you manually override and enter, strictly adhere to the **₹100 max loss per trade** limit.
+
+**Bottom Line:** The market is currently unfavorable for this specific breakout strategy. Stay patient and wait for a clear, high-volume move above the opening high before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-07-22
 
-> Auto-generated at **13:44 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -32,18 +37,18 @@ Here is your high-level, actionable summary of the afternoon trading session:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **POWERGRID.NS** | ₹288.95 | 🔼 Broken Out 🔼 | 14.1/100 | 77 | ✅ Yes | 0.5× | — |
-| **ADANIENT.NS** | ₹3,182.10 | ▶ Inside Range ▶ | 10.5/100 | 60 | ✅ Yes | — | — |
-| **WIPRO.NS** | ₹174.47 | ▶ Inside Range ▶ | 9.1/100 | 55 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,238.60 | ▶ Inside Range ▶ | -3.2/100 | 58 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,290.90 | 🔽 Broken Down 🔽 | -4.0/100 | 58 | ❌ No | 3.1× | — |
-| **HDFCBANK.NS** | ₹752.95 | 🔽 Broken Down 🔽 | -4.2/100 | 66 | ❌ No | 2.6× | — |
-| **TCS.NS** | ₹2,210.00 | ▶ Inside Range ▶ | -5.3/100 | 36 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,440.80 | 🔽 Broken Down 🔽 | -6.0/100 | 50 | ❌ No | 2.2× | — |
-| **SBIN.NS** | ₹1,024.70 | 🔽 Broken Down 🔽 | -11.2/100 | 68 | ❌ No | 1.8× | — |
-| **TMPV.NS** | ₹328.20 | 🔽 Broken Down 🔽 | -13.8/100 | 34 | ❌ No | 3.4× | — |
-| **BAJFINANCE.NS** | ₹1,060.70 | 🔽 Broken Down 🔽 | -17.0/100 | 56 | ❌ No | 0.9× | — |
-| **INFY.NS** | ₹1,047.90 | 🔽 Broken Down 🔽 | -22.8/100 | 26 | ❌ No | 1.1× | — |
+| **POWERGRID.NS** | ₹288.75 | 🔼 Broken Out 🔼 | 12.9/100 | 33 | ✅ Yes | 0.5× | — |
+| **WIPRO.NS** | ₹174.24 | ▶ Inside Range ▶ | -3.7/100 | 27 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,291.30 | 🔽 Broken Down 🔽 | -4.0/100 | 51 | ❌ No | 3.4× | — |
+| **ICICIBANK.NS** | ₹1,441.70 | 🔽 Broken Down 🔽 | -6.0/100 | 57 | ❌ No | 2.4× | — |
+| **TCS.NS** | ₹2,207.50 | ▶ Inside Range ▶ | -6.7/100 | 38 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹752.45 | 🔽 Broken Down 🔽 | -9.0/100 | 44 | ❌ No | 2.7× | — |
+| **TMPV.NS** | ₹328.35 | 🔽 Broken Down 🔽 | -10.2/100 | 44 | ❌ No | 3.7× | — |
+| **SBIN.NS** | ₹1,024.40 | 🔽 Broken Down 🔽 | -13.0/100 | 53 | ❌ No | 1.8× | — |
+| **INFY.NS** | ₹1,049.70 | 🔽 Broken Down 🔽 | -13.6/100 | 72 | ❌ No | 1.1× | — |
+| **BAJFINANCE.NS** | ₹1,059.60 | 🔽 Broken Down 🔽 | -20.0/100 | 43 | ❌ No | 1.0× | — |
+| **AXISBANK.NS** | ₹1,237.90 | 🔽 Broken Down 🔽 | -20.0/100 | 42 | ❌ No | 0.7× | — |
+| **ADANIENT.NS** | ₹3,145.00 | 🔽 Broken Down 🔽 | -22.8/100 | 22 | ❌ No | 1.1× | — |
 
 ---
 
@@ -57,11 +62,9 @@ Here is your high-level, actionable summary of the afternoon trading session:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| POWERGRID.NS | ₹288.95 | ₹286.10 | ₹284.80 | 77.3 | 🟢 Yes |
-| ADANIENT.NS | ₹3,182.10 | ₹3183.90 | ₹3160.60 | 59.6 | 🟢 Yes |
-| WIPRO.NS | ₹174.47 | ₹174.75 | ₹173.50 | 55.2 | 🟢 Yes |
-| AXISBANK.NS | ₹1,238.60 | ₹1256.90 | ₹1239.40 | 57.7 | 🔴 No |
-| TCS.NS | ₹2,210.00 | ₹2219.60 | ₹2202.80 | 36.2 | 🔴 No |
+| POWERGRID.NS | ₹288.75 | ₹286.10 | ₹284.80 | 33.3 | 🟢 Yes |
+| WIPRO.NS | ₹174.24 | ₹174.75 | ₹173.50 | 26.8 | 🔴 No |
+| TCS.NS | ₹2,207.50 | ₹2219.60 | ₹2202.80 | 38.2 | 🔴 No |
 
 ---
 
