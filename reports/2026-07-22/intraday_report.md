@@ -1,28 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-07-22
+Here is a high-level, actionable summary of the trading report for **July 22, 2026**:
 
-The market is currently exhibiting **weak momentum**, with a majority of the watchlist breaking below their opening range. No stocks met the strict criteria for a "Buy" signal today.
-
-#### 🎯 Top Entry Candidates (Watchlist)
-*   **POWERGRID.NS:** The only stock to successfully break above its opening high. However, it lacks the required volume surge (0.4x vs. 1.8x target) to confirm a high-probability trade.
-*   **WIPRO.NS & HDFCBANK.NS:** Currently trading inside their opening range. Keep these on your radar; if they break above their opening highs with a sudden spike in volume, they become actionable.
-
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The strategy has correctly identified that current conditions do not meet the "Opening Price Breakout" criteria. **Do not force a trade.**
-*   **Bearish Bias:** Most tracked stocks (RELIANCE, ICICIBANK, ADANIENT, etc.) have broken *down* through their opening lows, signaling a lack of buying interest.
-*   **Risk Management:** 
-    *   **Stay Disciplined:** The "No Overnight" rule is absolute. 
-    *   **Volume is Key:** Do not enter any breakout that lacks the 1.8x volume surge; these are "fake-outs" that lead to unnecessary losses.
-    *   **Capital Protection:** With no valid signals, your ₹5,000 capital remains fully protected.
-
-**Bottom Line:** The market is currently in a "wait-and-see" mode. Avoid entering positions until a stock clears its opening high with significant volume.
+### 📉 Market Context: Bearish Bias
+* **Downward Pressure
 
 ---
 
 # 📈 Intraday Report — 2026-07-22
 
-> Auto-generated at **15:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:40 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -40,7 +27,7 @@ The market is currently exhibiting **weak momentum**, with a majority of the wat
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
 | **POWERGRID.NS** | ₹289.00 | 🔼 Broken Out 🔼 | 16.7/100 | 53 | ✅ Yes | 0.4× | — |
-| **WIPRO.NS** | ₹174.41 | ▶ Inside Range ▶ | 8.6/100 | 58 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹174.44 | ▶ Inside Range ▶ | 10.6/100 | 60 | ✅ Yes | — | — |
 | **HDFCBANK.NS** | ₹753.80 | ▶ Inside Range ▶ | 2.6/100 | 67 | ✅ Yes | — | — |
 | **TCS.NS** | ₹2,208.30 | ▶ Inside Range ▶ | 0.3/100 | 51 | ❌ No | — | — |
 | **AXISBANK.NS** | ₹1,238.40 | ▶ Inside Range ▶ | -3.4/100 | 57 | ❌ No | — | — |
@@ -65,7 +52,7 @@ The market is currently exhibiting **weak momentum**, with a majority of the wat
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
 | POWERGRID.NS | ₹289.00 | ₹286.10 | ₹284.80 | 52.6 | 🟢 Yes |
-| WIPRO.NS | ₹174.41 | ₹174.75 | ₹173.50 | 57.5 | 🟢 Yes |
+| WIPRO.NS | ₹174.44 | ₹174.75 | ₹173.50 | 60.0 | 🟢 Yes |
 | HDFCBANK.NS | ₹753.80 | ₹761.25 | ₹754.35 | 66.7 | 🟢 Yes |
 | TCS.NS | ₹2,208.30 | ₹2219.60 | ₹2202.80 | 50.9 | 🔴 No |
 | AXISBANK.NS | ₹1,238.40 | ₹1256.90 | ₹1239.40 | 57.0 | 🔴 No |
