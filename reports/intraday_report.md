@@ -1,15 +1,37 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **July 23, 2026**:
+### 📊 Market Summary: 2026-07-23
 
-### 📈 Market Context
-* **A Split Market
+The market is currently showing a **mixed sentiment** with a clear divergence between IT stocks (showing bullish breakout potential) and Banking/Energy sectors (showing bearish breakdown pressure). Despite several stocks breaking the opening range, the system has not triggered an entry, likely due to strict volume or momentum filters.
+
+---
+
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared the opening high and are currently the strongest candidates for a long position if momentum sustains:
+
+*   **WIPRO.NS:** Strongest candidate with a **2.2× volume surge** and price holding above the opening high.
+*   **INFY.NS:** Solid momentum (58) with a healthy 1.4× volume surge.
+*   **TCS.NS:** Stable breakout, though volume is lower (1.1×); keep on watch for a secondary surge.
+*   **POWERGRID.NS:** Highest momentum score (84), though volume is currently below the required threshold.
+
+---
+
+### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Entries:** The system is currently in "wait-and-see" mode. Do not force trades; wait for the volume surge criteria to be met.
+*   **Avoid Shorting:** The strategy is currently configured for **long-only** breakouts. Ignore the bearish breakdowns (AXISBANK, RELIANCE, etc.) for this specific strategy.
+*   **Strict Risk Cap:** Never risk more than **₹100 (2% of capital)** per trade. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. Do not hold any positions overnight.
+*   **Position Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital protection.
+
+---
+
+**Analyst Note:** The IT sector is leading the breakout activity today. Focus your attention on **WIPRO** and **INFY** as they currently meet the most criteria for a high-probability entry.
 
 ---
 
 # 📈 Intraday Report — 2026-07-23
 
-> Auto-generated at **15:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -30,8 +52,8 @@ Here is a high-level, actionable summary of the trading report for **July 23, 20
 | **INFY.NS** | ₹1,052.90 | 🔼 Broken Out 🔼 | 24.4/100 | 58 | ✅ Yes | 1.4× | — |
 | **TCS.NS** | ₹2,242.90 | 🔼 Broken Out 🔼 | 23.8/100 | 53 | ✅ Yes | 1.1× | — |
 | **POWERGRID.NS** | ₹290.20 | 🔼 Broken Out 🔼 | 11.8/100 | 84 | ✅ Yes | 0.9× | — |
+| **HDFCBANK.NS** | ₹747.25 | ▶ Inside Range ▶ | 4.8/100 | 60 | ✅ Yes | — | — |
 | **ICICIBANK.NS** | ₹1,434.60 | ▶ Inside Range ▶ | -2.0/100 | 51 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹745.50 | ▶ Inside Range ▶ | -4.7/100 | 52 | ❌ No | — | — |
 | **AXISBANK.NS** | ₹1,222.10 | 🔽 Broken Down 🔽 | -9.0/100 | 47 | ❌ No | 2.0× | — |
 | **RELIANCE.NS** | ₹1,272.50 | 🔽 Broken Down 🔽 | -16.0/100 | 50 | ❌ No | 1.3× | — |
 | **SBIN.NS** | ₹1,013.00 | 🔽 Broken Down 🔽 | -16.0/100 | 49 | ❌ No | 1.0× | — |
@@ -55,8 +77,8 @@ Here is a high-level, actionable summary of the trading report for **July 23, 20
 | INFY.NS | ₹1,052.90 | ₹1046.00 | ₹1032.50 | 58.2 | 🟢 Yes |
 | TCS.NS | ₹2,242.90 | ₹2210.40 | ₹2193.80 | 52.5 | 🟢 Yes |
 | POWERGRID.NS | ₹290.20 | ₹289.60 | ₹287.00 | 83.6 | 🟢 Yes |
+| HDFCBANK.NS | ₹747.25 | ₹749.40 | ₹746.15 | 59.9 | 🟢 Yes |
 | ICICIBANK.NS | ₹1,434.60 | ₹1445.50 | ₹1433.60 | 50.6 | 🔴 No |
-| HDFCBANK.NS | ₹745.50 | ₹749.40 | ₹746.15 | 52.2 | 🔴 No |
 
 ---
 
