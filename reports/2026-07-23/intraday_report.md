@@ -1,28 +1,14 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-07-23
+Here is a concise, actionable summary of the trading report for **July 23, 2026 (13:48 IST)**:
 
-The market is currently exhibiting **bearish sentiment**, with a significant number of major banking and index stocks (ICICI, HDFC, SBI, Reliance) breaking below their opening range with high volume. There are currently **no valid buy signals** based on your Opening Price Breakout strategy.
-
-#### 🎯 Top Entry Candidates (Watchlist)
-*   **TCS.NS:** The only stock showing a clean breakout above the opening high. However, it is currently **missing the required volume surge** (1.7x vs. the 1.8x threshold). Keep on high alert.
-*   **WIPRO.NS:** Currently trading inside the opening range. It is holding above its average price, making it a potential candidate if it breaks the opening high with volume.
-
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** Do not force entries. The current market breadth is skewed toward the downside, which is unfavorable for your "Long-only" breakout strategy.
-*   **Volume Discipline:** Do not enter TCS.NS until the volume surge hits the 1.8x requirement. Discipline is key to avoiding "fake-out" moves.
-*   **Risk Management:** 
-    *   Strictly adhere to the **₹100 max loss per trade**.
-    *   If you enter a position, ensure the **trailing stop-loss** is activated once the trade hits +0.5% profit.
-    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
-
-**Action Plan:** Remain in "Wait and Watch" mode. Focus exclusively on TCS and Wipro; ignore the bearish momentum in the banking sector as it does not align with your long-only strategy.
+### 🌐 Market Context
 
 ---
 
 # 📈 Intraday Report — 2026-07-23
 
-> Auto-generated at **12:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +25,18 @@ The market is currently exhibiting **bearish sentiment**, with a significant num
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TCS.NS** | ₹2,223.90 | 🔼 Broken Out 🔼 | 21.0/100 | 55 | ✅ Yes | 1.7× | — |
-| **WIPRO.NS** | ₹174.45 | ▶ Inside Range ▶ | 11.5/100 | 51 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,043.90 | ▶ Inside Range ▶ | 2.3/100 | 40 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹289.25 | ▶ Inside Range ▶ | -1.1/100 | 38 | ❌ No | — | — |
-| **TMPV.NS** | ₹326.30 | ▶ Inside Range ▶ | -4.7/100 | 46 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,047.60 | ▶ Inside Range ▶ | -10.0/100 | 31 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,276.70 | 🔽 Broken Down 🔽 | -12.6/100 | 25 | ❌ No | 2.0× | — |
-| **ICICIBANK.NS** | ₹1,429.00 | 🔽 Broken Down 🔽 | -13.8/100 | 35 | ❌ No | 10.6× | — |
-| **AXISBANK.NS** | ₹1,222.10 | 🔽 Broken Down 🔽 | -15.8/100 | 26 | ❌ No | 2.5× | — |
-| **HDFCBANK.NS** | ₹744.10 | 🔽 Broken Down 🔽 | -19.6/100 | 27 | ❌ No | 1.7× | — |
-| **SBIN.NS** | ₹1,008.60 | 🔽 Broken Down 🔽 | -22.8/100 | 29 | ❌ No | 1.2× | — |
-| **ADANIENT.NS** | ₹3,039.00 | 🔽 Broken Down 🔽 | -26.0/100 | 15 | ❌ No | 1.3× | — |
+| **WIPRO.NS** | ₹174.72 | 🔼 Broken Out 🔼 | 24.8/100 | 48 | ✅ Yes | 2.6× | — |
+| **TCS.NS** | ₹2,235.90 | 🔼 Broken Out 🔼 | 18.4/100 | 85 | ✅ Yes | 1.6× | — |
+| **INFY.NS** | ₹1,044.40 | ▶ Inside Range ▶ | 2.7/100 | 41 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,014.70 | ▶ Inside Range ▶ | -1.7/100 | 68 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹288.60 | ▶ Inside Range ▶ | -3.5/100 | 36 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,225.00 | 🔽 Broken Down 🔽 | -6.0/100 | 57 | ❌ No | 2.4× | — |
+| **ICICIBANK.NS** | ₹1,430.90 | 🔽 Broken Down 🔽 | -7.0/100 | 46 | ❌ No | 10.6× | — |
+| **TMPV.NS** | ₹325.80 | ▶ Inside Range ▶ | -7.4/100 | 47 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,048.60 | ▶ Inside Range ▶ | -8.5/100 | 35 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,274.00 | 🔽 Broken Down 🔽 | -15.6/100 | 36 | ❌ No | 2.0× | — |
+| **HDFCBANK.NS** | ₹745.20 | 🔽 Broken Down 🔽 | -19.6/100 | 40 | ❌ No | 1.7× | — |
+| **ADANIENT.NS** | ₹3,035.00 | 🔽 Broken Down 🔽 | -22.8/100 | 36 | ❌ No | 1.3× | — |
 
 ---
 
@@ -64,12 +50,12 @@ The market is currently exhibiting **bearish sentiment**, with a significant num
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TCS.NS | ₹2,223.90 | ₹2210.40 | ₹2193.80 | 55.1 | 🟢 Yes |
-| WIPRO.NS | ₹174.45 | ₹174.42 | ₹173.50 | 51.1 | 🟢 Yes |
-| INFY.NS | ₹1,043.90 | ₹1046.00 | ₹1032.50 | 40.5 | 🔴 No |
-| POWERGRID.NS | ₹289.25 | ₹289.60 | ₹287.00 | 38.2 | 🔴 No |
-| TMPV.NS | ₹326.30 | ₹327.90 | ₹326.10 | 45.5 | 🔴 No |
-| BAJFINANCE.NS | ₹1,047.60 | ₹1054.40 | ₹1048.00 | 31.0 | 🔴 No |
+| WIPRO.NS | ₹174.72 | ₹174.42 | ₹173.50 | 48.0 | 🟢 Yes |
+| TCS.NS | ₹2,235.90 | ₹2210.40 | ₹2193.80 | 84.8 | 🟢 Yes |
+| INFY.NS | ₹1,044.40 | ₹1046.00 | ₹1032.50 | 41.4 | 🔴 No |
+| SBIN.NS | ₹1,014.70 | ₹1020.70 | ₹1015.10 | 67.5 | 🔴 No |
+| POWERGRID.NS | ₹288.60 | ₹289.60 | ₹287.00 | 36.5 | 🔴 No |
+| TMPV.NS | ₹325.80 | ₹327.90 | ₹326.10 | 46.7 | 🔴 No |
 
 ---
 
