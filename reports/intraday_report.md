@@ -1,20 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **July 24, 2026**:
+Here is a high-level, actionable summary of the trading report:
 
-### 📈 Market Context & Status
-* **Trading Day Concluded:** The current time is **15:48 IST**. Since the strategy's strict auto-square-off time is **15:10 IST**, the trading window for the day is closed. No new positions can be opened.
-* **No Trades Triggered:** Although several stocks broke above their opening ranges, **no active buy signals were generated** because none met the required volume surge (at least 1.8× average volume) to confirm a strong institutional breakout.
-
-### 👀 Top Candidates (Closest Setups)
-While no trades were executed, these stocks showed the strongest potential and should remain on your radar for the next session:
-*
+### 📈 Market Context
+* **The Strategy:** We are tracking "Opening Price Breakouts"—buying stocks that break above
 
 ---
 
 # 📈 Intraday Report — 2026-07-24
 
-> Auto-generated at **15:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -34,12 +29,12 @@ While no trades were executed, these stocks showed the strongest potential and s
 | **RELIANCE.NS** | ₹1,280.30 | 🔼 Broken Out 🔼 | 22.0/100 | 56 | ✅ Yes | 1.0× | — |
 | **SBIN.NS** | ₹1,011.40 | 🔼 Broken Out 🔼 | 18.0/100 | 43 | ✅ Yes | 1.7× | — |
 | **TMPV.NS** | ₹324.30 | 🔼 Broken Out 🔼 | 17.0/100 | 36 | ✅ Yes | 1.0× | — |
-| **ICICIBANK.NS** | ₹1,435.50 | 🔼 Broken Out 🔼 | 16.5/100 | 47 | ✅ Yes | 0.5× | — |
 | **WIPRO.NS** | ₹176.89 | 🔼 Broken Out 🔼 | 14.7/100 | 28 | ✅ Yes | 1.4× | — |
 | **INFY.NS** | ₹1,039.80 | ▶ Inside Range ▶ | 14.3/100 | 69 | ✅ Yes | — | — |
 | **ADANIENT.NS** | ₹3,033.40 | ▶ Inside Range ▶ | 11.2/100 | 59 | ✅ Yes | — | — |
 | **POWERGRID.NS** | ₹289.00 | ▶ Inside Range ▶ | 10.6/100 | 70 | ✅ Yes | — | — |
 | **AXISBANK.NS** | ₹1,228.90 | 🔼 Broken Out 🔼 | 10.5/100 | 37 | ✅ Yes | 0.7× | — |
+| **ICICIBANK.NS** | ₹1,432.90 | ▶ Inside Range ▶ | 6.2/100 | 39 | ✅ Yes | — | — |
 | **TCS.NS** | ₹2,252.00 | ▶ Inside Range ▶ | 6.2/100 | 40 | ✅ Yes | — | — |
 | **HDFCBANK.NS** | ₹743.70 | ▶ Inside Range ▶ | 2.5/100 | 34 | ✅ Yes | — | — |
 | **BAJFINANCE.NS** | ₹1,017.90 | 🔽 Broken Down 🔽 | 0.6/100 | 70 | ✅ Yes | 2.7× | — |
@@ -59,9 +54,9 @@ While no trades were executed, these stocks showed the strongest potential and s
 | RELIANCE.NS | ₹1,280.30 | ₹1270.80 | ₹1249.80 | 56.2 | 🟢 Yes |
 | SBIN.NS | ₹1,011.40 | ₹1010.00 | ₹1002.80 | 42.6 | 🟢 Yes |
 | TMPV.NS | ₹324.30 | ₹321.30 | ₹319.55 | 36.0 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,435.50 | ₹1431.70 | ₹1424.50 | 47.4 | 🟢 Yes |
 | WIPRO.NS | ₹176.89 | ₹175.59 | ₹173.75 | 28.4 | 🟢 Yes |
 | INFY.NS | ₹1,039.80 | ₹1042.60 | ₹1024.30 | 68.8 | 🟢 Yes |
+| ADANIENT.NS | ₹3,033.40 | ₹3033.50 | ₹2993.60 | 58.9 | 🟢 Yes |
 
 ---
 
