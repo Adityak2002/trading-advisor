@@ -1,15 +1,19 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the afternoon trading setup:
+Here is your high-level, actionable summary of the trading report as of **14:43 IST**:
 
 ### 📈 Market Context
-* **Bullish Bias, Lacking Volume:** Six major stocks (including WIPRO, SBIN, and RELIANCE) have broken above their morning opening ranges. However, the market is currently in a "wait-and-see" mode as trading volume hasn't fully
+* **Late-Day Session:** We are in the final hour of the trading day. The strategy focuses on morning breakouts, meaning the window for high-probability moves is closing fast.
+* **No Active Signals:** There are currently **zero active buy signals** that meet all entry criteria (breakout + volume surge). 
+
+### 🔍 Top Candidates to Watch (Building Setups)
+While no trades are active, these stocks have broken above their morning highs
 
 ---
 
 # 📈 Intraday Report — 2026-07-24
 
-> Auto-generated at **13:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,18 +30,18 @@ Here is your high-level, actionable summary of the afternoon trading setup:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **WIPRO.NS** | ₹176.79 | 🔼 Broken Out 🔼 | 24.1/100 | 57 | ✅ Yes | 1.7× | — |
-| **TMPV.NS** | ₹323.95 | 🔼 Broken Out 🔼 | 23.6/100 | 52 | ✅ Yes | 1.2× | — |
-| **SBIN.NS** | ₹1,011.30 | 🔼 Broken Out 🔼 | 18.0/100 | 44 | ✅ Yes | 1.7× | — |
-| **ICICIBANK.NS** | ₹1,433.60 | 🔼 Broken Out 🔼 | 16.5/100 | 46 | ✅ Yes | 0.5× | — |
-| **RELIANCE.NS** | ₹1,277.20 | 🔼 Broken Out 🔼 | 15.4/100 | 26 | ✅ Yes | 1.1× | — |
-| **AXISBANK.NS** | ₹1,225.60 | 🔼 Broken Out 🔼 | 14.1/100 | 46 | ✅ Yes | 0.8× | — |
-| **HDFCBANK.NS** | ₹745.35 | ▶ Inside Range ▶ | 12.4/100 | 55 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,244.40 | ▶ Inside Range ▶ | 4.8/100 | 46 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹3,012.30 | ▶ Inside Range ▶ | -1.3/100 | 41 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹288.05 | ▶ Inside Range ▶ | -3.8/100 | 27 | ❌ No | — | — |
-| **INFY.NS** | ₹1,026.60 | ▶ Inside Range ▶ | -4.6/100 | 45 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,006.20 | 🔽 Broken Down 🔽 | -12.2/100 | 43 | ❌ No | 2.4× | — |
+| **TMPV.NS** | ₹324.60 | 🔼 Broken Out 🔼 | 23.6/100 | 58 | ✅ Yes | 1.3× | — |
+| **WIPRO.NS** | ₹177.60 | 🔼 Broken Out 🔼 | 23.5/100 | 71 | ✅ Yes | 1.6× | — |
+| **AXISBANK.NS** | ₹1,229.80 | 🔼 Broken Out 🔼 | 19.9/100 | 59 | ✅ Yes | 0.7× | — |
+| **ICICIBANK.NS** | ₹1,437.00 | 🔼 Broken Out 🔼 | 19.5/100 | 55 | ✅ Yes | 0.5× | — |
+| **SBIN.NS** | ₹1,011.20 | 🔼 Broken Out 🔼 | 18.4/100 | 35 | ✅ Yes | 1.8× | — |
+| **RELIANCE.NS** | ₹1,276.00 | 🔼 Broken Out 🔼 | 15.4/100 | 37 | ✅ Yes | 1.1× | — |
+| **INFY.NS** | ₹1,034.10 | ▶ Inside Range ▶ | 11.3/100 | 69 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,254.20 | ▶ Inside Range ▶ | 9.6/100 | 59 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹744.35 | ▶ Inside Range ▶ | 3.8/100 | 39 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹288.20 | ▶ Inside Range ▶ | 0.5/100 | 44 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹3,012.00 | ▶ Inside Range ▶ | -1.4/100 | 40 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,012.00 | 🔽 Broken Down 🔽 | -4.2/100 | 61 | ❌ No | 2.7× | — |
 
 ---
 
@@ -51,12 +55,12 @@ Here is your high-level, actionable summary of the afternoon trading setup:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| WIPRO.NS | ₹176.79 | ₹175.59 | ₹173.75 | 56.8 | 🟢 Yes |
-| TMPV.NS | ₹323.95 | ₹321.30 | ₹319.55 | 52.2 | 🟢 Yes |
-| SBIN.NS | ₹1,011.30 | ₹1010.00 | ₹1002.80 | 44.4 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,433.60 | ₹1431.70 | ₹1424.50 | 46.2 | 🟢 Yes |
-| RELIANCE.NS | ₹1,277.20 | ₹1270.80 | ₹1249.80 | 26.0 | 🟢 Yes |
-| AXISBANK.NS | ₹1,225.60 | ₹1221.10 | ₹1211.00 | 46.2 | 🟢 Yes |
+| TMPV.NS | ₹324.60 | ₹321.30 | ₹319.55 | 57.8 | 🟢 Yes |
+| WIPRO.NS | ₹177.60 | ₹175.59 | ₹173.75 | 70.5 | 🟢 Yes |
+| AXISBANK.NS | ₹1,229.80 | ₹1221.10 | ₹1211.00 | 58.6 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,437.00 | ₹1431.70 | ₹1424.50 | 54.5 | 🟢 Yes |
+| SBIN.NS | ₹1,011.20 | ₹1010.00 | ₹1002.80 | 35.1 | 🟢 Yes |
+| RELIANCE.NS | ₹1,276.00 | ₹1270.80 | ₹1249.80 | 37.0 | 🟢 Yes |
 
 ---
 
