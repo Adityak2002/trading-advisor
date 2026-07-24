@@ -3,20 +3,23 @@
 Here is your high-level, actionable summary of the trading report:
 
 ### 🌍 Market Context: **Proceed with Caution**
-* **Overall Signal:** 🟡 **Mildly Bearish.** The market is weak, and it is best to keep your money safe in cash for now.
-* **Key Drivers:** 
-  * **Domestic Weakness:** The Nifty 50 is down **-0.72%**, and market volatility (India VIX) jumped **+5.66%**, indicating rising anxiety.
-  * **Global Drag:** Overnight US markets fell sharply (NASDAQ down **-2.15%**), dragging Indian sentiment down.
+* **Overall Signal:** 🟡 **Mildly Bearish.** The general recommendation is to stay light and hold cash.
+* **Domestic Market:** Nifty 50 is down **-0.43%** and has fallen below its key short-term trendline (20-EMA). This acts as a "safety brake," halting new buy signals.
+* **Global Cues:** Highly negative. Overnight US markets slumped (NASDAQ **-2.15%**, S&P 500 **-1.21%**), dragging domestic sentiment down.
+* **Volatility:** India VIX jumped **+5.49%** to 14.22. While fear is still relatively low, the sudden spike warrants caution.
 
 ---
 
-### 🎯 Entry Candidates: **On Standby (No Immediate Buys)**
-We are currently holding **100% cash (₹10,000)** with zero open positions. While we aren't buying today, these
+### 🎯 Entry Candidates: **No Immediate Buys (Patience Required)**
+No trades are being executed today because the overall market is weak. However, three fundamentally strong stocks are in the "launchpad" waiting for the market to stabilize:
+
+* **PIDILITIND.NS (Score: 83.5):** Strongest setup, waiting only for Nifty to recover.
+* **CD
 
 ---
 
 # 📈 Stock Delivery Report — 2026-07-24
-> *Auto-generated at 11:49 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 13:34 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -26,20 +29,20 @@ We are currently holding **100% cash (₹10,000)** with zero open positions. Whi
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,696.45 | 📉 -0.72% |
-| India VIX | 14.24 | 📈 +5.66% |
+| Nifty 50 | 23,767.15 | 📉 -0.43% |
+| India VIX | 14.22 | 📈 +5.49% |
 | S&P 500 (overnight) | 7,408.30 | 📉 -1.21% |
 | NASDAQ | 25,137.69 | 📉 -2.15% |
-| WTI Crude Oil | $91.35 | 📉 -0.91% |
-| USD / INR | 96.5300 | 📉 -0.03% |
+| WTI Crude Oil | $90.30 | 📉 -2.05% |
+| USD / INR | 96.4825 | 📉 -0.08% |
 
 **Key Factors:**
 - VIX 14.2 — Low fear 🟢 (full sizing)
 - S&P 500 -1.21% — Negative overnight cues 📉
 - NASDAQ -2.15% — Tech bearish
-- Nifty -0.72% — Domestic market bearish
-- WTI Crude $91.35 (-0.91%) — Neutral for OILIETF
-- USD/INR 96.53 (-0.028%) — USD stable
+- Nifty -0.43% — Domestic market bearish
+- WTI Crude $90.30 (-2.05%) — Bearish for OILIETF 📉
+- USD/INR 96.48 (-0.077%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -68,16 +71,16 @@ We are currently holding **100% cash (₹10,000)** with zero open positions. Whi
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 61.5 | Nifty below 20-EMA ❌ |
-| HDFCBANK.NS | -37.5 | RSI=21 (need 42–55) · Price -5.5% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-38 (need ≥50) |
-| RELIANCE.NS | -64.5 | RSI=40 (need 42–55) · EMA21 < EMA50 · Price -1.4% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-64 (need ≥50) |
+| ICICIBANK.NS | 49.5 | RSI=57 (need 42–55) · Nifty below 20-EMA ❌ · Score=50 (need ≥50) |
+| HDFCBANK.NS | -37.5 | RSI=22 (need 42–55) · Price -4.9% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-38 (need ≥50) |
+| RELIANCE.NS | -64.5 | RSI=39 (need 42–55) · EMA21 < EMA50 · Price -1.6% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-64 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| BAJFINANCE.NS | 83.5 | Nifty below 20-EMA ❌ |
-| CDSL.NS | 70.0 | Nifty below 20-EMA ❌ |
-| PIDILITIND.NS | 59.5 | RSI=40 (need 42–55) · Nifty below 20-EMA ❌ |
+| PIDILITIND.NS | 83.5 | Nifty below 20-EMA ❌ |
+| CDSL.NS | 77.5 | Nifty below 20-EMA ❌ |
+| BAJFINANCE.NS | 73.0 | Nifty below 20-EMA ❌ |
 
 ---
 ## 📰 News & Sentiment
@@ -89,16 +92,16 @@ We are currently holding **100% cash (₹10,000)** with zero open positions. Whi
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | BAJFINANCE.NS | 83.5 | 45 | 🟢 | ✅ | -0.0 | 👀 Watch |
-| 2 | CDSL.NS | 70.0 | 47 | 🟢 | ✅ | -0.8 | 👀 Watch |
-| 3 | ICICIBANK.NS | 61.5 | 53 | 🟢 | ✅ | -1.2 | 👀 Watch |
-| 4 | PIDILITIND.NS | 59.5 | 40 | 🟢 | ✅ | -0.6 | 👀 Watch |
-| 5 | TITAN.NS | 27.5 | 77 | 🟢 | ✅ | -0.9 | ⏸ Skip |
-| 6 | HAVELLS.NS | -9.0 | 63 | 🔴 | ✅ | -1.0 | ⏸ Skip |
-| 7 | POLYCAB.NS | -27.5 | 34 | 🟢 | — | -1.3 | ⏸ Skip |
-| 8 | HDFCBANK.NS | -37.5 | 21 | 🟢 | — | -1.5 | ⏸ Skip |
-| 9 | ANGELONE.NS | -37.5 | 28 | 🟢 | — | -1.2 | ⏸ Skip |
-| 10 | RELIANCE.NS | -64.5 | 40 | 🔴 | — | -1.8 | ⏸ Skip |
+| 1 | PIDILITIND.NS | 83.5 | 44 | 🟢 | ✅ | 0.3 | 👀 Watch |
+| 2 | CDSL.NS | 77.5 | 49 | 🟢 | ✅ | -0.7 | 👀 Watch |
+| 3 | BAJFINANCE.NS | 73.0 | 45 | 🟢 | ✅ | 1.5 | 👀 Watch |
+| 4 | ICICIBANK.NS | 49.5 | 57 | 🟢 | ✅ | -0.9 | 👀 Watch |
+| 5 | TITAN.NS | 27.5 | 78 | 🟢 | ✅ | -0.8 | ⏸ Skip |
+| 6 | HAVELLS.NS | -9.0 | 63 | 🔴 | ✅ | -0.7 | ⏸ Skip |
+| 7 | POLYCAB.NS | -27.5 | 34 | 🟢 | — | -1.2 | ⏸ Skip |
+| 8 | HDFCBANK.NS | -37.5 | 22 | 🟢 | — | -1.2 | ⏸ Skip |
+| 9 | ANGELONE.NS | -37.5 | 30 | 🟢 | — | -1.1 | ⏸ Skip |
+| 10 | RELIANCE.NS | -64.5 | 39 | 🔴 | — | -1.5 | ⏸ Skip |
 | 11 | KEI.NS | -82.5 | 25 | 🔴 | — | -0.9 | ⏸ Skip |
 
 ---
@@ -116,6 +119,6 @@ We are currently holding **100% cash (₹10,000)** with zero open positions. Whi
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-24 11:49 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-24 13:34 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
