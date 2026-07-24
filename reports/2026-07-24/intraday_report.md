@@ -1,19 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report as of **14:43 IST**:
+Here is a high-level, actionable summary of the trading report for **July 24, 2026**:
 
-### 📈 Market Context
-* **Late-Day Session:** We are in the final hour of the trading day. The strategy focuses on morning breakouts, meaning the window for high-probability moves is closing fast.
-* **No Active Signals:** There are currently **zero active buy signals** that meet all entry criteria (breakout + volume surge). 
+### 📈 Market Context & Status
+* **Trading Day Concluded:** The current time is **15:48 IST**. Since the strategy's strict auto-square-off time is **15:10 IST**, the trading window for the day is closed. No new positions can be opened.
+* **No Trades Triggered:** Although several stocks broke above their opening ranges, **no active buy signals were generated** because none met the required volume surge (at least 1.8× average volume) to confirm a strong institutional breakout.
 
-### 🔍 Top Candidates to Watch (Building Setups)
-While no trades are active, these stocks have broken above their morning highs
+### 👀 Top Candidates (Closest Setups)
+While no trades were executed, these stocks showed the strongest potential and should remain on your radar for the next session:
+*
 
 ---
 
 # 📈 Intraday Report — 2026-07-24
 
-> Auto-generated at **14:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -30,18 +31,18 @@ While no trades are active, these stocks have broken above their morning highs
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TMPV.NS** | ₹324.60 | 🔼 Broken Out 🔼 | 23.6/100 | 58 | ✅ Yes | 1.3× | — |
-| **WIPRO.NS** | ₹177.60 | 🔼 Broken Out 🔼 | 23.5/100 | 71 | ✅ Yes | 1.6× | — |
-| **AXISBANK.NS** | ₹1,229.80 | 🔼 Broken Out 🔼 | 19.9/100 | 59 | ✅ Yes | 0.7× | — |
-| **ICICIBANK.NS** | ₹1,437.00 | 🔼 Broken Out 🔼 | 19.5/100 | 55 | ✅ Yes | 0.5× | — |
-| **SBIN.NS** | ₹1,011.20 | 🔼 Broken Out 🔼 | 18.4/100 | 35 | ✅ Yes | 1.8× | — |
-| **RELIANCE.NS** | ₹1,276.00 | 🔼 Broken Out 🔼 | 15.4/100 | 37 | ✅ Yes | 1.1× | — |
-| **INFY.NS** | ₹1,034.10 | ▶ Inside Range ▶ | 11.3/100 | 69 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,254.20 | ▶ Inside Range ▶ | 9.6/100 | 59 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹744.35 | ▶ Inside Range ▶ | 3.8/100 | 39 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹288.20 | ▶ Inside Range ▶ | 0.5/100 | 44 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹3,012.00 | ▶ Inside Range ▶ | -1.4/100 | 40 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,012.00 | 🔽 Broken Down 🔽 | -4.2/100 | 61 | ❌ No | 2.7× | — |
+| **RELIANCE.NS** | ₹1,280.30 | 🔼 Broken Out 🔼 | 22.0/100 | 56 | ✅ Yes | 1.0× | — |
+| **SBIN.NS** | ₹1,011.40 | 🔼 Broken Out 🔼 | 18.0/100 | 43 | ✅ Yes | 1.7× | — |
+| **TMPV.NS** | ₹324.30 | 🔼 Broken Out 🔼 | 17.0/100 | 36 | ✅ Yes | 1.0× | — |
+| **ICICIBANK.NS** | ₹1,435.50 | 🔼 Broken Out 🔼 | 16.5/100 | 47 | ✅ Yes | 0.5× | — |
+| **WIPRO.NS** | ₹176.89 | 🔼 Broken Out 🔼 | 14.7/100 | 28 | ✅ Yes | 1.4× | — |
+| **INFY.NS** | ₹1,039.80 | ▶ Inside Range ▶ | 14.3/100 | 69 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹3,033.40 | ▶ Inside Range ▶ | 11.2/100 | 59 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹289.00 | ▶ Inside Range ▶ | 10.6/100 | 70 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,228.90 | 🔼 Broken Out 🔼 | 10.5/100 | 37 | ✅ Yes | 0.7× | — |
+| **TCS.NS** | ₹2,252.00 | ▶ Inside Range ▶ | 6.2/100 | 40 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹743.70 | ▶ Inside Range ▶ | 2.5/100 | 34 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹1,017.90 | 🔽 Broken Down 🔽 | 0.6/100 | 70 | ✅ Yes | 2.7× | — |
 
 ---
 
@@ -55,12 +56,12 @@ While no trades are active, these stocks have broken above their morning highs
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TMPV.NS | ₹324.60 | ₹321.30 | ₹319.55 | 57.8 | 🟢 Yes |
-| WIPRO.NS | ₹177.60 | ₹175.59 | ₹173.75 | 70.5 | 🟢 Yes |
-| AXISBANK.NS | ₹1,229.80 | ₹1221.10 | ₹1211.00 | 58.6 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,437.00 | ₹1431.70 | ₹1424.50 | 54.5 | 🟢 Yes |
-| SBIN.NS | ₹1,011.20 | ₹1010.00 | ₹1002.80 | 35.1 | 🟢 Yes |
-| RELIANCE.NS | ₹1,276.00 | ₹1270.80 | ₹1249.80 | 37.0 | 🟢 Yes |
+| RELIANCE.NS | ₹1,280.30 | ₹1270.80 | ₹1249.80 | 56.2 | 🟢 Yes |
+| SBIN.NS | ₹1,011.40 | ₹1010.00 | ₹1002.80 | 42.6 | 🟢 Yes |
+| TMPV.NS | ₹324.30 | ₹321.30 | ₹319.55 | 36.0 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,435.50 | ₹1431.70 | ₹1424.50 | 47.4 | 🟢 Yes |
+| WIPRO.NS | ₹176.89 | ₹175.59 | ₹173.75 | 28.4 | 🟢 Yes |
+| INFY.NS | ₹1,039.80 | ₹1042.60 | ₹1024.30 | 68.8 | 🟢 Yes |
 
 ---
 
