@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **July 27, 2026**:
+### 📊 Market Summary & Action Plan
 
-### 📈 Market Context & Strategy
-* **The
+The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the system has not triggered an entry because the volume confirmation (the "fuel" for the move) is missing for most candidates.
+
+#### 🚀 Top Entry Candidates
+*   **INFY.NS:** The strongest candidate. It has cleared the opening high with a massive **3.1× volume surge**, indicating genuine institutional interest.
+*   **WIPRO.NS:** Currently consolidating just above its opening high. Keep a close eye; a breakout here with a volume spike would be a high-probability setup.
+*   **BAJFINANCE.NS & ICICIBANK.NS:** Both have cleared their opening highs, but lack the necessary volume surge. **Do not enter** until volume confirms the move.
+
+#### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not chase breakouts that lack a volume surge (≥1.8× average). Low-volume breakouts are often "bull traps" that reverse quickly.
+*   **Strict Risk Control:** You are capped at a **₹100 loss per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **No Over-trading:** Limit yourself to a maximum of **2 active trades** simultaneously to maintain focus and capital protection.
+*   **The 15:10 Deadline:** The system will auto-close all positions at 15:10 IST. Do not attempt to hold these trades overnight under any circumstances.
+
+#### 🛑 What to Avoid
+*   **TCS.NS:** Despite a strong volume surge, it is trading below its average price. This indicates a lack of underlying trend strength. **Avoid.**
+*   **Reliance & HDFC Bank:** Both are currently showing "Breakdown" status. Stay away from the long side on these tickers.
 
 ---
 
 # 📈 Intraday Report — 2026-07-27
 
-> Auto-generated at **16:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
