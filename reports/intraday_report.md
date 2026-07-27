@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report for **July 27, 2026**:
+Here is a high-level, actionable summary of the trading report for **July 27, 2026**:
 
-### 📈 Market Context
-* **The Strategy:** We are tracking
+### 📈 Market Context & Strategy
+* **The
 
 ---
 
 # 📈 Intraday Report — 2026-07-27
 
-> Auto-generated at **16:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
