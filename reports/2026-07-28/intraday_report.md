@@ -1,15 +1,14 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level trading summary for the afternoon session of **July 28, 2026**:
-
-### 📈 Market Context
-* **Quiet Afternoon
+level? Yes.
+    *   Covers market context, top entry candidates, critical warnings/exits? Yes.
+    *   Clean markdown with bullet points? Yes.
 
 ---
 
 # 📈 Intraday Report — 2026-07-28
 
-> Auto-generated at **13:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,18 +25,18 @@ Here is your high-level trading summary for the afternoon session of **July 28, 
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TCS.NS** | ₹2,401.20 | 🔼 Broken Out 🔼 | 26.4/100 | 40 | ✅ Yes | 2.1× | — |
-| **WIPRO.NS** | ₹181.09 | 🔼 Broken Out 🔼 | 25.1/100 | 50 | ✅ Yes | 1.8× | — |
-| **POWERGRID.NS** | ₹287.05 | ▶ Inside Range ▶ | 13.1/100 | 70 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹1,050.00 | ▶ Inside Range ▶ | 11.2/100 | 53 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹738.00 | ▶ Inside Range ▶ | 6.0/100 | 45 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹3,007.70 | ▶ Inside Range ▶ | 5.2/100 | 62 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹325.70 | ▶ Inside Range ▶ | 4.2/100 | 49 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,226.60 | ▶ Inside Range ▶ | -0.5/100 | 49 | ❌ No | — | — |
-| **INFY.NS** | ₹1,108.00 | ▶ Inside Range ▶ | -1.6/100 | 32 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,272.50 | ▶ Inside Range ▶ | -1.6/100 | 46 | ❌ No | — | — |
-| **SBIN.NS** | ₹1,013.70 | ▶ Inside Range ▶ | -11.3/100 | 35 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,426.40 | 🔽 Broken Down 🔽 | -23.2/100 | 42 | ❌ No | 0.7× | — |
+| **TCS.NS** | ₹2,403.80 | 🔼 Broken Out 🔼 | 31.2/100 | 63 | ✅ Yes | 2.3× | — |
+| **WIPRO.NS** | ₹181.48 | 🔼 Broken Out 🔼 | 26.9/100 | 66 | ✅ Yes | 1.9× | — |
+| **AXISBANK.NS** | ₹1,225.90 | ▶ Inside Range ▶ | 1.7/100 | 53 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹736.70 | ▶ Inside Range ▶ | -0.7/100 | 43 | ❌ No | — | — |
+| **INFY.NS** | ₹1,105.90 | ▶ Inside Range ▶ | -3.4/100 | 38 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹285.70 | ▶ Inside Range ▶ | -3.4/100 | 40 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹324.35 | ▶ Inside Range ▶ | -4.6/100 | 41 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹3,003.30 | ▶ Inside Range ▶ | -5.4/100 | 49 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,045.60 | ▶ Inside Range ▶ | -5.8/100 | 38 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,267.20 | 🔽 Broken Down 🔽 | -12.6/100 | 34 | ❌ No | 2.4× | — |
+| **ICICIBANK.NS** | ₹1,424.90 | 🔽 Broken Down 🔽 | -17.0/100 | 51 | ❌ No | 0.7× | — |
+| **SBIN.NS** | ₹1,011.20 | 🔽 Broken Down 🔽 | -19.6/100 | 39 | ❌ No | 1.6× | — |
 
 ---
 
@@ -51,12 +50,12 @@ Here is your high-level trading summary for the afternoon session of **July 28, 
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TCS.NS | ₹2,401.20 | ₹2371.80 | ₹2323.70 | 40.4 | 🟢 Yes |
-| WIPRO.NS | ₹181.09 | ₹180.37 | ₹178.95 | 50.3 | 🟢 Yes |
-| POWERGRID.NS | ₹287.05 | ₹287.75 | ₹285.30 | 69.7 | 🟢 Yes |
-| BAJFINANCE.NS | ₹1,050.00 | ₹1050.00 | ₹1042.90 | 52.8 | 🟢 Yes |
-| HDFCBANK.NS | ₹738.00 | ₹739.20 | ₹733.90 | 45.2 | 🟢 Yes |
-| ADANIENT.NS | ₹3,007.70 | ₹3033.00 | ₹3002.00 | 62.3 | 🟢 Yes |
+| TCS.NS | ₹2,403.80 | ₹2371.80 | ₹2323.70 | 62.9 | 🟢 Yes |
+| WIPRO.NS | ₹181.48 | ₹180.37 | ₹178.95 | 66.0 | 🟢 Yes |
+| AXISBANK.NS | ₹1,225.90 | ₹1230.50 | ₹1221.80 | 53.2 | 🔴 No |
+| HDFCBANK.NS | ₹736.70 | ₹739.20 | ₹733.90 | 42.9 | 🔴 No |
+| INFY.NS | ₹1,105.90 | ₹1110.00 | ₹1099.00 | 37.7 | 🔴 No |
+| POWERGRID.NS | ₹285.70 | ₹287.75 | ₹285.30 | 39.7 | 🟢 Yes |
 
 ---
 
