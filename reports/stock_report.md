@@ -1,19 +1,33 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of your trading report for **July 28, 2026**:
+Here is a high-level, actionable summary of today’s trading report:
 
-### 🌍 Market Context: "Low Fear, But No Momentum"
-*   **Overall Signal:** **Neutral-Bullish.** Market fear is very low (India VIX is at a calm 12.56), which normally supports buying. 
-*   **The Catch:** The Nifty 50 index is currently trading below its 20-day moving average (20-EMA). This means short-term market momentum is weak, keeping our system cautious.
-*   **Currency Impact:** The US Dollar weakened (-0.75%), which acts as a minor headwind for international ETFs.
-
-### 🎯 Entry Candidates: "Patience is Key"
-*   **Current Action:** **No
+### 🌍 Market Vibe: **🟢 Bullish (Green Light)**
+* **Market is Strong:** The Nifty 50 is up **+0.98%**, showing solid domestic strength.
+* **Fear is Low:** The India VIX (fear index) dropped **-4.36%** to a low level of 12.11. This means low market panic, making it a safe environment to deploy your capital.
+* **Global Mix:** US markets are mixed (tech is slightly down, but broader markets are stable). Oil is up sharply, which is positive for energy-related assets.
 
 ---
 
-# 📈 Stock Delivery Report — 2026-07-28
-> *Auto-generated at 17:24 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+### 🎯 Top Buy Candidate: **CDSL (CDSL.NS)**
+With ₹10,000 in idle cash, the system has identified one high-probability setup:
+
+* **The Setup:** CDSL is in a strong long-term uptrend but has temporarily cooled down to a "good value" buying zone. 
+* **The Action Plan on Groww:**
+  * **Buy:** 5 shares at **₹1,348.20** (Total investment: ~₹6,741)
+  * **Set Profit Target (GTT):** **₹1,483.02** (Aiming for a +10% gain)
+  * **Set Stop-Loss (GTT):** **₹1,260.54** (To protect your money if the trade goes wrong)
+  * **Expected Hold Time:** ~20 trading days (about 4 weeks).
+
+---
+
+### ⚠️ Critical Warnings & Portfolio Status
+* **Current Portfolio:** You are currently holding **100% cash (₹
+
+---
+
+# 📈 Stock Delivery Report — 2026-07-29
+> *Auto-generated at 11:54 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -23,18 +37,20 @@ Here is a high-level, actionable summary of your trading report for **July 28, 2
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,985.35 | 📉 -0.04% |
-| India VIX | 12.56 | 📉 -0.77% |
-| S&P 500 (overnight) | 7,413.18 | 📈 +0.02% |
-| NASDAQ | 24,932.08 | 📉 -0.17% |
-| WTI Crude Oil | $81.80 | 📉 -0.98% |
-| USD / INR | 95.8420 | 📉 -0.75% |
+| Nifty 50 | 24,230.05 | 📈 +0.98% |
+| India VIX | 12.11 | 📉 -4.36% |
+| S&P 500 (overnight) | 7,413.18 | 📈 +0.07% |
+| NASDAQ | 24,932.08 | 📉 -0.82% |
+| WTI Crude Oil | $82.33 | 📈 +3.87% |
+| USD / INR | 95.6900 | 📉 -0.09% |
 
 **Key Factors:**
-- VIX 12.6 — Low fear 🟢 (full sizing)
-- S&P 500 +0.02% — Neutral
-- WTI Crude $81.80 (-0.98%) — Neutral for OILIETF
-- USD/INR 95.84 (-0.751%) — Dollar weakening → intl ETFs headwind
+- VIX 12.1 — Low fear 🟢 (full sizing)
+- S&P 500 +0.07% — Neutral
+- NASDAQ -0.82% — Tech bearish
+- Nifty +0.98% — Domestic market bullish
+- WTI Crude $82.33 (+3.87%) — Bullish for OILIETF 📈
+- USD/INR 95.69 (-0.088%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -56,23 +72,41 @@ Here is a high-level, actionable summary of your trading report for **July 28, 2
 ---
 ## 🎯 Entry Candidates
 
-*No entry candidates right now. All conditions not met or max positions reached.*
+### 📁 Category A: Long-Term Hold
+Premium, highly stable blue-chip companies suitable for longer holding periods.
 
-**🔍 Monitor These (Getting Closer):**
+*No long-term candidates currently meeting entry conditions.*
 
-#### 📁 Long-Term Hold Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| ICICIBANK.NS | 37.5 | RSI=67 (need 42–55) · Nifty below 20-EMA ❌ · Score=38 (need ≥50) |
-| RELIANCE.NS | -44.0 | EMA21 < EMA50 · Price -2.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-44 (need ≥50) |
-| HDFCBANK.NS | -74.0 | RSI=23 (need 42–55) · EMA21 < EMA50 · Price -5.3% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-74 (need ≥50) |
+### 📁 Category B: Short-Term Fundamentally Strong
+High-growth quality stocks entering a strong pullback/momentum setup.
 
-#### 📁 Short-Term Fundamentally Strong Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| CDSL.NS | 62.0 | RSI=57 (need 42–55) · Nifty below 20-EMA ❌ |
-| BAJFINANCE.NS | 52.0 | RSI=60 (need 42–55) · Nifty below 20-EMA ❌ |
-| HAVELLS.NS | 52.0 | RSI=56 (need 42–55) · Nifty below 20-EMA ❌ |
+#### #1 — CDSL.NS
+**Action Rating:** Strong (Score: 74.2/100)
+
+| Action Details | Value | Notes |
+|---|---|---|
+| 🟢 **Buy Price** | **₹1,348.20** | Buy at market or limit |
+| **Shares to Buy** | **5** | Sized to limit your risk |
+| **Investment Amount** | **₹6,741.00** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,483.02** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹1,260.54** | Hard exit to cut losses |
+| Max Risk | ₹438.30 | Only 6.50% of investment at risk |
+| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
+
+**Simple Buying Checklist:**
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 52.3)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,348.33 > EMA50: ₹1,316.77)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: -0.01%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -0.70)*
+- ✅ Overall setup is strong *(Score: 74.2/100)*
+- ✅ Overall market trend is stable (Nifty above 20-day average)
+- ✅ Sector is performing well compared to Nifty
+
+> **Action on Groww:**
+> 1. Search `CDSL` ➔ Buy **5 shares** at market
+> 2. Immediately place GTT sell order at **₹1,483.02** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹1,260.54**
+> 4. Run `python scripts/update_position.py --mode stock` to log this trade
 
 ---
 ## 📰 News & Sentiment
@@ -84,17 +118,17 @@ Here is a high-level, actionable summary of your trading report for **July 28, 2
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 62.0 | 57 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 2 | BAJFINANCE.NS | 52.0 | 60 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 3 | HAVELLS.NS | 52.0 | 56 | 🟢 | ✅ | -0.8 | 👀 Watch |
-| 4 | PIDILITIND.NS | 48.0 | 63 | 🟢 | ✅ | 0.2 | 👀 Watch |
-| 5 | ICICIBANK.NS | 37.5 | 67 | 🟢 | ✅ | 1.7 | 👀 Watch |
-| 6 | TITAN.NS | 26.5 | 82 | 🟢 | — | 0.6 | ⏸ Skip |
-| 7 | POLYCAB.NS | 7.0 | 47 | 🟢 | — | 0.4 | ⏸ Skip |
-| 8 | RELIANCE.NS | -44.0 | 47 | 🔴 | — | -0.7 | ⏸ Skip |
-| 9 | KEI.NS | -64.0 | 35 | 🔴 | — | 0.0 | ⏸ Skip |
-| 10 | ANGELONE.NS | -70.0 | 33 | 🔴 | — | -0.9 | ⏸ Skip |
-| 11 | HDFCBANK.NS | -74.0 | 23 | 🔴 | — | 0.1 | ⏸ Skip |
+| 1 | CDSL.NS | 74.2 | 52 | 🟢 | ✅ | -0.7 | 🎯 ENTRY |
+| 2 | PIDILITIND.NS | 52.2 | 58 | 🟢 | ✅ | -1.2 | 👀 Watch |
+| 3 | ICICIBANK.NS | 42.2 | 69 | 🟢 | ✅ | -1.9 | 👀 Watch |
+| 4 | BAJFINANCE.NS | 42.2 | 64 | 🟢 | ✅ | -1.4 | 👀 Watch |
+| 5 | HAVELLS.NS | 39.8 | 61 | 🟢 | ✅ | -1.3 | 👀 Watch |
+| 6 | TITAN.NS | 17.8 | 83 | 🟢 | — | -0.8 | ⏸ Skip |
+| 7 | POLYCAB.NS | 1.2 | 49 | 🟢 | — | -1.3 | ⏸ Skip |
+| 8 | RELIANCE.NS | -43.8 | 49 | 🔴 | — | -1.9 | ⏸ Skip |
+| 9 | KEI.NS | -69.8 | 38 | 🔴 | — | -1.5 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -79.8 | 26 | 🔴 | — | -1.6 | ⏸ Skip |
+| 11 | ANGELONE.NS | -79.8 | 23 | 🔴 | — | -1.0 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -111,6 +145,6 @@ Here is a high-level, actionable summary of your trading report for **July 28, 2
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-28 17:24 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-29 11:54 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
