@@ -1,13 +1,15 @@
 # 🤖 Gemini AI Insights
 
-**: Absolutely no overnight holding. All trades must close before the market ends.
-        *   **Strict Loss Limit**: Lose no more than ₹100 per trade (2%
+Here is a high-level, actionable summary of today’s trading report:
+
+### 📈 Market Context & Strategy
+* **The Game Plan:** We are tracking stocks that break out of
 
 ---
 
 # 📈 Intraday Report — 2026-07-29
 
-> Auto-generated at **16:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
