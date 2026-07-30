@@ -1,20 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is your high-level, actionable summary of the trading report for **July 30, 2026**:
 
 ### 🌍 Market Context: Proceed with Caution
-* **Domestic Market:** 🟡 **Mildly Bullish.** Nifty 50 is flat to slightly up (+0.11% at 24,277). 
-* **Fear Factor:** **Low.** India VIX is at 12.29, meaning domestic market anxiety is low, allowing for normal position sizing.
-* **Global Drag:** ⚠️ **Negative.** US markets fell overnight (S&P 500 -1.52%, NASDAQ -1.74%), which may cap major upside moves today.
-
----
-
-### 🎯 Top Entry Candidate: CDSL (
+* **Mildly Bullish but Fragile:** The Indian market (Nifty 50) is up slightly (+0.28%), and domestic fear levels (India VIX at 12.15) remain low, which is generally good for buying.
+* **Global Headwinds:** Overnight US markets took a hit (NASDAQ down -1.74%, S&P 500 down -1.52%). This tech-led global weakness suggests we
 
 ---
 
 # 📈 Stock Delivery Report — 2026-07-30
-> *Auto-generated at 13:34 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 15:43 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -24,19 +19,19 @@ Here is a high-level, actionable summary of today’s trading report:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,277.70 | 📈 +0.11% |
-| India VIX | 12.29 | 📈 +2.33% |
+| Nifty 50 | 24,317.15 | 📈 +0.28% |
+| India VIX | 12.15 | 📈 +1.21% |
 | S&P 500 (overnight) | 7,316.15 | 📉 -1.52% |
 | NASDAQ | 24,442.94 | 📉 -1.74% |
-| WTI Crude Oil | $85.03 | 📈 +0.68% |
-| USD / INR | 95.7225 | 📈 +0.13% |
+| WTI Crude Oil | $84.62 | 📈 +0.19% |
+| USD / INR | 95.6700 | 📈 +0.07% |
 
 **Key Factors:**
-- VIX 12.3 — Low fear 🟢 (full sizing)
+- VIX 12.2 — Low fear 🟢 (full sizing)
 - S&P 500 -1.52% — Negative overnight cues 📉
 - NASDAQ -1.74% — Tech bearish
-- WTI Crude $85.03 (+0.68%) — Neutral for OILIETF
-- USD/INR 95.72 (+0.130%) — USD stable
+- WTI Crude $84.62 (+0.19%) — Neutral for OILIETF
+- USD/INR 95.67 (+0.075%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -58,41 +53,23 @@ Here is a high-level, actionable summary of today’s trading report:
 ---
 ## 🎯 Entry Candidates
 
-### 📁 Category A: Long-Term Hold
-Premium, highly stable blue-chip companies suitable for longer holding periods.
+*No entry candidates right now. All conditions not met or max positions reached.*
 
-*No long-term candidates currently meeting entry conditions.*
+**🔍 Monitor These (Getting Closer):**
 
-### 📁 Category B: Short-Term Fundamentally Strong
-High-growth quality stocks entering a strong pullback/momentum setup.
+#### 📁 Long-Term Hold Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| ICICIBANK.NS | 46.2 | RSI=62 (need 42–55) · Score=46 (need ≥50) |
+| RELIANCE.NS | -39.8 | EMA21 < EMA50 · Price -0.0% from EMA21 (need ±4%) · Score=-40 (need ≥50) |
+| HDFCBANK.NS | -75.8 | RSI=25 (need 42–55) · EMA21 < EMA50 · Price -2.4% from EMA21 (need ±4%) · Score=-76 (need ≥50) |
 
-#### #1 — CDSL.NS
-**Action Rating:** Strong (Score: 78.2/100)
-
-| Action Details | Value | Notes |
-|---|---|---|
-| 🟢 **Buy Price** | **₹1,330.40** | Buy at market or limit |
-| **Shares to Buy** | **5** | Sized to limit your risk |
-| **Investment Amount** | **₹6,652.00** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,463.44** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹1,242.01** | Hard exit to cut losses |
-| Max Risk | ₹441.96 | Only 6.64% of investment at risk |
-| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
-
-**Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 49.4)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,346.72 > EMA50: ₹1,316.05)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: -1.21%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -0.72)*
-- ✅ Overall setup is strong *(Score: 78.2/100)*
-- ✅ Overall market trend is stable (Nifty above 20-day average)
-- ✅ Sector is performing well compared to Nifty
-
-> **Action on Groww:**
-> 1. Search `CDSL` ➔ Buy **5 shares** at market
-> 2. Immediately place GTT sell order at **₹1,463.44** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹1,242.01**
-> 4. Run `python scripts/update_position.py --mode stock` to log this trade
+#### 📁 Short-Term Fundamentally Strong Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| BAJFINANCE.NS | 56.2 | RSI=59 (need 42–55) |
+| PIDILITIND.NS | 56.2 | RSI=60 (need 42–55) |
+| CDSL.NS | 52.2 | RSI=32 (need 42–55) |
 
 ---
 ## 📰 News & Sentiment
@@ -104,17 +81,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 78.2 | 49 | 🟢 | ✅ | -0.7 | 🎯 ENTRY |
-| 2 | ICICIBANK.NS | 60.2 | 60 | 🟢 | ✅ | -1.6 | 👀 Watch |
-| 3 | PIDILITIND.NS | 56.2 | 60 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 4 | BAJFINANCE.NS | 50.2 | 56 | 🟢 | ✅ | -0.8 | 👀 Watch |
-| 5 | HAVELLS.NS | 33.8 | 70 | 🟢 | — | -0.1 | 👀 Watch |
-| 6 | TITAN.NS | 15.8 | 82 | 🟢 | — | -0.7 | ⏸ Skip |
-| 7 | POLYCAB.NS | -0.8 | 46 | 🟢 | — | -1.0 | ⏸ Skip |
-| 8 | RELIANCE.NS | -45.8 | 45 | 🔴 | — | -1.5 | ⏸ Skip |
-| 9 | KEI.NS | -65.8 | 34 | 🔴 | — | -0.4 | ⏸ Skip |
-| 10 | ANGELONE.NS | -72.8 | 16 | 🔴 | — | 0.8 | ⏸ Skip |
-| 11 | HDFCBANK.NS | -81.8 | 23 | 🔴 | — | -0.9 | ⏸ Skip |
+| 1 | BAJFINANCE.NS | 56.2 | 59 | 🟢 | ✅ | 0.5 | 👀 Watch |
+| 2 | PIDILITIND.NS | 56.2 | 60 | 🟢 | ✅ | 0.2 | 👀 Watch |
+| 3 | CDSL.NS | 52.2 | 32 | 🟢 | ✅ | -0.5 | 👀 Watch |
+| 4 | ICICIBANK.NS | 46.2 | 62 | 🟢 | ✅ | 0.3 | 👀 Watch |
+| 5 | TITAN.NS | 21.8 | 84 | 🟢 | — | -0.2 | ⏸ Skip |
+| 6 | HAVELLS.NS | 21.8 | 72 | 🟢 | — | 0.2 | ⏸ Skip |
+| 7 | RELIANCE.NS | -39.8 | 45 | 🔴 | — | 0.1 | ⏸ Skip |
+| 8 | POLYCAB.NS | -57.8 | 41 | 🔴 | — | -0.0 | ⏸ Skip |
+| 9 | KEI.NS | -72.8 | 17 | 🔴 | — | 0.7 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -75.8 | 25 | 🔴 | — | 0.2 | ⏸ Skip |
+| 11 | ANGELONE.NS | -86.2 | 15 | 🔴 | — | 1.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -131,6 +108,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-30 13:34 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-30 15:43 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
