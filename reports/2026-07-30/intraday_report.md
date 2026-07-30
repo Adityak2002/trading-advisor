@@ -1,14 +1,19 @@
 # 🤖 Gemini AI Insights
 
-Drafting the Response (incorporating constraints)**:
-    *   *Tone*: Punchy, clear, layman-friendly, actionable.
-    *   *Format*: Clean markdown
+Here is your high-level, actionable summary of the intraday trading report:
+
+### 📈 Market Context
+* **Late-Day Setup:** The market is in its final hour of trade (currently **14:53 IST**). 
+* **Breakout Activity:** Several major stocks (including Adani Enterprises, SBI, and HDFC Bank) successfully broke above their morning opening ranges earlier today, showing positive momentum.
+
+### 🎯 Top Candidates (On Paper)
+While the system currently shows "no active buy signals
 
 ---
 
 # 📈 Intraday Report — 2026-07-30
 
-> Auto-generated at **13:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -25,18 +30,18 @@ Drafting the Response (incorporating constraints)**:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,026.40 | 🔼 Broken Out 🔼 | 29.3/100 | 65 | ✅ Yes | 1.9× | — |
-| **ADANIENT.NS** | ₹3,042.40 | 🔼 Broken Out 🔼 | 27.4/100 | 46 | ✅ Yes | 4.6× | — |
-| **RELIANCE.NS** | ₹1,293.00 | 🔼 Broken Out 🔼 | 20.8/100 | 51 | ✅ Yes | 1.2× | — |
-| **TMPV.NS** | ₹333.35 | 🔼 Broken Out 🔼 | 19.8/100 | 59 | ✅ Yes | 0.9× | — |
-| **POWERGRID.NS** | ₹285.45 | 🔼 Broken Out 🔼 | 14.3/100 | 33 | ✅ Yes | 1.2× | — |
-| **HDFCBANK.NS** | ₹750.95 | ▶ Inside Range ▶ | 8.7/100 | 49 | ✅ Yes | — | — |
-| **ICICIBANK.NS** | ₹1,428.40 | ▶ Inside Range ▶ | 4.3/100 | 40 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,454.60 | ▶ Inside Range ▶ | -5.1/100 | 42 | ❌ No | — | — |
-| **WIPRO.NS** | ₹187.84 | ▶ Inside Range ▶ | -5.7/100 | 29 | ❌ No | — | — |
-| **INFY.NS** | ₹1,173.30 | ▶ Inside Range ▶ | -6.6/100 | 37 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,043.50 | ▶ Inside Range ▶ | -8.0/100 | 27 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,223.50 | ▶ Inside Range ▶ | -9.7/100 | 33 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹3,036.80 | 🔼 Broken Out 🔼 | 27.4/100 | 44 | ✅ Yes | 4.8× | — |
+| **HDFCBANK.NS** | ₹752.20 | 🔼 Broken Out 🔼 | 22.4/100 | 69 | ✅ Yes | 1.4× | — |
+| **POWERGRID.NS** | ₹285.35 | 🔼 Broken Out 🔼 | 20.9/100 | 51 | ✅ Yes | 1.2× | — |
+| **SBIN.NS** | ₹1,023.10 | 🔼 Broken Out 🔼 | 18.1/100 | 35 | ✅ Yes | 1.8× | — |
+| **RELIANCE.NS** | ₹1,291.10 | 🔼 Broken Out 🔼 | 17.8/100 | 46 | ✅ Yes | 1.2× | — |
+| **TMPV.NS** | ₹333.35 | 🔼 Broken Out 🔼 | 17.0/100 | 51 | ✅ Yes | 0.9× | — |
+| **ICICIBANK.NS** | ₹1,429.10 | ▶ Inside Range ▶ | 8.3/100 | 50 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,225.20 | ▶ Inside Range ▶ | 4.0/100 | 57 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹1,046.50 | ▶ Inside Range ▶ | 1.0/100 | 52 | ❌ No | — | — |
+| **WIPRO.NS** | ₹186.90 | ▶ Inside Range ▶ | -7.3/100 | 20 | ❌ No | — | — |
+| **TCS.NS** | ₹2,430.00 | 🔽 Broken Down 🔽 | -26.8/100 | 13 | ❌ No | 1.0× | — |
+| **INFY.NS** | ₹1,153.10 | 🔽 Broken Down 🔽 | -30.0/100 | 7 | ❌ No | 0.8× | — |
 
 ---
 
@@ -50,12 +55,12 @@ Drafting the Response (incorporating constraints)**:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,026.40 | ₹1013.00 | ₹1008.00 | 65.1 | 🟢 Yes |
-| ADANIENT.NS | ₹3,042.40 | ₹3031.80 | ₹2996.70 | 45.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,293.00 | ₹1282.70 | ₹1276.00 | 50.6 | 🟢 Yes |
-| TMPV.NS | ₹333.35 | ₹330.65 | ₹328.20 | 58.9 | 🟢 Yes |
-| POWERGRID.NS | ₹285.45 | ₹284.85 | ₹283.00 | 33.3 | 🟢 Yes |
-| HDFCBANK.NS | ₹750.95 | ₹750.80 | ₹747.70 | 49.1 | 🟢 Yes |
+| ADANIENT.NS | ₹3,036.80 | ₹3031.80 | ₹2996.70 | 44.0 | 🟢 Yes |
+| HDFCBANK.NS | ₹752.20 | ₹750.80 | ₹747.70 | 69.4 | 🟢 Yes |
+| POWERGRID.NS | ₹285.35 | ₹284.85 | ₹283.00 | 51.0 | 🟢 Yes |
+| SBIN.NS | ₹1,023.10 | ₹1013.00 | ₹1008.00 | 35.3 | 🟢 Yes |
+| RELIANCE.NS | ₹1,291.10 | ₹1282.70 | ₹1276.00 | 45.7 | 🟢 Yes |
+| TMPV.NS | ₹333.35 | ₹330.65 | ₹328.20 | 51.2 | 🟢 Yes |
 
 ---
 
