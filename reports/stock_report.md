@@ -1,23 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report for **July 30, 2026**:
+Here is a high-level, actionable summary of today’s trading report:
 
-### 🌍 Market Context: Proceed with Caution (🟡 Mildly Bullish)
-* **Domestic Stability:** The Indian market is flat but stable (Nifty 50 at **24,256.80, +0.03%**). 
-* **Low Fear:** India VIX is low (**12.12**), meaning there is no immediate panic in the domestic market, allowing for normal trade sizing.
-* **Global Drag:** US markets fell sharply overnight (S&P 500 **-1.52%**, NASDAQ **-1.74%**). This global weakness might cap domestic gains today.
+### 🌍 Market Context: Proceed with Caution
+* **Domestic Market:** 🟡 **Mildly Bullish.** Nifty 50 is flat to slightly up (+0.11% at 24,277). 
+* **Fear Factor:** **Low.** India VIX is at 12.29, meaning domestic market anxiety is low, allowing for normal position sizing.
+* **Global Drag:** ⚠️ **Negative.** US markets fell overnight (S&P 500 -1.52%, NASDAQ -1.74%), which may cap major upside moves today.
 
 ---
 
-### 🎯 Top Entry Candidate: CDSL (CDSL.NS)
-With ₹10,000 in idle cash, there is one strong short-term pullback setup:
-
-*
+### 🎯 Top Entry Candidate: CDSL (
 
 ---
 
 # 📈 Stock Delivery Report — 2026-07-30
-> *Auto-generated at 11:50 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 13:34 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -27,19 +24,19 @@ With ₹10,000 in idle cash, there is one strong short-term pullback setup:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,256.80 | 📈 +0.03% |
-| India VIX | 12.12 | 📈 +0.96% |
+| Nifty 50 | 24,277.70 | 📈 +0.11% |
+| India VIX | 12.29 | 📈 +2.33% |
 | S&P 500 (overnight) | 7,316.15 | 📉 -1.52% |
 | NASDAQ | 24,442.94 | 📉 -1.74% |
-| WTI Crude Oil | $85.62 | 📈 +1.37% |
-| USD / INR | 95.7475 | 📈 +0.16% |
+| WTI Crude Oil | $85.03 | 📈 +0.68% |
+| USD / INR | 95.7225 | 📈 +0.13% |
 
 **Key Factors:**
-- VIX 12.1 — Low fear 🟢 (full sizing)
+- VIX 12.3 — Low fear 🟢 (full sizing)
 - S&P 500 -1.52% — Negative overnight cues 📉
 - NASDAQ -1.74% — Tech bearish
-- WTI Crude $85.62 (+1.37%) — Neutral for OILIETF
-- USD/INR 95.75 (+0.156%) — USD stable
+- WTI Crude $85.03 (+0.68%) — Neutral for OILIETF
+- USD/INR 95.72 (+0.130%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -74,27 +71,27 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | Action Details | Value | Notes |
 |---|---|---|
-| 🟢 **Buy Price** | **₹1,334.20** | Buy at market or limit |
+| 🟢 **Buy Price** | **₹1,330.40** | Buy at market or limit |
 | **Shares to Buy** | **5** | Sized to limit your risk |
-| **Investment Amount** | **₹6,671.00** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,467.62** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹1,245.81** | Hard exit to cut losses |
-| Max Risk | ₹441.96 | Only 6.62% of investment at risk |
+| **Investment Amount** | **₹6,652.00** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,463.44** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹1,242.01** | Hard exit to cut losses |
+| Max Risk | ₹441.96 | Only 6.64% of investment at risk |
 | Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
 **Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 50.0)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,347.06 > EMA50: ₹1,316.20)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: -0.95%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -0.77)*
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 49.4)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,346.72 > EMA50: ₹1,316.05)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: -1.21%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -0.72)*
 - ✅ Overall setup is strong *(Score: 78.2/100)*
 - ✅ Overall market trend is stable (Nifty above 20-day average)
 - ✅ Sector is performing well compared to Nifty
 
 > **Action on Groww:**
 > 1. Search `CDSL` ➔ Buy **5 shares** at market
-> 2. Immediately place GTT sell order at **₹1,467.62** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹1,245.81**
+> 2. Immediately place GTT sell order at **₹1,463.44** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹1,242.01**
 > 4. Run `python scripts/update_position.py --mode stock` to log this trade
 
 ---
@@ -107,17 +104,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 78.2 | 50 | 🟢 | ✅ | -0.8 | 🎯 ENTRY |
-| 2 | ICICIBANK.NS | 60.2 | 58 | 🟢 | ✅ | -2.1 | 👀 Watch |
-| 3 | BAJFINANCE.NS | 50.2 | 57 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 4 | PIDILITIND.NS | 37.8 | 61 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 5 | HAVELLS.NS | 27.8 | 67 | 🟢 | ✅ | -0.8 | ⏸ Skip |
-| 6 | TITAN.NS | 15.8 | 84 | 🟢 | — | -0.9 | ⏸ Skip |
-| 7 | POLYCAB.NS | -0.8 | 48 | 🟢 | — | -1.3 | ⏸ Skip |
-| 8 | RELIANCE.NS | -45.8 | 44 | 🔴 | — | -2.1 | ⏸ Skip |
-| 9 | KEI.NS | -71.8 | 34 | 🔴 | — | -0.7 | ⏸ Skip |
-| 10 | ANGELONE.NS | -75.8 | 16 | 🔴 | — | 0.3 | ⏸ Skip |
-| 11 | HDFCBANK.NS | -81.8 | 22 | 🔴 | — | -1.3 | ⏸ Skip |
+| 1 | CDSL.NS | 78.2 | 49 | 🟢 | ✅ | -0.7 | 🎯 ENTRY |
+| 2 | ICICIBANK.NS | 60.2 | 60 | 🟢 | ✅ | -1.6 | 👀 Watch |
+| 3 | PIDILITIND.NS | 56.2 | 60 | 🟢 | ✅ | -0.5 | 👀 Watch |
+| 4 | BAJFINANCE.NS | 50.2 | 56 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 5 | HAVELLS.NS | 33.8 | 70 | 🟢 | — | -0.1 | 👀 Watch |
+| 6 | TITAN.NS | 15.8 | 82 | 🟢 | — | -0.7 | ⏸ Skip |
+| 7 | POLYCAB.NS | -0.8 | 46 | 🟢 | — | -1.0 | ⏸ Skip |
+| 8 | RELIANCE.NS | -45.8 | 45 | 🔴 | — | -1.5 | ⏸ Skip |
+| 9 | KEI.NS | -65.8 | 34 | 🔴 | — | -0.4 | ⏸ Skip |
+| 10 | ANGELONE.NS | -72.8 | 16 | 🔴 | — | 0.8 | ⏸ Skip |
+| 11 | HDFCBANK.NS | -81.8 | 23 | 🔴 | — | -0.9 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -134,6 +131,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-30 11:50 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-30 13:34 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
