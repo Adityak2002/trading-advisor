@@ -1,15 +1,14 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report as of **13:01 IST**:
-
-### 📈 Market Context
-The market is showing selective bullish momentum today. Out of
+Drafting the Response (incorporating constraints)**:
+    *   *Tone*: Punchy, clear, layman-friendly, actionable.
+    *   *Format*: Clean markdown
 
 ---
 
 # 📈 Intraday Report — 2026-07-30
 
-> Auto-generated at **13:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,18 +25,18 @@ The market is showing selective bullish momentum today. Out of
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹3,042.00 | 🔼 Broken Out 🔼 | 27.4/100 | 49 | ✅ Yes | 4.4× | — |
-| **TMPV.NS** | ₹332.40 | 🔼 Broken Out 🔼 | 22.8/100 | 66 | ✅ Yes | 1.1× | — |
-| **RELIANCE.NS** | ₹1,293.60 | 🔼 Broken Out 🔼 | 22.6/100 | 67 | ✅ Yes | 1.3× | — |
-| **SBIN.NS** | ₹1,024.00 | 🔼 Broken Out 🔼 | 22.1/100 | 80 | ✅ Yes | 1.8× | — |
-| **POWERGRID.NS** | ₹286.05 | 🔼 Broken Out 🔼 | 15.5/100 | 76 | ✅ Yes | 1.5× | — |
-| **HDFCBANK.NS** | ₹750.40 | ▶ Inside Range ▶ | 11.8/100 | 62 | ✅ Yes | — | — |
-| **ICICIBANK.NS** | ₹1,428.90 | ▶ Inside Range ▶ | 7.4/100 | 74 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,225.70 | ▶ Inside Range ▶ | 4.8/100 | 59 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,461.80 | ▶ Inside Range ▶ | 4.5/100 | 69 | ❌ No | — | — |
-| **WIPRO.NS** | ₹188.41 | ▶ Inside Range ▶ | 2.1/100 | 49 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,045.00 | ▶ Inside Range ▶ | -3.2/100 | 45 | ❌ No | — | — |
-| **INFY.NS** | ₹1,177.10 | ▶ Inside Range ▶ | -3.4/100 | 80 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,026.40 | 🔼 Broken Out 🔼 | 29.3/100 | 65 | ✅ Yes | 1.9× | — |
+| **ADANIENT.NS** | ₹3,042.40 | 🔼 Broken Out 🔼 | 27.4/100 | 46 | ✅ Yes | 4.6× | — |
+| **RELIANCE.NS** | ₹1,293.00 | 🔼 Broken Out 🔼 | 20.8/100 | 51 | ✅ Yes | 1.2× | — |
+| **TMPV.NS** | ₹333.35 | 🔼 Broken Out 🔼 | 19.8/100 | 59 | ✅ Yes | 0.9× | — |
+| **POWERGRID.NS** | ₹285.45 | 🔼 Broken Out 🔼 | 14.3/100 | 33 | ✅ Yes | 1.2× | — |
+| **HDFCBANK.NS** | ₹750.95 | ▶ Inside Range ▶ | 8.7/100 | 49 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,428.40 | ▶ Inside Range ▶ | 4.3/100 | 40 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,454.60 | ▶ Inside Range ▶ | -5.1/100 | 42 | ❌ No | — | — |
+| **WIPRO.NS** | ₹187.84 | ▶ Inside Range ▶ | -5.7/100 | 29 | ❌ No | — | — |
+| **INFY.NS** | ₹1,173.30 | ▶ Inside Range ▶ | -6.6/100 | 37 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,043.50 | ▶ Inside Range ▶ | -8.0/100 | 27 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,223.50 | ▶ Inside Range ▶ | -9.7/100 | 33 | ❌ No | — | — |
 
 ---
 
@@ -51,12 +50,12 @@ The market is showing selective bullish momentum today. Out of
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹3,042.00 | ₹3031.80 | ₹2996.70 | 49.0 | 🟢 Yes |
-| TMPV.NS | ₹332.40 | ₹330.65 | ₹328.20 | 65.6 | 🟢 Yes |
-| RELIANCE.NS | ₹1,293.60 | ₹1282.70 | ₹1276.00 | 66.7 | 🟢 Yes |
-| SBIN.NS | ₹1,024.00 | ₹1013.00 | ₹1008.00 | 79.8 | 🟢 Yes |
-| POWERGRID.NS | ₹286.05 | ₹284.85 | ₹283.00 | 76.3 | 🟢 Yes |
-| HDFCBANK.NS | ₹750.40 | ₹750.80 | ₹747.70 | 61.9 | 🟢 Yes |
+| SBIN.NS | ₹1,026.40 | ₹1013.00 | ₹1008.00 | 65.1 | 🟢 Yes |
+| ADANIENT.NS | ₹3,042.40 | ₹3031.80 | ₹2996.70 | 45.9 | 🟢 Yes |
+| RELIANCE.NS | ₹1,293.00 | ₹1282.70 | ₹1276.00 | 50.6 | 🟢 Yes |
+| TMPV.NS | ₹333.35 | ₹330.65 | ₹328.20 | 58.9 | 🟢 Yes |
+| POWERGRID.NS | ₹285.45 | ₹284.85 | ₹283.00 | 33.3 | 🟢 Yes |
+| HDFCBANK.NS | ₹750.95 | ₹750.80 | ₹747.70 | 49.1 | 🟢 Yes |
 
 ---
 
