@@ -1,52 +1,41 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Trading Summary: 2026-07-30
+Here is your high-level, actionable summary of today’s trading report:
 
-The market is currently in a **"Wait and Watch"** phase. Despite a stable domestic environment, negative global cues from the US markets suggest a cautious approach.
+### 🌍 Market Context: **Green Light (Bullish)**
+*   **Positive Market Mood:** The Indian market (Nifty +0.22%) and US markets (NASDAQ +2.78%) are up, creating a supportive environment for buying.
+*   **Low Market Fear:** The India VIX (fear gauge) is very low at 11.86. This means it is safe to invest with normal position sizes once setups appear.
+*   **Currency Headwind:** A weaker US Dollar (USD/INR -0.39%) might slightly drag down any international ETF investments.
 
-#### **Market Context**
-*   **Sentiment:** Mildly Bullish, but tempered by significant overnight drops in the S&P 500 (-1.52%) and NASDAQ (-1.74%).
-*   **Volatility:** India VIX is low (12.15), indicating a lack of immediate panic, but global tech weakness may spill over into Indian markets.
-*   **Strategy Status:** Currently 100% cash. No trades were triggered today as candidates failed to meet the strict "Momentum Pullback" criteria.
-
-#### **Top Entry Candidates (Watchlist)**
-These stocks are fundamentally strong but are currently **too expensive** (RSI too high) or **too oversold** (RSI too low) for your specific strategy:
-*   **BAJFINANCE.NS & PIDILITIND.NS:** Strong momentum, but currently overbought (RSI > 55). Wait for a slight price dip to enter.
-*   **CDSL.NS:** Showing potential, but currently oversold (RSI < 42). Wait for the price to stabilize before considering an entry.
-
-#### **Critical Warnings & Strategy Notes**
-*   **Avoid "Catching Falling Knives":** Stocks like **HDFCBANK.NS** and **ANGELONE.NS** have poor technical alignment (EMA21 < EMA50). Do not buy these just because they look "cheap"—they are currently in a downtrend.
-*   **Discipline Check:** Your strategy requires a specific RSI range (42–55). Do not force entries outside this range; the goal is to buy during a healthy pullback, not during a momentum breakout or a crash.
-*   **Performance Note:** Your previous trade resulted in a stop-loss hit (-7.14%). Ensure your next entry strictly adheres to the pullback criteria to improve your win rate.
-
-**Action Plan:** Stay in cash. Monitor the watchlist for a pullback into the target RSI zone (42–55) before deploying any capital.
+### 🎯 Entry Candidates: **Patience Required (No Immediate Buys)**
+Your ₹10,000 capital is currently **100% in cash** (no open positions). While the market is good, no stocks have perfectly hit our "Momentum Pullback"
 
 ---
 
-# 📈 Stock Delivery Report — 2026-07-30
-> *Auto-generated at 17:18 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 📈 Stock Delivery Report — 2026-07-31
+> *Auto-generated at 12:07 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,317.15 | 📈 +0.28% |
-| India VIX | 12.15 | 📈 +1.21% |
-| S&P 500 (overnight) | 7,316.15 | 📉 -1.52% |
-| NASDAQ | 24,442.94 | 📉 -1.74% |
-| WTI Crude Oil | $83.58 | 📉 -1.04% |
-| USD / INR | 95.6800 | 📈 +0.09% |
+| Nifty 50 | 24,370.20 | 📈 +0.22% |
+| India VIX | 11.86 | 📉 -2.51% |
+| S&P 500 (overnight) | 7,437.63 | 📈 +1.66% |
+| NASDAQ | 25,122.18 | 📈 +2.78% |
+| WTI Crude Oil | $82.08 | 📉 -1.81% |
+| USD / INR | 95.3525 | 📉 -0.39% |
 
 **Key Factors:**
-- VIX 12.2 — Low fear 🟢 (full sizing)
-- S&P 500 -1.52% — Negative overnight cues 📉
-- NASDAQ -1.74% — Tech bearish
-- WTI Crude $83.58 (-1.04%) — Neutral for OILIETF
-- USD/INR 95.68 (+0.085%) — USD stable
+- VIX 11.9 — Low fear 🟢 (full sizing)
+- S&P 500 +1.66% — Positive overnight cues 📈
+- NASDAQ +2.78% — Tech bullish (N100/MAFANG +ve)
+- WTI Crude $82.08 (-1.81%) — Bearish for OILIETF 📉
+- USD/INR 95.35 (-0.393%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -75,16 +64,16 @@ These stocks are fundamentally strong but are currently **too expensive** (RSI t
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 46.2 | RSI=62 (need 42–55) · Score=46 (need ≥50) |
-| RELIANCE.NS | -39.8 | EMA21 < EMA50 · Price -0.0% from EMA21 (need ±4%) · Score=-40 (need ≥50) |
-| HDFCBANK.NS | -75.8 | RSI=25 (need 42–55) · EMA21 < EMA50 · Price -2.4% from EMA21 (need ±4%) · Score=-76 (need ≥50) |
+| ICICIBANK.NS | 53.8 | RSI=62 (need 42–55) |
+| RELIANCE.NS | -48.2 | EMA21 < EMA50 · Price +0.4% from EMA21 (need ±4%) · Score=-48 (need ≥50) |
+| HDFCBANK.NS | -78.2 | RSI=26 (need 42–55) · EMA21 < EMA50 · Price -2.7% from EMA21 (need ±4%) · Score=-78 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| BAJFINANCE.NS | 56.2 | RSI=59 (need 42–55) |
-| PIDILITIND.NS | 56.2 | RSI=60 (need 42–55) |
-| CDSL.NS | 52.2 | RSI=32 (need 42–55) |
+| CDSL.NS | 55.8 | RSI=30 (need 42–55) |
+| PIDILITIND.NS | 53.8 | RSI=62 (need 42–55) |
+| TITAN.NS | 19.2 | RSI=84 (need 42–55) · Price +4.7% from EMA21 (need ±4%) · Score=19 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -96,17 +85,17 @@ These stocks are fundamentally strong but are currently **too expensive** (RSI t
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | BAJFINANCE.NS | 56.2 | 59 | 🟢 | ✅ | 0.5 | 👀 Watch |
-| 2 | PIDILITIND.NS | 56.2 | 60 | 🟢 | ✅ | 0.2 | 👀 Watch |
-| 3 | CDSL.NS | 52.2 | 32 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 4 | ICICIBANK.NS | 46.2 | 62 | 🟢 | ✅ | 0.3 | 👀 Watch |
-| 5 | TITAN.NS | 21.8 | 84 | 🟢 | — | -0.2 | ⏸ Skip |
-| 6 | HAVELLS.NS | 21.8 | 72 | 🟢 | — | 0.2 | ⏸ Skip |
-| 7 | RELIANCE.NS | -39.8 | 45 | 🔴 | — | 0.1 | ⏸ Skip |
-| 8 | POLYCAB.NS | -57.8 | 41 | 🔴 | — | -0.0 | ⏸ Skip |
-| 9 | KEI.NS | -72.8 | 17 | 🔴 | — | 0.7 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -75.8 | 25 | 🔴 | — | 0.2 | ⏸ Skip |
-| 11 | ANGELONE.NS | -86.2 | 15 | 🔴 | — | 1.6 | ⏸ Skip |
+| 1 | CDSL.NS | 55.8 | 30 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 2 | ICICIBANK.NS | 53.8 | 62 | 🟢 | ✅ | -2.2 | 👀 Watch |
+| 3 | PIDILITIND.NS | 53.8 | 62 | 🟢 | ✅ | -1.7 | 👀 Watch |
+| 4 | TITAN.NS | 19.2 | 84 | 🟢 | — | -0.9 | ⏸ Skip |
+| 5 | HAVELLS.NS | 19.2 | 75 | 🟢 | ✅ | -1.1 | ⏸ Skip |
+| 6 | BAJFINANCE.NS | -8.2 | 71 | 🟢 | — | 3.3 | ⏸ Skip |
+| 7 | POLYCAB.NS | -42.2 | 45 | 🔴 | — | -1.0 | ⏸ Skip |
+| 8 | RELIANCE.NS | -48.2 | 51 | 🔴 | — | -2.2 | ⏸ Skip |
+| 9 | KEI.NS | -54.2 | 41 | 🔴 | — | 0.3 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -78.2 | 26 | 🔴 | — | -1.5 | ⏸ Skip |
+| 11 | ANGELONE.NS | -78.2 | 24 | 🔴 | — | -0.9 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -123,6 +112,6 @@ These stocks are fundamentally strong but are currently **too expensive** (RSI t
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-07-30 17:18 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-07-31 12:07 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
