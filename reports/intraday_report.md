@@ -1,13 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Self-Correction during drafting**:
-    *   *Correction*: Make sure to explicitly mention that because the report is generated at 16:10 IST, the trading day is over. The "
+Here is a high-level, actionable summary of the trading report for **July 31, 2026**:
+
+### 📊 Market Overview
+* **Mixed Market Sentiment:** Out of
 
 ---
 
 # 📈 Intraday Report — 2026-07-31
 
-> Auto-generated at **16:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
