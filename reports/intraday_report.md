@@ -1,15 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report for **August 3, 2026**:
+### 📊 Market Summary & Action Plan
 
-### 📈 Market Context
-* **Strong Bull
+The market is showing strong bullish sentiment with multiple stocks breaking above their opening range. However, the system currently shows **no active entries**, indicating that while momentum is high, the specific volume-based criteria for a "high-conviction" trade have not been met for the current session.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are showing strong momentum. Monitor these for a sudden volume spike (≥1.8× average) to trigger an entry:
+*   **RELIANCE.NS:** Highest volume surge (4.0×) and strong momentum; the primary candidate to watch.
+*   **SBIN.NS:** Strong breakout with significant volume (3.1×).
+*   **AXISBANK.NS:** Highest momentum score (88.3), indicating aggressive buying pressure.
+*   **POWERGRID.NS:** Consistent breakout performance with solid volume (2.4×).
+
+#### ⚠️ Critical Rules & Warnings
+*   **Strict Discipline:** Do not force trades. Only enter if the volume surge condition (≥1.8× average) is met.
+*   **Risk Cap:** Never risk more than **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **Exposure Limit:** Maximum of **2 concurrent trades**. Do not over-leverage your ₹5,000 capital.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. Do not carry any positions overnight.
+*   **Profit Protection:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
 
 ---
 
 # 📈 Intraday Report — 2026-08-03
 
-> Auto-generated at **16:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
