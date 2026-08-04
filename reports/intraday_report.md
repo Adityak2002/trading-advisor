@@ -1,12 +1,15 @@
 # 🤖 Gemini AI Insights
 
-)*: Make sure to explicitly mention the ₹5,000 capital and ₹100 risk limit to keep it grounded in the report's parameters. Emphasize the
+Here is your high-level, actionable summary of today’s trading setup:
+
+### 📈 Market Context
+* **Mixed & Cautious Sentiment:** The market is highly divided today. While a
 
 ---
 
 # 📈 Intraday Report — 2026-08-04
 
-> Auto-generated at **16:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
