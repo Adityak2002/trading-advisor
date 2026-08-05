@@ -2,27 +2,27 @@
 
 ### 📊 Market Summary: 2026-08-05
 
-The market is currently showing **weak momentum** across the majority of the watchlist. Most stocks have broken below their opening range, signaling a bearish bias for the session.
+The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist trading below their opening range. Volatility is present, but momentum is weak across most sectors.
 
 #### 🚀 Top Entry Candidates
-*   **SBIN.NS:** The only stock currently showing a **valid breakout** (above opening high) with strong volume (2.7×). It is the primary candidate for a long position if momentum holds.
-*   **Watchlist:** Keep a close eye on **TMPV.NS, HDFCBANK.NS, and INFY.NS**. They are currently trading inside their opening ranges; if they break above their respective "Opening Highs" with a volume surge, they become actionable.
+*   **SBIN.NS:** The only stock showing a clear **bullish breakout** (above opening high) with significant volume (2.9× average). 
+    *   *Status:* Monitor for entry if momentum sustains; currently the strongest candidate.
+*   **Watchlist:** HDFCBANK, TMPV, and INFY are currently "inside the range." Keep these on your radar; if they break their respective opening highs with a volume surge, they become viable trades.
 
 #### ⚠️ Critical Warnings & Risk Management
-*   **Bearish Trend:** Most tracked stocks (AXISBANK, ADANIENT, TCS, etc.) have broken *downward*. Avoid forcing long trades in these names.
-*   **Strict Discipline:** 
-    *   **Max Loss:** Do not exceed ₹100 loss per trade.
-    *   **No Overtrading:** Limit to a maximum of 2 active positions.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST**.
-*   **Trailing Stop:** If you enter a position, move your stop-loss to breakeven once the trade hits +0.5% profit to protect your capital.
+*   **Bearish Trend:** Most stocks (AXISBANK, TCS, RELIANCE, etc.) have broken *down* through their opening lows. **Do not force long trades** in a falling market.
+*   **Strict Risk Cap:** Limit loss to **₹100 per trade** (2% of capital). If a trade hits the -0.4% stop loss, exit immediately.
+*   **No Overtrading:** Cap at a maximum of **2 active trades** simultaneously.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. Do not hold any positions overnight.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
 
-**Bottom Line:** The market is largely bearish. Focus exclusively on **SBIN.NS** for long opportunities and remain patient for other stocks to prove their strength before entering.
+**Bottom Line:** The market is leaning negative. Focus exclusively on **SBIN.NS** if you must trade, but prioritize capital preservation until more stocks show bullish momentum.
 
 ---
 
 # 📈 Intraday Report — 2026-08-05
 
-> Auto-generated at **13:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:54 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +39,18 @@ The market is currently showing **weak momentum** across the majority of the wat
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,052.50 | 🔼 Broken Out 🔼 | 29.5/100 | 60 | ✅ Yes | 2.7× | — |
-| **TMPV.NS** | ₹348.55 | ▶ Inside Range ▶ | -4.6/100 | 56 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹734.50 | ▶ Inside Range ▶ | -8.4/100 | 21 | ❌ No | — | — |
-| **INFY.NS** | ₹1,166.80 | ▶ Inside Range ▶ | -8.4/100 | 33 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,247.80 | 🔽 Broken Down 🔽 | -12.6/100 | 26 | ❌ No | 2.1× | — |
-| **ADANIENT.NS** | ₹3,046.90 | 🔽 Broken Down 🔽 | -19.6/100 | 29 | ❌ No | 1.2× | — |
-| **TCS.NS** | ₹2,419.70 | 🔽 Broken Down 🔽 | -22.8/100 | 29 | ❌ No | 1.2× | — |
-| **RELIANCE.NS** | ₹1,285.70 | 🔽 Broken Down 🔽 | -23.6/100 | 39 | ❌ No | 0.5× | — |
-| **POWERGRID.NS** | ₹281.80 | 🔽 Broken Down 🔽 | -23.6/100 | 39 | ❌ No | 0.8× | — |
-| **ICICIBANK.NS** | ₹1,437.10 | 🔽 Broken Down 🔽 | -26.8/100 | 28 | ❌ No | 0.8× | — |
-| **BAJFINANCE.NS** | ₹1,150.00 | 🔽 Broken Down 🔽 | -26.8/100 | 9 | ❌ No | 0.5× | — |
-| **WIPRO.NS** | ₹186.29 | 🔽 Broken Down 🔽 | -26.8/100 | 26 | ❌ No | 0.6× | — |
+| **SBIN.NS** | ₹1,050.20 | 🔼 Broken Out 🔼 | 21.1/100 | 37 | ✅ Yes | 2.9× | — |
+| **HDFCBANK.NS** | ₹734.25 | ▶ Inside Range ▶ | -5.2/100 | 44 | ❌ No | — | — |
+| **TMPV.NS** | ₹348.00 | ▶ Inside Range ▶ | -8.8/100 | 47 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,248.30 | 🔽 Broken Down 🔽 | -9.0/100 | 46 | ❌ No | 2.1× | — |
+| **INFY.NS** | ₹1,165.30 | ▶ Inside Range ▶ | -9.7/100 | 29 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹282.10 | 🔽 Broken Down 🔽 | -15.2/100 | 61 | ❌ No | 0.9× | — |
+| **ICICIBANK.NS** | ₹1,435.30 | 🔽 Broken Down 🔽 | -20.0/100 | 46 | ❌ No | 0.6× | — |
+| **WIPRO.NS** | ₹186.30 | 🔽 Broken Down 🔽 | -20.0/100 | 45 | ❌ No | 0.6× | — |
+| **TCS.NS** | ₹2,414.50 | 🔽 Broken Down 🔽 | -22.8/100 | 28 | ❌ No | 1.3× | — |
+| **ADANIENT.NS** | ₹3,039.10 | 🔽 Broken Down 🔽 | -22.8/100 | 35 | ❌ No | 1.2× | — |
+| **RELIANCE.NS** | ₹1,279.60 | 🔽 Broken Down 🔽 | -26.8/100 | 28 | ❌ No | 0.4× | — |
+| **BAJFINANCE.NS** | ₹1,145.60 | 🔽 Broken Down 🔽 | -26.8/100 | 26 | ❌ No | 0.5× | — |
 
 ---
 
@@ -64,10 +64,10 @@ The market is currently showing **weak momentum** across the majority of the wat
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,052.50 | ₹1045.20 | ₹1040.50 | 60.3 | 🟢 Yes |
-| TMPV.NS | ₹348.55 | ₹352.40 | ₹347.90 | 55.9 | 🔴 No |
-| HDFCBANK.NS | ₹734.50 | ₹740.45 | ₹733.80 | 20.9 | 🔴 No |
-| INFY.NS | ₹1,166.80 | ₹1177.20 | ₹1165.60 | 33.3 | 🔴 No |
+| SBIN.NS | ₹1,050.20 | ₹1045.20 | ₹1040.50 | 37.4 | 🟢 Yes |
+| HDFCBANK.NS | ₹734.25 | ₹740.45 | ₹733.80 | 44.0 | 🔴 No |
+| TMPV.NS | ₹348.00 | ₹352.40 | ₹347.90 | 47.1 | 🔴 No |
+| INFY.NS | ₹1,165.30 | ₹1177.20 | ₹1165.60 | 28.6 | 🔴 No |
 
 ---
 
