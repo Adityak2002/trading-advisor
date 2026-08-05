@@ -1,13 +1,33 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report for **August 5, 2026**:
+### 📊 Market Summary: 2026-08-05
 
-### 🌍 Market Context: **Green Light (
+The market is currently in a **"Wait and Watch"** phase. While global cues are bullish, the domestic market (Nifty) is showing weakness, leading to a cautious environment for new capital deployment.
+
+#### **Market Context**
+*   **Global Sentiment:** Strongly bullish (S&P 500 +1.79%, NASDAQ +2.59%).
+*   **Domestic Sentiment:** Bearish (Nifty -0.42%).
+*   **Risk Profile:** Low (VIX at 12.6), suggesting a stable environment for potential entries if technical conditions align.
+
+#### **Top Entry Candidates (Watchlist)**
+*No stocks currently meet all entry criteria.* We are waiting for specific technical pullbacks:
+*   **ICICIBANK.NS:** Closest to entry; currently too "hot" (RSI 58). Waiting for a slight cooling-off period (RSI target: 42–55).
+*   **PIDILITIND.NS:** Strong fundamentals, but currently overbought (RSI 69). Needs to pull back before it becomes a viable buy.
+*   **CDSL.NS:** Good setup, but currently oversold (RSI 34). Needs to stabilize within the target range.
+
+#### **Critical Warnings & Strategy Notes**
+*   **Capital Status:** 100% of your ₹10,000 capital is idle. **Do not force trades**—the current strategy requires strict adherence to the RSI and EMA alignment filters.
+*   **Performance Check:** Your previous trade resulted in a **7.14% loss**. Ensure you are reviewing the "Stop Hit" reason from that trade to avoid repeating the same error.
+*   **Action Plan:** Continue monitoring the top 3 candidates. If the Nifty recovers and these stocks hit their target RSI/EMA zones, consider partial deployment.
+
+***
+
+*Disclaimer: This is a quantitative analysis report. Ensure you verify all data before executing trades on your brokerage platform.*
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-05
-> *Auto-generated at 11:50 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 13:43 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -17,19 +37,20 @@ Here is your high-level, actionable summary of the trading report for **August 5
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,582.95 | 📉 -0.13% |
-| India VIX | 12.16 | 📉 -0.27% |
+| Nifty 50 | 24,511.15 | 📉 -0.42% |
+| India VIX | 12.64 | 📈 +3.69% |
 | S&P 500 (overnight) | 7,736.52 | 📈 +1.79% |
 | NASDAQ | 26,584.99 | 📈 +2.59% |
-| WTI Crude Oil | $75.20 | 📉 -0.75% |
-| USD / INR | 95.1275 | 📉 -0.21% |
+| WTI Crude Oil | $76.00 | 📈 +0.30% |
+| USD / INR | 95.1520 | 📉 -0.19% |
 
 **Key Factors:**
-- VIX 12.2 — Low fear 🟢 (full sizing)
+- VIX 12.6 — Low fear 🟢 (full sizing)
 - S&P 500 +1.79% — Positive overnight cues 📈
 - NASDAQ +2.59% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $75.20 (-0.75%) — Neutral for OILIETF
-- USD/INR 95.13 (-0.214%) — Dollar weakening → intl ETFs headwind
+- Nifty -0.42% — Domestic market bearish
+- WTI Crude $76.00 (+0.30%) — Neutral for OILIETF
+- USD/INR 95.15 (-0.188%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -58,16 +79,16 @@ Here is your high-level, actionable summary of the trading report for **August 5
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 53.8 | RSI=62 (need 42–55) |
-| RELIANCE.NS | -42.2 | EMA21 < EMA50 · Price -0.6% from EMA21 (need ±4%) · Score=-42 (need ≥50) |
-| HDFCBANK.NS | -72.2 | RSI=25 (need 42–55) · EMA21 < EMA50 · Price -3.4% from EMA21 (need ±4%) · Score=-72 (need ≥50) |
+| ICICIBANK.NS | 53.0 | RSI=58 (need 42–55) |
+| RELIANCE.NS | -37.0 | EMA21 < EMA50 · Price -1.1% from EMA21 (need ±4%) · Score=-37 (need ≥50) |
+| HDFCBANK.NS | -70.0 | RSI=24 (need 42–55) · EMA21 < EMA50 · Price -3.8% from EMA21 (need ±4%) · Score=-70 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| PIDILITIND.NS | 49.8 | RSI=69 (need 42–55) · Score=50 (need ≥50) |
-| CDSL.NS | 46.8 | RSI=33 (need 42–55) · Score=47 (need ≥50) |
-| POLYCAB.NS | 21.8 | EMA21 < EMA50 · Score=22 (need ≥50) |
+| PIDILITIND.NS | 49.0 | RSI=69 (need 42–55) · Score=49 (need ≥50) |
+| CDSL.NS | 46.0 | RSI=34 (need 42–55) · Score=46 (need ≥50) |
+| POLYCAB.NS | 27.0 | EMA21 < EMA50 · Score=27 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -79,17 +100,17 @@ Here is your high-level, actionable summary of the trading report for **August 5
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ICICIBANK.NS | 53.8 | 62 | 🟢 | ✅ | -1.7 | 👀 Watch |
-| 2 | PIDILITIND.NS | 49.8 | 69 | 🟢 | ✅ | -0.1 | 👀 Watch |
-| 3 | CDSL.NS | 46.8 | 33 | 🟢 | ✅ | -0.7 | 👀 Watch |
-| 4 | POLYCAB.NS | 21.8 | 50 | 🔴 | ✅ | -1.3 | ⏸ Skip |
-| 5 | TITAN.NS | 19.2 | 76 | 🟢 | ✅ | -1.3 | ⏸ Skip |
-| 6 | HAVELLS.NS | 19.2 | 83 | 🟢 | — | -1.0 | ⏸ Skip |
-| 7 | BAJFINANCE.NS | 6.8 | 75 | 🟢 | — | -0.9 | ⏸ Skip |
-| 8 | KEI.NS | 6.8 | 69 | 🔴 | — | 0.1 | ⏸ Skip |
-| 9 | RELIANCE.NS | -42.2 | 48 | 🔴 | — | -1.8 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -72.2 | 25 | 🔴 | — | -0.1 | ⏸ Skip |
-| 11 | ANGELONE.NS | -78.2 | 20 | 🔴 | — | -0.9 | ⏸ Skip |
+| 1 | ICICIBANK.NS | 53.0 | 58 | 🟢 | ✅ | -0.9 | 👀 Watch |
+| 2 | PIDILITIND.NS | 49.0 | 69 | 🟢 | ✅ | 0.5 | 👀 Watch |
+| 3 | CDSL.NS | 46.0 | 34 | 🟢 | ✅ | -0.6 | 👀 Watch |
+| 4 | POLYCAB.NS | 27.0 | 50 | 🔴 | ✅ | -1.2 | ⏸ Skip |
+| 5 | TITAN.NS | 18.5 | 77 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 6 | HAVELLS.NS | 18.5 | 83 | 🟢 | — | -0.6 | ⏸ Skip |
+| 7 | BAJFINANCE.NS | 6.0 | 73 | 🟢 | — | -0.8 | ⏸ Skip |
+| 8 | KEI.NS | 6.0 | 69 | 🔴 | — | 0.4 | ⏸ Skip |
+| 9 | RELIANCE.NS | -37.0 | 46 | 🔴 | — | 0.1 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -70.0 | 24 | 🔴 | — | 1.4 | ⏸ Skip |
+| 11 | ANGELONE.NS | -79.0 | 20 | 🔴 | — | -0.8 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -106,6 +127,6 @@ Here is your high-level, actionable summary of the trading report for **August 5
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-05 11:50 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-05 13:43 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
