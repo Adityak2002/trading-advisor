@@ -2,27 +2,30 @@
 
 ### 📊 Market Summary: 2026-08-05
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. Most stocks are trading within their opening bounds, indicating a lack of immediate directional conviction.
+The market is currently in a **consolidation phase** following the initial 15-minute opening window. While several stocks are showing strong momentum, most are still trading within their opening ranges, meaning no high-conviction "breakout" trades have been triggered yet.
 
-#### 🚀 Top Entry Candidates
-*   **SBIN.NS:** The only stock to show a confirmed breakout with a strong volume surge (3.0×). It is the primary candidate for immediate momentum tracking.
-*   **INFY.NS & ICICIBANK.NS:** These are the "tightest" setups. They are trading just below their opening highs with high momentum scores (81.6 and 77.5, respectively). Watch for a breakout above their opening highs with a volume spike.
+#### 🚀 Top Entry Candidates (Watchlist)
+Keep a close eye on these stocks; they are trading above their average price and are closest to breaking their "Opening High":
+*   **INFY.NS:** Strongest momentum (81.6); currently just ₹3.20 away from a breakout.
+*   **ICICIBANK.NS:** High momentum (77.5); currently only ₹3.90 away from a breakout.
+*   **SBIN.NS:** Already cleared the opening high with a massive 3.0× volume surge—**monitor for potential re-entry or continuation.**
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** Despite the breakout in SBIN, the report shows no active entries. Ensure your execution platform is synced with the 1.8× volume surge requirement before entering.
-*   **Avoid "Breakdown" Stocks:** ADANIENT, TCS, RELIANCE, and POWERGRID have broken below their opening lows. **Do not attempt to "buy the dip"** on these; they are currently showing bearish pressure.
-*   **Strict Discipline:** 
-    *   **Max 2 trades:** Do not over-leverage.
-    *   **Hard Stop:** Exit immediately if the price hits the -0.4% stop loss.
-    *   **Clock Watch:** All positions **must** be closed by 15:10 IST. No exceptions.
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Trades:** The system is currently in "wait-and-see" mode. Do not force entries.
+*   **Strict Risk Cap:** If you enter a trade, your maximum loss is capped at **₹100 per trade**. Exit immediately if the stop loss is hit.
+*   **The "Two-Trade" Limit:** Never hold more than **two active positions** simultaneously to maintain focus and capital safety.
+*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to your entry price (breakeven) to protect your capital.
 
-**Action Plan:** Focus exclusively on **SBIN, INFY, and ICICIBANK**. If these fail to break their opening highs with volume within the next hour, remain in cash to preserve capital.
+***
+
+**Analyst Note:** The market is currently "quiet." Patience is your best tool today. Wait for a clear, high-volume breakout above the "Opening High" before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-08-05
 
-> Auto-generated at **16:05 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
