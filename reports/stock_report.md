@@ -1,36 +1,45 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+Here is a high-level, actionable summary of today’s trading report:
 
-### 🌍 Market Context: Proceed with Caution
-* **Overall Signal:** 🟡 **Mildly Bullish**
+### 🌍 Market Context: **Green Light** 🟢
+* **Bullish Environment:** Despite a minor daily dip in the Nifty 50 (-0.27%), the overall market structure remains healthy and favorable for buying.
+* **Low Market Fear:** The India VIX is very low at **12.16**, signaling low volatility. This means you can deploy capital with normal/full position sizes.
+* **Current Portfolio:** You are currently sitting on **₹10,000 in idle cash** with zero open positions, meaning you have full capacity to take new trades.
+
+### 🎯 Top Entry Candidate: **Bajaj Finance (BAJFINANCE.NS)**
+A high-quality stock that has pulled back to a healthy buying zone and is ready for a short-term momentum trade.
+
+* **Action:** **BUY 6 shares** at or near **₹1,078.00** (Total investment: ~₹6,468).
+* **Profit Target:** **₹1,185.80** (Aiming for a ~10% gain).
+* **Stop-Loss (Risk Control):** **₹996.41** (Exit immediately if the stock falls below this to protect your capital).
+* **Max Risk
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-07
-> *Auto-generated at 14:16 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 16:18 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,536.25 | 📉 -0.41% |
-| India VIX | 12.39 | 📈 +1.87% |
+| Nifty 50 | 24,570.65 | 📉 -0.27% |
+| India VIX | 12.16 | 📉 -0.02% |
 | S&P 500 (overnight) | 7,709.96 | 📉 -0.18% |
 | NASDAQ | 26,348.35 | 📉 -0.06% |
-| WTI Crude Oil | $77.83 | 📈 +0.70% |
-| USD / INR | 95.2725 | 📈 +0.20% |
+| WTI Crude Oil | $76.91 | 📉 -0.49% |
+| USD / INR | 95.1980 | 📈 +0.13% |
 
 **Key Factors:**
-- VIX 12.4 — Low fear 🟢 (full sizing)
+- VIX 12.2 — Low fear 🟢 (full sizing)
 - S&P 500 -0.18% — Neutral
-- Nifty -0.41% — Domestic market bearish
-- WTI Crude $77.83 (+0.70%) — Neutral for OILIETF
-- USD/INR 95.27 (+0.205%) — Dollar rising → intl ETFs gain in INR terms 📈
+- WTI Crude $76.91 (-0.49%) — Neutral for OILIETF
+- USD/INR 95.20 (+0.127%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -55,63 +64,37 @@ Here is your high-level, actionable summary of the trading report:
 ### 📁 Category A: Long-Term Hold
 Premium, highly stable blue-chip companies suitable for longer holding periods.
 
-#### #1 — ICICIBANK.NS
-**Action Rating:** Strong (Score: 79.2/100)
-
-| Action Details | Value | Notes |
-|---|---|---|
-| 🟢 **Buy Price** | **₹1,428.80** | Buy at market or limit |
-| **Shares to Buy** | **6** | Sized to limit your risk |
-| **Investment Amount** | **₹8,572.80** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,571.68** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹1,372.28** | Hard exit to cut losses |
-| Max Risk | ₹339.14 | Only 3.96% of investment at risk |
-| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
-
-**Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 43.8)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,423.65 > EMA50: ₹1,383.64)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.36%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -0.77)*
-- ✅ Overall setup is strong *(Score: 79.2/100)*
-- ✅ Overall market trend is stable (Nifty above 20-day average)
-- ✅ Sector is performing well compared to Nifty
-
-> **Action on Groww:**
-> 1. Search `ICICIBANK` ➔ Buy **6 shares** at market
-> 2. Immediately place GTT sell order at **₹1,571.68** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹1,372.28**
-> 4. Run `python scripts/update_position.py --mode stock` to log this trade
+*No long-term candidates currently meeting entry conditions.*
 
 ### 📁 Category B: Short-Term Fundamentally Strong
 High-growth quality stocks entering a strong pullback/momentum setup.
 
 #### #1 — BAJFINANCE.NS
-**Action Rating:** Strong (Score: 79.2/100)
+**Action Rating:** Strong (Score: 83.0/100)
 
 | Action Details | Value | Notes |
 |---|---|---|
-| 🟢 **Buy Price** | **₹1,078.70** | Buy at market or limit |
+| 🟢 **Buy Price** | **₹1,078.00** | Buy at market or limit |
 | **Shares to Buy** | **6** | Sized to limit your risk |
-| **Investment Amount** | **₹6,472.20** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,186.57** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹997.61** | Hard exit to cut losses |
-| Max Risk | ₹486.54 | Only 7.52% of investment at risk |
+| **Investment Amount** | **₹6,468.00** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,185.80** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹996.41** | Hard exit to cut losses |
+| Max Risk | ₹489.54 | Only 7.57% of investment at risk |
 | Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
 **Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 52.5)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,075.45 > EMA50: ₹1,023.43)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.30%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: 0.27)*
-- ✅ Overall setup is strong *(Score: 79.2/100)*
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 52.4)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,075.38 > EMA50: ₹1,023.41)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.24%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: 0.64)*
+- ✅ Overall setup is strong *(Score: 83.0/100)*
 - ✅ Overall market trend is stable (Nifty above 20-day average)
 - ✅ Sector is performing well compared to Nifty
 
 > **Action on Groww:**
 > 1. Search `BAJFINANCE` ➔ Buy **6 shares** at market
-> 2. Immediately place GTT sell order at **₹1,186.57** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹997.61**
+> 2. Immediately place GTT sell order at **₹1,185.80** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹996.41**
 > 4. Run `python scripts/update_position.py --mode stock` to log this trade
 
 ---
@@ -124,17 +107,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ICICIBANK.NS | 79.2 | 44 | 🟢 | ✅ | -0.8 | 🎯 ENTRY |
-| 2 | BAJFINANCE.NS | 79.2 | 52 | 🟢 | ✅ | 0.3 | 🎯 ENTRY |
-| 3 | TITAN.NS | 47.2 | 70 | 🟢 | ✅ | 0.1 | 👀 Watch |
-| 4 | CDSL.NS | 44.2 | 32 | 🟢 | ✅ | -1.2 | 👀 Watch |
-| 5 | PIDILITIND.NS | 41.2 | 68 | 🟢 | ✅ | -1.0 | 👀 Watch |
-| 6 | RELIANCE.NS | 27.2 | 52 | 🔴 | ✅ | -0.9 | ⏸ Skip |
-| 7 | HAVELLS.NS | 22.8 | 78 | 🟢 | ✅ | -0.5 | ⏸ Skip |
-| 8 | KEI.NS | 10.2 | 81 | 🟢 | — | -0.4 | ⏸ Skip |
-| 9 | POLYCAB.NS | -2.8 | 62 | 🔴 | ✅ | -1.3 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -80.8 | 24 | 🔴 | — | -1.3 | ⏸ Skip |
-| 11 | ANGELONE.NS | -80.8 | 21 | 🔴 | — | -0.7 | ⏸ Skip |
+| 1 | BAJFINANCE.NS | 83.0 | 52 | 🟢 | ✅ | 0.6 | 🎯 ENTRY |
+| 2 | ICICIBANK.NS | 68.0 | 42 | 🟢 | ✅ | 0.4 | 👀 Watch |
+| 3 | CDSL.NS | 45.0 | 32 | 🟢 | ✅ | -1.1 | 👀 Watch |
+| 4 | PIDILITIND.NS | 29.5 | 70 | 🟢 | ✅ | -0.6 | ⏸ Skip |
+| 5 | RELIANCE.NS | 28.0 | 53 | 🔴 | ✅ | -0.5 | ⏸ Skip |
+| 6 | TITAN.NS | 26.5 | 73 | 🟢 | ✅ | 1.2 | ⏸ Skip |
+| 7 | HAVELLS.NS | 23.5 | 81 | 🟢 | ✅ | 0.1 | ⏸ Skip |
+| 8 | KEI.NS | 11.0 | 82 | 🟢 | — | -0.3 | ⏸ Skip |
+| 9 | POLYCAB.NS | -2.0 | 63 | 🔴 | ✅ | -0.9 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -80.0 | 25 | 🔴 | — | -0.8 | ⏸ Skip |
+| 11 | ANGELONE.NS | -80.0 | 22 | 🔴 | — | -0.5 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -151,6 +134,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-07 14:16 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-07 16:18 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
