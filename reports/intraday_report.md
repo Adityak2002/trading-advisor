@@ -1,16 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report as of **11:20 AM IST**:
+Here is your high-level, actionable summary of the midday trading report:
 
-### 📈 Market Context: "Wait and Watch"
-* **Consolidating Market:** Most major stocks are stuck trading within their first 15-minute morning ranges. 
-* **Slight Bearish Bias:** A few stocks (like *W
+### 🌐 Market Context
+* **Patience is Key:** As of 12:25 IST, the market
 
 ---
 
 # 📈 Intraday Report — 2026-08-11
 
-> Auto-generated at **11:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **12:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -27,18 +26,18 @@ Here is a high-level, actionable summary of the trading report as of **11:20 AM 
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,068.80 | ▶ Inside Range ▶ | 10.9/100 | 65 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹1,095.80 | ▶ Inside Range ▶ | 10.2/100 | 58 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹727.90 | ▶ Inside Range ▶ | 5.0/100 | 61 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,319.20 | ▶ Inside Range ▶ | 1.1/100 | 51 | ❌ No | — | — |
-| **INFY.NS** | ₹1,186.70 | ▶ Inside Range ▶ | -2.1/100 | 44 | ❌ No | — | — |
-| **TCS.NS** | ₹2,432.40 | ▶ Inside Range ▶ | -5.6/100 | 50 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,231.40 | ▶ Inside Range ▶ | -6.3/100 | 49 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹3,009.70 | ▶ Inside Range ▶ | -8.7/100 | 38 | ❌ No | — | — |
-| **TMPV.NS** | ₹345.00 | ▶ Inside Range ▶ | -9.2/100 | 32 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹267.20 | 🔽 Broken Down 🔽 | -15.6/100 | 30 | ❌ No | 1.8× | — |
-| **WIPRO.NS** | ₹183.74 | 🔽 Broken Down 🔽 | -15.8/100 | 19 | ❌ No | 2.5× | — |
-| **ICICIBANK.NS** | ₹1,420.60 | 🔽 Broken Down 🔽 | -23.6/100 | 37 | ❌ No | 0.5× | — |
+| **RELIANCE.NS** | ₹1,321.20 | ▶ Inside Range ▶ | 8.9/100 | 62 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹728.45 | ▶ Inside Range ▶ | 6.7/100 | 61 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,191.10 | ▶ Inside Range ▶ | 4.4/100 | 75 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,437.90 | ▶ Inside Range ▶ | -0.4/100 | 59 | ❌ No | — | — |
+| **TMPV.NS** | ₹345.55 | ▶ Inside Range ▶ | -0.7/100 | 57 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹3,010.00 | ▶ Inside Range ▶ | -5.0/100 | 49 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,090.00 | ▶ Inside Range ▶ | -6.2/100 | 16 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,064.00 | ▶ Inside Range ▶ | -6.5/100 | 12 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹267.00 | 🔽 Broken Down 🔽 | -9.0/100 | 46 | ❌ No | 2.1× | — |
+| **WIPRO.NS** | ₹183.91 | 🔽 Broken Down 🔽 | -9.2/100 | 55 | ❌ No | 2.5× | — |
+| **AXISBANK.NS** | ₹1,230.20 | 🔽 Broken Down 🔽 | -12.6/100 | 40 | ❌ No | 2.3× | — |
+| **ICICIBANK.NS** | ₹1,415.50 | 🔽 Broken Down 🔽 | -23.6/100 | 28 | ❌ No | 0.4× | — |
 
 ---
 
@@ -52,12 +51,12 @@ Here is a high-level, actionable summary of the trading report as of **11:20 AM 
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,068.80 | ₹1071.00 | ₹1060.90 | 65.5 | 🟢 Yes |
-| BAJFINANCE.NS | ₹1,095.80 | ₹1096.90 | ₹1086.60 | 57.8 | 🟢 Yes |
-| HDFCBANK.NS | ₹727.90 | ₹730.50 | ₹727.40 | 60.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,319.20 | ₹1326.40 | ₹1314.30 | 51.4 | 🔴 No |
-| INFY.NS | ₹1,186.70 | ₹1192.40 | ₹1183.20 | 44.3 | 🔴 No |
-| TCS.NS | ₹2,432.40 | ₹2456.00 | ₹2432.00 | 49.8 | 🔴 No |
+| RELIANCE.NS | ₹1,321.20 | ₹1326.40 | ₹1314.30 | 62.5 | 🟢 Yes |
+| HDFCBANK.NS | ₹728.45 | ₹730.50 | ₹727.40 | 61.4 | 🟢 Yes |
+| INFY.NS | ₹1,191.10 | ₹1192.40 | ₹1183.20 | 75.3 | 🟢 Yes |
+| TCS.NS | ₹2,437.90 | ₹2456.00 | ₹2432.00 | 59.1 | 🔴 No |
+| TMPV.NS | ₹345.55 | ₹347.65 | ₹344.95 | 56.6 | 🔴 No |
+| ADANIENT.NS | ₹3,010.00 | ₹3062.00 | ₹3005.50 | 48.6 | 🔴 No |
 
 ---
 
