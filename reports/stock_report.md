@@ -1,22 +1,14 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of today’s trading report:
-
-### 🌍 Market Context: Cautious Optimism
-*   **Overall Signal:** 🟡 **Mildly Bullish (Proceed with Caution)**. 
-*   **The Good:** Market fear is very low (India VIX is at a calm **11.83**), meaning we can trade with normal position sizes.
-*   **The Bad:** The domestic market is dragging today (Nifty 50 is down **-0.46%**), and global US markets closed in the red overnight. 
-*   **Takeaway:** The environment is stable enough to trade, but don't chase aggressive rallies. Stick strictly to high-quality setups.
-
----
-
-### 🎯 Top Entry Candidate: ICICI Bank (`ICICIBANK`)
-We have one high-conviction setup today. It is a premium blue-chip stock
+Concise? Yes.
+    *   High-level? Yes.
+    *   Clean markdown with bullet points? Yes.
+    *   Punchy, clear, actionable for
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-12
-> *Auto-generated at 10:54 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 12:34 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -26,19 +18,19 @@ We have one high-conviction setup today. It is a premium blue-chip stock
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,360.25 | 📉 -0.46% |
-| India VIX | 11.83 | 📉 -0.27% |
+| Nifty 50 | 24,290.20 | 📉 -0.74% |
+| India VIX | 11.84 | 📉 -0.15% |
 | S&P 500 (overnight) | 7,728.20 | 📉 -0.32% |
 | NASDAQ | 26,445.45 | 📉 -0.60% |
-| WTI Crude Oil | $83.88 | 📈 +0.82% |
-| USD / INR | 95.4250 | 📈 +0.03% |
+| WTI Crude Oil | $83.59 | 📈 +0.47% |
+| USD / INR | 95.4125 | 📈 +0.02% |
 
 **Key Factors:**
 - VIX 11.8 — Low fear 🟢 (full sizing)
 - S&P 500 -0.32% — Neutral
-- Nifty -0.46% — Domestic market bearish
-- WTI Crude $83.88 (+0.82%) — Neutral for OILIETF
-- USD/INR 95.42 (+0.030%) — USD stable
+- Nifty -0.74% — Domestic market bearish
+- WTI Crude $83.59 (+0.47%) — Neutral for OILIETF
+- USD/INR 95.41 (+0.017%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -60,41 +52,23 @@ We have one high-conviction setup today. It is a premium blue-chip stock
 ---
 ## 🎯 Entry Candidates
 
-### 📁 Category A: Long-Term Hold
-Premium, highly stable blue-chip companies suitable for longer holding periods.
+*No entry candidates right now. All conditions not met or max positions reached.*
 
-#### #1 — ICICIBANK.NS
-**Action Rating:** Strong (Score: 73.2/100)
+**🔍 Monitor These (Getting Closer):**
 
-| Action Details | Value | Notes |
-|---|---|---|
-| 🟢 **Buy Price** | **₹1,428.80** | Buy at market or limit |
-| **Shares to Buy** | **6** | Sized to limit your risk |
-| **Investment Amount** | **₹8,572.80** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,571.68** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹1,370.41** | Hard exit to cut losses |
-| Max Risk | ₹350.33 | Only 4.09% of investment at risk |
-| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
+#### 📁 Long-Term Hold Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| ICICIBANK.NS | 73.2 | Nifty below 20-EMA ❌ |
+| RELIANCE.NS | 25.2 | RSI=61 (need 42–55) · EMA21 < EMA50 · Nifty below 20-EMA ❌ · Score=25 (need ≥50) |
+| HDFCBANK.NS | -70.8 | RSI=33 (need 42–55) · EMA21 < EMA50 · Price -3.6% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-71 (need ≥50) |
 
-**Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 52.1)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,424.69 > EMA50: ₹1,388.84)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.29%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -2.31)*
-- ✅ Overall setup is strong *(Score: 73.2/100)*
-- ✅ Overall market trend is stable (Nifty above 20-day average)
-- ✅ Sector is performing well compared to Nifty
-
-> **Action on Groww:**
-> 1. Search `ICICIBANK` ➔ Buy **6 shares** at market
-> 2. Immediately place GTT sell order at **₹1,571.68** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹1,370.41**
-> 4. Run `python scripts/update_position.py --mode stock` to log this trade
-
-### 📁 Category B: Short-Term Fundamentally Strong
-High-growth quality stocks entering a strong pullback/momentum setup.
-
-*No short-term fundamentally strong candidates currently meeting entry conditions.*
+#### 📁 Short-Term Fundamentally Strong Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| BAJFINANCE.NS | 61.2 | RSI=57 (need 42–55) · Nifty below 20-EMA ❌ |
+| CDSL.NS | 52.2 | RSI=56 (need 42–55) · Nifty below 20-EMA ❌ |
+| POLYCAB.NS | 42.2 | RSI=63 (need 42–55) · Nifty below 20-EMA ❌ · Score=42 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -106,17 +80,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ICICIBANK.NS | 73.2 | 52 | 🟢 | ✅ | -2.3 | 🎯 ENTRY |
-| 2 | BAJFINANCE.NS | 61.2 | 58 | 🟢 | ✅ | -1.0 | 👀 Watch |
-| 3 | CDSL.NS | 52.2 | 56 | 🟢 | ✅ | -1.6 | 👀 Watch |
-| 4 | POLYCAB.NS | 52.2 | 59 | 🟢 | ✅ | -1.2 | 👀 Watch |
-| 5 | HAVELLS.NS | 29.2 | 71 | 🟢 | ✅ | -1.3 | ⏸ Skip |
-| 6 | RELIANCE.NS | 25.2 | 61 | 🔴 | ✅ | -1.9 | ⏸ Skip |
-| 7 | KEI.NS | 22.8 | 87 | 🟢 | — | -0.5 | ⏸ Skip |
-| 8 | TITAN.NS | 16.8 | 73 | 🟢 | — | -1.1 | ⏸ Skip |
-| 9 | PIDILITIND.NS | 16.8 | 74 | 🟢 | ✅ | -1.3 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -70.8 | 33 | 🔴 | — | -1.6 | ⏸ Skip |
-| 11 | ANGELONE.NS | -70.8 | 30 | 🔴 | — | -0.8 | ⏸ Skip |
+| 1 | ICICIBANK.NS | 73.2 | 51 | 🟢 | ✅ | -1.9 | 👀 Watch |
+| 2 | BAJFINANCE.NS | 61.2 | 57 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 3 | CDSL.NS | 52.2 | 56 | 🟢 | ✅ | -1.4 | 👀 Watch |
+| 4 | POLYCAB.NS | 42.2 | 63 | 🟢 | ✅ | -1.0 | 👀 Watch |
+| 5 | HAVELLS.NS | 29.2 | 72 | 🟢 | ✅ | -1.3 | ⏸ Skip |
+| 6 | TITAN.NS | 28.8 | 68 | 🟢 | ✅ | -0.7 | ⏸ Skip |
+| 7 | PIDILITIND.NS | 28.8 | 70 | 🟢 | ✅ | -0.6 | ⏸ Skip |
+| 8 | RELIANCE.NS | 25.2 | 61 | 🔴 | ✅ | -1.6 | ⏸ Skip |
+| 9 | KEI.NS | 10.2 | 88 | 🟢 | — | -0.4 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -70.8 | 33 | 🔴 | — | -1.1 | ⏸ Skip |
+| 11 | ANGELONE.NS | -70.8 | 30 | 🔴 | — | -0.7 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -133,6 +107,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-12 10:54 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-12 12:34 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
