@@ -1,21 +1,16 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary for **August 11, 2026**:
+Here is your high-level, actionable summary of today’s trading report:
 
 ### 🌍 Market Context: **Proceed with Caution**
-* **Market Mood:** 🟡 **Mildly Bullish but cooling down.** The Indian market (Nifty 50) is down **-0.46%** today, showing some domestic weakness.
-* **Fear Factor (VIX):** 🟢 **Very Low (12.29).** There is no panic in the market. When buy signals do appear, we can deploy capital at full position sizes.
-* **Global Cues:** Neutral to slightly weak. US markets ended flat-to-negative overnight.
+* **Overall Signal:** 🟡 **Mildly Bullish.** While the overall trend is slightly positive, short-term caution is advised.
+* **Domestic & Global Dip:** Both Indian (Nifty -0.39%) and US markets (S&P 500 -0.32%) dipped slightly. 
+* **Low Market Fear:** The India VIX (fear gauge) dropped by over 4% to a low level of 11.75. This means there is no panic in the market, allowing us to deploy full capital when the right setup appears.
 
 ---
 
-### 🎯 Entry Candidates: **No Immediate Buys (Patience Required)**
-We are currently holding **100%
-
----
-
-# 📊 ETF/MF Daily Report — 2026-08-11
-> *Auto-generated at 09:53 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-08-12
+> *Auto-generated at 10:21 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
@@ -25,19 +20,19 @@ We are currently holding **100%
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,471.55 | 📉 -0.46% |
-| India VIX | 12.29 | 📈 +0.35% |
-| S&P 500 (overnight) | 7,753.11 | 📉 -0.06% |
-| NASDAQ | 26,605.36 | 📉 -0.32% |
-| WTI Crude Oil | $82.04 | 📉 -0.11% |
-| USD / INR | 95.3750 | 📈 +0.17% |
+| Nifty 50 | 24,375.65 | 📉 -0.39% |
+| India VIX | 11.75 | 📉 -4.06% |
+| S&P 500 (overnight) | 7,728.20 | 📉 -0.32% |
+| NASDAQ | 26,445.45 | 📉 -0.60% |
+| WTI Crude Oil | $83.92 | 📈 +0.86% |
+| USD / INR | 95.4050 | 📈 +0.01% |
 
 **Key Factors:**
-- VIX 12.3 — Low fear 🟢 (full sizing)
-- S&P 500 -0.06% — Neutral
-- Nifty -0.46% — Domestic market bearish
-- WTI Crude $82.04 (-0.11%) — Neutral for OILIETF
-- USD/INR 95.38 (+0.173%) — USD stable
+- VIX 11.8 — Low fear 🟢 (full sizing)
+- S&P 500 -0.32% — Neutral
+- Nifty -0.39% — Domestic market bearish
+- WTI Crude $83.92 (+0.86%) — Neutral for OILIETF
+- USD/INR 95.41 (+0.009%) — USD stable
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -65,11 +60,11 @@ We are currently holding **100%
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| BANKBEES.NS | 23.0 | RSI=43 (need <38) · VolZ=-1.9 (need ≥1.5) · Score=23 (need ≥40) |
-| PSUBNKBEES.NS | 15.5 | RSI=51 (need <38) · VolZ=-1.1 (need ≥1.5) · Score=16 (need ≥40) |
-| NHPC.NS | 13.2 | Below EMA50 · VolZ=-0.9 (need ≥1.5) · Score=13 (need ≥40) |
-| SUZLON.NS | 9.2 | Below EMA50 · VolZ=-1.1 (need ≥1.5) · Score=9 (need ≥40) |
-| NIFTYIETF.NS | 6.0 | RSI=62 (need <38) · VolZ=-1.7 (need ≥1.5) · Score=6 (need ≥40) |
+| BANKBEES.NS | 10.5 | RSI=58 (need <38) · VolZ=-2.1 (need ≥1.5) · Score=10 (need ≥40) |
+| HNGSNGBEES.NS | 8.0 | RSI=53 (need <38) · Below EMA50 · VolZ=-2.5 (need ≥1.5) · Score=8 (need ≥40) |
+| OILIETF.NS | 6.0 | RSI=52 (need <38) · VolZ=-1.5 (need ≥1.5) · Score=6 (need ≥40) |
+| NHPC.NS | 5.8 | Below EMA50 · VolZ=-0.8 (need ≥1.5) · Score=6 (need ≥40) |
+| SUZLON.NS | 5.5 | Below EMA50 · VolZ=-1.0 (need ≥1.5) · Score=6 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -81,28 +76,28 @@ We are currently holding **100%
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | BANKBEES.NS | 23.0 | 43 | 🟢 | -1.9 | -6.8% | 👀 Watch |
-| 2 | PSUBNKBEES.NS | 15.5 | 51 | 🟢 | -1.1 | -12.9% | ⏸ Skip |
-| 3 | NHPC.NS | 13.2 | 31 | 🔴 | -0.9 | -10.8% | ⏸ Skip |
-| 4 | SUZLON.NS | 9.2 | 19 | 🔴 | -1.1 | -20.3% | ⏸ Skip |
-| 5 | NIFTYIETF.NS | 6.0 | 62 | 🟢 | -1.7 | -5.1% | ⏸ Skip |
-| 6 | CANBK.NS | 4.2 | 54 | 🟢 | -1.8 | -16.8% | ⏸ Skip |
-| 7 | OILIETF.NS | 4.0 | 49 | 🟢 | -1.4 | -8.3% | ⏸ Skip |
-| 8 | ABFRL.NS | 2.2 | 57 | 🟢 | -0.2 | -19.6% | ⏸ Skip |
-| 9 | HNGSNGBEES.NS | -0.8 | 56 | 🟢 | -2.6 | -12.2% | ⏸ Skip |
-| 10 | RVNL.NS | -0.8 | 60 | 🟢 | -1.8 | -28.5% | ⏸ Skip |
-| 11 | UNIONBANK.NS | -2.8 | 68 | 🟢 | -1.0 | -8.3% | ⏸ Skip |
-| 12 | MAFANG.NS | -8.8 | 69 | 🟢 | -0.2 | 0.0% | ⏸ Skip |
-| 13 | PHARMABEES.NS | -9.5 | 75 | 🟢 | -2.0 | -0.2% | ⏸ Skip |
-| 14 | IREDA.NS | -10.5 | 48 | 🔴 | -1.3 | -15.1% | ⏸ Skip |
-| 15 | RECLTD.NS | -11.8 | 39 | 🔴 | -0.8 | -9.5% | ⏸ Skip |
-| 16 | HDFCAMC.NS | -12.0 | 40 | 🔴 | -1.2 | -10.4% | ⏸ Skip |
-| 17 | ITETF.NS | -14.0 | 76 | 🟢 | -1.2 | -8.6% | ⏸ Skip |
-| 18 | AUTOBEES.NS | -14.0 | 87 | 🟢 | -1.2 | 0.0% | ⏸ Skip |
-| 19 | JUNIORBEES.NS | -14.0 | 72 | 🟢 | -2.1 | -0.2% | ⏸ Skip |
-| 20 | IRFC.NS | -15.8 | 54 | 🔴 | -2.0 | -22.1% | ⏸ Skip |
-| 21 | TATAPOWER.NS | -15.8 | 50 | 🔴 | -1.4 | -17.4% | ⏸ Skip |
-| 22 | BANKBARODA.NS | -15.8 | 48 | 🔴 | -1.8 | -22.4% | ⏸ Skip |
+| 1 | BANKBEES.NS | 10.5 | 58 | 🟢 | -2.1 | -6.0% | ⏸ Skip |
+| 2 | HNGSNGBEES.NS | 8.0 | 53 | 🟢 | -2.5 | -13.4% | ⏸ Skip |
+| 3 | OILIETF.NS | 6.0 | 52 | 🟢 | -1.5 | -8.2% | ⏸ Skip |
+| 4 | NHPC.NS | 5.8 | 31 | 🔴 | -0.8 | -10.4% | ⏸ Skip |
+| 5 | SUZLON.NS | 5.5 | 20 | 🔴 | -1.0 | -20.3% | ⏸ Skip |
+| 6 | RECLTD.NS | 4.5 | 39 | 🔴 | -0.9 | -10.2% | ⏸ Skip |
+| 7 | ABFRL.NS | 3.0 | 57 | 🟢 | -0.7 | -21.0% | ⏸ Skip |
+| 8 | NIFTYIETF.NS | 1.8 | 64 | 🟢 | -1.6 | -4.8% | ⏸ Skip |
+| 9 | IREDA.NS | 0.8 | 44 | 🔴 | -1.1 | -16.1% | ⏸ Skip |
+| 10 | RVNL.NS | -0.8 | 56 | 🟢 | -1.2 | -29.0% | ⏸ Skip |
+| 11 | CANBK.NS | -2.8 | 68 | 🟢 | -0.8 | -14.0% | ⏸ Skip |
+| 12 | MAFANG.NS | -8.8 | 68 | 🟢 | -0.1 | 0.0% | ⏸ Skip |
+| 13 | PHARMABEES.NS | -14.0 | 87 | 🟢 | -1.7 | -0.0% | ⏸ Skip |
+| 14 | ITETF.NS | -14.0 | 80 | 🟢 | -1.3 | -4.3% | ⏸ Skip |
+| 15 | AUTOBEES.NS | -14.0 | 80 | 🟢 | -1.7 | -0.9% | ⏸ Skip |
+| 16 | JUNIORBEES.NS | -14.0 | 79 | 🟢 | -2.2 | -0.3% | ⏸ Skip |
+| 17 | IRFC.NS | -15.8 | 55 | 🔴 | -1.8 | -21.8% | ⏸ Skip |
+| 18 | TATAPOWER.NS | -15.8 | 51 | 🔴 | -1.4 | -17.9% | ⏸ Skip |
+| 19 | HDFCAMC.NS | -15.8 | 49 | 🔴 | -1.1 | -10.8% | ⏸ Skip |
+| 20 | PSUBNKBEES.NS | -20.0 | 71 | 🟢 | -0.4 | -10.4% | ⏸ Skip |
+| 21 | UNIONBANK.NS | -23.0 | 82 | 🟢 | -0.7 | -4.6% | ⏸ Skip |
+| 22 | BANKBARODA.NS | -29.0 | 59 | 🔴 | -1.7 | -20.3% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -110,6 +105,6 @@ We are currently holding **100%
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-11 09:53 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-12 10:21 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
