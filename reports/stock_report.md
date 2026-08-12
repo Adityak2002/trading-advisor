@@ -1,36 +1,37 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of today’s trading report:
+Here is your high-level, actionable summary of the trading report for **August 12, 2026**.
 
-### 🌍 Market Context: **Proceed with Caution** 🟡
-* **Domestic Market Dip:** The Nifty 50 is down **-0.63%**, trading below
+---
+
+### 🌍 Market Context: **🟢 Bullish / Safe to Trade**
+* **Low Market Fear:** The India VIX dropped to **11.69** (-4.57%). Low volatility means it is safe to deploy your full planned
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-12
-> *Auto-generated at 14:32 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 16:27 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,317.65 | 📉 -0.63% |
-| India VIX | 11.84 | 📉 -3.39% |
+| Nifty 50 | 24,435.95 | 📉 -0.15% |
+| India VIX | 11.69 | 📉 -4.57% |
 | S&P 500 (overnight) | 7,728.20 | 📉 -0.32% |
 | NASDAQ | 26,445.45 | 📉 -0.60% |
-| WTI Crude Oil | $83.45 | 📈 +0.30% |
-| USD / INR | 95.4000 | 📈 +0.00% |
+| WTI Crude Oil | $83.06 | 📉 -0.17% |
+| USD / INR | 95.3200 | 📉 -0.08% |
 
 **Key Factors:**
-- VIX 11.8 — Low fear 🟢 (full sizing)
+- VIX 11.7 — Low fear 🟢 (full sizing)
 - S&P 500 -0.32% — Neutral
-- Nifty -0.63% — Domestic market bearish
-- WTI Crude $83.45 (+0.30%) — Neutral for OILIETF
-- USD/INR 95.40 (+0.003%) — USD stable
+- WTI Crude $83.06 (-0.17%) — Neutral for OILIETF
+- USD/INR 95.32 (-0.080%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -52,23 +53,41 @@ Here is your high-level, actionable summary of today’s trading report:
 ---
 ## 🎯 Entry Candidates
 
-*No entry candidates right now. All conditions not met or max positions reached.*
+### 📁 Category A: Long-Term Hold
+Premium, highly stable blue-chip companies suitable for longer holding periods.
 
-**🔍 Monitor These (Getting Closer):**
+#### #1 — ICICIBANK.NS
+**Action Rating:** Strong (Score: 74.0/100)
 
-#### 📁 Long-Term Hold Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| ICICIBANK.NS | 73.2 | Nifty below 20-EMA ❌ |
-| RELIANCE.NS | 15.2 | RSI=62 (need 42–55) · EMA21 < EMA50 · Nifty below 20-EMA ❌ · Score=15 (need ≥50) |
-| HDFCBANK.NS | -70.8 | RSI=34 (need 42–55) · EMA21 < EMA50 · Price -3.5% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-71 (need ≥50) |
+| Action Details | Value | Notes |
+|---|---|---|
+| 🟢 **Buy Price** | **₹1,431.70** | Buy at market or limit |
+| **Shares to Buy** | **6** | Sized to limit your risk |
+| **Investment Amount** | **₹8,590.20** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,574.87** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹1,373.31** | Hard exit to cut losses |
+| Max Risk | ₹350.33 | Only 4.08% of investment at risk |
+| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
-#### 📁 Short-Term Fundamentally Strong Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| BAJFINANCE.NS | 61.2 | RSI=58 (need 42–55) · Nifty below 20-EMA ❌ |
-| CDSL.NS | 52.2 | RSI=58 (need 42–55) · Nifty below 20-EMA ❌ |
-| POLYCAB.NS | 52.2 | RSI=56 (need 42–55) · Nifty below 20-EMA ❌ |
+**Simple Buying Checklist:**
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 53.1)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,424.95 > EMA50: ₹1,388.95)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: +0.47%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -1.10)*
+- ✅ Overall setup is strong *(Score: 74.0/100)*
+- ✅ Overall market trend is stable (Nifty above 20-day average)
+- ✅ Sector is performing well compared to Nifty
+
+> **Action on Groww:**
+> 1. Search `ICICIBANK` ➔ Buy **6 shares** at market
+> 2. Immediately place GTT sell order at **₹1,574.87** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹1,373.31**
+> 4. Run `python scripts/update_position.py --mode stock` to log this trade
+
+### 📁 Category B: Short-Term Fundamentally Strong
+High-growth quality stocks entering a strong pullback/momentum setup.
+
+*No short-term fundamentally strong candidates currently meeting entry conditions.*
 
 ---
 ## 📰 News & Sentiment
@@ -80,17 +99,17 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ICICIBANK.NS | 73.2 | 50 | 🟢 | ✅ | -1.5 | 👀 Watch |
-| 2 | BAJFINANCE.NS | 61.2 | 58 | 🟢 | ✅ | -0.7 | 👀 Watch |
-| 3 | CDSL.NS | 52.2 | 58 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 4 | POLYCAB.NS | 52.2 | 56 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 5 | HAVELLS.NS | 41.2 | 68 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 6 | PIDILITIND.NS | 34.8 | 69 | 🟢 | — | -0.0 | 👀 Watch |
-| 7 | TITAN.NS | 22.8 | 71 | 🟢 | — | -0.4 | ⏸ Skip |
-| 8 | RELIANCE.NS | 15.2 | 62 | 🔴 | ✅ | -1.3 | ⏸ Skip |
-| 9 | KEI.NS | 10.2 | 88 | 🟢 | — | -0.2 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -70.8 | 34 | 🔴 | — | -0.8 | ⏸ Skip |
-| 11 | ANGELONE.NS | -70.8 | 31 | 🔴 | — | -0.6 | ⏸ Skip |
+| 1 | ICICIBANK.NS | 74.0 | 53 | 🟢 | ✅ | -1.1 | 🎯 ENTRY |
+| 2 | POLYCAB.NS | 68.0 | 57 | 🟢 | ✅ | -0.3 | 👀 Watch |
+| 3 | BAJFINANCE.NS | 58.0 | 59 | 🟢 | ✅ | -0.4 | 👀 Watch |
+| 4 | CDSL.NS | 53.0 | 56 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 5 | PIDILITIND.NS | 38.5 | 70 | 🟢 | — | 0.7 | 👀 Watch |
+| 6 | HAVELLS.NS | 30.0 | 70 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 7 | TITAN.NS | 23.5 | 75 | 🟢 | — | 0.1 | ⏸ Skip |
+| 8 | KEI.NS | 11.0 | 88 | 🟢 | — | -0.1 | ⏸ Skip |
+| 9 | RELIANCE.NS | 6.0 | 66 | 🔴 | ✅ | -0.9 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -64.0 | 36 | 🔴 | — | -0.3 | ⏸ Skip |
+| 11 | ANGELONE.NS | -64.0 | 33 | 🔴 | — | -0.4 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -107,6 +126,6 @@ Here is your high-level, actionable summary of today’s trading report:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-12 14:32 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-12 16:27 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
