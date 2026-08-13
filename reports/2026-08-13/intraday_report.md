@@ -1,14 +1,16 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable trading summary for **August 13, 2026 (11:42 IST)**:
+Here is a punchy, high-level summary of today’s trading setup as of **12:46 IST**:
 
-### 📈 Market Context
+### 🌐 Market Context
+* **Range-Bound Day:** Most major stocks are sitting quietly inside their morning ranges. 
+* **Selective Strength:** Only a couple of stocks have managed to break out to the upside with strong buying interest, while banking and energy giants (like IC
 
 ---
 
 # 📈 Intraday Report — 2026-08-13
 
-> Auto-generated at **11:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **12:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -25,18 +27,18 @@ Here is your high-level, actionable trading summary for **August 13, 2026 (11:42
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TMPV.NS** | ₹348.45 | 🔼 Broken Out 🔼 | 21.0/100 | 58 | ✅ Yes | 1.7× | — |
-| **TCS.NS** | ₹2,347.10 | ▶ Inside Range ▶ | 11.5/100 | 69 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹1,082.20 | ▶ Inside Range ▶ | 10.5/100 | 57 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,219.30 | ▶ Inside Range ▶ | 5.4/100 | 60 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹726.95 | ▶ Inside Range ▶ | 1.8/100 | 47 | ❌ No | — | — |
-| **INFY.NS** | ₹1,164.60 | ▶ Inside Range ▶ | 0.6/100 | 92 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹1,085.20 | ▶ Inside Range ▶ | -2.6/100 | 52 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹266.75 | ▶ Inside Range ▶ | -4.3/100 | 54 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,309.10 | ▶ Inside Range ▶ | -6.5/100 | 42 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,414.00 | 🔽 Broken Down 🔽 | -9.0/100 | 44 | ❌ No | 2.0× | — |
-| **ADANIENT.NS** | ₹2,951.20 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.9× | — |
-| **WIPRO.NS** | ₹181.80 | 🔽 Broken Down 🔽 | -15.6/100 | 24 | ❌ No | 1.8× | — |
+| **TCS.NS** | ₹2,362.20 | 🔼 Broken Out 🔼 | 29.8/100 | 70 | ✅ Yes | 2.6× | — |
+| **TMPV.NS** | ₹348.55 | 🔼 Broken Out 🔼 | 22.0/100 | 45 | ✅ Yes | 1.9× | — |
+| **INFY.NS** | ₹1,168.60 | ▶ Inside Range ▶ | 13.0/100 | 61 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹728.05 | ▶ Inside Range ▶ | 12.9/100 | 57 | ✅ Yes | — | — |
+| **SBIN.NS** | ₹1,082.60 | ▶ Inside Range ▶ | 11.0/100 | 51 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,221.50 | ▶ Inside Range ▶ | 7.6/100 | 59 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹267.60 | ▶ Inside Range ▶ | 7.0/100 | 62 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹183.04 | ▶ Inside Range ▶ | 5.0/100 | 74 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,314.10 | ▶ Inside Range ▶ | 4.0/100 | 72 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹1,086.40 | ▶ Inside Range ▶ | -0.3/100 | 58 | ❌ No | — | — |
+| **ICICIBANK.NS** | ₹1,412.20 | 🔽 Broken Down 🔽 | -16.0/100 | 42 | ❌ No | 1.2× | — |
+| **ADANIENT.NS** | ₹2,951.00 | 🔽 Broken Down 🔽 | -16.0/100 | 49 | ❌ No | 1.0× | — |
 
 ---
 
@@ -50,12 +52,12 @@ Here is your high-level, actionable trading summary for **August 13, 2026 (11:42
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TMPV.NS | ₹348.45 | ₹345.15 | ₹342.50 | 57.8 | 🟢 Yes |
-| TCS.NS | ₹2,347.10 | ₹2349.70 | ₹2333.00 | 69.1 | 🟢 Yes |
-| SBIN.NS | ₹1,082.20 | ₹1082.80 | ₹1074.80 | 56.9 | 🟢 Yes |
-| AXISBANK.NS | ₹1,219.30 | ₹1223.50 | ₹1218.20 | 60.3 | 🟢 Yes |
-| HDFCBANK.NS | ₹726.95 | ₹727.55 | ₹724.70 | 47.1 | 🔴 No |
-| INFY.NS | ₹1,164.60 | ₹1168.60 | ₹1161.20 | 91.9 | 🟢 Yes |
+| TCS.NS | ₹2,362.20 | ₹2349.70 | ₹2333.00 | 69.7 | 🟢 Yes |
+| TMPV.NS | ₹348.55 | ₹345.15 | ₹342.50 | 44.6 | 🟢 Yes |
+| INFY.NS | ₹1,168.60 | ₹1168.60 | ₹1161.20 | 60.5 | 🟢 Yes |
+| HDFCBANK.NS | ₹728.05 | ₹727.55 | ₹724.70 | 56.8 | 🟢 Yes |
+| SBIN.NS | ₹1,082.60 | ₹1082.80 | ₹1074.80 | 51.1 | 🟢 Yes |
+| AXISBANK.NS | ₹1,221.50 | ₹1223.50 | ₹1218.20 | 58.9 | 🟢 Yes |
 
 ---
 
