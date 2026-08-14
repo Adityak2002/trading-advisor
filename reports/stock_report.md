@@ -1,15 +1,33 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of today’s trading report:
+### 📊 Trading Summary: 2026-08-14
 
-### 🌍 Market Context: "Green Light Global, Yellow Light Local"
-* **Low Fear, Positive Global Cues:** Global markets are up (S&P 500 +0.65%, Nasdaq +0.81%) and market fear is very low (India VIX is at a calm 11.38). This is generally a great environment for buying.
-* **The Local Catch:** The Indian Nifty 50 index is down slightly (-0.
+The market is currently in a **"Wait and See"** phase. Despite positive global cues, the Nifty 50 is struggling to maintain momentum, keeping our capital sidelined to protect against further downside.
+
+#### **Market Context**
+*   **Sentiment:** Neutral. Global markets (S&P 500/NASDAQ) are bullish, but the local Nifty 50 is underperforming (-0.21%).
+*   **Risk:** Low. India VIX is at 11.3, indicating low market fear, which is a positive sign for future entries once technical conditions align.
+*   **Status:** 100% Cash. No active positions.
+
+#### **Top Entry Candidates (Watchlist)**
+We are waiting for a "Pullback" entry. These stocks are fundamentally strong but currently fail our strict technical filters (specifically the Nifty 20-EMA requirement):
+*   **CDSL.NS:** Highest score (73.8). Needs to cool off slightly on the RSI to hit our "buy zone."
+*   **ICICIBANK.NS:** Currently at the lower end of our RSI range; a prime candidate if the Nifty stabilizes.
+*   **POLYCAB.NS & BAJFINANCE.NS:** Strong contenders, but currently trading slightly too "hot" (high RSI) for a pullback entry.
+
+#### **Critical Warnings & Strategy Notes**
+*   **The "Nifty Filter":** We are currently blocking all entries because the Nifty 50 is trading below its 20-day EMA. **Do not force trades** until the index regains this support level.
+*   **Performance Check:** Our last trade resulted in a loss (-7.14%). The current "no-trade" stance is a deliberate move to avoid further stop-loss hits in a choppy market.
+*   **Action Plan:** Maintain 100% cash. Monitor the watchlist daily; only execute if the Nifty 50 closes above its 20-EMA and individual stock RSI levels fall into the 42–55 range.
+
+***
+
+*Disclaimer: This is a quantitative analysis report. Ensure you verify all technical levels before manual execution.*
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-14
-> *Auto-generated at 10:55 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 12:35 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -19,19 +37,19 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,333.05 | 📉 -0.26% |
-| India VIX | 11.38 | 📉 -0.31% |
+| Nifty 50 | 24,343.30 | 📉 -0.21% |
+| India VIX | 11.34 | 📉 -0.68% |
 | S&P 500 (overnight) | 7,798.99 | 📈 +0.65% |
 | NASDAQ | 26,803.03 | 📈 +0.81% |
-| WTI Crude Oil | $81.30 | 📉 -2.37% |
-| USD / INR | 95.3800 | 📈 +0.04% |
+| WTI Crude Oil | $82.14 | 📈 +1.09% |
+| USD / INR | 95.4225 | 📈 +0.08% |
 
 **Key Factors:**
-- VIX 11.4 — Low fear 🟢 (full sizing)
+- VIX 11.3 — Low fear 🟢 (full sizing)
 - S&P 500 +0.65% — Positive overnight cues 📈
 - NASDAQ +0.81% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $81.30 (-2.37%) — Bearish for OILIETF 📉
-- USD/INR 95.38 (+0.037%) — USD stable
+- WTI Crude $82.14 (+1.09%) — Neutral for OILIETF
+- USD/INR 95.42 (+0.082%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -60,16 +78,16 @@ Here is your high-level, actionable summary of today’s trading report:
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 81.8 | Nifty below 20-EMA ❌ |
-| RELIANCE.NS | -42.2 | RSI=57 (need 42–55) · EMA21 < EMA50 · Price -0.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-42 (need ≥50) |
-| HDFCBANK.NS | -60.2 | RSI=41 (need 42–55) · EMA21 < EMA50 · Price -2.6% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-60 (need ≥50) |
+| ICICIBANK.NS | 63.8 | RSI=42 (need 42–55) · Nifty below 20-EMA ❌ |
+| RELIANCE.NS | -42.2 | RSI=56 (need 42–55) · EMA21 < EMA50 · Price -0.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-42 (need ≥50) |
+| HDFCBANK.NS | -60.2 | RSI=40 (need 42–55) · EMA21 < EMA50 · Price -2.7% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-60 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| BAJFINANCE.NS | 63.8 | RSI=59 (need 42–55) · Nifty below 20-EMA ❌ |
-| CDSL.NS | 54.8 | RSI=55 (need 42–55) · Nifty below 20-EMA ❌ |
-| POLYCAB.NS | 53.8 | RSI=62 (need 42–55) · Nifty below 20-EMA ❌ |
+| CDSL.NS | 73.8 | RSI=56 (need 42–55) · Nifty below 20-EMA ❌ |
+| POLYCAB.NS | 63.8 | RSI=62 (need 42–55) · Nifty below 20-EMA ❌ |
+| BAJFINANCE.NS | 63.8 | RSI=58 (need 42–55) · Nifty below 20-EMA ❌ |
 
 ---
 ## 📰 News & Sentiment
@@ -81,17 +99,17 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ICICIBANK.NS | 81.8 | 43 | 🟢 | ✅ | -2.3 | 👀 Watch |
-| 2 | BAJFINANCE.NS | 63.8 | 59 | 🟢 | ✅ | -1.0 | 👀 Watch |
-| 3 | CDSL.NS | 54.8 | 55 | 🟢 | ✅ | -1.5 | 👀 Watch |
-| 4 | POLYCAB.NS | 53.8 | 62 | 🟢 | ✅ | -1.5 | 👀 Watch |
-| 5 | HAVELLS.NS | 43.8 | 70 | 🟢 | ✅ | -1.3 | 👀 Watch |
-| 6 | TITAN.NS | 19.2 | 73 | 🟢 | — | -1.1 | ⏸ Skip |
-| 7 | PIDILITIND.NS | 19.2 | 77 | 🟢 | ✅ | -1.8 | ⏸ Skip |
-| 8 | KEI.NS | 19.2 | 86 | 🟢 | — | -0.6 | ⏸ Skip |
-| 9 | RELIANCE.NS | -42.2 | 57 | 🔴 | — | -1.8 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -60.2 | 41 | 🔴 | — | -1.7 | ⏸ Skip |
-| 11 | ANGELONE.NS | -68.2 | 32 | 🔴 | — | -1.1 | ⏸ Skip |
+| 1 | CDSL.NS | 73.8 | 56 | 🟢 | ✅ | -1.4 | 👀 Watch |
+| 2 | ICICIBANK.NS | 63.8 | 42 | 🟢 | ✅ | -2.2 | 👀 Watch |
+| 3 | POLYCAB.NS | 63.8 | 62 | 🟢 | ✅ | -1.4 | 👀 Watch |
+| 4 | BAJFINANCE.NS | 63.8 | 58 | 🟢 | ✅ | -0.9 | 👀 Watch |
+| 5 | HAVELLS.NS | 31.8 | 73 | 🟢 | ✅ | -1.1 | 👀 Watch |
+| 6 | TITAN.NS | 19.2 | 72 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 7 | PIDILITIND.NS | 19.2 | 77 | 🟢 | ✅ | -1.6 | ⏸ Skip |
+| 8 | KEI.NS | 19.2 | 84 | 🟢 | — | -0.5 | ⏸ Skip |
+| 9 | RELIANCE.NS | -42.2 | 56 | 🔴 | — | -1.6 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -60.2 | 40 | 🔴 | — | -1.5 | ⏸ Skip |
+| 11 | ANGELONE.NS | -68.2 | 31 | 🔴 | — | -0.8 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -108,6 +126,6 @@ Here is your high-level, actionable summary of today’s trading report:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-14 10:55 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-14 12:35 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
