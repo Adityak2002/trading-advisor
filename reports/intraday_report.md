@@ -1,15 +1,36 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level trading summary for **August 14, 2026 (11:39 IST)**:
+### 📊 Market Summary: 2026-08-14 (12:44 IST)
 
-### 📉 Market Context
-* **Bearish Bias:** The market is showing weakness.
+The market is currently in a **"wait-and-see" phase**. Despite several stocks breaking their opening ranges, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability breakout trade.
+
+---
+
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks are currently trading near their opening highs with decent momentum. Keep these on your radar for a potential breakout:
+
+*   **WIPRO.NS:** Strongest momentum (81.9). Needs a clean break above **₹185.26** with a volume surge.
+*   **INFY.NS:** Solid momentum (75.0). Watch for a move above **₹1172.00**.
+*   **AXISBANK.NS:** Trading just below the opening high of **₹1217.20**.
+
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force a trade; wait for the volume surge.
+*   **Volume Filter:** Even if price breaks the high, **do not enter** unless you see a clear spike in volume (1.8× average). This is your primary filter against "fake-outs."
+*   **Strict Exit Rules:**
+    *   **Stop Loss:** If you enter, your hard stop is **-0.4%**. Exit immediately if hit.
+    *   **Profit Taking:** Aim for **+1.2%**. Move your stop to breakeven once you hit +0.5% profit.
+    *   **Hard Deadline:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Capital Protection:** Limit exposure to a maximum of 2 concurrent trades.
+
+**Bottom Line:** The market is quiet. Stay disciplined and wait for the volume confirmation before committing capital.
 
 ---
 
 # 📈 Intraday Report — 2026-08-14
 
-> Auto-generated at **11:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **12:44 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,18 +47,18 @@ Here is your high-level trading summary for **August 14, 2026 (11:39 IST)**:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹3,004.70 | 🔼 Broken Out 🔼 | 19.6/100 | 54 | ✅ Yes | 1.0× | — |
-| **POWERGRID.NS** | ₹267.05 | ▶ Inside Range ▶ | 9.7/100 | 55 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹726.90 | ▶ Inside Range ▶ | 6.7/100 | 50 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,211.10 | ▶ Inside Range ▶ | -1.4/100 | 52 | ❌ No | — | — |
-| **TMPV.NS** | ₹332.35 | ▶ Inside Range ▶ | -1.6/100 | 52 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,408.30 | ▶ Inside Range ▶ | -1.9/100 | 36 | ❌ No | — | — |
-| **WIPRO.NS** | ₹183.56 | ▶ Inside Range ▶ | -10.1/100 | 38 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,303.80 | 🔽 Broken Down 🔽 | -12.6/100 | 27 | ❌ No | 2.5× | — |
-| **TCS.NS** | ₹2,346.10 | 🔽 Broken Down 🔽 | -19.6/100 | 32 | ❌ No | 1.2× | — |
-| **BAJFINANCE.NS** | ₹1,089.80 | 🔽 Broken Down 🔽 | -20.0/100 | 47 | ❌ No | 0.8× | — |
-| **INFY.NS** | ₹1,162.90 | 🔽 Broken Down 🔽 | -23.6/100 | 33 | ❌ No | 1.0× | — |
-| **SBIN.NS** | ₹1,066.80 | 🔽 Broken Down 🔽 | -23.6/100 | 25 | ❌ No | 0.7× | — |
+| **ADANIENT.NS** | ₹3,012.00 | 🔼 Broken Out 🔼 | 16.8/100 | 59 | ✅ Yes | 0.9× | — |
+| **AXISBANK.NS** | ₹1,212.80 | ▶ Inside Range ▶ | 5.2/100 | 58 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹332.80 | ▶ Inside Range ▶ | 3.5/100 | 50 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹184.64 | ▶ Inside Range ▶ | 2.1/100 | 82 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹726.25 | ▶ Inside Range ▶ | 1.8/100 | 47 | ❌ No | — | — |
+| **INFY.NS** | ₹1,168.60 | ▶ Inside Range ▶ | 1.4/100 | 75 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,406.00 | ▶ Inside Range ▶ | -0.7/100 | 42 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹266.75 | ▶ Inside Range ▶ | -3.6/100 | 35 | ❌ No | — | — |
+| **TCS.NS** | ₹2,356.80 | 🔽 Broken Down 🔽 | -6.8/100 | 65 | ✅ Yes | 1.1× | — |
+| **RELIANCE.NS** | ₹1,305.20 | 🔽 Broken Down 🔽 | -11.4/100 | 75 | ❌ No | 2.7× | — |
+| **SBIN.NS** | ₹1,069.00 | 🔽 Broken Down 🔽 | -17.0/100 | 58 | ❌ No | 0.5× | — |
+| **BAJFINANCE.NS** | ₹1,088.50 | 🔽 Broken Down 🔽 | -23.6/100 | 35 | ❌ No | 0.9× | — |
 
 ---
 
@@ -51,12 +72,12 @@ Here is your high-level trading summary for **August 14, 2026 (11:39 IST)**:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹3,004.70 | ₹2968.60 | ₹2952.20 | 54.1 | 🟢 Yes |
-| POWERGRID.NS | ₹267.05 | ₹267.25 | ₹266.00 | 54.9 | 🟢 Yes |
-| HDFCBANK.NS | ₹726.90 | ₹726.95 | ₹723.60 | 50.0 | 🔴 No |
-| AXISBANK.NS | ₹1,211.10 | ₹1217.20 | ₹1210.10 | 51.7 | 🔴 No |
-| TMPV.NS | ₹332.35 | ₹337.50 | ₹331.65 | 52.1 | 🔴 No |
-| ICICIBANK.NS | ₹1,408.30 | ₹1410.40 | ₹1401.00 | 36.0 | 🔴 No |
+| ADANIENT.NS | ₹3,012.00 | ₹2968.60 | ₹2952.20 | 59.3 | 🟢 Yes |
+| AXISBANK.NS | ₹1,212.80 | ₹1217.20 | ₹1210.10 | 58.1 | 🟢 Yes |
+| TMPV.NS | ₹332.80 | ₹337.50 | ₹331.65 | 50.0 | 🟢 Yes |
+| WIPRO.NS | ₹184.64 | ₹185.26 | ₹183.67 | 81.9 | 🟢 Yes |
+| HDFCBANK.NS | ₹726.25 | ₹726.95 | ₹723.60 | 46.9 | 🔴 No |
+| INFY.NS | ₹1,168.60 | ₹1172.00 | ₹1164.50 | 75.0 | 🟢 Yes |
 
 ---
 
