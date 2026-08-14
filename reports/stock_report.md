@@ -2,32 +2,31 @@
 
 ### 📊 Trading Summary: 2026-08-14
 
-The market is currently in a **"Wait and See"** phase. Despite positive global cues, the Nifty 50 is struggling to maintain momentum, keeping our capital sidelined to protect against further downside.
+The market is currently in a **Bullish** state with low volatility (VIX 11.3), providing a favorable environment for new entries.
 
 #### **Market Context**
-*   **Sentiment:** Neutral. Global markets (S&P 500/NASDAQ) are bullish, but the local Nifty 50 is underperforming (-0.21%).
-*   **Risk:** Low. India VIX is at 11.3, indicating low market fear, which is a positive sign for future entries once technical conditions align.
-*   **Status:** 100% Cash. No active positions.
+*   **Sentiment:** Positive. Global cues (S&P 500/NASDAQ) are strong, and the low VIX indicates a stable environment for capital deployment.
+*   **Macro:** Crude oil is rising, which may impact energy-related sectors, while the USD/INR remains stable.
 
-#### **Top Entry Candidates (Watchlist)**
-We are waiting for a "Pullback" entry. These stocks are fundamentally strong but currently fail our strict technical filters (specifically the Nifty 20-EMA requirement):
-*   **CDSL.NS:** Highest score (73.8). Needs to cool off slightly on the RSI to hit our "buy zone."
-*   **ICICIBANK.NS:** Currently at the lower end of our RSI range; a prime candidate if the Nifty stabilizes.
-*   **POLYCAB.NS & BAJFINANCE.NS:** Strong contenders, but currently trading slightly too "hot" (high RSI) for a pullback entry.
+#### **Top Entry Candidate**
+*   **ICICIBANK.NS (Strong Buy):**
+    *   **Strategy:** Momentum Pullback.
+    *   **Action:** Buy **7 shares** at market price (~₹1,411).
+    *   **Risk Management:** Set a hard Stop-Loss at **₹1,353.86** and a Profit Target at **₹1,552.54**.
+    *   **Why:** The stock is currently trading near its 21-day moving average with a healthy RSI (43.2), suggesting it is not overbought and has room for growth.
 
 #### **Critical Warnings & Strategy Notes**
-*   **The "Nifty Filter":** We are currently blocking all entries because the Nifty 50 is trading below its 20-day EMA. **Do not force trades** until the index regains this support level.
-*   **Performance Check:** Our last trade resulted in a loss (-7.14%). The current "no-trade" stance is a deliberate move to avoid further stop-loss hits in a choppy market.
-*   **Action Plan:** Maintain 100% cash. Monitor the watchlist daily; only execute if the Nifty 50 closes above its 20-EMA and individual stock RSI levels fall into the 42–55 range.
+*   **Execution:** Ensure you set **GTT (Good Till Triggered)** orders on Groww immediately after buying to automate your exit strategy and protect your capital.
+*   **Performance Check:** Your previous trade resulted in a loss (-7.14%). Maintain strict discipline with the Stop-Loss on this new trade to avoid compounding losses.
+*   **Watchlist:** Keep an eye on **POLYCAB** and **BAJFINANCE**; they are currently on the watchlist but haven't met the full criteria for entry yet.
+*   **Tax Reminder:** Remember that short-term capital gains (STCG) are taxed at 20% for holdings under one year.
 
-***
-
-*Disclaimer: This is a quantitative analysis report. Ensure you verify all technical levels before manual execution.*
+***Disclaimer:** This is an automated analysis for informational purposes. Always verify trade details before execution.*
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-14
-> *Auto-generated at 12:35 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 14:29 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -37,19 +36,19 @@ We are waiting for a "Pullback" entry. These stocks are fundamentally strong but
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,343.30 | 📉 -0.21% |
-| India VIX | 11.34 | 📉 -0.68% |
+| Nifty 50 | 24,373.70 | 📉 -0.09% |
+| India VIX | 11.32 | 📉 -0.90% |
 | S&P 500 (overnight) | 7,798.99 | 📈 +0.65% |
 | NASDAQ | 26,803.03 | 📈 +0.81% |
-| WTI Crude Oil | $82.14 | 📈 +1.09% |
-| USD / INR | 95.4225 | 📈 +0.08% |
+| WTI Crude Oil | $82.58 | 📈 +1.64% |
+| USD / INR | 95.4250 | 📈 +0.09% |
 
 **Key Factors:**
 - VIX 11.3 — Low fear 🟢 (full sizing)
 - S&P 500 +0.65% — Positive overnight cues 📈
 - NASDAQ +0.81% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $82.14 (+1.09%) — Neutral for OILIETF
-- USD/INR 95.42 (+0.082%) — USD stable
+- WTI Crude $82.58 (+1.64%) — Bullish for OILIETF 📈
+- USD/INR 95.42 (+0.085%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -71,23 +70,41 @@ We are waiting for a "Pullback" entry. These stocks are fundamentally strong but
 ---
 ## 🎯 Entry Candidates
 
-*No entry candidates right now. All conditions not met or max positions reached.*
+### 📁 Category A: Long-Term Hold
+Premium, highly stable blue-chip companies suitable for longer holding periods.
 
-**🔍 Monitor These (Getting Closer):**
+#### #1 — ICICIBANK.NS
+**Action Rating:** Strong (Score: 81.8/100)
 
-#### 📁 Long-Term Hold Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| ICICIBANK.NS | 63.8 | RSI=42 (need 42–55) · Nifty below 20-EMA ❌ |
-| RELIANCE.NS | -42.2 | RSI=56 (need 42–55) · EMA21 < EMA50 · Price -0.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-42 (need ≥50) |
-| HDFCBANK.NS | -60.2 | RSI=40 (need 42–55) · EMA21 < EMA50 · Price -2.7% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-60 (need ≥50) |
+| Action Details | Value | Notes |
+|---|---|---|
+| 🟢 **Buy Price** | **₹1,411.40** | Buy at market or limit |
+| **Shares to Buy** | **7** | Sized to limit your risk |
+| **Investment Amount** | **₹9,879.80** | Total capital to deploy |
+| 🎯 **Target Price (+10%)** | **₹1,552.54** | Target exit for profit |
+| 🛑 **Stop-Loss** | **₹1,353.86** | Hard exit to cut losses |
+| Max Risk | ₹402.81 | Only 4.08% of investment at risk |
+| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
 
-#### 📁 Short-Term Fundamentally Strong Watchlist
-| Ticker | Score | Blocking Reason |
-|--------|-------|-----------------|
-| CDSL.NS | 73.8 | RSI=56 (need 42–55) · Nifty below 20-EMA ❌ |
-| POLYCAB.NS | 63.8 | RSI=62 (need 42–55) · Nifty below 20-EMA ❌ |
-| BAJFINANCE.NS | 63.8 | RSI=58 (need 42–55) · Nifty below 20-EMA ❌ |
+**Simple Buying Checklist:**
+- ✅ Stock is not too expensive / overbought *(Momentum RSI: 43.2)*
+- ✅ Medium-term trend is upward *(EMA21: ₹1,422.22 > EMA50: ₹1,390.38)*
+- ✅ Price is in a good buying zone (near 21-day average) *(distance: -0.76%)*
+- ✅ No panic selling / volume is stable *(Volume multiplier: -1.75)*
+- ✅ Overall setup is strong *(Score: 81.8/100)*
+- ✅ Overall market trend is stable (Nifty above 20-day average)
+- ✅ Sector is performing well compared to Nifty
+
+> **Action on Groww:**
+> 1. Search `ICICIBANK` ➔ Buy **7 shares** at market
+> 2. Immediately place GTT sell order at **₹1,552.54** (Target)
+> 3. Place GTT Stop-Loss sell order at **₹1,353.86**
+> 4. Run `python scripts/update_position.py --mode stock` to log this trade
+
+### 📁 Category B: Short-Term Fundamentally Strong
+High-growth quality stocks entering a strong pullback/momentum setup.
+
+*No short-term fundamentally strong candidates currently meeting entry conditions.*
 
 ---
 ## 📰 News & Sentiment
@@ -99,17 +116,17 @@ We are waiting for a "Pullback" entry. These stocks are fundamentally strong but
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 73.8 | 56 | 🟢 | ✅ | -1.4 | 👀 Watch |
-| 2 | ICICIBANK.NS | 63.8 | 42 | 🟢 | ✅ | -2.2 | 👀 Watch |
-| 3 | POLYCAB.NS | 63.8 | 62 | 🟢 | ✅ | -1.4 | 👀 Watch |
-| 4 | BAJFINANCE.NS | 63.8 | 58 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 5 | HAVELLS.NS | 31.8 | 73 | 🟢 | ✅ | -1.1 | 👀 Watch |
-| 6 | TITAN.NS | 19.2 | 72 | 🟢 | ✅ | -1.0 | ⏸ Skip |
-| 7 | PIDILITIND.NS | 19.2 | 77 | 🟢 | ✅ | -1.6 | ⏸ Skip |
-| 8 | KEI.NS | 19.2 | 84 | 🟢 | — | -0.5 | ⏸ Skip |
-| 9 | RELIANCE.NS | -42.2 | 56 | 🔴 | — | -1.6 | ⏸ Skip |
-| 10 | HDFCBANK.NS | -60.2 | 40 | 🔴 | — | -1.5 | ⏸ Skip |
-| 11 | ANGELONE.NS | -68.2 | 31 | 🔴 | — | -0.8 | ⏸ Skip |
+| 1 | ICICIBANK.NS | 81.8 | 43 | 🟢 | ✅ | -1.8 | 🎯 ENTRY |
+| 2 | POLYCAB.NS | 63.8 | 59 | 🟢 | ✅ | -1.5 | 👀 Watch |
+| 3 | BAJFINANCE.NS | 63.8 | 59 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 4 | CDSL.NS | 54.8 | 56 | 🟢 | ✅ | -1.3 | 👀 Watch |
+| 5 | PIDILITIND.NS | 31.2 | 69 | 🟢 | ✅ | -1.3 | 👀 Watch |
+| 6 | HAVELLS.NS | 31.2 | 70 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 7 | KEI.NS | 25.2 | 83 | 🟢 | — | -0.5 | ⏸ Skip |
+| 8 | TITAN.NS | 19.2 | 71 | 🟢 | ✅ | -0.7 | ⏸ Skip |
+| 9 | RELIANCE.NS | -42.2 | 58 | 🔴 | — | -0.7 | ⏸ Skip |
+| 10 | HDFCBANK.NS | -60.2 | 41 | 🔴 | — | -1.2 | ⏸ Skip |
+| 11 | ANGELONE.NS | -68.2 | 31 | 🔴 | — | -0.7 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -126,6 +143,6 @@ We are waiting for a "Pullback" entry. These stocks are fundamentally strong but
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-14 12:35 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-14 14:29 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
