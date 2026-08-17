@@ -1,20 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level trading summary for **August 17, 2026 (11:32 AM)**:
+Here is your high-level trading summary for **August 17, 2026 (12:09 IST)**:
 
-### 📉 Market Context: Bearish Bias
-* **Downward Pressure:** The overall market is showing weakness. Out of 12 watchlist stocks, **7 have broken down** below their morning lows (including giants like Reliance, TCS, and ICICI Bank). 
-* **Lack of Buying Conviction:** Only one stock has broken upward, but the broader market lacks the strong buying volume needed to trigger safe buy signals.
-
-### 🔍 Top Stocks to Watch (No Active Buys Yet)
-There are **no active buy signals** right now because no stock has met the dual criteria of a price breakout *and* a volume surge. However, keep a close eye on:
-* **BAJFINANCE.NS (Closest to Entry):** It has broken above its morning high (₹
+### 📈 Market Context
+* **Mixed-to-Weak Sentiment:** The broader market is sluggish. Most watched stocks are stuck trading sideways inside their morning ranges, while heavyweights like **Reliance**, **TCS**, and **Adani Enterprises** have broken down
 
 ---
 
 # 📈 Intraday Report — 2026-08-17
 
-> Auto-generated at **11:32 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **12:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -31,18 +26,18 @@ There are **no active buy signals** right now because no stock has met the dual 
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **BAJFINANCE.NS** | ₹1,093.40 | 🔼 Broken Out 🔼 | 18.2/100 | 91 | ✅ Yes | 1.0× | — |
-| **POWERGRID.NS** | ₹266.40 | ▶ Inside Range ▶ | 6.7/100 | 72 | ❌ No | — | — |
-| **WIPRO.NS** | ₹181.83 | ▶ Inside Range ▶ | 1.9/100 | 57 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹725.00 | ▶ Inside Range ▶ | -4.5/100 | 44 | ❌ No | — | — |
-| **TMPV.NS** | ₹330.80 | ▶ Inside Range ▶ | -5.0/100 | 35 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,315.90 | 🔽 Broken Down 🔽 | -7.0/100 | 41 | ❌ No | 3.3× | — |
-| **SBIN.NS** | ₹1,053.50 | 🔽 Broken Down 🔽 | -9.0/100 | 57 | ❌ No | 1.9× | — |
-| **AXISBANK.NS** | ₹1,215.50 | 🔽 Broken Down 🔽 | -13.0/100 | 53 | ❌ No | 1.2× | — |
-| **RELIANCE.NS** | ₹1,299.70 | 🔽 Broken Down 🔽 | -19.6/100 | 18 | ❌ No | 1.8× | — |
-| **ICICIBANK.NS** | ₹1,408.30 | 🔽 Broken Down 🔽 | -19.6/100 | 35 | ❌ No | 1.3× | — |
-| **ADANIENT.NS** | ₹3,014.30 | 🔽 Broken Down 🔽 | -19.6/100 | 35 | ❌ No | 1.7× | — |
-| **INFY.NS** | ₹1,139.60 | 🔽 Broken Down 🔽 | -22.8/100 | 14 | ❌ No | 1.1× | — |
+| **BAJFINANCE.NS** | ₹1,092.80 | 🔼 Broken Out 🔼 | 25.4/100 | 63 | ✅ Yes | 1.1× | — |
+| **POWERGRID.NS** | ₹266.35 | ▶ Inside Range ▶ | 8.6/100 | 62 | ❌ No | — | — |
+| **TMPV.NS** | ₹332.00 | ▶ Inside Range ▶ | 4.7/100 | 72 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹181.89 | ▶ Inside Range ▶ | 2.2/100 | 57 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,415.90 | ▶ Inside Range ▶ | 1.7/100 | 78 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹725.20 | ▶ Inside Range ▶ | -0.9/100 | 54 | ❌ No | — | — |
+| **TCS.NS** | ₹2,325.00 | 🔽 Broken Down 🔽 | -2.2/100 | 67 | ❌ No | 3.4× | — |
+| **SBIN.NS** | ₹1,055.30 | ▶ Inside Range ▶ | -2.5/100 | 57 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,216.00 | ▶ Inside Range ▶ | -7.5/100 | 41 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,302.10 | 🔽 Broken Down 🔽 | -11.2/100 | 63 | ❌ No | 1.8× | — |
+| **ADANIENT.NS** | ₹3,009.90 | 🔽 Broken Down 🔽 | -15.2/100 | 45 | ❌ No | 1.8× | — |
+| **INFY.NS** | ₹1,141.70 | 🔽 Broken Down 🔽 | -16.0/100 | 45 | ❌ No | 1.1× | — |
 
 ---
 
@@ -56,11 +51,12 @@ There are **no active buy signals** right now because no stock has met the dual 
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| BAJFINANCE.NS | ₹1,093.40 | ₹1084.60 | ₹1078.80 | 91.1 | 🟢 Yes |
-| POWERGRID.NS | ₹266.40 | ₹266.35 | ₹265.35 | 71.9 | 🔴 No |
-| WIPRO.NS | ₹181.83 | ₹183.50 | ₹181.78 | 57.5 | 🟢 Yes |
-| HDFCBANK.NS | ₹725.00 | ₹728.10 | ₹724.50 | 44.0 | 🔴 No |
-| TMPV.NS | ₹330.80 | ₹333.95 | ₹330.80 | 35.2 | 🟢 Yes |
+| BAJFINANCE.NS | ₹1,092.80 | ₹1084.60 | ₹1078.80 | 63.3 | 🟢 Yes |
+| POWERGRID.NS | ₹266.35 | ₹266.35 | ₹265.35 | 61.8 | 🔴 No |
+| TMPV.NS | ₹332.00 | ₹333.95 | ₹330.80 | 72.5 | 🟢 Yes |
+| WIPRO.NS | ₹181.89 | ₹183.50 | ₹181.78 | 56.6 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,415.90 | ₹1418.70 | ₹1412.20 | 78.3 | 🟢 Yes |
+| HDFCBANK.NS | ₹725.20 | ₹728.10 | ₹724.50 | 53.7 | 🔴 No |
 
 ---
 
