@@ -1,27 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Analysis Summary (2026-08-17)
+Here is your high-level, actionable summary of the trading report:
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening range, the automated system has not triggered an entry, likely due to strict volume or momentum filters.
-
-#### **Top Entry Candidates (Watchlist)**
-*   **AXISBANK.NS:** Strongest candidate. It has broken the opening high with a solid 2.2× volume surge and high momentum (60).
-*   **RELIANCE.NS:** High-conviction breakout. It shows a massive 5.0× volume surge, indicating significant institutional interest.
-*   **ICICIBANK.NS:** Currently hovering right at the breakout point (₹1,418.80 vs. High of ₹1,418.70). Keep a close eye for a definitive push.
-
-#### **Critical Warnings & Risk Management**
-*   **No Active Trades:** Do not force entries. The system is currently flat; wait for the specific volume/momentum criteria to align before deploying capital.
-*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100**. Do not exceed this.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
-*   **Avoid "Broken Down" Stocks:** TCS, INFY, and ADANIENT are showing bearish momentum and are currently excluded from the buy-side strategy.
-
-**Action Plan:** Monitor **AXISBANK** and **RELIANCE** for sustained price action above their opening highs. If volume remains high, these are your primary targets for a 3:1 R:R trade.
+### 📈 Market Context
+* **Bullish Breakout Momentum:** The market showed strong upward momentum today. Several major
 
 ---
 
 # 📈 Intraday Report — 2026-08-17
 
-> Auto-generated at **14:13 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -38,18 +26,18 @@ The market is currently in a **"Wait and See"** phase. While several stocks have
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **AXISBANK.NS** | ₹1,229.90 | 🔼 Broken Out 🔼 | 30.5/100 | 60 | ✅ Yes | 2.2× | — |
-| **RELIANCE.NS** | ₹1,316.20 | 🔼 Broken Out 🔼 | 29.5/100 | 47 | ✅ Yes | 5.0× | — |
-| **BAJFINANCE.NS** | ₹1,094.50 | 🔼 Broken Out 🔼 | 14.2/100 | 25 | ✅ Yes | 1.1× | — |
-| **POWERGRID.NS** | ₹267.00 | 🔼 Broken Out 🔼 | 13.6/100 | 46 | ✅ Yes | 0.5× | — |
-| **ICICIBANK.NS** | ₹1,418.80 | ▶ Inside Range ▶ | 11.3/100 | 55 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹1,063.50 | ▶ Inside Range ▶ | 4.4/100 | 37 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹728.00 | ▶ Inside Range ▶ | 4.3/100 | 35 | ✅ Yes | — | — |
-| **WIPRO.NS** | ₹182.00 | ▶ Inside Range ▶ | 2.8/100 | 57 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹331.65 | ▶ Inside Range ▶ | -2.4/100 | 29 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,319.40 | 🔽 Broken Down 🔽 | -7.0/100 | 40 | ❌ No | 3.7× | — |
-| **INFY.NS** | ₹1,144.20 | 🔽 Broken Down 🔽 | -13.0/100 | 51 | ❌ No | 1.5× | — |
-| **ADANIENT.NS** | ₹3,020.60 | 🔽 Broken Down 🔽 | -16.0/100 | 46 | ❌ No | 1.8× | — |
+| **RELIANCE.NS** | ₹1,318.10 | 🔼 Broken Out 🔼 | 34.3/100 | 62 | ✅ Yes | 5.3× | — |
+| **AXISBANK.NS** | ₹1,232.40 | 🔼 Broken Out 🔼 | 32.3/100 | 66 | ✅ Yes | 2.1× | — |
+| **HDFCBANK.NS** | ₹730.75 | 🔼 Broken Out 🔼 | 29.5/100 | 68 | ✅ Yes | 2.3× | — |
+| **ICICIBANK.NS** | ₹1,423.20 | 🔼 Broken Out 🔼 | 27.1/100 | 74 | ✅ Yes | 2.1× | — |
+| **POWERGRID.NS** | ₹267.50 | 🔼 Broken Out 🔼 | 18.4/100 | 65 | ✅ Yes | 0.5× | — |
+| **BAJFINANCE.NS** | ₹1,093.30 | 🔼 Broken Out 🔼 | 14.2/100 | 29 | ✅ Yes | 1.1× | — |
+| **SBIN.NS** | ₹1,064.00 | ▶ Inside Range ▶ | 11.5/100 | 52 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹181.80 | ▶ Inside Range ▶ | -9.3/100 | 39 | ❌ No | — | — |
+| **TMPV.NS** | ₹330.60 | ▶ Inside Range ▶ | -10.0/100 | 27 | ❌ No | — | — |
+| **TCS.NS** | ₹2,316.50 | 🔽 Broken Down 🔽 | -10.6/100 | 39 | ❌ No | 3.7× | — |
+| **INFY.NS** | ₹1,139.00 | 🔽 Broken Down 🔽 | -19.6/100 | 9 | ❌ No | 1.4× | — |
+| **ADANIENT.NS** | ₹3,015.90 | 🔽 Broken Down 🔽 | -19.6/100 | 34 | ❌ No | 1.8× | — |
 
 ---
 
@@ -63,12 +51,12 @@ The market is currently in a **"Wait and See"** phase. While several stocks have
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| AXISBANK.NS | ₹1,229.90 | ₹1222.60 | ₹1217.00 | 59.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,316.20 | ₹1311.60 | ₹1305.40 | 47.5 | 🟢 Yes |
-| BAJFINANCE.NS | ₹1,094.50 | ₹1084.60 | ₹1078.80 | 25.0 | 🟢 Yes |
-| POWERGRID.NS | ₹267.00 | ₹266.35 | ₹265.35 | 46.4 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,418.80 | ₹1418.70 | ₹1412.20 | 54.9 | 🟢 Yes |
-| SBIN.NS | ₹1,063.50 | ₹1063.70 | ₹1055.00 | 36.8 | 🟢 Yes |
+| RELIANCE.NS | ₹1,318.10 | ₹1311.60 | ₹1305.40 | 61.6 | 🟢 Yes |
+| AXISBANK.NS | ₹1,232.40 | ₹1222.60 | ₹1217.00 | 65.7 | 🟢 Yes |
+| HDFCBANK.NS | ₹730.75 | ₹728.10 | ₹724.50 | 68.2 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,423.20 | ₹1418.70 | ₹1412.20 | 74.4 | 🟢 Yes |
+| POWERGRID.NS | ₹267.50 | ₹266.35 | ₹265.35 | 64.5 | 🟢 Yes |
+| BAJFINANCE.NS | ₹1,093.30 | ₹1084.60 | ₹1078.80 | 29.4 | 🟢 Yes |
 
 ---
 
