@@ -1,25 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of today’s trading report:
+### 📊 Market Summary: 2026-08-17
 
-### 🌍 Market Context: **Green Light (Bullish)**
-* **Low Fear:** The India VIX is very low (11.4), meaning market anxiety is minimal. It is safe to use full position sizes when opportunities arise.
-* **Global Support:** Strong overnight gains in the US (S&P 500 +0.65%, NASDAQ +0.81%) provide a positive backdrop.
-* **Local Dip:** The Nifty 50 dipped slightly (-0.25%), which is generally healthy for finding "oversold bounce" setups.
+The market is currently in a "wait-and-see" mode. While the overall sentiment is bullish, your specific "Oversold Bounce" strategy is not finding high-conviction setups today. Capital remains 100% liquid.
+
+#### **Market Context**
+*   **Sentiment:** Bullish, but cautious. Nifty is slightly down (-0.28%), and the VIX (volatility) is low at 11.7, suggesting a stable environment for potential entries.
+*   **Capital Status:** Fully idle (₹10,000). No active positions.
+
+#### **Top Entry Candidates (Watchlist)**
+*   **RECLTD.NS (Score: 23.5):** The closest candidate to a buy signal. It is currently oversold (RSI 27), but it needs to show stronger volume (Vol-Z) and a higher overall score (≥40) before triggering an entry.
+*   **IREDA.NS (Score: 14.8):** Showing signs of being oversold (RSI 32), but currently trading below its 50-day moving average (EMA50), which disqualifies it for now.
+
+#### **Critical Warnings & Strategy Notes**
+*   **Strict Discipline:** Do not force a trade. Your strategy requires a score of **40+** to trigger an entry; current candidates are significantly below this threshold.
+*   **RSI Filter:** Most assets on your list (like BANKBEES and ITETF) have high RSI levels (>55), meaning they are not "oversold" enough for your specific strategy.
+*   **Action Plan:** Continue to monitor **RECLTD.NS** for a potential reversal. If the market dips further, keep an eye on the Vol-Z (volume) metrics to see if institutional buying begins to pick up.
+
+***
+
+*Disclaimer: This is an automated analysis for informational purposes only. Ensure you verify all data before executing trades on your brokerage platform.*
 
 ---
 
-### 🎯 Entry Candidates: **Patience Required (No Immediate Buys)**
-While the market is healthy, **no stocks or ETFs have met all strict buying criteria today.** Your ₹10,000 capital remains 100% in cash. 
-
-The closest candidates to watch for a turnaround are:
-* **RECLTD.NS (Score: 27/100):** Highly oversold (RSI 29) and trading at a 10.7% discount from its high, but currently lacks the volume and trend strength to trigger a buy.
-* **SUZLON.NS (Score: 14.
-
----
-
-# 📊 ETF/MF Daily Report — 2026-08-14
-> *Auto-generated at 10:21 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-08-17
+> *Auto-generated at 09:23 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
@@ -29,19 +34,18 @@ The closest candidates to watch for a turnaround are:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,335.45 | 📉 -0.25% |
-| India VIX | 11.43 | 📈 +0.07% |
-| S&P 500 (overnight) | 7,798.99 | 📈 +0.65% |
-| NASDAQ | 26,803.03 | 📈 +0.81% |
-| WTI Crude Oil | $81.31 | 📈 +0.07% |
-| USD / INR | 95.3975 | 📈 +0.06% |
+| Nifty 50 | 24,298.05 | 📉 -0.28% |
+| India VIX | 11.72 | 📈 +3.60% |
+| S&P 500 (overnight) | 7,785.76 | 📉 -0.17% |
+| NASDAQ | 26,729.16 | 📉 -0.28% |
+| WTI Crude Oil | $82.55 | 📈 +0.18% |
+| USD / INR | 95.5725 | 📈 +0.18% |
 
 **Key Factors:**
-- VIX 11.4 — Low fear 🟢 (full sizing)
-- S&P 500 +0.65% — Positive overnight cues 📈
-- NASDAQ +0.81% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $81.31 (+0.07%) — Neutral for OILIETF
-- USD/INR 95.40 (+0.056%) — USD stable
+- VIX 11.7 — Low fear 🟢 (full sizing)
+- S&P 500 -0.17% — Neutral
+- WTI Crude $82.55 (+0.18%) — Neutral for OILIETF
+- USD/INR 95.57 (+0.180%) — USD stable
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -69,11 +73,11 @@ The closest candidates to watch for a turnaround are:
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RECLTD.NS | 27.0 | Below EMA50 · VolZ=-1.3 (need ≥1.5) · Score=27 (need ≥40) |
-| SUZLON.NS | 14.2 | Below EMA50 · VolZ=-1.0 (need ≥1.5) · Score=14 (need ≥40) |
-| IREDA.NS | 12.0 | Below EMA50 · VolZ=-1.1 (need ≥1.5) · Score=12 (need ≥40) |
-| CANBK.NS | 11.0 | RSI=60 (need <38) · VolZ=-1.8 (need ≥1.5) · Score=11 (need ≥40) |
-| BANKBEES.NS | 6.8 | RSI=64 (need <38) · VolZ=-2.1 (need ≥1.5) · Score=7 (need ≥40) |
+| RECLTD.NS | 23.5 | Below EMA50 · VolZ=-1.6 (need ≥1.5) · Score=24 (need ≥40) |
+| BANKBEES.NS | 15.8 | RSI=61 (need <38) · VolZ=-2.2 (need ≥1.5) · Score=16 (need ≥40) |
+| IREDA.NS | 14.8 | Below EMA50 · VolZ=-1.3 (need ≥1.5) · Score=15 (need ≥40) |
+| ITETF.NS | 12.0 | RSI=58 (need <38) · VolZ=-1.2 (need ≥1.5) · Score=12 (need ≥40) |
+| OILIETF.NS | 4.9 | RSI=58 (need <38) · Below EMA50 · VolZ=-1.5 (need ≥1.5) · Score=5 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -85,28 +89,27 @@ The closest candidates to watch for a turnaround are:
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | RECLTD.NS | 27.0 | 29 | 🔴 | -1.3 | -10.7% | 👀 Watch |
-| 2 | SUZLON.NS | 14.2 | 14 | 🔴 | -1.0 | -20.6% | ⏸ Skip |
-| 3 | IREDA.NS | 12.0 | 36 | 🔴 | -1.1 | -17.0% | ⏸ Skip |
-| 4 | CANBK.NS | 11.0 | 60 | 🟢 | -1.8 | -14.8% | ⏸ Skip |
-| 5 | BANKBEES.NS | 6.8 | 64 | 🟢 | -2.1 | -6.0% | ⏸ Skip |
-| 6 | OILIETF.NS | 4.4 | 59 | 🟢 | -1.5 | -8.4% | ⏸ Skip |
-| 7 | MAFANG.NS | 2.2 | 65 | 🟢 | -0.9 | -1.1% | ⏸ Skip |
-| 8 | TATAPOWER.NS | -0.2 | 60 | 🟢 | -1.2 | -16.1% | ⏸ Skip |
-| 9 | PHARMABEES.NS | -4.5 | 79 | 🟢 | -1.6 | -0.2% | ⏸ Skip |
-| 10 | ITETF.NS | -4.5 | 74 | 🟢 | -1.3 | -4.2% | ⏸ Skip |
-| 11 | AUTOBEES.NS | -4.5 | 80 | 🟢 | -2.0 | -1.7% | ⏸ Skip |
-| 12 | NIFTYIETF.NS | -4.5 | 71 | 🟢 | -1.5 | -5.0% | ⏸ Skip |
-| 13 | HDFCAMC.NS | -5.5 | 46 | 🔴 | -1.1 | -11.6% | ⏸ Skip |
-| 14 | HNGSNGBEES.NS | -7.0 | 43 | 🔴 | -2.8 | -13.7% | ⏸ Skip |
-| 15 | NHPC.NS | -7.0 | 40 | 🔴 | -0.9 | -8.9% | ⏸ Skip |
-| 16 | PSUBNKBEES.NS | -9.0 | 73 | 🟢 | -1.2 | -10.8% | ⏸ Skip |
-| 17 | JUNIORBEES.NS | -9.0 | 86 | 🟢 | -2.2 | -0.1% | ⏸ Skip |
-| 18 | UNIONBANK.NS | -9.0 | 81 | 🟢 | -1.1 | -4.2% | ⏸ Skip |
-| 19 | IRFC.NS | -10.8 | 48 | 🔴 | -1.8 | -21.6% | ⏸ Skip |
-| 20 | ABFRL.NS | -10.8 | 49 | 🔴 | -0.8 | -21.8% | ⏸ Skip |
-| 21 | RVNL.NS | -15.8 | 54 | 🔴 | -1.6 | -29.4% | ⏸ Skip |
-| 22 | BANKBARODA.NS | -19.5 | 57 | 🔴 | -1.6 | -20.7% | ⏸ Skip |
+| 1 | RECLTD.NS | 23.5 | 27 | 🔴 | -1.6 | -11.4% | 👀 Watch |
+| 2 | BANKBEES.NS | 15.8 | 61 | 🟢 | -2.2 | -6.5% | ⏸ Skip |
+| 3 | IREDA.NS | 14.8 | 32 | 🔴 | -1.3 | -17.9% | ⏸ Skip |
+| 4 | ITETF.NS | 12.0 | 58 | 🟢 | -1.2 | -5.0% | ⏸ Skip |
+| 5 | OILIETF.NS | 4.9 | 58 | 🟢 | -1.5 | -8.6% | ⏸ Skip |
+| 6 | PSUBNKBEES.NS | 3.2 | 68 | 🟢 | -1.2 | -12.1% | ⏸ Skip |
+| 7 | NIFTYIETF.NS | 3.2 | 63 | 🟢 | -1.6 | -5.2% | ⏸ Skip |
+| 8 | CANBK.NS | 3.2 | 65 | 🟢 | -1.8 | -15.9% | ⏸ Skip |
+| 9 | SUZLON.NS | -4.2 | 36 | 🔴 | -1.1 | -20.5% | ⏸ Skip |
+| 10 | HDFCAMC.NS | -5.2 | 41 | 🔴 | -1.9 | -11.7% | ⏸ Skip |
+| 11 | AUTOBEES.NS | -8.0 | 78 | 🟢 | -2.2 | -1.2% | ⏸ Skip |
+| 12 | JUNIORBEES.NS | -8.0 | 86 | 🟢 | -2.2 | -0.4% | ⏸ Skip |
+| 13 | TATAPOWER.NS | -8.0 | 63 | 🟢 | -1.5 | -17.1% | ⏸ Skip |
+| 14 | IRFC.NS | -9.0 | 47 | 🔴 | -1.8 | -22.7% | ⏸ Skip |
+| 15 | HNGSNGBEES.NS | -10.5 | 43 | 🔴 | -2.7 | -12.9% | ⏸ Skip |
+| 16 | NHPC.NS | -10.5 | 40 | 🔴 | -0.9 | -10.4% | ⏸ Skip |
+| 17 | ABFRL.NS | -10.5 | 44 | 🔴 | -0.8 | -23.7% | ⏸ Skip |
+| 18 | MAFANG.NS | -12.5 | 78 | 🟢 | -0.6 | 0.0% | ⏸ Skip |
+| 19 | UNIONBANK.NS | -12.5 | 75 | 🟢 | -1.5 | -5.7% | ⏸ Skip |
+| 20 | RVNL.NS | -19.2 | 56 | 🔴 | -1.8 | -30.0% | ⏸ Skip |
+| 21 | BANKBARODA.NS | -19.2 | 58 | 🔴 | -2.2 | -22.0% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -114,6 +117,6 @@ The closest candidates to watch for a turnaround are:
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-14 10:21 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-17 09:23 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
