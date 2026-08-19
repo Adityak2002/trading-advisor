@@ -1,14 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, actionable summary of the trading report for **August 19, 2026 (10:33 AM)**:
+Here is your high-level trading summary for **August 19, 2026 (10:53 IST)**:
 
-### 📉 Market Context: Weak & Bearish
+### 🌐 Market Context: Quiet & Leaning Weak
+* **No Active Trades:** The market is currently in a "wait-and-see" mode. No stocks have triggered a buy signal yet.
+* **Bearish Bias:** Out of the 12 watchlist stocks, 6 have broken *below* their opening range (including heavyweights like HDFCBANK and ICICIBANK), signaling general market weakness. 
+* **Patience is Key:** The remaining 6 stocks are
 
 ---
 
 # 📈 Intraday Report — 2026-08-19
 
-> Auto-generated at **10:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **10:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -25,18 +28,18 @@ Here is a concise, actionable summary of the trading report for **August 19, 202
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **BAJFINANCE.NS** | ₹1,087.00 | ▶ Inside Range ▶ | 12.5/100 | 59 | ✅ Yes | — | — |
-| **WIPRO.NS** | ₹178.65 | ▶ Inside Range ▶ | -1.2/100 | 50 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,235.40 | ▶ Inside Range ▶ | -7.8/100 | 43 | ❌ No | — | — |
-| **SBIN.NS** | ₹1,048.60 | ▶ Inside Range ▶ | -7.9/100 | 50 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,311.60 | ▶ Inside Range ▶ | -12.9/100 | 41 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹716.55 | 🔽 Broken Down 🔽 | -34.3/100 | 28 | ❌ No | 1.1× | — |
-| **TMPV.NS** | ₹320.45 | 🔽 Broken Down 🔽 | -34.3/100 | 35 | ❌ No | 1.3× | — |
-| **ADANIENT.NS** | ₹2,987.10 | 🔽 Broken Down 🔽 | -34.3/100 | 38 | ❌ No | 1.3× | — |
-| **POWERGRID.NS** | ₹263.90 | 🔽 Broken Down 🔽 | -34.3/100 | 3 | ❌ No | 1.0× | — |
-| **ICICIBANK.NS** | ₹1,404.00 | 🔽 Broken Down 🔽 | -41.3/100 | 39 | ❌ No | 0.9× | — |
-| **INFY.NS** | ₹1,116.90 | 🔽 Broken Down 🔽 | -46.9/100 | 27 | ❌ No | 0.9× | — |
-| **TCS.NS** | ₹2,262.10 | 🔽 Broken Down 🔽 | -46.9/100 | 35 | ❌ No | 0.6× | — |
+| **BAJFINANCE.NS** | ₹1,086.40 | ▶ Inside Range ▶ | 14.8/100 | 66 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹179.08 | ▶ Inside Range ▶ | -0.3/100 | 38 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,234.40 | ▶ Inside Range ▶ | -4.7/100 | 52 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,048.00 | ▶ Inside Range ▶ | -10.6/100 | 46 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,313.50 | ▶ Inside Range ▶ | -14.8/100 | 32 | ❌ No | — | — |
+| **TCS.NS** | ₹2,268.50 | ▶ Inside Range ▶ | -16.4/100 | 24 | ❌ No | — | — |
+| **TMPV.NS** | ₹320.20 | 🔽 Broken Down 🔽 | -28.0/100 | 41 | ❌ No | 1.4× | — |
+| **ADANIENT.NS** | ₹2,986.00 | 🔽 Broken Down 🔽 | -28.0/100 | 46 | ❌ No | 1.4× | — |
+| **HDFCBANK.NS** | ₹715.30 | 🔽 Broken Down 🔽 | -34.3/100 | 29 | ❌ No | 1.2× | — |
+| **ICICIBANK.NS** | ₹1,402.80 | 🔽 Broken Down 🔽 | -41.3/100 | 39 | ❌ No | 0.9× | — |
+| **INFY.NS** | ₹1,118.40 | 🔽 Broken Down 🔽 | -41.3/100 | 22 | ❌ No | 0.9× | — |
+| **POWERGRID.NS** | ₹263.35 | 🔽 Broken Down 🔽 | -41.3/100 | 9 | ❌ No | 0.7× | — |
 
 ---
 
@@ -50,11 +53,12 @@ Here is a concise, actionable summary of the trading report for **August 19, 202
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| BAJFINANCE.NS | ₹1,087.00 | ₹1092.10 | ₹1080.00 | 59.2 | 🟢 Yes |
-| WIPRO.NS | ₹178.65 | ₹179.84 | ₹178.31 | 50.3 | 🔴 No |
-| AXISBANK.NS | ₹1,235.40 | ₹1242.00 | ₹1234.30 | 43.3 | 🔴 No |
-| SBIN.NS | ₹1,048.60 | ₹1051.90 | ₹1048.10 | 49.7 | 🔴 No |
-| RELIANCE.NS | ₹1,311.60 | ₹1320.00 | ₹1312.80 | 41.4 | 🔴 No |
+| BAJFINANCE.NS | ₹1,086.40 | ₹1092.10 | ₹1080.00 | 65.7 | 🟢 Yes |
+| WIPRO.NS | ₹179.08 | ₹179.84 | ₹178.31 | 37.8 | 🟢 Yes |
+| AXISBANK.NS | ₹1,234.40 | ₹1242.00 | ₹1234.30 | 51.6 | 🔴 No |
+| SBIN.NS | ₹1,048.00 | ₹1051.90 | ₹1048.10 | 45.7 | 🔴 No |
+| RELIANCE.NS | ₹1,313.50 | ₹1320.00 | ₹1312.80 | 31.9 | 🔴 No |
+| TCS.NS | ₹2,268.50 | ₹2300.90 | ₹2268.40 | 23.9 | 🔴 No |
 
 ---
 
