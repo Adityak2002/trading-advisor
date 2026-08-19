@@ -1,12 +1,14 @@
 # 🤖 Gemini AI Insights
 
-Tone*: Professional, alert, and highly actionable.
+Here is a concise, actionable summary of the trading report for **August 19, 2026 (10:33 AM)**:
+
+### 📉 Market Context: Weak & Bearish
 
 ---
 
 # 📈 Intraday Report — 2026-08-19
 
-> Auto-generated at **10:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **10:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -23,47 +25,24 @@ Tone*: Professional, alert, and highly actionable.
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,053.00 | 🔼 Broken Out 🔼 | 69.0/100 | 50 | ✅ Yes | 2.2× | 🎯 BUY |
-| **WIPRO.NS** | ₹179.25 | ▶ Inside Range ▶ | 18.8/100 | 50 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹3,004.70 | ▶ Inside Range ▶ | 17.8/100 | 50 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,237.50 | ▶ Inside Range ▶ | 14.0/100 | 50 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹1,083.70 | ▶ Inside Range ▶ | 11.3/100 | 50 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,314.80 | ▶ Inside Range ▶ | -0.3/100 | 50 | ❌ No | — | — |
-| **TCS.NS** | ₹2,274.50 | ▶ Inside Range ▶ | -2.5/100 | 50 | ❌ No | — | — |
-| **TMPV.NS** | ₹321.05 | ▶ Inside Range ▶ | -5.0/100 | 50 | ❌ No | — | — |
-| **INFY.NS** | ₹1,124.00 | ▶ Inside Range ▶ | -5.1/100 | 50 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹265.30 | 🔽 Broken Down 🔽 | -32.5/100 | 50 | ❌ No | 1.1× | — |
-| **ICICIBANK.NS** | ₹1,405.30 | 🔽 Broken Down 🔽 | -42.5/100 | 50 | ❌ No | 0.8× | — |
-| **HDFCBANK.NS** | ₹718.20 | 🔽 Broken Down 🔽 | -42.5/100 | 50 | ❌ No | 1.0× | — |
+| **BAJFINANCE.NS** | ₹1,087.00 | ▶ Inside Range ▶ | 12.5/100 | 59 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹178.65 | ▶ Inside Range ▶ | -1.2/100 | 50 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,235.40 | ▶ Inside Range ▶ | -7.8/100 | 43 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,048.60 | ▶ Inside Range ▶ | -7.9/100 | 50 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,311.60 | ▶ Inside Range ▶ | -12.9/100 | 41 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹716.55 | 🔽 Broken Down 🔽 | -34.3/100 | 28 | ❌ No | 1.1× | — |
+| **TMPV.NS** | ₹320.45 | 🔽 Broken Down 🔽 | -34.3/100 | 35 | ❌ No | 1.3× | — |
+| **ADANIENT.NS** | ₹2,987.10 | 🔽 Broken Down 🔽 | -34.3/100 | 38 | ❌ No | 1.3× | — |
+| **POWERGRID.NS** | ₹263.90 | 🔽 Broken Down 🔽 | -34.3/100 | 3 | ❌ No | 1.0× | — |
+| **ICICIBANK.NS** | ₹1,404.00 | 🔽 Broken Down 🔽 | -41.3/100 | 39 | ❌ No | 0.9× | — |
+| **INFY.NS** | ₹1,116.90 | 🔽 Broken Down 🔽 | -46.9/100 | 27 | ❌ No | 0.9× | — |
+| **TCS.NS** | ₹2,262.10 | 🔽 Broken Down 🔽 | -46.9/100 | 35 | ❌ No | 0.6× | — |
 
 ---
 
 ## 🎯 Active Buy Signals (Entry Candidates)
 
-### 🔼 SBIN.NS
-
-**Action Rating:** Strong (Score: 69.0/100) | Opening Range: ₹1048.10 – ₹1051.90
-
-| Action | Price | Notes |
-|---|---|---|
-| 🟢 **Buy Trigger** | **₹1052.95** | Buy if price breaks above ORB high (with 0.1% buffer) |
-| 🎯 **Target (Profit)** | **₹1065.59** | Auto-sell at +1.2% profit |
-| 🛑 **Stop-Loss** | **₹1048.74** | Auto-sell at -0.4% to limit loss |
-
-**Recommended Trade:** Buy **23 shares** (Total Investment: **₹24,217.89** | Max Risk if stop hit: ₹97)
-
-**Simple Entry Checklist:**
-- ✅ Price has broken above the opening high
-- ✅ Strong buying volume confirmed (2.2x vs target 1.8x)
-- ✅ Price is trading above daily average price (₹1050.46)
-- ✅ Stock is not overbought / over-extended (Momentum: 50.0)
-- ✅ Setup strength rating is high (Score ≥ 55)
-- ✅ Trade window is open (must enter before 13:30 IST)
-
-> **Action on Groww:**
-> 1. Search `SBIN` ➔ Buy **23 shares** at limit order of **₹1052.95**
-> 2. Immediately place GTC/GTT Sell order at **₹1065.59** (Target)
-> 3. Place GTC/GTT Stop-Loss Sell order at **₹1048.74** (Stop)
+> **No active buy signals at this time.** Watchlist is stable, waiting for opening range breakouts.
 
 ---
 
@@ -71,12 +50,11 @@ Tone*: Professional, alert, and highly actionable.
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| WIPRO.NS | ₹179.25 | ₹179.84 | ₹178.31 | 50.0 | 🟢 Yes |
-| ADANIENT.NS | ₹3,004.70 | ₹3012.50 | ₹2994.10 | 50.0 | 🟢 Yes |
-| AXISBANK.NS | ₹1,237.50 | ₹1242.00 | ₹1234.30 | 50.0 | 🟢 Yes |
-| BAJFINANCE.NS | ₹1,083.70 | ₹1092.10 | ₹1080.00 | 50.0 | 🟢 Yes |
-| RELIANCE.NS | ₹1,314.80 | ₹1320.00 | ₹1312.80 | 50.0 | 🔴 No |
-| TCS.NS | ₹2,274.50 | ₹2300.90 | ₹2268.40 | 50.0 | 🔴 No |
+| BAJFINANCE.NS | ₹1,087.00 | ₹1092.10 | ₹1080.00 | 59.2 | 🟢 Yes |
+| WIPRO.NS | ₹178.65 | ₹179.84 | ₹178.31 | 50.3 | 🔴 No |
+| AXISBANK.NS | ₹1,235.40 | ₹1242.00 | ₹1234.30 | 43.3 | 🔴 No |
+| SBIN.NS | ₹1,048.60 | ₹1051.90 | ₹1048.10 | 49.7 | 🔴 No |
+| RELIANCE.NS | ₹1,311.60 | ₹1320.00 | ₹1312.80 | 41.4 | 🔴 No |
 
 ---
 
