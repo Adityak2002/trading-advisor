@@ -1,21 +1,18 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of today’s trading report:
+Here is your high-level, actionable summary of the trading report for **August 19, 2026**:
 
 ### 🌍 Market Context: **Proceed with Caution**
-* **Overall Signal:** 🟡 **Mildly Bearish.** The market is weak, and it is best to keep your money safe in cash for now.
-* **Key Indexes Down:** Both domestic (Nifty 50 down -0.33%) and global markets (NASDAQ down -1.33%) are trading in the red.
-* **The Dealbreaker:** Nifty is currently trading below its 20-day moving average (20-EMA). In simple terms, the short-term market health is poor, which automatically blocks us from taking new buy positions.
+* **Signal:** 🟡 **Mildly Bearish.** The overall recommendation is to stay light and preserve cash.
+* **Global & Domestic Drag:** Both US markets (NASDAQ down -1.33%) and the Indian market (Nifty 50 down -0.47%) are showing weakness. 
+* **Volatility is Low but Rising:** The India VIX is at 11.49 (+0.90%). While fear is still low, the downward price action across major indexes suggests a defensive stance is best.
 
-### 🎯 Entry Candidates: **On Radar, But No Buys Today**
-We have **zero active buy signals** today because of the weak market. However, if the market recovers, these are the top three fundamentally strong stocks primed for an entry:
-* **CDSL (Score: 71.5):** Strongest setup, but blocked solely because the overall market is weak.
-* **Bajaj
+### 🎯
 
 ---
 
 # 📈 Stock Delivery Report — 2026-08-19
-> *Auto-generated at 11:53 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 13:55 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -25,20 +22,20 @@ We have **zero active buy signals** today because of the weak market. However, i
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,075.80 | 📉 -0.33% |
-| India VIX | 11.44 | 📈 +0.46% |
+| Nifty 50 | 24,041.05 | 📉 -0.47% |
+| India VIX | 11.49 | 📈 +0.90% |
 | S&P 500 (overnight) | 7,691.76 | 📉 -0.69% |
 | NASDAQ | 26,289.71 | 📉 -1.33% |
-| WTI Crude Oil | $84.88 | 📉 -0.07% |
-| USD / INR | 95.7350 | 📈 +0.04% |
+| WTI Crude Oil | $84.62 | 📉 -0.38% |
+| USD / INR | 95.7500 | 📈 +0.06% |
 
 **Key Factors:**
-- VIX 11.4 — Low fear 🟢 (full sizing)
+- VIX 11.5 — Low fear 🟢 (full sizing)
 - S&P 500 -0.69% — Negative overnight cues 📉
 - NASDAQ -1.33% — Tech bearish
-- Nifty -0.33% — Domestic market bearish
-- WTI Crude $84.88 (-0.07%) — Neutral for OILIETF
-- USD/INR 95.73 (+0.043%) — USD stable
+- Nifty -0.47% — Domestic market bearish
+- WTI Crude $84.62 (-0.38%) — Neutral for OILIETF
+- USD/INR 95.75 (+0.058%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -69,14 +66,14 @@ We have **zero active buy signals** today because of the weak market. However, i
 |--------|-------|-----------------|
 | RELIANCE.NS | 23.5 | RSI=56 (need 42–55) · EMA21 < EMA50 · Nifty below 20-EMA ❌ · Score=24 (need ≥50) |
 | ICICIBANK.NS | 17.5 | Nifty below 20-EMA ❌ · Score=18 (need ≥50) |
-| HDFCBANK.NS | -82.5 | RSI=17 (need 42–55) · EMA21 < EMA50 · Price -3.0% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-82 (need ≥50) |
+| HDFCBANK.NS | -82.5 | RSI=17 (need 42–55) · EMA21 < EMA50 · Price -2.9% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-82 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| CDSL.NS | 71.5 | Nifty below 20-EMA ❌ |
 | BAJFINANCE.NS | 59.5 | RSI=55 (need 42–55) · Nifty below 20-EMA ❌ |
-| PIDILITIND.NS | 59.5 | RSI=59 (need 42–55) · Nifty below 20-EMA ❌ |
+| PIDILITIND.NS | 59.5 | RSI=55 (need 42–55) · Nifty below 20-EMA ❌ |
+| TITAN.NS | 39.5 | RSI=65 (need 42–55) · Nifty below 20-EMA ❌ · Score=40 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -88,17 +85,17 @@ We have **zero active buy signals** today because of the weak market. However, i
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 71.5 | 50 | 🟢 | ✅ | -1.4 | 👀 Watch |
-| 2 | BAJFINANCE.NS | 59.5 | 55 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 3 | PIDILITIND.NS | 59.5 | 59 | 🟢 | ✅ | -1.0 | 👀 Watch |
-| 4 | TITAN.NS | 39.5 | 65 | 🟢 | ✅ | -1.0 | 👀 Watch |
-| 5 | HAVELLS.NS | 39.5 | 64 | 🟢 | ✅ | -1.4 | 👀 Watch |
-| 6 | RELIANCE.NS | 23.5 | 56 | 🔴 | ✅ | -1.7 | ⏸ Skip |
-| 7 | KEI.NS | 21.0 | 82 | 🟢 | — | -0.5 | ⏸ Skip |
-| 8 | ICICIBANK.NS | 17.5 | 43 | 🟢 | ✅ | -2.1 | ⏸ Skip |
-| 9 | POLYCAB.NS | 1.5 | 53 | 🟢 | — | -0.7 | ⏸ Skip |
-| 10 | ANGELONE.NS | -64.5 | 40 | 🔴 | — | -1.1 | ⏸ Skip |
-| 11 | HDFCBANK.NS | -82.5 | 17 | 🔴 | — | -1.3 | ⏸ Skip |
+| 1 | BAJFINANCE.NS | 59.5 | 55 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 2 | PIDILITIND.NS | 59.5 | 55 | 🟢 | ✅ | -0.7 | 👀 Watch |
+| 3 | TITAN.NS | 39.5 | 65 | 🟢 | ✅ | -0.8 | 👀 Watch |
+| 4 | HAVELLS.NS | 39.5 | 63 | 🟢 | ✅ | -1.2 | 👀 Watch |
+| 5 | RELIANCE.NS | 23.5 | 56 | 🔴 | ✅ | -1.3 | ⏸ Skip |
+| 6 | KEI.NS | 21.0 | 80 | 🟢 | ✅ | -0.4 | ⏸ Skip |
+| 7 | ICICIBANK.NS | 17.5 | 42 | 🟢 | ✅ | -1.3 | ⏸ Skip |
+| 8 | CDSL.NS | 17.5 | 49 | 🟢 | ✅ | -1.1 | ⏸ Skip |
+| 9 | POLYCAB.NS | 7.5 | 52 | 🟢 | — | -0.2 | ⏸ Skip |
+| 10 | ANGELONE.NS | -46.5 | 49 | 🔴 | — | -1.0 | ⏸ Skip |
+| 11 | HDFCBANK.NS | -82.5 | 17 | 🔴 | — | -1.0 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -115,6 +112,6 @@ We have **zero active buy signals** today because of the weak market. However, i
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-08-19 11:53 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-08-19 13:55 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
