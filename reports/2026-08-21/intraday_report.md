@@ -1,15 +1,24 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+Here is your high-level, actionable summary of the trading report as of **15:06 IST**:
 
 ### 📈 Market Context
-* **Late-Session Caution:** It is **14:11 IST**, and the market
+* **Range-Bound Day:** Most major stocks remained stuck within their initial 15-minute morning ranges, showing lack of strong market-wide direction.
+* **Selective Momentum:** 
+  * **TCS.NS** was the standout performer, breaking out upward with a strong volume surge (1.9x average).
+  * **POWERGRID.NS** also broke upward but lacked the volume support (only 0.7x) to make it a reliable move.
+  * **SBIN.NS** and **TMPV.NS** broke down below their morning lows, showing weakness.
+
+---
+
+### 🎯 Top Entry Candidates
+* **No New Trades Allowed:** Although TCS met the
 
 ---
 
 # 📈 Intraday Report — 2026-08-21
 
-> Auto-generated at **14:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,18 +35,18 @@ Here is your high-level, actionable summary of the trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ICICIBANK.NS** | ₹1,418.30 | 🔼 Broken Out 🔼 | 31.4/100 | 61 | ✅ Yes | 3.1× | — |
-| **POWERGRID.NS** | ₹272.35 | 🔼 Broken Out 🔼 | 17.2/100 | 56 | ✅ Yes | 0.7× | — |
-| **ADANIENT.NS** | ₹2,998.30 | ▶ Inside Range ▶ | 6.3/100 | 54 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,291.50 | ▶ Inside Range ▶ | 4.4/100 | 25 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹730.45 | ▶ Inside Range ▶ | 1.3/100 | 24 | ❌ No | — | — |
-| **INFY.NS** | ₹1,125.40 | ▶ Inside Range ▶ | -5.3/100 | 32 | ❌ No | — | — |
-| **WIPRO.NS** | ₹180.75 | ▶ Inside Range ▶ | -5.3/100 | 35 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,092.40 | ▶ Inside Range ▶ | -5.6/100 | 40 | ❌ No | — | — |
-| **TMPV.NS** | ₹317.70 | 🔽 Broken Down 🔽 | -9.0/100 | 59 | ❌ No | 1.9× | — |
-| **RELIANCE.NS** | ₹1,308.60 | ▶ Inside Range ▶ | -10.7/100 | 34 | ❌ No | — | — |
-| **SBIN.NS** | ₹1,043.70 | 🔽 Broken Down 🔽 | -19.6/100 | 35 | ❌ No | 1.4× | — |
-| **AXISBANK.NS** | ₹1,240.60 | 🔽 Broken Down 🔽 | -26.8/100 | 31 | ❌ No | 0.7× | — |
+| **TCS.NS** | ₹2,295.10 | 🔼 Broken Out 🔼 | 22.4/100 | 47 | ✅ Yes | 1.9× | — |
+| **POWERGRID.NS** | ₹272.05 | 🔼 Broken Out 🔼 | 14.2/100 | 48 | ✅ Yes | 0.7× | — |
+| **ICICIBANK.NS** | ₹1,417.90 | ▶ Inside Range ▶ | 10.2/100 | 46 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹730.35 | ▶ Inside Range ▶ | 4.7/100 | 40 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,310.60 | ▶ Inside Range ▶ | -0.3/100 | 56 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,093.00 | ▶ Inside Range ▶ | -5.0/100 | 43 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,244.20 | ▶ Inside Range ▶ | -5.1/100 | 75 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹2,992.90 | ▶ Inside Range ▶ | -7.5/100 | 37 | ❌ No | — | — |
+| **WIPRO.NS** | ₹180.15 | ▶ Inside Range ▶ | -11.2/100 | 25 | ❌ No | — | — |
+| **INFY.NS** | ₹1,120.10 | ▶ Inside Range ▶ | -12.2/100 | 12 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,041.50 | 🔽 Broken Down 🔽 | -22.8/100 | 25 | ❌ No | 1.4× | — |
+| **TMPV.NS** | ₹317.05 | 🔽 Broken Down 🔽 | -22.8/100 | 29 | ❌ No | 1.7× | — |
 
 ---
 
@@ -51,12 +60,12 @@ Here is your high-level, actionable summary of the trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ICICIBANK.NS | ₹1,418.30 | ₹1416.80 | ₹1411.50 | 61.3 | 🟢 Yes |
-| POWERGRID.NS | ₹272.35 | ₹267.00 | ₹264.55 | 56.0 | 🟢 Yes |
-| ADANIENT.NS | ₹2,998.30 | ₹3007.50 | ₹2989.40 | 54.4 | 🟢 Yes |
-| TCS.NS | ₹2,291.50 | ₹2292.00 | ₹2266.10 | 24.9 | 🟢 Yes |
-| HDFCBANK.NS | ₹730.45 | ₹730.05 | ₹726.65 | 24.0 | 🔴 No |
-| INFY.NS | ₹1,125.40 | ₹1133.10 | ₹1119.60 | 32.2 | 🔴 No |
+| TCS.NS | ₹2,295.10 | ₹2292.00 | ₹2266.10 | 46.9 | 🟢 Yes |
+| POWERGRID.NS | ₹272.05 | ₹267.00 | ₹264.55 | 47.9 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,417.90 | ₹1416.80 | ₹1411.50 | 46.1 | 🟢 Yes |
+| HDFCBANK.NS | ₹730.35 | ₹730.05 | ₹726.65 | 40.0 | 🔴 No |
+| RELIANCE.NS | ₹1,310.60 | ₹1314.30 | ₹1309.30 | 55.9 | 🔴 No |
+| BAJFINANCE.NS | ₹1,093.00 | ₹1101.40 | ₹1092.20 | 42.7 | 🔴 No |
 
 ---
 
