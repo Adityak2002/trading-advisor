@@ -1,32 +1,14 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Snapshot: 2026-08-21 (12:04 IST)
+Here is a concise, high-level summary of the trading report for **August 21, 2026 (13:02 IST)**:
 
-The market is currently in a **"Wait and See"** phase. While several stocks have breached their opening ranges, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability breakout trade.
-
----
-
-### 🎯 Top Entry Candidates
-*   **TCS.NS:** The strongest contender. It has broken the opening high with high momentum (70), but the volume surge is currently at **1.7×** (just shy of the 1.8× threshold). Keep a close watch for a final volume spike.
-*   **ICICIBANK.NS & RELIANCE.NS:** Both are trading just below their opening highs. They are currently "inside the range"—monitor for a clean breakout with a sudden surge in buying volume.
-
-### ⚠️ Critical Warnings & Rules
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume confirmation.
-*   **Volume is King:** A price breakout without a 1.8× volume surge is considered a "fakeout." Avoid entering if volume remains low.
-*   **Risk Discipline:** 
-    *   Max loss per trade is capped at **₹100**.
-    *   Limit yourself to a maximum of **2 concurrent trades**.
-    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
-*   **Avoid:** Stocks like **SBIN.NS** and **AXISBANK.NS** are showing bearish momentum and are currently breaking down—do not attempt to "buy the dip" on these.
-
----
-**Action Plan:** Stay patient. Focus exclusively on **TCS.NS** for the next volume confirmation. If the volume threshold isn't met, remain in cash.
+###
 
 ---
 
 # 📈 Intraday Report — 2026-08-21
 
-> Auto-generated at **12:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:02 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -43,18 +25,17 @@ The market is currently in a **"Wait and See"** phase. While several stocks have
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TCS.NS** | ₹2,304.00 | 🔼 Broken Out 🔼 | 23.6/100 | 70 | ✅ Yes | 1.7× | — |
-| **ICICIBANK.NS** | ₹1,417.50 | ▶ Inside Range ▶ | 12.5/100 | 55 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹272.15 | 🔼 Broken Out 🔼 | 10.6/100 | 37 | ✅ Yes | 0.5× | — |
-| **INFY.NS** | ₹1,132.10 | ▶ Inside Range ▶ | 10.5/100 | 57 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,311.70 | ▶ Inside Range ▶ | 6.2/100 | 51 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹730.40 | ▶ Inside Range ▶ | 1.2/100 | 31 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,095.30 | ▶ Inside Range ▶ | 0.4/100 | 55 | ❌ No | — | — |
-| **WIPRO.NS** | ₹180.83 | ▶ Inside Range ▶ | -4.5/100 | 27 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹2,987.90 | ▶ Inside Range ▶ | -6.6/100 | 42 | ❌ No | — | — |
-| **TMPV.NS** | ₹318.95 | 🔽 Broken Down 🔽 | -15.6/100 | 31 | ❌ No | 1.9× | — |
-| **SBIN.NS** | ₹1,046.80 | 🔽 Broken Down 🔽 | -19.6/100 | 25 | ❌ No | 1.3× | — |
-| **AXISBANK.NS** | ₹1,243.70 | 🔽 Broken Down 🔽 | -23.6/100 | 17 | ❌ No | 0.6× | — |
+| **TCS.NS** | ₹2,305.90 | 🔼 Broken Out 🔼 | 31.2/100 | 58 | ✅ Yes | 2.1× | — |
+| **HDFCBANK.NS** | ₹731.90 | 🔼 Broken Out 🔼 | 15.3/100 | 83 | ✅ Yes | 1.4× | — |
+| **ICICIBANK.NS** | ₹1,417.00 | ▶ Inside Range ▶ | 8.6/100 | 42 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹181.04 | ▶ Inside Range ▶ | 8.6/100 | 56 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,994.50 | ▶ Inside Range ▶ | 6.1/100 | 61 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,127.90 | ▶ Inside Range ▶ | -3.5/100 | 25 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,093.80 | ▶ Inside Range ▶ | -7.7/100 | 26 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹271.10 | 🔼 Broken Out 🔼 | -8.8/100 | 35 | ❌ No | 0.6× | — |
+| **TMPV.NS** | ₹317.35 | 🔽 Broken Down 🔽 | -18.8/100 | 13 | ❌ No | 1.9× | — |
+| **SBIN.NS** | ₹1,046.30 | 🔽 Broken Down 🔽 | -19.6/100 | 33 | ❌ No | 1.5× | — |
+| **AXISBANK.NS** | ₹1,242.00 | 🔽 Broken Down 🔽 | -20.0/100 | 40 | ❌ No | 0.6× | — |
 
 ---
 
@@ -68,12 +49,12 @@ The market is currently in a **"Wait and See"** phase. While several stocks have
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TCS.NS | ₹2,304.00 | ₹2292.00 | ₹2266.10 | 70.0 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,417.50 | ₹1416.80 | ₹1411.50 | 54.7 | 🟢 Yes |
-| POWERGRID.NS | ₹272.15 | ₹267.00 | ₹264.55 | 37.1 | 🟢 Yes |
-| INFY.NS | ₹1,132.10 | ₹1133.10 | ₹1119.60 | 57.3 | 🟢 Yes |
-| RELIANCE.NS | ₹1,311.70 | ₹1314.30 | ₹1309.30 | 50.7 | 🟢 Yes |
-| HDFCBANK.NS | ₹730.40 | ₹730.05 | ₹726.65 | 30.5 | 🔴 No |
+| TCS.NS | ₹2,305.90 | ₹2292.00 | ₹2266.10 | 58.3 | 🟢 Yes |
+| HDFCBANK.NS | ₹731.90 | ₹730.05 | ₹726.65 | 82.8 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,417.00 | ₹1416.80 | ₹1411.50 | 42.4 | 🟢 Yes |
+| WIPRO.NS | ₹181.04 | ₹181.31 | ₹180.33 | 55.6 | 🟢 Yes |
+| ADANIENT.NS | ₹2,994.50 | ₹3007.50 | ₹2989.40 | 60.6 | 🟢 Yes |
+| INFY.NS | ₹1,127.90 | ₹1133.10 | ₹1119.60 | 25.0 | 🔴 No |
 
 ---
 
