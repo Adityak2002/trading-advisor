@@ -1,28 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Pulse: 2026-08-25 (10:02 IST)
+Here is a high-level, actionable summary of the trading report as of **10:56 AM IST**:
 
-The market is currently in a **"Wait and See"** phase. All tracked stocks are currently trading within their initial 15-minute opening range, meaning no breakout conditions have been met yet.
-
-#### 🎯 Top Entry Candidates
-*   **SBIN.NS (State Bank of India):** The primary candidate to watch. It is trading closest to its opening high (₹1,039.40) and is the only stock currently trading above its average price with positive momentum.
-*   **Secondary Watchlist:** ICICIBANK, BAJFINANCE, and HDFCBANK are showing stable movement but require a significant push to trigger a breakout signal.
-
-#### ⚠️ Critical Status & Warnings
-*   **No Active Trades:** The system has not triggered any buy orders. Do not force entries.
-*   **Bearish Alert:** **ADANIENT.NS** has broken below its opening range. Per strategy rules, this is a "no-go" for long positions.
-*   **Risk Discipline:** 
-    *   Max loss per trade is strictly capped at **₹100**.
-    *   The system will automatically exit all positions at **15:10 IST**—do not hold anything overnight.
-    *   Limit yourself to a maximum of **2 simultaneous trades** to maintain focus.
-
-**Action Plan:** Monitor **SBIN.NS** for a volume-backed breakout above **₹1,039.40**. If volume does not surge by at least 1.8x, stay sidelined.
+### 📈 Market Context: "Wait and Watch"
+* **No Active
 
 ---
 
 # 📈 Intraday Report — 2026-08-25
 
-> Auto-generated at **10:02 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **10:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +26,18 @@ The market is currently in a **"Wait and See"** phase. All tracked stocks are cu
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,037.10 | ▶ Inside Range ▶ | 20.4/100 | 50 | ✅ Yes | — | — |
-| **ICICIBANK.NS** | ₹1,416.30 | ▶ Inside Range ▶ | 10.6/100 | 50 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,074.00 | ▶ Inside Range ▶ | 10.3/100 | 50 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹727.05 | ▶ Inside Range ▶ | 8.8/100 | 50 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,236.00 | ▶ Inside Range ▶ | 3.8/100 | 50 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹269.85 | ▶ Inside Range ▶ | -3.2/100 | 50 | ❌ No | — | — |
-| **INFY.NS** | ₹1,125.30 | ▶ Inside Range ▶ | -3.9/100 | 50 | ❌ No | — | — |
-| **WIPRO.NS** | ₹179.93 | ▶ Inside Range ▶ | -4.8/100 | 50 | ❌ No | — | — |
-| **TMPV.NS** | ₹311.60 | ▶ Inside Range ▶ | -5.5/100 | 50 | ❌ No | — | — |
-| **TCS.NS** | ₹2,268.50 | ▶ Inside Range ▶ | -7.4/100 | 50 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,301.00 | ▶ Inside Range ▶ | -13.0/100 | 50 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹2,965.50 | 🔽 Broken Down 🔽 | -32.5/100 | 50 | ❌ No | 1.7× | — |
+| **SBIN.NS** | ₹1,042.10 | 🔼 Broken Out 🔼 | 35.6/100 | 73 | ✅ Yes | 1.1× | — |
+| **ADANIENT.NS** | ₹3,024.20 | 🔼 Broken Out 🔼 | 24.9/100 | 76 | ✅ Yes | 0.4× | — |
+| **HDFCBANK.NS** | ₹728.00 | ▶ Inside Range ▶ | 21.6/100 | 63 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,419.40 | ▶ Inside Range ▶ | 20.7/100 | 57 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,127.30 | ▶ Inside Range ▶ | 11.4/100 | 67 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹1,074.60 | ▶ Inside Range ▶ | 10.7/100 | 49 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,302.30 | ▶ Inside Range ▶ | 5.4/100 | 51 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,272.90 | ▶ Inside Range ▶ | -0.3/100 | 60 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,235.20 | ▶ Inside Range ▶ | -4.3/100 | 42 | ❌ No | — | — |
+| **TMPV.NS** | ₹311.40 | ▶ Inside Range ▶ | -5.2/100 | 55 | ❌ No | — | — |
+| **WIPRO.NS** | ₹179.63 | ▶ Inside Range ▶ | -12.2/100 | 42 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹269.50 | ▶ Inside Range ▶ | -18.5/100 | 36 | ❌ No | — | — |
 
 ---
 
@@ -64,12 +51,12 @@ The market is currently in a **"Wait and See"** phase. All tracked stocks are cu
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,037.10 | ₹1039.40 | ₹1032.10 | 50.0 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,416.30 | ₹1418.80 | ₹1409.50 | 50.0 | 🔴 No |
-| BAJFINANCE.NS | ₹1,074.00 | ₹1076.60 | ₹1067.30 | 50.0 | 🔴 No |
-| HDFCBANK.NS | ₹727.05 | ₹728.25 | ₹724.75 | 50.0 | 🔴 No |
-| AXISBANK.NS | ₹1,236.00 | ₹1240.30 | ₹1232.50 | 50.0 | 🔴 No |
-| POWERGRID.NS | ₹269.85 | ₹270.90 | ₹269.65 | 50.0 | 🔴 No |
+| SBIN.NS | ₹1,042.10 | ₹1039.40 | ₹1032.10 | 73.0 | 🟢 Yes |
+| ADANIENT.NS | ₹3,024.20 | ₹2990.80 | ₹2973.60 | 75.6 | 🟢 Yes |
+| HDFCBANK.NS | ₹728.00 | ₹728.25 | ₹724.75 | 63.0 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,419.40 | ₹1418.80 | ₹1409.50 | 56.6 | 🟢 Yes |
+| INFY.NS | ₹1,127.30 | ₹1134.20 | ₹1124.00 | 67.0 | 🟢 Yes |
+| BAJFINANCE.NS | ₹1,074.60 | ₹1076.60 | ₹1067.30 | 48.9 | 🟢 Yes |
 
 ---
 
