@@ -1,29 +1,29 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-08-26 (12:06 IST)
+### 📊 Market Summary: 2026-08-26 (13:05 IST)
 
-The market is currently in a "wait-and-see" phase. While several stocks have breached their opening ranges, the strategy’s strict entry criteria (momentum + volume) have not yet triggered a confirmed buy signal.
+The market is currently showing mixed sentiment with a clear divergence between banking stocks and the broader tech/energy sectors. While banking names are showing bullish breakout potential, several large-cap stocks are currently trending downward.
 
-#### **Top Entry Candidates (Watchlist)**
-*   **AXISBANK.NS:** The strongest contender. It has broken above the opening high with a massive **6.7× volume surge**. Monitor for a sustained move above ₹1,252.70.
-*   **HDFCBANK.NS:** Currently trading just above its opening high (₹728.15 vs ₹728.00). It is "coiling" and could trigger a breakout if volume picks up.
-*   **BAJFINANCE.NS:** Sitting just below its opening high (₹1,093.30). Keep this on your radar for a potential afternoon breakout.
+#### 🚀 Top Entry Candidates (Watchlist)
+*   **AXISBANK.NS:** Strongest candidate. It has cleared its opening high with a massive volume surge (5.6×). Keep a close eye for a sustained move.
+*   **HDFCBANK.NS:** Showing solid momentum and has broken above its opening range with healthy volume (3.2×).
+*   **TMPV.NS:** Currently consolidating inside the opening range. Monitor for a breakout above ₹316.30.
 
-#### **Critical Warnings & Observations**
-*   **No Active Trades:** The system has not entered any positions yet. Do not force trades; wait for the volume confirmation.
-*   **Bearish Divergence:** Several stocks (WIPRO, POWERGRID, TCS) have broken *downward* with high volume. Avoid any "bottom fishing" in these tickers; the trend is currently against them.
-*   **Capital Protection:** Your risk is capped at **₹100 per trade**. If you enter, ensure your stop-loss is strictly set at -0.4% to protect your ₹5,000 capital.
+#### ⚠️ Critical Warnings & Status
+*   **No Active Trades:** Despite the breakout signals, the system has not triggered an entry yet. Stay disciplined; do not force a trade if the specific entry criteria aren't met.
+*   **Bearish Sector:** Avoid long positions in **WIPRO, POWERGRID, RELIANCE, TCS, and INFY**. These are currently breaking down and showing weak momentum.
+*   **Risk Management:** 
+    *   **Strict Stop-Loss:** If you enter, your risk is capped at ₹100 per trade.
+    *   **Hard Exit:** All positions **must** be closed by 15:10 IST. No exceptions.
+    *   **Position Sizing:** Limit yourself to a maximum of 2 concurrent trades to maintain focus.
 
-#### **Action Plan**
-1.  **Monitor AXISBANK:** It is the only stock meeting all technical criteria (Breakout + Volume + Momentum).
-2.  **Strict Discipline:** Do not exceed 2 active trades.
-3.  **Hard Exit:** Regardless of performance, all positions **must be closed by 15:10 IST**. No exceptions.
+**Bottom Line:** Focus exclusively on the banking sector (AXIS/HDFC) for potential long setups. Ignore the bearish momentum in the tech/energy sectors.
 
 ---
 
 # 📈 Intraday Report — 2026-08-26
 
-> Auto-generated at **12:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **13:05 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -40,18 +40,18 @@ The market is currently in a "wait-and-see" phase. While several stocks have bre
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **AXISBANK.NS** | ₹1,252.70 | 🔼 Broken Out 🔼 | 31.8/100 | 69 | ✅ Yes | 6.7× | — |
-| **HDFCBANK.NS** | ₹728.15 | ▶ Inside Range ▶ | 13.7/100 | 69 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹3,134.50 | 🔼 Broken Out 🔼 | 10.6/100 | 51 | ❌ No | 3.6× | — |
-| **BAJFINANCE.NS** | ₹1,089.00 | ▶ Inside Range ▶ | 6.8/100 | 52 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹315.20 | ▶ Inside Range ▶ | 1.2/100 | 54 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,438.70 | ▶ Inside Range ▶ | 0.5/100 | 49 | ❌ No | — | — |
-| **SBIN.NS** | ₹1,056.30 | ▶ Inside Range ▶ | -0.8/100 | 47 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,307.40 | ▶ Inside Range ▶ | -12.0/100 | 26 | ❌ No | — | — |
-| **WIPRO.NS** | ₹178.20 | 🔽 Broken Down 🔽 | -13.8/100 | 19 | ❌ No | 5.8× | — |
-| **POWERGRID.NS** | ₹267.65 | 🔽 Broken Down 🔽 | -15.8/100 | 14 | ❌ No | 2.5× | — |
-| **TCS.NS** | ₹2,274.00 | 🔽 Broken Down 🔽 | -22.8/100 | 25 | ❌ No | 1.7× | — |
-| **INFY.NS** | ₹1,122.40 | 🔽 Broken Down 🔽 | -26.8/100 | 26 | ❌ No | 0.8× | — |
+| **AXISBANK.NS** | ₹1,255.80 | 🔼 Broken Out 🔼 | 34.5/100 | 69 | ✅ Yes | 5.6× | — |
+| **HDFCBANK.NS** | ₹728.90 | 🔼 Broken Out 🔼 | 29.5/100 | 53 | ✅ Yes | 3.2× | — |
+| **TMPV.NS** | ₹315.75 | ▶ Inside Range ▶ | 8.4/100 | 60 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹3,128.30 | 🔼 Broken Out 🔼 | 4.0/100 | 33 | ❌ No | 4.1× | — |
+| **ICICIBANK.NS** | ₹1,437.80 | ▶ Inside Range ▶ | 0.1/100 | 46 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,055.70 | ▶ Inside Range ▶ | -1.4/100 | 46 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,086.60 | ▶ Inside Range ▶ | -6.7/100 | 36 | ❌ No | — | — |
+| **WIPRO.NS** | ₹177.45 | 🔽 Broken Down 🔽 | -13.8/100 | 19 | ❌ No | 4.9× | — |
+| **POWERGRID.NS** | ₹267.25 | 🔽 Broken Down 🔽 | -15.8/100 | 36 | ❌ No | 3.0× | — |
+| **RELIANCE.NS** | ₹1,305.60 | 🔽 Broken Down 🔽 | -19.6/100 | 32 | ❌ No | 1.4× | — |
+| **TCS.NS** | ₹2,270.20 | 🔽 Broken Down 🔽 | -22.8/100 | 30 | ❌ No | 1.6× | — |
+| **INFY.NS** | ₹1,121.00 | 🔽 Broken Down 🔽 | -26.8/100 | 32 | ❌ No | 0.9× | — |
 
 ---
 
@@ -65,12 +65,12 @@ The market is currently in a "wait-and-see" phase. While several stocks have bre
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| AXISBANK.NS | ₹1,252.70 | ₹1248.70 | ₹1240.00 | 69.2 | 🟢 Yes |
-| HDFCBANK.NS | ₹728.15 | ₹728.00 | ₹726.00 | 68.9 | 🟢 Yes |
-| ADANIENT.NS | ₹3,134.50 | ₹3116.60 | ₹3092.80 | 51.0 | 🔴 No |
-| BAJFINANCE.NS | ₹1,089.00 | ₹1093.30 | ₹1084.00 | 51.9 | 🟢 Yes |
-| TMPV.NS | ₹315.20 | ₹316.30 | ₹314.40 | 53.9 | 🔴 No |
-| ICICIBANK.NS | ₹1,438.70 | ₹1446.00 | ₹1424.60 | 48.9 | 🔴 No |
+| AXISBANK.NS | ₹1,255.80 | ₹1248.70 | ₹1240.00 | 68.9 | 🟢 Yes |
+| HDFCBANK.NS | ₹728.90 | ₹728.00 | ₹726.00 | 52.7 | 🟢 Yes |
+| TMPV.NS | ₹315.75 | ₹316.30 | ₹314.40 | 59.6 | 🟢 Yes |
+| ADANIENT.NS | ₹3,128.30 | ₹3116.60 | ₹3092.80 | 32.7 | 🔴 No |
+| ICICIBANK.NS | ₹1,437.80 | ₹1446.00 | ₹1424.60 | 46.3 | 🔴 No |
+| SBIN.NS | ₹1,055.70 | ₹1061.10 | ₹1051.20 | 46.0 | 🔴 No |
 
 ---
 
