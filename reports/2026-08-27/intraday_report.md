@@ -1,28 +1,34 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: Intraday Status Report
+### 📊 Market Summary: 2026-08-27
 
-The market is currently in a **consolidation phase**. Despite several stocks showing momentum, none have met the strict "Opening Range Breakout" criteria required for a high-probability entry.
+The market is currently in a **"Wait and See"** phase. Most stocks are trading within their initial 15-minute opening range, indicating a lack of decisive directional momentum. No trades were triggered today as none of the candidates met the strict volume surge requirement (≥1.8× average).
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks are currently trading near their opening highs with positive momentum. Monitor these for a breakout above the "Opening High" accompanied by a volume surge:
-*   **ADANIENT.NS:** Strongest momentum (77.1); currently trading above its opening high.
-*   **POWERGRID.NS:** Stable momentum (66.1); sitting just below the breakout trigger.
-*   **WIPRO.NS:** Moderate momentum; currently inside the range but showing healthy price action.
+---
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume surge (≥1.8× average).
-*   **Market Sentiment:** The majority of the watchlist (including heavyweights like Reliance and HDFC Bank) is currently showing bearish or weak momentum. Exercise caution.
-*   **Hard Exit Rule:** All positions **must** be closed by **15:10 IST**. No exceptions.
-*   **Risk Cap:** If you enter, your maximum loss per trade is strictly capped at **₹100**. If the stop loss hits, exit immediately—do not hold and hope for a reversal.
+### 🚀 Top Entry Candidates
+*Watch these stocks closely for a potential breakout above their opening highs:*
 
-**Action Plan:** Stay patient. Wait for a clear price breakout above the opening high combined with a significant spike in trading volume before committing capital.
+*   **ADANIENT.NS:** Highest momentum score (77.1). Currently trading above its opening high; watch for a volume spike to confirm entry.
+*   **POWERGRID.NS:** Strong momentum (66.1) and trading above average price. Needs a clean break above ₹265.30.
+*   **WIPRO.NS:** Stable setup; monitor for a breakout above ₹178.70.
+
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The strategy correctly avoided "false breakouts" by waiting for the required volume surge.
+*   **Strict Discipline:** Do not force entries. If the volume doesn't support the price move, the trade is invalid.
+*   **Risk Cap:** If you do enter, your maximum loss per trade is strictly **₹100**.
+*   **Exit Protocol:** All positions must be closed by **15:10 IST**. Never carry intraday positions overnight.
+*   **Trade Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital protection.
+
+**Bottom Line:** The market is quiet. Stay patient and wait for the volume-backed breakout before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-08-27
 
-> Auto-generated at **22:41 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:26 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
