@@ -1,14 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report for **August 27, 2026**:
+### 📊 Market Summary: Intraday Status Report
 
-### 📉 Market Context: Bearish & Cautious
+The market is currently in a **consolidation phase**. Despite several stocks showing momentum, none have met the strict "Opening Range Breakout" criteria required for a high-probability entry.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks are currently trading near their opening highs with positive momentum. Monitor these for a breakout above the "Opening High" accompanied by a volume surge:
+*   **ADANIENT.NS:** Strongest momentum (77.1); currently trading above its opening high.
+*   **POWERGRID.NS:** Stable momentum (66.1); sitting just below the breakout trigger.
+*   **WIPRO.NS:** Moderate momentum; currently inside the range but showing healthy price action.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume surge (≥1.8× average).
+*   **Market Sentiment:** The majority of the watchlist (including heavyweights like Reliance and HDFC Bank) is currently showing bearish or weak momentum. Exercise caution.
+*   **Hard Exit Rule:** All positions **must** be closed by **15:10 IST**. No exceptions.
+*   **Risk Cap:** If you enter, your maximum loss per trade is strictly capped at **₹100**. If the stop loss hits, exit immediately—do not hold and hope for a reversal.
+
+**Action Plan:** Stay patient. Wait for a clear price breakout above the opening high combined with a significant spike in trading volume before committing capital.
 
 ---
 
 # 📈 Intraday Report — 2026-08-27
 
-> Auto-generated at **21:32 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:41 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
