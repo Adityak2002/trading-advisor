@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-price drop / 2% capital). Never average down.
+Here is your high-level, actionable summary of today’s intraday trading setup:
 
-4.  **Refine for Layman & Tone**:
-    *   Keep it punchy, clear, and actionable.
+### 📈 Market Context
+The market is showing strong bullish momentum, particularly in the **IT and Financial sectors
 
 ---
 
 # 📈 Intraday Report — 2026-08-28
 
-> Auto-generated at **22:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
