@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+price drop / 2% capital). Never average down.
 
-### 📈 Market Context
-* **Bullish Momentum:** The market is showing strong upward momentum, particularly in the IT and
+4.  **Refine for Layman & Tone**:
+    *   Keep it punchy, clear, and actionable.
 
 ---
 
 # 📈 Intraday Report — 2026-08-28
 
-> Auto-generated at **21:19 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
