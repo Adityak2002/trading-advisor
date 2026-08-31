@@ -1,15 +1,18 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the intraday trading report for **August 31, 2026**:
+Here is a high-level, actionable summary of the trading report:
 
-### 📈 Market Context & Status
-*
+### 📈 Market Context
+The market is showing highly selective bullishness, driven primarily by major IT and banking stocks. While several key players successfully broke above their morning ranges, others lagged or broke down, highlighting the need for strict stock selection.
+
+### 🎯 Top Entry Candidates
+Based on the strategy's rules (price breakout + volume
 
 ---
 
 # 📈 Intraday Report — 2026-08-31
 
-> Auto-generated at **15:50 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:47 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -26,16 +29,16 @@ Here is a high-level, actionable summary of the intraday trading report for **Au
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **RELIANCE.NS** | ₹1,294.90 | 🔼 Broken Out 🔼 | 23.0/100 | 72 | ✅ Yes | 1.4× | — |
-| **ICICIBANK.NS** | ₹1,445.00 | 🔼 Broken Out 🔼 | 19.4/100 | 54 | ✅ Yes | 0.7× | — |
-| **AXISBANK.NS** | ₹1,262.20 | 🔼 Broken Out 🔼 | 16.8/100 | 51 | ✅ Yes | 0.7× | — |
-| **WIPRO.NS** | ₹180.12 | ▶ Inside Range ▶ | 14.5/100 | 70 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹1,043.00 | ▶ Inside Range ▶ | 12.6/100 | 56 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,123.50 | ▶ Inside Range ▶ | 3.9/100 | 55 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,324.70 | ▶ Inside Range ▶ | 1.3/100 | 49 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹184.50 | 🔼 Broken Out 🔼 | 30.7/100 | 86 | ✅ Yes | 4.2× | — |
+| **TCS.NS** | ₹2,399.30 | 🔼 Broken Out 🔼 | 30.2/100 | 89 | ✅ Yes | 34.4× | — |
+| **ICICIBANK.NS** | ₹1,454.00 | 🔼 Broken Out 🔼 | 21.2/100 | 68 | ✅ Yes | 0.6× | — |
+| **AXISBANK.NS** | ₹1,300.00 | 🔼 Broken Out 🔼 | 16.6/100 | 89 | ✅ Yes | 0.6× | — |
+| **SBIN.NS** | ₹1,060.00 | 🔼 Broken Out 🔼 | 14.2/100 | 83 | ✅ Yes | 0.5× | — |
+| **INFY.NS** | ₹1,133.80 | ▶ Inside Range ▶ | 9.9/100 | 71 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,277.00 | ▶ Inside Range ▶ | 2.2/100 | 40 | ❌ No | — | — |
 | **POWERGRID.NS** | ₹263.55 | ▶ Inside Range ▶ | -4.6/100 | 44 | ❌ No | — | — |
 | **BAJFINANCE.NS** | ₹1,057.00 | 🔽 Broken Down 🔽 | -20.0/100 | 45 | ❌ No | 0.4× | — |
-| **HDFCBANK.NS** | ₹709.80 | 🔽 Broken Down 🔽 | -26.4/100 | 41 | ❌ No | 0.5× | — |
+| **HDFCBANK.NS** | ₹709.00 | 🔽 Broken Down 🔽 | -26.4/100 | 41 | ❌ No | 0.5× | — |
 | **TMPV.NS** | ₹308.85 | 🔽 Broken Down 🔽 | -30.0/100 | 20 | ❌ No | 0.5× | — |
 | **ADANIENT.NS** | ₹2,859.10 | 🔽 Broken Down 🔽 | -30.0/100 | 18 | ❌ No | 0.2× | — |
 
@@ -51,12 +54,12 @@ Here is a high-level, actionable summary of the intraday trading report for **Au
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| RELIANCE.NS | ₹1,294.90 | ₹1278.20 | ₹1271.10 | 72.5 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,445.00 | ₹1429.90 | ₹1424.30 | 54.1 | 🟢 Yes |
-| AXISBANK.NS | ₹1,262.20 | ₹1258.70 | ₹1251.80 | 50.9 | 🟢 Yes |
-| WIPRO.NS | ₹180.12 | ₹180.50 | ₹177.65 | 69.9 | 🟢 Yes |
-| SBIN.NS | ₹1,043.00 | ₹1042.20 | ₹1036.80 | 56.2 | 🟢 Yes |
-| INFY.NS | ₹1,123.50 | ₹1143.40 | ₹1117.40 | 54.6 | 🟢 Yes |
+| WIPRO.NS | ₹184.50 | ₹180.50 | ₹177.65 | 85.6 | 🟢 Yes |
+| TCS.NS | ₹2,399.30 | ₹2343.10 | ₹2317.40 | 89.1 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,454.00 | ₹1429.90 | ₹1424.30 | 68.2 | 🟢 Yes |
+| AXISBANK.NS | ₹1,300.00 | ₹1258.70 | ₹1251.80 | 89.0 | 🟢 Yes |
+| SBIN.NS | ₹1,060.00 | ₹1042.20 | ₹1036.80 | 83.1 | 🟢 Yes |
+| INFY.NS | ₹1,133.80 | ₹1143.40 | ₹1117.40 | 71.4 | 🟢 Yes |
 
 ---
 
