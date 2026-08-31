@@ -1,13 +1,15 @@
 # 🤖 Gemini AI Insights
 
-**Strict Loss Limit**: Maximum loss is capped at ₹100 per trade (2% of capital). Cut losses immediately; never add to a losing trade.
-        *
+Here is a concise, high-level summary of the trading report for **August 31, 2026**:
+
+### 🌐 Market Context
+* **A Divided Market:** We are
 
 ---
 
 # 📈 Intraday Report — 2026-08-31
 
-> Auto-generated at **20:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
