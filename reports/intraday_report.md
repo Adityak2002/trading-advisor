@@ -2,14 +2,14 @@
 
 Here is a concise, high-level summary of the trading report for **August 31, 2026**:
 
-### 🌐 Market Context
-* **A Divided Market:** We are
+### 📈 Market Context
+* **IT Leads the Charge:** The market is showing a clear divide. Large-cap IT stocks are showing powerful upward momentum, while major banking and financial stocks are either lagging or breaking down.
 
 ---
 
 # 📈 Intraday Report — 2026-08-31
 
-> Auto-generated at **21:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
