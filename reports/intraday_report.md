@@ -1,18 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+Here is a high-level, actionable summary of the trading report for **August 31, 2026**:
 
 ### 📈 Market Context
-The market is showing highly selective bullishness, driven primarily by major IT and banking stocks. While several key players successfully broke above their morning ranges, others lagged or broke down, highlighting the need for strict stock selection.
-
-### 🎯 Top Entry Candidates
-Based on the strategy's rules (price breakout + volume
+The market is
 
 ---
 
 # 📈 Intraday Report — 2026-08-31
 
-> Auto-generated at **16:47 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
