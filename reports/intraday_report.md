@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 1, 2026**:
+### 📊 Market Analysis Summary: 2026-09-01
 
-### 📈 Market Context & Strategy
-* **The Game Plan
+The market is currently showing a **bullish bias** with several large-cap stocks clearing their opening range highs. However, despite the breakouts, the system has not triggered formal entries, suggesting a cautious wait-and-see approach to ensure volume confirmation.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are showing strong momentum. Monitor these for a potential entry if volume sustains:
+*   **TCS.NS:** Strongest breakout candidate with a 2.3× volume surge.
+*   **RELIANCE.NS:** Solid momentum (73.3) with a healthy 1.9× volume surge.
+*   **POWERGRID.NS:** Consistent breakout, though volume is slightly lower (1.3×).
+
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Trades:** Despite the breakouts, the system has not executed any buys. Do not force entries; wait for the specific volume criteria (≥1.8× average) to be met.
+*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100**. Exit immediately if the stop loss (-0.4%) is hit.
+*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
+*   **Position Limit:** Do not hold more than **2 trades** simultaneously to maintain focus and capital protection.
+
+#### 💡 Analyst Note
+The market is currently in a "wait-and-see" phase. While the price action is positive, the lack of volume in stocks like *INFY* and *HDFCBANK* suggests the breakouts may lack conviction. Focus exclusively on **TCS** and **RELIANCE** as they currently meet the technical requirements for a high-probability setup.
 
 ---
 
 # 📈 Intraday Report — 2026-09-01
 
-> Auto-generated at **18:40 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
