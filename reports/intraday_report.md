@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+Here is a concise, high-level summary of the trading report:
 
 ### 📈 Market Context & Strategy
-* **The Game Plan:** We are tracking the **Opening Price Breakout** strategy.
+* **The Strategy:** We monitor stocks during the first 15 minutes of
 
 ---
 
 # 📈 Intraday Report — 2026-09-01
 
-> Auto-generated at **16:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
