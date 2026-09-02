@@ -1,15 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 2, 2026**:
+### 📊 Market Summary: 2026-09-02
 
-### 📈 Market Context
-* **The Strategy:** Today'
+The market is currently exhibiting a **bullish bias** with several stocks clearing their opening price ranges. However, despite the breakouts, the system has not triggered an entry, suggesting a cautious approach to volume confirmation.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have broken above their opening highs and show strong momentum. Monitor these for a potential entry if volume sustains:
+*   **TCS.NS:** Strongest candidate with a massive **4.3× volume surge** and solid momentum (59.4).
+*   **POWERGRID.NS:** Reliable breakout with a **2.2× volume surge**.
+*   **INFY.NS:** High momentum (64.0) and confirmed breakout; keep a close eye on volume.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Entries:** Despite the "Broken Out" status, the system is currently in a "wait-and-see" mode. Do not force trades.
+*   **Volume is King:** Only enter if the volume surge is **≥1.8×** the average. Stocks like *TMPV* and *BAJFINANCE* have broken out but lack the required volume—**avoid these.**
+*   **Strict Risk Cap:** Max loss is **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately.
+*   **Hard Deadline:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Position Limit:** Do not hold more than **2 trades** simultaneously to maintain focus and capital protection.
+
+***
+
+**Analyst Note:** The market is showing clear breakout signals, but the lack of "Entry" flags indicates the system is filtering for high-conviction setups. Stay disciplined and wait for the volume threshold to be met before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-09-02
 
-> Auto-generated at **17:17 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
