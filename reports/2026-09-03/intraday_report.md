@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+### 📊 Market Summary: 2026-09-03
 
-### 📉 Market Context: Bearish Bias
-* **Downward Pressure:** The market is showing a clear downward (bearish) trend today. No stocks have broken upward
+The market is currently in a **consolidation phase**. No stocks have triggered the "Opening Price Breakout" strategy, meaning the market lacks the aggressive momentum required for a high-probability entry.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks are holding near their opening highs and show the best potential if they break out with volume:
+*   **ADANIENT.NS:** Closest to the breakout level (Current: ₹2,901 | High: ₹2,919.60).
+*   **TMPV.NS:** Strongest momentum score (73.3) and holding well within the opening range.
+
+#### ⚠️ Critical Warnings & Status
+*   **No Active Trades:** The system is currently in "Wait Mode." Do not force entries.
+*   **Bearish Signals:** Several stocks (RELIANCE, WIPRO, SBIN) have broken *below* their opening lows with high volume. **Avoid buying these** as they are showing downward pressure.
+*   **Risk Discipline:** 
+    *   Max 2 trades allowed simultaneously.
+    *   Strict ₹100 loss limit per trade.
+    *   All positions must be closed by 15:10 IST.
+
+**Action Plan:** Monitor **ADANIENT** and **TMPV** for a clean break above their respective opening highs accompanied by a surge in trading volume. If the volume is weak, stay on the sidelines.
 
 ---
 
 # 📈 Intraday Report — 2026-09-03
 
-> Auto-generated at **18:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
