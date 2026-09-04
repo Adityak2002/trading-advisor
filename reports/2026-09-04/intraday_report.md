@@ -1,29 +1,33 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-04
+### 📊 Market Summary & Action Plan
 
-The market shows a **cautious, low-conviction environment**. Despite several stocks breaking out of their opening ranges, the "Action Scores" remain low, suggesting that the breakouts lack the necessary conviction for high-probability entries.
+The market is currently showing mixed sentiment with a clear divergence between breakout candidates and laggards. While several stocks have breached their opening range, the strategy remains in a "wait-and-see" mode for high-conviction entries.
 
-#### 🚀 Top Entry Candidates
-*   **BAJFINANCE.NS:** Currently the strongest candidate. It has cleared its opening high with a 1.9× volume surge and maintains positive momentum.
-*   **ADANIENT.NS:** Showing strong volume (2.5×) and a clean breakout. Monitor closely for sustained price action above the opening high.
-*   *Note:* While these stocks have "broken out," the low Action Scores suggest waiting for a retest or a secondary confirmation before committing capital.
+#### **Top Entry Candidates**
+*   **BAJFINANCE.NS:** Strongest candidate. It has broken the opening high with a 1.9× volume surge and solid momentum (58).
+*   **ADANIENT.NS:** High volatility play. It has cleared the opening high with a significant 2.5× volume spike.
+*   *Note:* While these have broken out, the system is currently holding off on execution, likely awaiting further confirmation or price stabilization.
 
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The system has not triggered any entries. The "No active buy signals" status is a safety feature to prevent entering "fake-out" moves.
-*   **Avoid "Value Traps":** AXISBANK.NS shows a massive volume spike (8.4×) but failed the "Above Average Price" filter. **Do not trade this**—the volume suggests a potential distribution (selling) rather than accumulation.
-*   **Bearish Sentiment:** A significant portion of the watchlist (ICICIBANK, INFY, TCS, WIPRO, SBIN) has broken below their opening lows, indicating broad selling pressure in the IT and Banking sectors.
+#### **Market Context**
+*   **Breakout Activity:** A clear split exists; Financials (Bajaj Finance, Axis) and Adani Enterprises are showing bullish breakout tendencies, while IT and Banking heavyweights (ICICI, TCS, Wipro) are currently breaking down.
+*   **Volume Analysis:** High volume in "breakdown" stocks (like AXISBANK and WIPRO) suggests aggressive selling pressure, which may act as a headwind for the broader market.
 
-#### 🛡️ Action Plan
-*   **Patience is Key:** With a capital base of ₹5,000, capital preservation is the priority. Do not force trades.
-*   **Strict Discipline:** If you decide to enter BAJFINANCE or ADANIENT, ensure the **-0.4% Stop Loss** is hard-coded. 
-*   **Hard Exit:** Regardless of performance, all positions must be closed by **15:10 IST**. No exceptions.
+#### **Critical Warnings & Risk Management**
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the strategy's specific volume/price triggers.
+*   **Strict Risk Cap:** If you enter, your maximum loss per trade is strictly capped at **₹100 (2% of capital)**.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop-loss to breakeven immediately to protect your capital.
+
+***
+
+**Bottom Line:** The market is polarized. Focus exclusively on **BAJFINANCE** and **ADANIENT** if they maintain their momentum; ignore the "breakdown" stocks entirely to avoid catching a falling knife.
 
 ---
 
 # 📈 Intraday Report — 2026-09-04
 
-> Auto-generated at **18:03 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:41 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
