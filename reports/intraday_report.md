@@ -2,15 +2,14 @@
 
 Here is a high-level, actionable summary of the trading report for **September 7, 2026**:
 
-### 📉 Market Context: A Defensive Day
-* **Bearish Sentiment:** The market experienced downward pressure today. No stocks broke out to the upside. 
-* **Breakdowns:** Major stocks like **SBIN** (on massive 6.8x volume) and **INFY** (3.0x volume
+### 📉 Market Context: Bearish Bias
+The market is showing
 
 ---
 
 # 📈 Intraday Report — 2026-09-07
 
-> Auto-generated at **16:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:34 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
