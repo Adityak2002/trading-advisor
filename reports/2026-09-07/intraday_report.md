@@ -2,17 +2,15 @@
 
 Here is a high-level, actionable summary of the trading report for **September 7, 2026**:
 
-### 📉 Market Context: Bearish & Sluggish
-* **Downward Bias:** The market is showing weakness today. Out of the 12 watched stocks, **6 have broken down** (dropped below their morning lows) and **5 are stuck** in a sideways range. 
-* **Weak Breakouts:** Only one stock (**POWERGRID**) broke above its morning high, but it lacked the price strength and momentum to justify a safe entry.
-
-### 🚫
+### 📉 Market Context: A Defensive Day
+* **Bearish Sentiment:** The market experienced downward pressure today. No stocks broke out to the upside. 
+* **Breakdowns:** Major stocks like **SBIN** (on massive 6.8x volume) and **INFY** (3.0x volume
 
 ---
 
 # 📈 Intraday Report — 2026-09-07
 
-> Auto-generated at **15:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -29,18 +27,18 @@ Here is a high-level, actionable summary of the trading report for **September 7
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹2,940.00 | ▶ Inside Range ▶ | 6.9/100 | 59 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,950.00 | ▶ Inside Range ▶ | 10.5/100 | 72 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,427.50 | ▶ Inside Range ▶ | 7.5/100 | 52 | ✅ Yes | — | — |
 | **HDFCBANK.NS** | ₹710.50 | ▶ Inside Range ▶ | 4.2/100 | 58 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹267.00 | 🔼 Broken Out 🔼 | 4.0/100 | 24 | ❌ No | 4.4× | — |
 | **AXISBANK.NS** | ₹1,266.00 | ▶ Inside Range ▶ | 2.8/100 | 54 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,274.10 | ▶ Inside Range ▶ | 1.4/100 | 73 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹1,004.80 | 🔽 Broken Down 🔽 | -7.0/100 | 41 | ❌ No | 6.9× | — |
-| **WIPRO.NS** | ₹173.06 | 🔽 Broken Down 🔽 | -9.0/100 | 57 | ❌ No | 1.8× | — |
-| **ICICIBANK.NS** | ₹1,423.60 | ▶ Inside Range ▶ | -9.4/100 | 30 | ❌ No | — | — |
-| **INFY.NS** | ₹1,087.30 | 🔽 Broken Down 🔽 | -10.2/100 | 40 | ❌ No | 3.1× | — |
-| **RELIANCE.NS** | ₹1,308.00 | 🔽 Broken Down 🔽 | -15.2/100 | 60 | ❌ No | 0.5× | — |
+| **POWERGRID.NS** | ₹266.45 | ▶ Inside Range ▶ | 0.2/100 | 18 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,005.90 | 🔽 Broken Down 🔽 | -7.0/100 | 49 | ❌ No | 6.8× | — |
+| **INFY.NS** | ₹1,087.50 | 🔽 Broken Down 🔽 | -10.2/100 | 41 | ❌ No | 3.0× | — |
+| **RELIANCE.NS** | ₹1,309.50 | 🔽 Broken Down 🔽 | -10.8/100 | 66 | ✅ Yes | 0.5× | — |
+| **WIPRO.NS** | ₹172.80 | 🔽 Broken Down 🔽 | -12.0/100 | 47 | ❌ No | 1.8× | — |
+| **TCS.NS** | ₹2,270.00 | 🔽 Broken Down 🔽 | -15.2/100 | 66 | ❌ No | 0.9× | — |
 | **BAJFINANCE.NS** | ₹1,060.00 | 🔽 Broken Down 🔽 | -15.6/100 | 48 | ✅ Yes | 0.6× | — |
-| **TMPV.NS** | ₹307.35 | 🔽 Broken Down 🔽 | -19.6/100 | 35 | ❌ No | 1.0× | — |
+| **TMPV.NS** | ₹307.00 | 🔽 Broken Down 🔽 | -23.6/100 | 31 | ❌ No | 1.0× | — |
 
 ---
 
@@ -54,12 +52,11 @@ Here is a high-level, actionable summary of the trading report for **September 7
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹2,940.00 | ₹2950.30 | ₹2927.50 | 58.9 | 🟢 Yes |
+| ADANIENT.NS | ₹2,950.00 | ₹2950.30 | ₹2927.50 | 72.3 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,427.50 | ₹1429.90 | ₹1423.60 | 52.0 | 🟢 Yes |
 | HDFCBANK.NS | ₹710.50 | ₹713.00 | ₹709.55 | 58.5 | 🟢 Yes |
-| POWERGRID.NS | ₹267.00 | ₹266.45 | ₹264.45 | 23.7 | 🔴 No |
 | AXISBANK.NS | ₹1,266.00 | ₹1271.00 | ₹1265.30 | 54.0 | 🟢 Yes |
-| TCS.NS | ₹2,274.10 | ₹2299.90 | ₹2272.90 | 72.9 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,423.60 | ₹1429.90 | ₹1423.60 | 29.8 | 🔴 No |
+| POWERGRID.NS | ₹266.45 | ₹266.45 | ₹264.45 | 18.4 | 🔴 No |
 
 ---
 
