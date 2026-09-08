@@ -1,31 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-08
+Here is your high-level, actionable summary of the trading report for **September 8, 2026**:
 
-The market is showing selective strength, with a clear divergence between breakout candidates and laggards. While several stocks have cleared their opening range, volume confirmation remains the primary filter for entry.
-
-#### **Top Entry Candidates**
-*   **ADANIENT.NS (₹2,953.10):** Strongest breakout candidate with a **2.0× volume surge**. Momentum is solid at 66.
-*   **TMPV.NS (₹306.45):** Highest momentum score (86.4) with a **2.5× volume surge**. This is your primary watch for immediate upside.
-*   **SBIN.NS (₹1,008.00):** Potential breakout, though volume (1.4×) is slightly below the 1.8× threshold. Monitor for a volume spike.
-
-#### **Critical Warnings & Risk Management**
-*   **Volume is King:** Do not enter a trade unless the volume surge is **≥1.8×** the average. Current breakouts in SBIN, RELIANCE, and others are currently disqualified due to insufficient volume.
-*   **Strict Exposure:** Limit yourself to a maximum of **2 concurrent trades**.
-*   **Hard Stop-Loss:** Your risk is capped at **₹100 per trade**. If the price hits your stop-loss, exit immediately—do not hold and hope for a reversal.
-*   **Mandatory Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Trailing Strategy:** Once a trade hits **+0.5% profit**, move your stop-loss to breakeven to protect your capital.
-
-#### **Market Sentiment**
-*   **Bullish:** ADANIENT, TMPV, SBIN.
-*   **Bearish/Weak:** HDFCBANK, ICICIBANK, and AXISBANK have broken below their opening lows; avoid long positions here.
-*   **Neutral:** POWERGRID, WIPRO, and INFY are currently trapped within their opening ranges. Wait for a clear breakout before taking action.
+### 🌐 Market Context
+The market is highly selective today. While major banking and IT stocks (like HDFCBANK, ICICIBANK, and INFY) are dragging or breaking downward, a few specific stocks are showing exceptionally strong buying interest and breaking out of their morning ranges.
 
 ---
 
 # 📈 Intraday Report — 2026-09-08
 
-> Auto-generated at **18:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
