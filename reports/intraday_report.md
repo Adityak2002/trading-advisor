@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+Here is your high-level, actionable summary of the trading report for **September 8, 2026**:
 
-### 📈 Market Overview
-* **A Split Market:** Today’s market showed a clear divide. While major
+### 📈 Market Context
+The market is highly selective today. While heavy
 
 ---
 
 # 📈 Intraday Report — 2026-09-08
 
-> Auto-generated at **15:54 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:18 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -28,7 +28,7 @@ Here is your high-level, actionable summary of the trading report:
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
 | **ADANIENT.NS** | ₹2,953.10 | 🔼 Broken Out 🔼 | 29.8/100 | 66 | ✅ Yes | 2.0× | — |
 | **TMPV.NS** | ₹306.45 | 🔼 Broken Out 🔼 | 25.8/100 | 86 | ✅ Yes | 2.5× | — |
-| **SBIN.NS** | ₹1,007.90 | 🔼 Broken Out 🔼 | 20.6/100 | 50 | ✅ Yes | 1.5× | — |
+| **SBIN.NS** | ₹1,008.00 | 🔼 Broken Out 🔼 | 20.6/100 | 52 | ✅ Yes | 1.4× | — |
 | **POWERGRID.NS** | ₹265.75 | ▶ Inside Range ▶ | 3.6/100 | 47 | ✅ Yes | — | — |
 | **WIPRO.NS** | ₹171.50 | ▶ Inside Range ▶ | -3.2/100 | 55 | ❌ No | — | — |
 | **INFY.NS** | ₹1,082.00 | ▶ Inside Range ▶ | -3.4/100 | 46 | ❌ No | — | — |
@@ -53,7 +53,7 @@ Here is your high-level, actionable summary of the trading report:
 |--------|--------------|--------------|-------------|----------|----------------------|
 | ADANIENT.NS | ₹2,953.10 | ₹2938.80 | ₹2918.10 | 66.0 | 🟢 Yes |
 | TMPV.NS | ₹306.45 | ₹305.85 | ₹302.50 | 86.4 | 🟢 Yes |
-| SBIN.NS | ₹1,007.90 | ₹1006.20 | ₹1002.50 | 50.0 | 🟢 Yes |
+| SBIN.NS | ₹1,008.00 | ₹1006.20 | ₹1002.50 | 52.5 | 🟢 Yes |
 | POWERGRID.NS | ₹265.75 | ₹266.30 | ₹265.15 | 47.0 | 🟢 Yes |
 | WIPRO.NS | ₹171.50 | ₹172.65 | ₹171.55 | 54.7 | 🔴 No |
 | INFY.NS | ₹1,082.00 | ₹1090.80 | ₹1079.00 | 45.6 | 🔴 No |
