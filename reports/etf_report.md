@@ -2,19 +2,19 @@
 
 Here is your high-level, actionable summary of today’s trading report:
 
-### 🌍 Market Context: Proceed with Caution
-* **Overall Signal:** 🟡 **Mildly Bullish** but mixed. 
-* **The Good:** Market fear is very low (India VIX is at a calm 11.17), which means we can deploy full position sizes when the right setups appear. A rising US Dollar and surging Crude Oil ($94.32) are positive drivers for international and energy-themed ETFs.
-* **The Bad:** The domestic market is dragging, with the Nifty 50 down **-0.54%**. 
+### 🌍 Market Context: **Proceed with Caution** 🟡
+* **Domestic Cool-off:** The Indian market (Nifty 50) is down slightly (-0.33%), following negative overnight cues from the US markets.
+* **Low Fear Environment:** The India VIX (Volatility Index) rose slightly to 11.59 but remains very low. This means there is no panic in the market, allowing us to deploy full position sizes when setups appear.
+* **Macro Tailwinds:** A rising US Dollar (USD/INR at 95.06) benefits international ETFs, while rising Crude Oil ($94.45) is bullish for energy-related assets.
+
+### 🎯 Entry Candidates: **Patience Required (No Immediate Buys)**
+No ETFs currently meet the strict criteria (Score of 40+ required) to trigger a buy. Keep your capital in cash and monitor these close contenders:
+* **AUTOBEES.NS (Score: 23.2):** Highly oversold (RSI is at a very cheap 19), but it is currently blocked because it is trading below
 
 ---
 
-### 🎯 Entry Candidates: No Immediate Buys (Patience Required
-
----
-
-# 📊 ETF/MF Daily Report — 2026-09-08
-> *Auto-generated at 13:26 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-09-09
+> *Auto-generated at 13:29 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
@@ -24,19 +24,19 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,649.75 | 📉 -0.54% |
-| India VIX | 11.17 | 📈 +0.09% |
-| S&P 500 (overnight) | 7,718.60 | 📉 -0.38% |
-| NASDAQ | 26,506.99 | 📉 -0.29% |
-| WTI Crude Oil | $94.32 | 📈 +3.10% |
-| USD / INR | 94.7375 | 📈 +0.33% |
+| Nifty 50 | 23,556.10 | 📉 -0.33% |
+| India VIX | 11.59 | 📈 +3.18% |
+| S&P 500 (overnight) | 7,673.52 | 📉 -0.58% |
+| NASDAQ | 26,421.41 | 📉 -0.32% |
+| WTI Crude Oil | $94.45 | 📈 +1.53% |
+| USD / INR | 95.0650 | 📈 +0.61% |
 
 **Key Factors:**
-- VIX 11.2 — Low fear 🟢 (full sizing)
-- S&P 500 -0.38% — Neutral
-- Nifty -0.54% — Domestic market bearish
-- WTI Crude $94.32 (+3.10%) — Bullish for OILIETF 📈
-- USD/INR 94.74 (+0.325%) — Dollar rising → intl ETFs gain in INR terms 📈
+- VIX 11.6 — Low fear 🟢 (full sizing)
+- S&P 500 -0.58% — Negative overnight cues 📉
+- Nifty -0.33% — Domestic market bearish
+- WTI Crude $94.45 (+1.53%) — Bullish for OILIETF 📈
+- USD/INR 95.06 (+0.607%) — Dollar rising → intl ETFs gain in INR terms 📈
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -64,11 +64,11 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| UNIONBANK.NS | 35.8 | RSI=42 (need <38) · VolZ=-1.4 (need ≥1.5) · Score=36 (need ≥40) |
-| AUTOBEES.NS | 25.8 | Below EMA50 · VolZ=-0.7 (need ≥1.5) · Score=26 (need ≥40) |
-| ITETF.NS | 24.5 | RSI=47 (need <38) · Below EMA50 · VolZ=-1.5 (need ≥1.5) · Score=24 (need ≥40) |
-| NIFTYIETF.NS | 24.2 | RSI=52 (need <38) · Below EMA50 · VolZ=-0.5 (need ≥1.5) · Score=24 (need ≥40) |
-| PSUBNKBEES.NS | 17.0 | Below EMA50 · VolZ=-0.9 (need ≥1.5) · Score=17 (need ≥40) |
+| AUTOBEES.NS | 23.2 | Below EMA50 · VolZ=-0.9 (need ≥1.5) · Score=23 (need ≥40) |
+| UNIONBANK.NS | 16.8 | RSI=47 (need <38) · VolZ=-1.0 (need ≥1.5) · Score=17 (need ≥40) |
+| ITETF.NS | 13.8 | Below EMA50 · Score=14 (need ≥40) |
+| BANKBEES.NS | 9.5 | RSI=41 (need <38) · Below EMA50 · VolZ=-1.0 (need ≥1.5) · Score=10 (need ≥40) |
+| PSUBNKBEES.NS | 8.2 | Below EMA50 · VolZ=-1.2 (need ≥1.5) · Score=8 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -80,28 +80,28 @@ Here is your high-level, actionable summary of today’s trading report:
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | UNIONBANK.NS | 35.8 | 42 | 🟢 | -1.4 | -3.4% | 👀 Watch |
-| 2 | AUTOBEES.NS | 25.8 | 18 | 🔴 | -0.7 | -6.8% | 👀 Watch |
-| 3 | ITETF.NS | 24.5 | 47 | 🟢 | -1.5 | -5.6% | 👀 Watch |
-| 4 | NIFTYIETF.NS | 24.2 | 52 | 🟢 | -0.5 | -2.8% | 👀 Watch |
-| 5 | PSUBNKBEES.NS | 17.0 | 34 | 🔴 | -0.9 | -6.6% | ⏸ Skip |
-| 6 | BANKBEES.NS | 12.0 | 40 | 🔴 | -1.4 | -2.7% | ⏸ Skip |
-| 7 | JUNIORBEES.NS | 11.8 | 31 | 🔴 | -0.9 | -2.4% | ⏸ Skip |
-| 8 | IRFC.NS | 10.8 | 27 | 🔴 | -1.6 | -23.3% | ⏸ Skip |
-| 9 | CANBK.NS | 5.8 | 32 | 🔴 | -1.5 | -11.7% | ⏸ Skip |
-| 10 | BANKBARODA.NS | 5.8 | 31 | 🔴 | -0.9 | -17.9% | ⏸ Skip |
-| 11 | OILIETF.NS | 5.7 | 35 | 🔴 | -0.9 | -6.1% | ⏸ Skip |
-| 12 | HNGSNGBEES.NS | 5.5 | 31 | 🔴 | -1.0 | -15.9% | ⏸ Skip |
-| 13 | RECLTD.NS | 5.5 | 29 | 🔴 | -1.1 | -16.3% | ⏸ Skip |
-| 14 | RVNL.NS | 0.5 | 31 | 🔴 | -1.4 | -32.3% | ⏸ Skip |
-| 15 | PHARMABEES.NS | -2.8 | 67 | 🟢 | -1.9 | -0.4% | ⏸ Skip |
-| 16 | MAFANG.NS | -3.8 | 77 | 🟢 | 2.8 | 0.0% | ⏸ Skip |
-| 17 | NHPC.NS | -3.8 | 44 | 🔴 | -0.3 | -11.8% | ⏸ Skip |
-| 18 | TATAPOWER.NS | -5.8 | 37 | 🔴 | -1.2 | -20.6% | ⏸ Skip |
-| 19 | IREDA.NS | -6.8 | 42 | 🔴 | -1.1 | -20.2% | ⏸ Skip |
-| 20 | SUZLON.NS | -6.8 | 38 | 🔴 | -1.3 | -23.5% | ⏸ Skip |
-| 21 | HDFCAMC.NS | -6.8 | 43 | 🔴 | -1.5 | -12.7% | ⏸ Skip |
-| 22 | ABFRL.NS | -12.0 | 38 | 🔴 | -1.4 | -22.9% | ⏸ Skip |
+| 1 | AUTOBEES.NS | 23.2 | 19 | 🔴 | -0.9 | -6.9% | 👀 Watch |
+| 2 | UNIONBANK.NS | 16.8 | 47 | 🟢 | -1.0 | -3.0% | ⏸ Skip |
+| 3 | ITETF.NS | 13.8 | 37 | 🔴 | 2.3 | -8.7% | ⏸ Skip |
+| 4 | BANKBEES.NS | 9.5 | 41 | 🔴 | -1.0 | -2.9% | ⏸ Skip |
+| 5 | PSUBNKBEES.NS | 8.2 | 37 | 🔴 | -1.2 | -6.5% | ⏸ Skip |
+| 6 | HNGSNGBEES.NS | 8.2 | 31 | 🔴 | -0.8 | -16.4% | ⏸ Skip |
+| 7 | PHARMABEES.NS | 8.0 | 59 | 🟢 | -1.8 | -0.9% | ⏸ Skip |
+| 8 | BANKBARODA.NS | 7.8 | 32 | 🔴 | 0.7 | -17.7% | ⏸ Skip |
+| 9 | IRFC.NS | 3.0 | 30 | 🔴 | -1.5 | -23.4% | ⏸ Skip |
+| 10 | RVNL.NS | -2.0 | 32 | 🔴 | -1.0 | -32.5% | ⏸ Skip |
+| 11 | CANBK.NS | -2.0 | 33 | 🔴 | -1.7 | -11.1% | ⏸ Skip |
+| 12 | ABFRL.NS | -2.0 | 34 | 🔴 | -1.3 | -23.8% | ⏸ Skip |
+| 13 | MAFANG.NS | -2.5 | 81 | 🟢 | 3.4 | 0.0% | ⏸ Skip |
+| 14 | JUNIORBEES.NS | -3.2 | 41 | 🔴 | -0.7 | -2.2% | ⏸ Skip |
+| 15 | RECLTD.NS | -8.2 | 37 | 🔴 | -1.9 | -16.1% | ⏸ Skip |
+| 16 | HDFCAMC.NS | -9.2 | 42 | 🔴 | -1.5 | -13.1% | ⏸ Skip |
+| 17 | OILIETF.NS | -11.4 | 42 | 🔴 | -0.8 | -5.8% | ⏸ Skip |
+| 18 | NIFTYIETF.NS | -11.5 | 41 | 🔴 | 0.1 | -3.1% | ⏸ Skip |
+| 19 | SUZLON.NS | -11.5 | 40 | 🔴 | -0.3 | -22.8% | ⏸ Skip |
+| 20 | IREDA.NS | -14.5 | 42 | 🔴 | -1.1 | -20.0% | ⏸ Skip |
+| 21 | NHPC.NS | -17.5 | 51 | 🔴 | 0.6 | -10.1% | ⏸ Skip |
+| 22 | TATAPOWER.NS | -22.0 | 46 | 🔴 | -0.5 | -19.2% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -109,6 +109,6 @@ Here is your high-level, actionable summary of today’s trading report:
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-08 13:26 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-09 13:29 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
