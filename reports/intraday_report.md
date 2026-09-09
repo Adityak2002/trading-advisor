@@ -2,17 +2,14 @@
 
 Here is a high-level, actionable summary of the trading report for **September 9, 2026**:
 
-### 📈 Market Context
-* **Highly Consolidated Market:** The market is mostly quiet and range-bound today. Out of the 12 monitored stocks, 9 are stuck inside their opening ranges, 2 have broken down (HDFCBANK, BAJFINANCE), and only 1 has broken out to the upside. 
-
-### 🎯 Entry Candidates
-* **No Active Buy Signals:** There are currently **zero** active trades. The system is patiently waiting for
+### 📊 Market Context: Subdued & Range-Bound
+* **
 
 ---
 
 # 📈 Intraday Report — 2026-09-09
 
-> Auto-generated at **18:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
