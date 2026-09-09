@@ -1,28 +1,14 @@
 # 🤖 Gemini AI Insights
 
-### **Market Summary: September 9, 2026**
+Here is a high-level, actionable summary of the trading report for **September 9, 2026**:
 
-The market is currently showing a **"Wait-and-Watch" sentiment**. Most major stocks are trapped within their initial 15-minute opening ranges, indicating a lack of clear direction for the day.
-
-#### **📈 Market Context**
-*   **Neutral to Bearish Bias:** Out of the 12 tracked stocks, 9 are stuck "Inside Range," and 2 (HDFCBANK, BAJFINANCE) have broken down below their morning lows.
-*   **Low Volatility:** Most tickers are trading below their average prices, suggesting a lack of aggressive buying interest across the board.
-
-#### **🔍 Top Entry Candidates**
-*   **ADANIENT.NS (The Lone Mover):** This is the only stock that successfully broke above its opening high (₹2,995.90). 
-    *   **Status:** While the price is up, the **Volume Surge (1.2x)** is currently below our **1.8x requirement**. 
-    *   **Action:** Keep it on the watchlist, but do not enter until buying volume spikes significantly.
-*   **SBIN.NS & TCS.NS:** These are hovering near their breakout levels but lack the momentum to push through. No action is required yet.
-
-#### **⚠️ Critical Warnings & Exits**
-*   **No Trade Zone:** As of 16:03 IST, the market is closed. All positions should have been **auto-squared off at 15:10 IST** per the strategy rules.
-*   **Avoid Weakness:** **HDFCBANK** and
+### 🌐 Market Context: Range-Bound & Quiet
 
 ---
 
 # 📈 Intraday Report — 2026-09-09
 
-> Auto-generated at **16:03 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
