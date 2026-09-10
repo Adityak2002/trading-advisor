@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+Here is a high-level, actionable summary of the trading report for **September 10, 2026**:
 
-### 📈 Market Context
-* **Mixed-to-Bearish Sentiment:** The market showed weakness today. Major heavyweights like
+### 🌐 Market Context
+* **Mixed & Cautious
 
 ---
 
 # 📈 Intraday Report — 2026-09-10
 
-> Auto-generated at **15:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -31,13 +31,13 @@ Here is your high-level, actionable summary of the trading report:
 | **BAJFINANCE.NS** | ₹1,043.50 | ▶ Inside Range ▶ | 11.1/100 | 59 | ✅ Yes | — | — |
 | **SBIN.NS** | ₹1,009.70 | ▶ Inside Range ▶ | 11.0/100 | 69 | ✅ Yes | — | — |
 | **INFY.NS** | ₹1,036.50 | ▶ Inside Range ▶ | 7.8/100 | 70 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,204.10 | ▶ Inside Range ▶ | 2.0/100 | 60 | ❌ No | — | — |
+| **ICICIBANK.NS** | ₹1,384.50 | ▶ Inside Range ▶ | 1.7/100 | 55 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,274.00 | 🔽 Broken Down 🔽 | 0.4/100 | 60 | ✅ Yes | 3.0× | — |
 | **ADANIENT.NS** | ₹3,077.20 | 🔽 Broken Down 🔽 | 0.4/100 | 54 | ✅ Yes | 3.6× | — |
-| **AXISBANK.NS** | ₹1,246.00 | ▶ Inside Range ▶ | -3.5/100 | 49 | ❌ No | — | — |
-| **TCS.NS** | ₹2,194.80 | ▶ Inside Range ▶ | -6.6/100 | 46 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,268.70 | 🔽 Broken Down 🔽 | -10.6/100 | 37 | ❌ No | 3.2× | — |
+| **AXISBANK.NS** | ₹1,246.00 | ▶ Inside Range ▶ | -3.5/100 | 46 | ❌ No | — | — |
+| **WIPRO.NS** | ₹166.30 | ▶ Inside Range ▶ | -6.0/100 | 47 | ❌ No | — | — |
 | **TMPV.NS** | ₹300.50 | 🔽 Broken Down 🔽 | -19.6/100 | 36 | ❌ No | 1.5× | — |
-| **ICICIBANK.NS** | ₹1,377.70 | 🔽 Broken Down 🔽 | -23.6/100 | 35 | ❌ No | 0.6× | — |
-| **WIPRO.NS** | ₹166.11 | 🔽 Broken Down 🔽 | -26.8/100 | 39 | ❌ No | 0.8× | — |
 
 ---
 
@@ -56,7 +56,7 @@ Here is your high-level, actionable summary of the trading report:
 | BAJFINANCE.NS | ₹1,043.50 | ₹1043.60 | ₹1036.80 | 59.0 | 🟢 Yes |
 | SBIN.NS | ₹1,009.70 | ₹1011.70 | ₹1002.00 | 69.0 | 🟢 Yes |
 | INFY.NS | ₹1,036.50 | ₹1040.00 | ₹1027.80 | 70.3 | 🟢 Yes |
-| AXISBANK.NS | ₹1,246.00 | ₹1252.90 | ₹1243.80 | 49.4 | 🔴 No |
+| TCS.NS | ₹2,204.10 | ₹2220.50 | ₹2196.80 | 60.2 | 🔴 No |
 
 ---
 
