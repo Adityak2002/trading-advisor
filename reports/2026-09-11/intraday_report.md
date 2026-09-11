@@ -1,30 +1,13 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-11
-
-The market is showing selective strength, with several high-momentum stocks clearing their opening ranges. However, volume confirmation remains inconsistent across the board.
-
-#### **🚀 Top Entry Candidates**
-*   **ADANIENT.NS:** The strongest candidate. It has broken the opening high with a massive **3.2× volume surge**, signaling high conviction.
-*   **BAJFINANCE.NS:** A solid secondary play. It has cleared the opening range with a **2.0× volume surge** and strong momentum (72).
-
-#### **⚠️ Critical Warnings & Risk Management**
-*   **Volume Filter:** While many stocks show "Broken Out" status, most lack the required 1.8× volume surge. **Do not chase** breakouts that lack volume support.
-*   **Strict Risk Cap:** You are limited to a **maximum of 2 trades** simultaneously. Do not over-leverage.
-*   **Hard Stop-Loss:** If a trade hits the -0.4% stop-loss, exit immediately. Never "hope" for a reversal.
-*   **Auto-Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Trailing Rule:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
-
-#### **💡 Action Plan**
-1.  **Monitor:** Focus exclusively on **ADANIENT** and **BAJFINANCE**.
-2.  **Wait:** If the price pulls back into the opening range, wait for a secondary breakout signal.
-3.  **Execute:** Only enter if the volume remains high at the moment of the breakout.
+(2% of capital) to protect your ₹5,000 pot.
+        *   **Strict Cutoff**: All positions *must* be closed by **15:1
 
 ---
 
 # 📈 Intraday Report — 2026-09-11
 
-> Auto-generated at **17:22 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
