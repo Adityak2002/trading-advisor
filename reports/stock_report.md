@@ -2,40 +2,43 @@
 
 Here is your high-level, actionable summary of the trading report for **September 11, 2026**:
 
-### 🌍 Market Context: Cautious & Weakening
-* **Overall Signal:** 🟡 **Mildly Bullish but Cautious.** While long-term fear remains low (VIX is at a comfortable 12.29), short-term indicators suggest weakness.
-* **Domestic & Global Drag:** The Indian market (Nifty 50 down 0.34%) and US overnight markets (S&P 500 down 0.58%) are both pulling back. 
-* **Currency Impact:** The US Dollar is strengthening against the Rupee (+0.45%), which generally pressures domestic equities.
+### 🌍 Market Context: Mixed Signals
+* **Global is Green, Domestic is Red:** While US markets rallied overnight (S&P 500 +1.07%) and fear is low (VIX at a calm 12.29), the Indian market slipped, with the **Nifty 50 down -0.34%**.
+* **The Trend Filter:** Crucially, the Nifty is currently trading below its 20-day Exponential Moving Average (20-EMA). In simple terms, the short-term momentum of the Indian market is currently **bearish**, which acts as a safety brake for our strategy.
 
-### 🎯 Entry Candidates: No Immediate Buys (Patience Required)
-There are **no active buy signals** today. The system is keeping your capital 100% safe in cash. However, two strong stocks are primed and waiting for the market to stabilize:
-* **CDSL (Score: 84.0):** Highly rated and
+---
+
+### 🎯 Entry Candidates: On Standby
+There are **no active buy signals today** because the weak domestic market is blocking new entries. However, two high-quality stocks are primed and waiting for the market to turn around:
+
+* **CDSL (Score:
 
 ---
 
 # 📈 Stock Delivery Report — 2026-09-11
-> *Auto-generated at 17:57 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 19:31 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
 | Nifty 50 | 23,398.10 | 📉 -0.34% |
 | India VIX | 12.29 | 📈 +4.11% |
-| S&P 500 (overnight) | 7,591.70 | 📉 -0.58% |
-| NASDAQ | 26,081.72 | 📉 -0.65% |
-| WTI Crude Oil | $99.26 | 📉 -3.14% |
+| S&P 500 (overnight) | 7,672.92 | 📈 +1.07% |
+| NASDAQ | 26,396.38 | 📈 +1.21% |
+| WTI Crude Oil | $99.09 | 📉 -3.31% |
 | USD / INR | 95.5400 | 📈 +0.45% |
 
 **Key Factors:**
 - VIX 12.3 — Low fear 🟢 (full sizing)
-- S&P 500 -0.58% — Negative overnight cues 📉
+- S&P 500 +1.07% — Positive overnight cues 📈
+- NASDAQ +1.21% — Tech bullish (N100/MAFANG +ve)
 - Nifty -0.34% — Domestic market bearish
-- WTI Crude $99.26 (-3.14%) — Bearish for OILIETF 📉
+- WTI Crude $99.09 (-3.31%) — Bearish for OILIETF 📉
 - USD/INR 95.54 (+0.450%) — Dollar rising → intl ETFs gain in INR terms 📈
 
 ---
@@ -65,16 +68,16 @@ There are **no active buy signals** today. The system is keeping your capital 10
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | -19.0 | RSI=39 (need 42–55) · Price -2.5% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-19 (need ≥50) |
-| HDFCBANK.NS | -58.0 | RSI=41 (need 42–55) · EMA21 < EMA50 · Price -0.9% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-58 (need ≥50) |
-| RELIANCE.NS | -66.0 | RSI=36 (need 42–55) · EMA21 < EMA50 · Price -3.0% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-66 (need ≥50) |
+| ICICIBANK.NS | -16.0 | RSI=39 (need 42–55) · Price -2.5% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-16 (need ≥50) |
+| HDFCBANK.NS | -55.0 | RSI=41 (need 42–55) · EMA21 < EMA50 · Price -0.9% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-55 (need ≥50) |
+| RELIANCE.NS | -63.0 | RSI=36 (need 42–55) · EMA21 < EMA50 · Price -3.0% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-63 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| CDSL.NS | 84.0 | Nifty below 20-EMA ❌ |
-| TITAN.NS | 66.0 | RSI=42 (need 42–55) · Nifty below 20-EMA ❌ |
-| ANGELONE.NS | 15.5 | RSI=62 (need 42–55) · EMA21 < EMA50 · Nifty below 20-EMA ❌ · Score=16 (need ≥50) |
+| CDSL.NS | 87.0 | Nifty below 20-EMA ❌ |
+| TITAN.NS | 69.0 | RSI=42 (need 42–55) · Nifty below 20-EMA ❌ |
+| ANGELONE.NS | 18.5 | RSI=62 (need 42–55) · EMA21 < EMA50 · Nifty below 20-EMA ❌ · Score=18 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -86,17 +89,17 @@ There are **no active buy signals** today. The system is keeping your capital 10
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | 84.0 | 43 | 🟢 | ✅ | -0.3 | 👀 Watch |
-| 2 | TITAN.NS | 66.0 | 42 | 🟢 | ✅ | -0.5 | 👀 Watch |
-| 3 | ANGELONE.NS | 15.5 | 62 | 🔴 | ✅ | -0.1 | ⏸ Skip |
-| 4 | ICICIBANK.NS | -19.0 | 39 | 🟢 | — | -0.6 | ⏸ Skip |
-| 5 | PIDILITIND.NS | -27.0 | 32 | 🟢 | — | -0.8 | ⏸ Skip |
-| 6 | BAJFINANCE.NS | -31.0 | 28 | 🟢 | — | 0.4 | ⏸ Skip |
-| 7 | HDFCBANK.NS | -58.0 | 41 | 🔴 | — | 0.3 | ⏸ Skip |
-| 8 | RELIANCE.NS | -66.0 | 36 | 🔴 | — | -0.3 | ⏸ Skip |
-| 9 | KEI.NS | -73.0 | 25 | 🔴 | — | 0.9 | ⏸ Skip |
-| 10 | POLYCAB.NS | -76.0 | 29 | 🔴 | — | -0.0 | ⏸ Skip |
-| 11 | HAVELLS.NS | -76.0 | 14 | 🔴 | — | -0.3 | ⏸ Skip |
+| 1 | CDSL.NS | 87.0 | 43 | 🟢 | ✅ | -0.3 | 👀 Watch |
+| 2 | TITAN.NS | 69.0 | 42 | 🟢 | ✅ | -0.5 | 👀 Watch |
+| 3 | ANGELONE.NS | 18.5 | 62 | 🔴 | ✅ | -0.1 | ⏸ Skip |
+| 4 | ICICIBANK.NS | -16.0 | 39 | 🟢 | — | -0.6 | ⏸ Skip |
+| 5 | PIDILITIND.NS | -24.0 | 32 | 🟢 | — | -0.8 | ⏸ Skip |
+| 6 | BAJFINANCE.NS | -28.0 | 28 | 🟢 | — | 0.4 | ⏸ Skip |
+| 7 | HDFCBANK.NS | -55.0 | 41 | 🔴 | — | 0.3 | ⏸ Skip |
+| 8 | RELIANCE.NS | -63.0 | 36 | 🔴 | — | -0.3 | ⏸ Skip |
+| 9 | KEI.NS | -70.0 | 25 | 🔴 | — | 0.9 | ⏸ Skip |
+| 10 | POLYCAB.NS | -73.0 | 29 | 🔴 | — | -0.0 | ⏸ Skip |
+| 11 | HAVELLS.NS | -73.0 | 14 | 🔴 | — | -0.3 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -113,6 +116,6 @@ There are **no active buy signals** today. The system is keeping your capital 10
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-11 17:57 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-11 19:31 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
