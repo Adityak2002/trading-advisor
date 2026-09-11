@@ -1,13 +1,13 @@
 # 🤖 Gemini AI Insights
 
-(2% of capital) to protect your ₹5,000 pot.
-        *   **Strict Cutoff**: All positions *must* be closed by **15:1
+HDFCBANK and AXISBANK broke out but lacked the required volume surge of 1.8x, so they are skipped).*
+    *   *Warnings/Ex
 
 ---
 
 # 📈 Intraday Report — 2026-09-11
 
-> Auto-generated at **18:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:47 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
