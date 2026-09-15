@@ -1,12 +1,15 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+Here is a high-level, actionable summary of today’s trading report:
+
+### 📉 Market Context: Highly Bearish
+* **Market-Wide Sell-Off:** The market is
 
 ---
 
 # 📈 Intraday Report — 2026-09-15
 
-> Auto-generated at **17:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
