@@ -1,26 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-15
+Here is a high-level, actionable summary of the trading report for **September 15, 2026**:
 
-The market is currently exhibiting **strong bearish sentiment**. Every stock on your watchlist has failed to hold its opening range, with all tickers currently trading below their opening lows.
-
-#### 🚀 Top Entry Candidates
-*   **None:** There are currently **zero active buy signals**. 
-*   **Watchlist:** **INFY.NS** is the only ticker currently "Inside Range" (consolidating). It is the primary candidate to monitor for a potential breakout if it manages to reclaim its opening high of ₹1,097.60.
-
-#### ⚠️ Critical Warnings & Status
-*   **Bearish Trend:** The entire watchlist has "Broken Down." Do not attempt to force long positions in this environment.
-*   **Volume Alert:** While **RELIANCE.NS** showed a significant volume surge (1.8×), it was on the downside, confirming selling pressure rather than a buying opportunity.
-*   **Risk Discipline:** Your strategy is strictly "Long Only." Since no stocks are meeting the criteria, **the best action is to remain in cash.**
-*   **Execution:** Do not trade until a stock breaks above its opening high with the required volume surge (≥1.8×).
-
-**Bottom Line:** The market is currently unfavorable for your Opening Price Breakout strategy. **Stay sidelined** and wait for a clear reversal or a breakout above the opening high in INFY.NS.
+### 📉 Market Context: Highly Bearish
+* **Widespread
 
 ---
 
 # 📈 Intraday Report — 2026-09-15
 
-> Auto-generated at **15:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:18 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -37,18 +26,18 @@ The market is currently exhibiting **strong bearish sentiment**. Every stock on 
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **INFY.NS** | ₹1,076.20 | ▶ Inside Range ▶ | -6.5/100 | 56 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹717.45 | 🔽 Broken Down 🔽 | -16.2/100 | 51 | ❌ No | 1.7× | — |
-| **ICICIBANK.NS** | ₹1,355.90 | 🔽 Broken Down 🔽 | -17.0/100 | 50 | ❌ No | 0.8× | — |
-| **POWERGRID.NS** | ₹264.35 | 🔽 Broken Down 🔽 | -19.6/100 | 38 | ❌ No | 1.2× | — |
-| **RELIANCE.NS** | ₹1,239.50 | 🔽 Broken Down 🔽 | -22.8/100 | 26 | ❌ No | 1.8× | — |
-| **SBIN.NS** | ₹972.40 | 🔽 Broken Down 🔽 | -22.8/100 | 24 | ❌ No | 1.1× | — |
-| **AXISBANK.NS** | ₹1,226.50 | 🔽 Broken Down 🔽 | -22.8/100 | 38 | ❌ No | 1.2× | — |
-| **ADANIENT.NS** | ₹2,929.20 | 🔽 Broken Down 🔽 | -22.8/100 | 23 | ❌ No | 1.2× | — |
-| **WIPRO.NS** | ₹169.76 | 🔽 Broken Down 🔽 | -23.2/100 | 41 | ❌ No | 0.8× | — |
-| **TMPV.NS** | ₹304.55 | 🔽 Broken Down 🔽 | -26.0/100 | 19 | ❌ No | 1.3× | — |
-| **BAJFINANCE.NS** | ₹1,009.80 | 🔽 Broken Down 🔽 | -26.8/100 | 37 | ❌ No | 0.7× | — |
-| **TCS.NS** | ₹2,262.90 | 🔽 Broken Down 🔽 | -30.0/100 | 29 | ❌ No | 0.3× | — |
+| **INFY.NS** | ₹1,077.00 | ▶ Inside Range ▶ | -6.1/100 | 54 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹716.55 | 🔽 Broken Down 🔽 | -19.2/100 | 48 | ❌ No | 1.6× | — |
+| **RELIANCE.NS** | ₹1,235.30 | 🔽 Broken Down 🔽 | -22.8/100 | 22 | ❌ No | 1.7× | — |
+| **SBIN.NS** | ₹968.00 | 🔽 Broken Down 🔽 | -22.8/100 | 21 | ❌ No | 1.0× | — |
+| **AXISBANK.NS** | ₹1,222.90 | 🔽 Broken Down 🔽 | -22.8/100 | 27 | ❌ No | 1.1× | — |
+| **ADANIENT.NS** | ₹2,928.60 | 🔽 Broken Down 🔽 | -22.8/100 | 22 | ❌ No | 1.2× | — |
+| **POWERGRID.NS** | ₹262.80 | 🔽 Broken Down 🔽 | -22.8/100 | 27 | ❌ No | 1.1× | — |
+| **WIPRO.NS** | ₹170.00 | 🔽 Broken Down 🔽 | -23.2/100 | 49 | ❌ No | 0.8× | — |
+| **ICICIBANK.NS** | ₹1,350.40 | 🔽 Broken Down 🔽 | -23.6/100 | 39 | ❌ No | 0.8× | — |
+| **TMPV.NS** | ₹303.60 | 🔽 Broken Down 🔽 | -26.0/100 | 20 | ❌ No | 1.3× | — |
+| **BAJFINANCE.NS** | ₹1,009.20 | 🔽 Broken Down 🔽 | -26.8/100 | 36 | ❌ No | 0.6× | — |
+| **TCS.NS** | ₹2,251.00 | 🔽 Broken Down 🔽 | -30.0/100 | 12 | ❌ No | 0.3× | — |
 
 ---
 
@@ -62,7 +51,7 @@ The market is currently exhibiting **strong bearish sentiment**. Every stock on 
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| INFY.NS | ₹1,076.20 | ₹1097.60 | ₹1077.20 | 56.4 | 🔴 No |
+| INFY.NS | ₹1,077.00 | ₹1097.60 | ₹1077.20 | 53.6 | 🔴 No |
 
 ---
 
