@@ -1,15 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is a high-level, actionable summary of today’s trading setup:
 
 ### 📉 Market Context: Highly Bearish
-* **Market-Wide Sell-Off:** The market is
+* **Strong Downward Bias:** The market is showing significant weakness today. Out of the 12 monitored stocks, 11 have broken down below their morning ranges, and **zero** stocks are trading above their average price. 
+* **No Bullish Momentum:** Action scores are deeply negative across the board, indicating that buyers are completely absent.
+
+### 🚫 Top Entry Candidates: None (Patience Required)
+* **No Active Buy Signals:** Because the strategy only buys when a stock breaks *above* its morning high on high volume, **there are no valid trades right now.**
+* **Only Stock to Watch:** **INFY.NS** is the only ticker still holding near its opening range. Keep an eye on it, but **do not buy** unless it breaks above ₹1,097.60 with
 
 ---
 
 # 📈 Intraday Report — 2026-09-15
 
-> Auto-generated at **18:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:41 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
