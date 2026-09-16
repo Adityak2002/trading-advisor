@@ -1,15 +1,13 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 16, 2026**:
-
-### 🌐 Market Context
-* **Mixed to Weak Sentiment:** The broader market showed weakness today. Major heavyweights like **Reliance, Adani Enterprises, and TCS** broke down below their morning opening ranges.
+** (no overnight holding).
+            *   **Strict Loss Limit:** Maximum loss is capped at **₹100 per trade** (2% of your ₹5,
 
 ---
 
 # 📈 Intraday Report — 2026-09-16
 
-> Auto-generated at **16:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:45 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
