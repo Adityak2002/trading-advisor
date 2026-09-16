@@ -1,13 +1,27 @@
 # 🤖 Gemini AI Insights
 
-** (no overnight holding).
-            *   **Strict Loss Limit:** Maximum loss is capped at **₹100 per trade** (2% of your ₹5,
+### 📊 Market Summary & Action Plan
+
+The market is currently showing a **bearish bias** across the majority of the watchlist, with most stocks breaking below their opening range. Despite the overall downward pressure, a few banking stocks are holding their ground, presenting the only potential opportunities for a long (buy) setup.
+
+#### 🎯 Top Entry Candidates (Watchlist)
+*   **SBIN.NS & HDFCBANK.NS:** These are the only stocks currently trading above their opening highs. 
+    *   *Note:* While they have broken out, they have **not yet met the required 1.8× volume surge** criteria. Monitor these closely; if volume spikes, they become valid entry candidates.
+*   **ICICIBANK.NS:** Currently consolidating inside the opening range. Keep this on your radar for a potential breakout if momentum continues to hold.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **Avoid "Falling Knives":** Do not attempt to buy stocks like RELIANCE, ADANIENT, or TCS. They have broken below their opening lows with significant volume—this indicates strong selling pressure.
+*   **Strict Volume Discipline:** Do not enter a trade unless the volume surge is **≥1.8× the average**. This is your primary filter to avoid "fake-out" breakouts.
+*   **Risk Cap:** You are limited to a **maximum loss of ₹100 per trade**. If a trade hits your -0.4% stop loss, exit immediately—do not hold and hope for a reversal.
+*   **Auto-Exit:** Ensure all positions are squared off by **15:10 IST**. No exceptions.
+
+**Bottom Line:** The market is currently favoring sellers. Stay patient, wait for the volume confirmation on the banking sector, and avoid chasing the stocks currently in a downtrend.
 
 ---
 
 # 📈 Intraday Report — 2026-09-16
 
-> Auto-generated at **17:45 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
