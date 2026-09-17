@@ -1,13 +1,15 @@
 # 🤖 Gemini AI Insights
 
-active trades. Lose no more than ₹100 per trade.
-        *   **No Volume, No Trade**: Do not chase breakouts (like TMPV) unless volume is at least 1
+Here is a high-level, actionable summary of the trading report for **September 17, 2026**:
+
+### 🌐 Market Context
+* **Waiting Game:** The market is currently in a consolidation phase. Most major stocks are trading quietly inside their morning ranges, and there are **no active buy signals** at this moment.
 
 ---
 
 # 📈 Intraday Report — 2026-09-17
 
-> Auto-generated at **18:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:38 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
