@@ -1,13 +1,13 @@
 # 🤖 Gemini AI Insights
 
-*: INFY (on the verge of breakout), TMPV (broken out but low volume).
-    *   *Warnings*: Strict ₹100 loss limit, 15:10 PM
+active trades. Lose no more than ₹100 per trade.
+        *   **No Volume, No Trade**: Do not chase breakouts (like TMPV) unless volume is at least 1
 
 ---
 
 # 📈 Intraday Report — 2026-09-17
 
-> Auto-generated at **17:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
