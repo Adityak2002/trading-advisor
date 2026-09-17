@@ -1,19 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level market summary and action plan for **September 17, 2026**:
+Here is your high-level, actionable summary of the trading report for **September 17, 2026**:
 
-### 🌍 Market Context
-*   **Mixed Signals:** While the Nifty is up slightly (**+0.28%**), it is technically trading below its 20-day moving average. This suggests the short-term trend is still fragile.
-*   **Low Fear:** The India VIX has dropped significantly (**-5.56%**), sitting at a calm 12.44. This indicates a lack of panic, making it a safe environment to deploy capital *if* the right setup appears.
-*   **Currency & Oil:** The Rupee remains weak (95.91), but falling Crude Oil prices (**-1.31%**) provide a neutral-to-positive cushion for Indian equities.
+### 🌍 Market Context: Green but Cautious
+* **Indian Market is Stable:** The Nifty 50 rose slightly (+0.23% to 23,270.60). 
+* **Fear is Low:** The India VIX dropped significantly (-6.68% to 12.29). Low volatility means it is safe to deploy full capital *when* a setup appears.
+* **Global Cues are Mixed:** US markets were slightly down overnight, and Crude Oil dropped (-1.63%), which is negative for oil-related stocks.
 
-### 🎯 Entry Candidates
-*   **No Active Buys:** There are **zero** stocks meeting the entry criteria today. The
+### 🎯 Entry Candidates: No Action Today (Patience Required)
+* **No Buy Signals:** There are **zero** active entry candidates today. 
+* **Why are we waiting?** Even though the market had a green day, our target stocks are still stuck in downtrends (trading below their 21-day and
 
 ---
 
 # 📈 Stock Delivery Report — 2026-09-17
-> *Auto-generated at 14:32 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 16:04 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -23,18 +24,18 @@ Here is your high-level market summary and action plan for **September 17, 2026*
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,281.85 | 📈 +0.28% |
-| India VIX | 12.44 | 📉 -5.56% |
+| Nifty 50 | 23,270.60 | 📈 +0.23% |
+| India VIX | 12.29 | 📉 -6.68% |
 | S&P 500 (overnight) | 7,551.81 | 📉 -0.45% |
 | NASDAQ | 25,978.43 | 📉 -0.01% |
-| WTI Crude Oil | $101.09 | 📉 -1.31% |
-| USD / INR | 95.9100 | 📉 -0.09% |
+| WTI Crude Oil | $100.76 | 📉 -1.63% |
+| USD / INR | 95.9300 | 📉 -0.07% |
 
 **Key Factors:**
-- VIX 12.4 — Low fear 🟢 (full sizing)
+- VIX 12.3 — Low fear 🟢 (full sizing)
 - S&P 500 -0.45% — Neutral
-- WTI Crude $101.09 (-1.31%) — Neutral for OILIETF
-- USD/INR 95.91 (-0.086%) — USD stable
+- WTI Crude $100.76 (-1.63%) — Bearish for OILIETF 📉
+- USD/INR 95.93 (-0.065%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -63,16 +64,16 @@ Here is your high-level market summary and action plan for **September 17, 2026*
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| HDFCBANK.NS | -44.0 | EMA21 < EMA50 · Price +0.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-44 (need ≥50) |
-| RELIANCE.NS | -70.0 | RSI=38 (need 42–55) · EMA21 < EMA50 · Price -2.7% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-70 (need ≥50) |
-| ICICIBANK.NS | -80.0 | RSI=29 (need 42–55) · EMA21 < EMA50 · Price -3.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-80 (need ≥50) |
+| HDFCBANK.NS | -38.0 | EMA21 < EMA50 · Price -0.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-38 (need ≥50) |
+| RELIANCE.NS | -64.0 | RSI=37 (need 42–55) · EMA21 < EMA50 · Price -2.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-64 (need ≥50) |
+| ICICIBANK.NS | -74.0 | RSI=28 (need 42–55) · EMA21 < EMA50 · Price -3.5% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-74 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| CDSL.NS | -19.0 | RSI=36 (need 42–55) · Price -1.3% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-19 (need ≥50) |
-| ANGELONE.NS | -26.0 | EMA21 < EMA50 · Price -0.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-26 (need ≥50) |
-| TITAN.NS | -29.0 | RSI=19 (need 42–55) · Price -2.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-29 (need ≥50) |
+| CDSL.NS | -19.0 | RSI=38 (need 42–55) · Price -0.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-19 (need ≥50) |
+| ANGELONE.NS | -26.0 | EMA21 < EMA50 · Price -0.4% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-26 (need ≥50) |
+| BAJFINANCE.NS | -29.0 | RSI=22 (need 42–55) · Price -3.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-29 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -84,17 +85,17 @@ Here is your high-level market summary and action plan for **September 17, 2026*
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | CDSL.NS | -19.0 | 36 | 🟢 | — | 0.2 | ⏸ Skip |
-| 2 | ANGELONE.NS | -26.0 | 50 | 🔴 | — | -0.7 | ⏸ Skip |
-| 3 | TITAN.NS | -29.0 | 19 | 🟢 | — | -0.4 | ⏸ Skip |
-| 4 | BAJFINANCE.NS | -35.0 | 21 | 🟢 | — | -0.7 | ⏸ Skip |
-| 5 | HDFCBANK.NS | -44.0 | 48 | 🔴 | — | -0.6 | ⏸ Skip |
-| 6 | RELIANCE.NS | -70.0 | 38 | 🔴 | — | -0.7 | ⏸ Skip |
-| 7 | POLYCAB.NS | -70.0 | 30 | 🔴 | — | -0.6 | ⏸ Skip |
-| 8 | PIDILITIND.NS | -70.0 | 38 | 🔴 | — | -1.0 | ⏸ Skip |
-| 9 | ICICIBANK.NS | -80.0 | 29 | 🔴 | — | -0.8 | ⏸ Skip |
-| 10 | KEI.NS | -80.0 | 21 | 🔴 | — | -0.8 | ⏸ Skip |
-| 11 | HAVELLS.NS | -80.0 | 15 | 🔴 | — | -0.6 | ⏸ Skip |
+| 1 | CDSL.NS | -19.0 | 38 | 🟢 | — | 0.5 | ⏸ Skip |
+| 2 | ANGELONE.NS | -26.0 | 49 | 🔴 | — | -0.7 | ⏸ Skip |
+| 3 | BAJFINANCE.NS | -29.0 | 22 | 🟢 | — | 0.1 | ⏸ Skip |
+| 4 | TITAN.NS | -29.0 | 20 | 🟢 | — | 0.1 | ⏸ Skip |
+| 5 | HDFCBANK.NS | -38.0 | 47 | 🔴 | — | -0.4 | ⏸ Skip |
+| 6 | RELIANCE.NS | -64.0 | 37 | 🔴 | — | -0.4 | ⏸ Skip |
+| 7 | PIDILITIND.NS | -70.0 | 37 | 🔴 | — | -0.7 | ⏸ Skip |
+| 8 | ICICIBANK.NS | -74.0 | 28 | 🔴 | — | -0.2 | ⏸ Skip |
+| 9 | POLYCAB.NS | -74.0 | 28 | 🔴 | — | -0.5 | ⏸ Skip |
+| 10 | HAVELLS.NS | -74.0 | 15 | 🔴 | — | -0.4 | ⏸ Skip |
+| 11 | KEI.NS | -80.0 | 22 | 🔴 | — | -0.7 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -111,6 +112,6 @@ Here is your high-level market summary and action plan for **September 17, 2026*
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-17 14:32 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-17 16:04 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
