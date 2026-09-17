@@ -1,13 +1,13 @@
 # 🤖 Gemini AI Insights
 
-🚀 **Market Context: A Patient, No-Trade Day**
-    *   Use clear bullet points.
+*: INFY (on the verge of breakout), TMPV (broken out but low volume).
+    *   *Warnings*: Strict ₹100 loss limit, 15:10 PM
 
 ---
 
 # 📈 Intraday Report — 2026-09-17
 
-> Auto-generated at **16:17 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
