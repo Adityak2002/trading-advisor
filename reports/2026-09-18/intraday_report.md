@@ -2,35 +2,36 @@
 
 ### 📊 Market Summary: 2026-09-18
 
-The market is showing strong bullish momentum, with several key stocks breaking above their opening range. However, despite the breakouts, **no trades were executed** as the strict volume criteria (≥1.8× average) were not met for most candidates.
+The market is showing strong bullish momentum, with several key stocks breaking above their opening ranges. However, despite the breakouts, the system has flagged **zero active entry signals** at this time, suggesting that while price action is positive, volume confirmation is currently lacking for most candidates.
 
 ---
 
-### 🚀 Top Entry Candidates
-*Watch these closely if volume spikes above the 1.8× threshold:*
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are showing strong momentum. Monitor these for a potential volume surge to trigger an entry:
 
-*   **WIPRO.NS:** Strongest momentum (86.8) with a significant volume surge (28.2×). This is your primary candidate.
-*   **AXISBANK.NS:** High momentum (72.6) and massive volume (27.7×). A prime breakout setup.
-*   **POWERGRID.NS:** Solid momentum (88.5) and healthy volume (1.6×). Keep on radar for a volume confirmation.
+*   **WIPRO.NS:** Highest momentum score (86.8); currently trading above its opening high.
+*   **POWERGRID.NS:** Strong momentum (88.5) and holding well above the opening range.
+*   **AXISBANK.NS:** Solid momentum (72.6) with a clean breakout above the opening high.
+*   **SBIN.NS:** Steady performance with momentum at 72.2.
 
 ---
 
 ### ⚠️ Critical Warnings & Rules
-*   **Volume is King:** Do not enter a trade just because the price broke the high. **Wait for the 1.8× volume surge** to confirm institutional interest.
-*   **Strict Risk Cap:** Max loss is **₹100 per trade**. If the price hits your stop loss, exit immediately—no exceptions.
-*   **Position Limit:** Never hold more than **2 active trades** simultaneously.
+*   **Volume is Key:** Do not enter a trade unless you see a **volume surge (≥1.8× average)**. A breakout without volume is a "fake-out."
+*   **Strict Risk Cap:** Limit your loss to **₹100 per trade**. If the price hits your stop loss, exit immediately—do not hope for a reversal.
+*   **Position Limit:** Do not hold more than **2 trades** simultaneously.
 *   **Auto-Exit:** All positions must be closed by **15:10 IST**. Do not carry any positions overnight.
-*   **Trailing Stop:** Once you hit +0.5% profit, move your stop loss to breakeven to protect your capital.
+*   **Trailing Stop:** Once a trade hits **+0.5% profit**, move your stop loss to your entry price (breakeven) to protect your capital.
 
 ---
 
-**Analyst Note:** The market is currently in a "wait and see" phase. The high volume on AXISBANK and WIPRO suggests potential, but patience is required to ensure the breakout is genuine before deploying your ₹5,000 capital.
+**Action Plan:** Stay patient. Wait for the volume spike on the top candidates before executing. If the volume doesn't materialize, stay on the sidelines.
 
 ---
 
 # 📈 Intraday Report — 2026-09-18
 
-> Auto-generated at **18:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -48,7 +49,7 @@ The market is showing strong bullish momentum, with several key stocks breaking 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
 | **AXISBANK.NS** | ₹1,257.00 | 🔼 Broken Out 🔼 | 31.9/100 | 73 | ✅ Yes | 27.7× | — |
-| **WIPRO.NS** | ₹166.83 | 🔼 Broken Out 🔼 | 27.5/100 | 87 | ✅ Yes | 28.2× | — |
+| **WIPRO.NS** | ₹166.83 | 🔼 Broken Out 🔼 | 27.5/100 | 87 | ✅ Yes | 28.5× | — |
 | **ADANIENT.NS** | ₹3,020.00 | 🔼 Broken Out 🔼 | 21.9/100 | 68 | ✅ Yes | 0.9× | — |
 | **POWERGRID.NS** | ₹270.30 | 🔼 Broken Out 🔼 | 17.9/100 | 88 | ✅ Yes | 1.6× | — |
 | **SBIN.NS** | ₹996.20 | 🔼 Broken Out 🔼 | 16.1/100 | 72 | ✅ Yes | 0.8× | — |
