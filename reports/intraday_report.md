@@ -1,13 +1,36 @@
 # 🤖 Gemini AI Insights
 
-Loss Limit**: Maximum loss is capped at ₹100 per trade (2% of your ₹5,000 capital).
-        *   **Limit Your Trades**: Maximum of 2 active
+### 📊 Market Summary: 2026-09-18
+
+The market is showing strong bullish momentum, with several key stocks breaking above their opening range. However, despite the breakouts, **no trades were executed** as the strict volume criteria (≥1.8× average) were not met for most candidates.
+
+---
+
+### 🚀 Top Entry Candidates
+*Watch these closely if volume spikes above the 1.8× threshold:*
+
+*   **WIPRO.NS:** Strongest momentum (86.8) with a significant volume surge (28.2×). This is your primary candidate.
+*   **AXISBANK.NS:** High momentum (72.6) and massive volume (27.7×). A prime breakout setup.
+*   **POWERGRID.NS:** Solid momentum (88.5) and healthy volume (1.6×). Keep on radar for a volume confirmation.
+
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not enter a trade just because the price broke the high. **Wait for the 1.8× volume surge** to confirm institutional interest.
+*   **Strict Risk Cap:** Max loss is **₹100 per trade**. If the price hits your stop loss, exit immediately—no exceptions.
+*   **Position Limit:** Never hold more than **2 active trades** simultaneously.
+*   **Auto-Exit:** All positions must be closed by **15:10 IST**. Do not carry any positions overnight.
+*   **Trailing Stop:** Once you hit +0.5% profit, move your stop loss to breakeven to protect your capital.
+
+---
+
+**Analyst Note:** The market is currently in a "wait and see" phase. The high volume on AXISBANK and WIPRO suggests potential, but patience is required to ensure the breakout is genuine before deploying your ₹5,000 capital.
 
 ---
 
 # 📈 Intraday Report — 2026-09-18
 
-> Auto-generated at **17:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
