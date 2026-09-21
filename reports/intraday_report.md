@@ -1,18 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report as of **14:59 IST**:
+### 📊 Market Executive Summary: Sept 21, 2026
 
-### ⏰ Market Context & Urgent Timing Warning
-* **The Clock is Ticking:** There are only **11 minutes left** before the hard auto-square-off deadline at **15:10 IST**. 
-* **No New Trades:** Although the strategy monitors breakouts, **do not open any new positions** this late in the trading session. The risk of getting caught in end-of-day volatility is extremely high.
+The market is showing a **bullish bias** among heavyweights, with several "Blue Chip" stocks successfully breaking above their opening 15-minute ranges. However, as of **15:51 IST**, the trading window for this specific strategy has officially closed.
 
-### 📈
+#### 📈 Market Context & Sentiment
+*   **Bullish Momentum:** Major players like **RELIANCE**, **SBIN**, and **TCS** successfully broke their morning highs with significant volume, indicating strong institutional interest.
+*   **Sector Divergence:** While Energy and Banking showed strength, the Adani group (**ADANIENT**) and **BAJFINANCE** faced selling pressure, breaking below their opening lows.
+*   **Volume Validation:** High volume surges (2.0x+) in RELIANCE and SBIN confirmed the validity of their upward moves.
+
+#### 🚀 Top Entry Candidates (Retrospective)
+*   **RELIANCE.NS:** The strongest performer. It broke out with **2.0x average volume** and high momentum (59), making it the "Textbook" trade of the day.
+*   **SBIN.NS:** High conviction signal with a massive **2.4x volume surge**, though momentum was slightly lower than Reliance.
+*   **TCS.NS:** A solid breakout, though volume (1.6x) was just shy of our strict 1.8x requirement for a "Perfect" entry.
+
+#### ⚠️ Critical Warnings & Exit Status
+*   **🛑 Trading Window Closed:** The strategy’s hard square-off time was **15:10 IST**. No new positions should be initiated now, regardless of how good the charts look.
+*   **Overnight Risk:** All intraday positions must be closed. Do **not** carry these trades into tomorrow; the strategy is strictly designed for intraday volatility.
+*   **Risk Discipline:** For future sessions, remember the **₹100
 
 ---
 
 # 📈 Intraday Report — 2026-09-21
 
-> Auto-generated at **14:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -29,18 +40,18 @@ Here is a high-level, actionable summary of the trading report as of **14:59 IST
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **RELIANCE.NS** | ₹1,247.70 | 🔼 Broken Out 🔼 | 30.2/100 | 71 | ✅ Yes | 2.1× | — |
-| **SBIN.NS** | ₹996.40 | 🔼 Broken Out 🔼 | 27.7/100 | 60 | ✅ Yes | 2.5× | — |
-| **TCS.NS** | ₹2,138.80 | 🔼 Broken Out 🔼 | 27.0/100 | 66 | ✅ Yes | 1.6× | — |
-| **HDFCBANK.NS** | ₹742.25 | 🔼 Broken Out 🔼 | 21.5/100 | 55 | ✅ Yes | 1.3× | — |
-| **WIPRO.NS** | ₹165.29 | ▶ Inside Range ▶ | 13.7/100 | 71 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,038.90 | ▶ Inside Range ▶ | 7.0/100 | 52 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹302.10 | ▶ Inside Range ▶ | 5.8/100 | 58 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹268.00 | ▶ Inside Range ▶ | 3.7/100 | 42 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹2,990.90 | ▶ Inside Range ▶ | -1.9/100 | 67 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,247.70 | ▶ Inside Range ▶ | -6.2/100 | 26 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,344.00 | ▶ Inside Range ▶ | -7.7/100 | 42 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,023.50 | 🔽 Broken Down 🔽 | -20.0/100 | 48 | ❌ No | 0.5× | — |
+| **RELIANCE.NS** | ₹1,246.40 | 🔼 Broken Out 🔼 | 28.0/100 | 59 | ✅ Yes | 2.0× | — |
+| **SBIN.NS** | ₹996.00 | 🔼 Broken Out 🔼 | 24.7/100 | 46 | ✅ Yes | 2.4× | — |
+| **TCS.NS** | ₹2,133.20 | 🔼 Broken Out 🔼 | 19.4/100 | 48 | ✅ Yes | 1.6× | — |
+| **HDFCBANK.NS** | ₹740.50 | 🔼 Broken Out 🔼 | 18.5/100 | 42 | ✅ Yes | 1.2× | — |
+| **WIPRO.NS** | ₹165.20 | ▶ Inside Range ▶ | 11.0/100 | 60 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,040.50 | ▶ Inside Range ▶ | 8.2/100 | 55 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,345.60 | ▶ Inside Range ▶ | -4.6/100 | 37 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,248.00 | ▶ Inside Range ▶ | -5.6/100 | 28 | ❌ No | — | — |
+| **TMPV.NS** | ₹301.15 | ▶ Inside Range ▶ | -9.4/100 | 30 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹267.00 | ▶ Inside Range ▶ | -9.7/100 | 11 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹2,975.00 | 🔽 Broken Down 🔽 | -15.8/100 | 24 | ❌ No | 2.7× | — |
+| **BAJFINANCE.NS** | ₹1,024.70 | 🔽 Broken Down 🔽 | -23.6/100 | 39 | ❌ No | 0.4× | — |
 
 ---
 
@@ -54,12 +65,12 @@ Here is a high-level, actionable summary of the trading report as of **14:59 IST
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| RELIANCE.NS | ₹1,247.70 | ₹1244.40 | ₹1235.00 | 71.3 | 🟢 Yes |
-| SBIN.NS | ₹996.40 | ₹994.50 | ₹989.80 | 59.6 | 🟢 Yes |
-| TCS.NS | ₹2,138.80 | ₹2121.00 | ₹2078.40 | 66.4 | 🟢 Yes |
-| HDFCBANK.NS | ₹742.25 | ₹738.15 | ₹729.15 | 55.3 | 🟢 Yes |
-| WIPRO.NS | ₹165.29 | ₹165.24 | ₹163.40 | 70.5 | 🟢 Yes |
-| INFY.NS | ₹1,038.90 | ₹1044.50 | ₹1031.80 | 51.6 | 🟢 Yes |
+| RELIANCE.NS | ₹1,246.40 | ₹1244.40 | ₹1235.00 | 59.5 | 🟢 Yes |
+| SBIN.NS | ₹996.00 | ₹994.50 | ₹989.80 | 46.3 | 🟢 Yes |
+| TCS.NS | ₹2,133.20 | ₹2121.00 | ₹2078.40 | 48.5 | 🟢 Yes |
+| HDFCBANK.NS | ₹740.50 | ₹738.15 | ₹729.15 | 42.1 | 🟢 Yes |
+| WIPRO.NS | ₹165.20 | ₹165.24 | ₹163.40 | 59.5 | 🟢 Yes |
+| INFY.NS | ₹1,040.50 | ₹1044.50 | ₹1031.80 | 55.2 | 🟢 Yes |
 
 ---
 
