@@ -1,29 +1,29 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-21
+### 📊 Market Summary: Intraday Strategy Report
 
-The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the system has not triggered an entry due to the strict volume and momentum filters required for a high-probability breakout.
+The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several heavyweights have breached their opening highs, the strategy is currently in a "wait-and-see" mode to ensure breakout sustainability before committing capital.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks are showing the strongest momentum and are closest to meeting the "Opening Price Breakout" criteria:
-*   **RELIANCE.NS:** Strongest momentum (63.5); currently trading above the opening high.
-*   **SBIN.NS:** Solid volume surge (2.3×); currently trading above the opening high.
-*   **TCS.NS:** Steady breakout; currently trading above the opening high.
+#### 🎯 Top Entry Candidates (Watchlist)
+These stocks have shown the strongest momentum and are currently trading above their opening range highs:
+*   **RELIANCE.NS:** Strongest momentum (63.5) with a clear breakout above the ₹1,244.40 level.
+*   **SBIN.NS:** High volume surge (2.3×) indicating institutional interest; currently trading at ₹996.00.
+*   **TCS.NS:** Stable breakout above ₹2,121.00; momentum is building steadily.
 
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Positions:** The system is currently flat. Do not force trades; wait for the volume surge confirmation.
-*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100** (2% of your ₹5,000 capital).
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
-*   **Position Limit:** Never hold more than **2 trades** simultaneously to maintain focus and capital protection.
-*   **Stop-Loss Discipline:** If a trade hits the -0.4% stop loss, exit immediately. **Never "average down"** on a losing position.
+#### ⚠️ Critical Risk Management & Rules
+*   **No Active Trades:** The system has not triggered an entry yet. Do not force trades; wait for the volume confirmation.
+*   **Strict Risk Cap:** Max loss is limited to **₹100 per trade** (2% of your ₹5,000 capital). If a trade hits the -0.4% stop loss, exit immediately.
+*   **Position Limit:** Never hold more than **2 trades** simultaneously.
+*   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
+*   **Profit Protection:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
 
-**Action Plan:** Monitor **RELIANCE** and **SBIN** for sustained volume. If the volume surge holds, these are your primary candidates for a 3:1 R:R trade.
+**Analyst Note:** The market is showing mixed signals with some stocks breaking down (e.g., ADANIENT.NS). Focus only on the "Active Buy" candidates that maintain their volume surge. **Patience is your best tool today.**
 
 ---
 
 # 📈 Intraday Report — 2026-09-21
 
-> Auto-generated at **18:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
