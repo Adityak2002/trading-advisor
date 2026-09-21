@@ -1,13 +1,29 @@
 # 🤖 Gemini AI Insights
 
-capital). Limit to max 2 active trades.
-        *   **No Averaging Down**: If a trade hits the stop loss (-0.4%), exit immediately. Do not buy more to "
+### 📊 Market Summary: 2026-09-21
+
+The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the system has not triggered an entry due to the strict volume and momentum filters required for a high-probability breakout.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks are showing the strongest momentum and are closest to meeting the "Opening Price Breakout" criteria:
+*   **RELIANCE.NS:** Strongest momentum (63.5); currently trading above the opening high.
+*   **SBIN.NS:** Solid volume surge (2.3×); currently trading above the opening high.
+*   **TCS.NS:** Steady breakout; currently trading above the opening high.
+
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Positions:** The system is currently flat. Do not force trades; wait for the volume surge confirmation.
+*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100** (2% of your ₹5,000 capital).
+*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
+*   **Position Limit:** Never hold more than **2 trades** simultaneously to maintain focus and capital protection.
+*   **Stop-Loss Discipline:** If a trade hits the -0.4% stop loss, exit immediately. **Never "average down"** on a losing position.
+
+**Action Plan:** Monitor **RELIANCE** and **SBIN** for sustained volume. If the volume surge holds, these are your primary candidates for a 3:1 R:R trade.
 
 ---
 
 # 📈 Intraday Report — 2026-09-21
 
-> Auto-generated at **17:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -28,14 +44,14 @@ capital). Limit to max 2 active trades.
 | **SBIN.NS** | ₹996.00 | 🔼 Broken Out 🔼 | 24.7/100 | 46 | ✅ Yes | 2.3× | — |
 | **TCS.NS** | ₹2,128.70 | 🔼 Broken Out 🔼 | 19.4/100 | 40 | ✅ Yes | 1.5× | — |
 | **HDFCBANK.NS** | ₹739.50 | 🔼 Broken Out 🔼 | 14.9/100 | 35 | ✅ Yes | 1.2× | — |
-| **WIPRO.NS** | ₹165.20 | ▶ Inside Range ▶ | 11.0/100 | 60 | ✅ Yes | — | — |
 | **INFY.NS** | ₹1,038.50 | ▶ Inside Range ▶ | 3.7/100 | 48 | ✅ Yes | — | — |
 | **AXISBANK.NS** | ₹1,250.00 | ▶ Inside Range ▶ | 2.5/100 | 37 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹164.55 | ▶ Inside Range ▶ | 1.0/100 | 39 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹301.65 | ▶ Inside Range ▶ | 0.8/100 | 41 | ✅ Yes | — | — |
 | **ICICIBANK.NS** | ₹1,345.00 | ▶ Inside Range ▶ | -5.4/100 | 31 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹301.15 | ▶ Inside Range ▶ | -9.4/100 | 30 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹267.00 | ▶ Inside Range ▶ | -9.7/100 | 11 | ❌ No | — | — |
 | **ADANIENT.NS** | ₹2,975.00 | 🔽 Broken Down 🔽 | -15.8/100 | 24 | ❌ No | 2.7× | — |
-| **BAJFINANCE.NS** | ₹1,024.70 | 🔽 Broken Down 🔽 | -23.6/100 | 39 | ❌ No | 0.4× | — |
+| **BAJFINANCE.NS** | ₹1,021.30 | 🔽 Broken Down 🔽 | -26.8/100 | 28 | ❌ No | 0.4× | — |
+| **POWERGRID.NS** | ₹266.10 | 🔽 Broken Down 🔽 | -26.8/100 | 8 | ❌ No | 0.3× | — |
 
 ---
 
@@ -53,8 +69,8 @@ capital). Limit to max 2 active trades.
 | SBIN.NS | ₹996.00 | ₹994.50 | ₹989.80 | 46.3 | 🟢 Yes |
 | TCS.NS | ₹2,128.70 | ₹2121.00 | ₹2078.40 | 40.4 | 🟢 Yes |
 | HDFCBANK.NS | ₹739.50 | ₹738.15 | ₹729.15 | 35.4 | 🟢 Yes |
-| WIPRO.NS | ₹165.20 | ₹165.24 | ₹163.40 | 59.5 | 🟢 Yes |
 | INFY.NS | ₹1,038.50 | ₹1044.50 | ₹1031.80 | 48.0 | 🟢 Yes |
+| AXISBANK.NS | ₹1,250.00 | ₹1251.10 | ₹1246.00 | 36.8 | 🟢 Yes |
 
 ---
 
