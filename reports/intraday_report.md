@@ -1,29 +1,33 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: Intraday Strategy Report
+### 📊 Market Summary & Action Plan
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several heavyweights have breached their opening highs, the strategy is currently in a "wait-and-see" mode to ensure breakout sustainability before committing capital.
+The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the system has not triggered an entry, likely due to strict volume or momentum filters.
 
-#### 🎯 Top Entry Candidates (Watchlist)
-These stocks have shown the strongest momentum and are currently trading above their opening range highs:
-*   **RELIANCE.NS:** Strongest momentum (63.5) with a clear breakout above the ₹1,244.40 level.
-*   **SBIN.NS:** High volume surge (2.3×) indicating institutional interest; currently trading at ₹996.00.
-*   **TCS.NS:** Stable breakout above ₹2,121.00; momentum is building steadily.
+#### **Top Entry Candidates (Watchlist)**
+*   **RELIANCE.NS:** Strongest momentum (63.5) and clear breakout above the opening high.
+*   **SBIN.NS:** High volume surge (2.3×) indicates significant institutional interest.
+*   **TCS.NS:** Stable breakout; keep an eye on volume consistency.
 
-#### ⚠️ Critical Risk Management & Rules
-*   **No Active Trades:** The system has not triggered an entry yet. Do not force trades; wait for the volume confirmation.
-*   **Strict Risk Cap:** Max loss is limited to **₹100 per trade** (2% of your ₹5,000 capital). If a trade hits the -0.4% stop loss, exit immediately.
-*   **Position Limit:** Never hold more than **2 trades** simultaneously.
-*   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
-*   **Profit Protection:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
+#### **Critical Warnings**
+*   **No Active Trades:** The system is currently flat. Do not force entries; wait for the automated signal to confirm.
+*   **Avoid "Broken Down" Stocks:** ADANIENT.NS, BAJFINANCE.NS, and POWERGRID.NS are showing bearish momentum—**do not attempt to "buy the dip"** on these tickers.
+*   **Capital Discipline:** With a ₹5,000 capital base, you are limited to a **maximum of 2 concurrent trades**. Do not exceed this to avoid over-leveraging.
 
-**Analyst Note:** The market is showing mixed signals with some stocks breaking down (e.g., ADANIENT.NS). Focus only on the "Active Buy" candidates that maintain their volume surge. **Patience is your best tool today.**
+#### **Actionable Rules for Today**
+*   **Strict Stop Loss:** If you enter, the hard stop is **-0.4%**. Exit immediately if hit; do not hold and hope for a reversal.
+*   **Profit Taking:** The system targets **+1.2%**. If the trade hits +0.5%, the stop loss moves to breakeven to protect your capital.
+*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
+
+***
+
+**Analyst Note:** *The market is showing selective strength. Focus only on the top-tier momentum stocks (Reliance/SBIN) and ignore the "Inside Range" stocks until they show a definitive volume-backed breakout.*
 
 ---
 
 # 📈 Intraday Report — 2026-09-21
 
-> Auto-generated at **20:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
