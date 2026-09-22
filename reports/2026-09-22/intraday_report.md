@@ -1,29 +1,19 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-22
+Here is a high-level, actionable summary of the trading report:
 
-The market is currently showing **weak momentum**, with the majority of the watchlist breaking below their opening ranges. No stocks met the strict criteria for a "Buy" signal today, as volume surges were insufficient to confirm breakouts.
+### 📊 Market Context: Bearish & Cautious
+* **Dominant Downward Trend:** The market is showing significant weakness today. Out of the 12 monitored stocks, **9 have broken down** below their morning opening ranges, indicating strong selling pressure across major sectors (especially banking and IT).
+* **No Immediate Triggers:** There are currently **zero active buy signals** that meet all strategy rules. 
 
-#### 🎯 Top Entry Candidates (Watchlist)
-Keep these on your radar for potential momentum shifts:
-*   **WIPRO.NS:** Currently trading above its opening high; requires a stronger volume surge to trigger a valid entry.
-*   **INFY.NS & ADANIENT.NS:** Both are consolidating within their opening ranges. Monitor for a clean breakout above the "Opening High" levels listed in the report.
-
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The strategy correctly filtered out all candidates today due to lack of volume confirmation. **Do not force entries.**
-*   **Bearish Bias:** Most tracked stocks (HDFCBANK, RELIANCE, etc.) are currently breaking down. Avoid "bottom fishing" or buying into falling stocks.
-*   **Strict Discipline:** 
-    *   **Max 2 trades:** Never exceed two concurrent positions.
-    *   **Hard Stop:** If you do enter, your maximum loss per trade is capped at **₹100**.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST**—no exceptions.
-
-**Bottom Line:** Today is a "wait-and-see" day. The lack of volume on potential breakouts suggests low conviction in the current market direction. Stay patient.
+### 🎯 Stocks to Watch (No Active Entries Yet)
+While no stocks are ready to buy right now
 
 ---
 
 # 📈 Intraday Report — 2026-09-22
 
-> Auto-generated at **18:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
