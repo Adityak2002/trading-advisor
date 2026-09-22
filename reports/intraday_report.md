@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 22, 2026**:
+## 📉 Market Analysis Summary: September 22, 2026
 
-### 📉 Market Context: Bearish & Quiet
-* **Domin
+### 🌐 Market Context: Bearish Sentiment
+The market is currently showing **significant weakness**. Out of the 12 major stocks tracked, 9 have "Broken Down" (trading below their opening 15-minute range), indicating a dominant selling pressure across heavyweights like HDFC Bank, Reliance, and ICICI Bank.
+
+### 🎯 Top Entry Candidates
+Despite the overall gloom, three stocks are showing resilience, though **none have fully triggered a "Buy" signal** yet based on the strict volume criteria:
+
+*   **WIPRO.NS:** The only stock to break above its opening high. It has strong momentum (81/100), but **caution is advised** as the volume surge (0.8x) is well below the required 1.8x threshold.
+*   **INFY.NS & ADANIENT.NS:** Both are currently "Inside Range." They are holding steady above their average prices and are the primary candidates to watch for a late-session breakout.
+
+### ⚠️ Critical Warnings & Action Plan
+*   **No Valid Buy Signals:** As of 17:39 IST, the strategy has **not triggered a confirmed entry**. Do not force trades in a downward-trending market.
+*   **Volume Gap:** While WIPRO has the price action, it lacks the "institutional fuel" (volume) required for a high-probability trade. 
+*   **Hard Stop:** All positions must be closed by **15:10 IST**. Given the current time, the window for new intraday setups has closed for this session.
+*   **Risk Discipline:** Stick to the ₹100 max loss per trade. With most stocks breaking down, the risk of "false breakouts" is high.
+
+**Bottom Line:** A defensive day. The system is correctly sitting on cash as the required high-volume breakout criteria have not been met.
 
 ---
 
 # 📈 Intraday Report — 2026-09-22
 
-> Auto-generated at **16:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
