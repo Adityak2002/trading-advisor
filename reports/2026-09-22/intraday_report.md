@@ -1,29 +1,29 @@
 # 🤖 Gemini AI Insights
 
-## 📉 Market Analysis Summary: September 22, 2026
+### 📊 Market Summary: 2026-09-22
 
-### 🌐 Market Context: Bearish Sentiment
-The market is currently showing **significant weakness**. Out of the 12 major stocks tracked, 9 have "Broken Down" (trading below their opening 15-minute range), indicating a dominant selling pressure across heavyweights like HDFC Bank, Reliance, and ICICI Bank.
+The market is currently showing **weak momentum**, with the majority of the watchlist breaking below their opening ranges. No stocks met the strict criteria for a "Buy" signal today, as volume surges were insufficient to confirm breakouts.
 
-### 🎯 Top Entry Candidates
-Despite the overall gloom, three stocks are showing resilience, though **none have fully triggered a "Buy" signal** yet based on the strict volume criteria:
+#### 🎯 Top Entry Candidates (Watchlist)
+Keep these on your radar for potential momentum shifts:
+*   **WIPRO.NS:** Currently trading above its opening high; requires a stronger volume surge to trigger a valid entry.
+*   **INFY.NS & ADANIENT.NS:** Both are consolidating within their opening ranges. Monitor for a clean breakout above the "Opening High" levels listed in the report.
 
-*   **WIPRO.NS:** The only stock to break above its opening high. It has strong momentum (81/100), but **caution is advised** as the volume surge (0.8x) is well below the required 1.8x threshold.
-*   **INFY.NS & ADANIENT.NS:** Both are currently "Inside Range." They are holding steady above their average prices and are the primary candidates to watch for a late-session breakout.
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The strategy correctly filtered out all candidates today due to lack of volume confirmation. **Do not force entries.**
+*   **Bearish Bias:** Most tracked stocks (HDFCBANK, RELIANCE, etc.) are currently breaking down. Avoid "bottom fishing" or buying into falling stocks.
+*   **Strict Discipline:** 
+    *   **Max 2 trades:** Never exceed two concurrent positions.
+    *   **Hard Stop:** If you do enter, your maximum loss per trade is capped at **₹100**.
+    *   **Auto-Exit:** All positions must be closed by **15:10 IST**—no exceptions.
 
-### ⚠️ Critical Warnings & Action Plan
-*   **No Valid Buy Signals:** As of 17:39 IST, the strategy has **not triggered a confirmed entry**. Do not force trades in a downward-trending market.
-*   **Volume Gap:** While WIPRO has the price action, it lacks the "institutional fuel" (volume) required for a high-probability trade. 
-*   **Hard Stop:** All positions must be closed by **15:10 IST**. Given the current time, the window for new intraday setups has closed for this session.
-*   **Risk Discipline:** Stick to the ₹100 max loss per trade. With most stocks breaking down, the risk of "false breakouts" is high.
-
-**Bottom Line:** A defensive day. The system is correctly sitting on cash as the required high-volume breakout criteria have not been met.
+**Bottom Line:** Today is a "wait-and-see" day. The lack of volume on potential breakouts suggests low conviction in the current market direction. Stay patient.
 
 ---
 
 # 📈 Intraday Report — 2026-09-22
 
-> Auto-generated at **17:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
