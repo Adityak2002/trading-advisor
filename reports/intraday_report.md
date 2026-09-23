@@ -1,30 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-23
+Here is a high-level, actionable summary of the trading report:
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the system is filtering for high-conviction volume surges to avoid "fake-outs."
-
-#### 🚀 Top Entry Candidates
-*   **BAJFINANCE.NS:** The strongest candidate. It has cleared the opening high with a massive **3.0× volume surge** and high momentum (79). This is the primary stock to watch for a breakout confirmation.
-*   **RELIANCE.NS & POWERGRID.NS:** Secondary candidates. Both have cleared their opening highs, but volume support is moderate (1.2×–1.4×). Monitor for a sustained push.
-
-#### ⚠️ Critical Warnings & Rules
-*   **No Active Trades:** The system has not triggered an entry yet. Do not force a trade; wait for the volume criteria (≥1.8× average) to be met.
-*   **Risk Control:** 
-    *   **Max Loss:** Never exceed ₹100 loss per trade.
-    *   **Position Limit:** Maximum of 2 concurrent trades.
-*   **Exit Protocol:** 
-    *   **Hard Stop:** Exit immediately if price drops 0.4% below entry.
-    *   **Auto-Close:** All positions must be closed by **15:10 IST**—no exceptions.
-    *   **Profit Protection:** Once you hit +0.5% profit, move your stop loss to your entry price (Breakeven) to protect your capital.
-
-**Bottom Line:** Focus exclusively on **BAJFINANCE.NS** for the highest probability setup. If volume doesn't hold, stay in cash.
+### 📈 Market Context & Strategy
+* **The Game Plan:** We are tracking stocks during their first 15
 
 ---
 
 # 📈 Intraday Report — 2026-09-23
 
-> Auto-generated at **18:54 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:35 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
