@@ -1,25 +1,30 @@
 # 🤖 Gemini AI Insights
 
-## 📈 Market Analysis Summary: Sept 23, 2026
+### 📊 Market Summary: 2026-09-23
 
-The market is showing a **bullish bias** for high-momentum stocks, with several major players breaking above their initial 15-minute opening ranges. However, while many stocks are moving up, only one has the "explosive" volume required to confirm a high-probability trade.
+The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the system is filtering for high-conviction volume surges to avoid "fake-outs."
 
-### 🚀 Top Entry Candidate
-*   **BAJFINANCE.NS (Strong Buy Setup):** This is the standout performer. It has broken its opening high with a **3.0x volume surge** (well above the 1.8x requirement) and boasts the highest momentum score (79/100). It is the primary candidate for a long position.
+#### 🚀 Top Entry Candidates
+*   **BAJFINANCE.NS:** The strongest candidate. It has cleared the opening high with a massive **3.0× volume surge** and high momentum (79). This is the primary stock to watch for a breakout confirmation.
+*   **RELIANCE.NS & POWERGRID.NS:** Secondary candidates. Both have cleared their opening highs, but volume support is moderate (1.2×–1.4×). Monitor for a sustained push.
 
-### ⚖️ Neutral / Watching
-*   **RELIANCE & SBIN:** Both have broken above their opening ranges, but **caution is advised**. Their volume surges (1.4x) are currently below our 1.8x threshold, meaning the move lacks the "big money" conviction needed for a safe entry.
-*   **ICICIBANK & TCS:** These are currently "coiling" inside their opening range. No action is needed until they break above their Opening Highs.
+#### ⚠️ Critical Warnings & Rules
+*   **No Active Trades:** The system has not triggered an entry yet. Do not force a trade; wait for the volume criteria (≥1.8× average) to be met.
+*   **Risk Control:** 
+    *   **Max Loss:** Never exceed ₹100 loss per trade.
+    *   **Position Limit:** Maximum of 2 concurrent trades.
+*   **Exit Protocol:** 
+    *   **Hard Stop:** Exit immediately if price drops 0.4% below entry.
+    *   **Auto-Close:** All positions must be closed by **15:10 IST**—no exceptions.
+    *   **Profit Protection:** Once you hit +0.5% profit, move your stop loss to your entry price (Breakeven) to protect your capital.
 
-### ⚠️ Critical Warnings & Risk Rules
-*   **Volume is King:** Do not enter a breakout unless the volume is at least **1.8x the average**. Without volume, breakouts often fail (bull traps).
-*
+**Bottom Line:** Focus exclusively on **BAJFINANCE.NS** for the highest probability setup. If volume doesn't hold, stay in cash.
 
 ---
 
 # 📈 Intraday Report — 2026-09-23
 
-> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:54 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
