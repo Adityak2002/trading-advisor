@@ -1,15 +1,35 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 24, 2026**:
+### 📊 Market Summary: 2026-09-24
 
-### 📈 Market Context: Bearish & Defensive
-* **Downward
+The market is currently in a **"Wait and See"** phase. The Opening Price Breakout strategy has yielded no actionable buy signals, as most stocks are either trading within their initial 15-minute range or have broken down below their opening lows.
+
+---
+
+### 🎯 Top Entry Candidates (Watchlist)
+Keep a close eye on these two stocks; they are currently the only ones maintaining positive momentum and trading above their average price:
+
+*   **TCS.NS:** Trading at ₹2,087.00. Needs to break above **₹2,093.50** with a volume surge to trigger a buy.
+*   **INFY.NS:** Trading at ₹1,014.50. Needs to break above **₹1,022.00** with a volume surge to trigger a buy.
+
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** Do not force entries. The strategy requires a specific volume surge (≥1.8× average) to confirm a breakout.
+*   **Bearish Bias:** A significant portion of the watchlist (SBIN, RELIANCE, ADANIENT, etc.) has broken below their opening lows, indicating weak market sentiment.
+*   **Strict Discipline:**
+    *   **Max 2 Trades:** Do not over-leverage.
+    *   **Hard Stop Loss:** If you enter and the price drops 0.4%, exit immediately.
+    *   **Auto-Exit:** All positions must be closed by **15:10 IST**—no exceptions.
+    *   **Risk Cap:** Ensure your position size limits potential loss to **₹100 per trade**.
+
+**Bottom Line:** The market is currently showing more weakness than strength. Stay patient and wait for a clear, high-volume breakout on TCS or INFY before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-09-24
 
-> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
