@@ -1,23 +1,16 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the market status as of **14:24 IST**:
+Here is your high-level trading summary for **September 24, 2026 (15:10 IST)**:
 
-### 📉 Market Context: Highly Bearish (Weak Market)
-* **Heavy Selling Pressure:** The market is experiencing a strong downward trend today. Out of the 12 watched stocks, **9 have broken down** below their morning lows, and none are trading above their average price.
-* **Massive Sell Volumes:** State Bank of India (**SBIN.NS**) has crashed below its opening range on an extraordinary **39.1x average volume**, signaling intense institutional selling. 
-
-### 🚫 Top Entry Candidates: None
-* **No Buy Signals:** Because this strategy only buys upward breakouts, **there are zero active trade setups today.** 
-* **Watchlist is Weak:** Even the three stocks still holding inside their morning ranges (ICICIBANK, HDFCBANK, TCS) are trading near their lows with very weak momentum. 
-
-### ⚠️ Critical Warnings & Actionable Advice
-* **Do Not Force Trades
+### 📉 Market Context: Weak & Sideways
+* **Bearish Bias:** The market showed no upward momentum today. Most major stocks either remained stuck within their opening 15-minute range or broke down to the downside.
+* **Heavy Selling Volume:** Stocks like **SBIN** (42.4x average volume) and **INFY** (2.4x average
 
 ---
 
 # 📈 Intraday Report — 2026-09-24
 
-> Auto-generated at **14:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -34,18 +27,18 @@ Here is your high-level, actionable summary of the market status as of **14:24 I
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ICICIBANK.NS** | ₹1,333.40 | ▶ Inside Range ▶ | -7.4/100 | 39 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹727.90 | ▶ Inside Range ▶ | -10.4/100 | 27 | ❌ No | — | — |
-| **TCS.NS** | ₹2,070.50 | ▶ Inside Range ▶ | -11.9/100 | 19 | ❌ No | — | — |
-| **SBIN.NS** | ₹976.00 | 🔽 Broken Down 🔽 | -13.8/100 | 17 | ❌ No | 39.1× | — |
-| **INFY.NS** | ₹1,005.40 | 🔽 Broken Down 🔽 | -15.8/100 | 21 | ❌ No | 2.6× | — |
-| **WIPRO.NS** | ₹163.48 | 🔽 Broken Down 🔽 | -18.8/100 | 9 | ❌ No | 1.9× | — |
-| **BAJFINANCE.NS** | ₹974.70 | 🔽 Broken Down 🔽 | -22.0/100 | 4 | ❌ No | 1.9× | — |
-| **RELIANCE.NS** | ₹1,222.60 | 🔽 Broken Down 🔽 | -22.8/100 | 17 | ❌ No | 1.0× | — |
-| **TMPV.NS** | ₹295.70 | 🔽 Broken Down 🔽 | -22.8/100 | 9 | ❌ No | 1.3× | — |
-| **AXISBANK.NS** | ₹1,177.70 | 🔽 Broken Down 🔽 | -26.8/100 | 26 | ❌ No | 0.5× | — |
-| **ADANIENT.NS** | ₹2,903.50 | 🔽 Broken Down 🔽 | -26.8/100 | 11 | ❌ No | 0.6× | — |
-| **POWERGRID.NS** | ₹266.05 | 🔽 Broken Down 🔽 | -26.8/100 | 29 | ❌ No | 0.3× | — |
+| **ICICIBANK.NS** | ₹1,338.00 | ▶ Inside Range ▶ | 9.6/100 | 68 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹730.25 | ▶ Inside Range ▶ | 6.7/100 | 60 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,193.00 | ▶ Inside Range ▶ | -3.1/100 | 91 | ✅ Yes | — | — |
+| **SBIN.NS** | ₹980.00 | 🔽 Broken Down 🔽 | -4.0/100 | 56 | ❌ No | 42.4× | — |
+| **INFY.NS** | ₹1,010.70 | 🔽 Broken Down 🔽 | -4.2/100 | 67 | ❌ No | 2.4× | — |
+| **BAJFINANCE.NS** | ₹981.60 | ▶ Inside Range ▶ | -4.6/100 | 55 | ❌ No | — | — |
+| **TCS.NS** | ₹2,071.30 | ▶ Inside Range ▶ | -8.0/100 | 44 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹267.75 | 🔽 Broken Down 🔽 | -18.0/100 | 95 | ✅ Yes | 0.2× | — |
+| **WIPRO.NS** | ₹163.47 | 🔽 Broken Down 🔽 | -18.8/100 | 32 | ❌ No | 1.8× | — |
+| **TMPV.NS** | ₹295.70 | 🔽 Broken Down 🔽 | -19.2/100 | 42 | ❌ No | 1.3× | — |
+| **ADANIENT.NS** | ₹2,907.20 | 🔽 Broken Down 🔽 | -23.2/100 | 48 | ❌ No | 0.5× | — |
+| **RELIANCE.NS** | ₹1,221.50 | 🔽 Broken Down 🔽 | -26.8/100 | 38 | ❌ No | 0.9× | — |
 
 ---
 
@@ -59,9 +52,11 @@ Here is your high-level, actionable summary of the market status as of **14:24 I
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ICICIBANK.NS | ₹1,333.40 | ₹1341.60 | ₹1331.30 | 38.8 | 🔴 No |
-| HDFCBANK.NS | ₹727.90 | ₹731.95 | ₹728.30 | 27.0 | 🔴 No |
-| TCS.NS | ₹2,070.50 | ₹2093.50 | ₹2068.70 | 19.2 | 🔴 No |
+| ICICIBANK.NS | ₹1,338.00 | ₹1341.60 | ₹1331.30 | 67.6 | 🟢 Yes |
+| HDFCBANK.NS | ₹730.25 | ₹731.95 | ₹728.30 | 59.6 | 🟢 Yes |
+| AXISBANK.NS | ₹1,193.00 | ₹1217.70 | ₹1191.00 | 90.9 | 🟢 Yes |
+| BAJFINANCE.NS | ₹981.60 | ₹1012.00 | ₹976.60 | 54.7 | 🔴 No |
+| TCS.NS | ₹2,071.30 | ₹2093.50 | ₹2068.70 | 44.4 | 🔴 No |
 
 ---
 
