@@ -1,35 +1,37 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-24
+### **Market Pulse & Action Plan: 2026-09-24**
 
-The market is currently in a **"Wait and See"** phase. The Opening Price Breakout strategy has yielded no actionable buy signals, as most stocks are either trading within their initial 15-minute range or have broken down below their opening lows.
-
----
-
-### 🎯 Top Entry Candidates (Watchlist)
-Keep a close eye on these two stocks; they are currently the only ones maintaining positive momentum and trading above their average price:
-
-*   **TCS.NS:** Trading at ₹2,087.00. Needs to break above **₹2,093.50** with a volume surge to trigger a buy.
-*   **INFY.NS:** Trading at ₹1,014.50. Needs to break above **₹1,022.00** with a volume surge to trigger a buy.
+The market is currently showing **downward pressure**. Most stocks on the watchlist have failed to hold their opening levels and are "Breaking Down." For an Opening Price Breakout strategy, this means we must remain patient and avoid forcing trades.
 
 ---
 
-### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** Do not force entries. The strategy requires a specific volume surge (≥1.8× average) to confirm a breakout.
-*   **Bearish Bias:** A significant portion of the watchlist (SBIN, RELIANCE, ADANIENT, etc.) has broken below their opening lows, indicating weak market sentiment.
-*   **Strict Discipline:**
-    *   **Max 2 Trades:** Do not over-leverage.
-    *   **Hard Stop Loss:** If you enter and the price drops 0.4%, exit immediately.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST**—no exceptions.
-    *   **Risk Cap:** Ensure your position size limits potential loss to **₹100 per trade**.
+### **📈 Market Context**
+*   **Bearish Sentiment:** 7 out of 12 tracked stocks have crashed below their morning lows.
+*   **Wait-and-See:** There are **zero active buy signals** right now. The strategy requires a breakout *above* the high, which hasn't happened yet.
+*   **Volume Alert:** **SBIN.NS** saw a massive volume surge (41x), but it was a breakdown (selling pressure), not a buying opportunity.
 
-**Bottom Line:** The market is currently showing more weakness than strength. Stay patient and wait for a clear, high-volume breakout on TCS or INFY before deploying capital.
+---
+
+### **🔭 Top Entry Candidates (Watchlist)**
+Only two stocks are showing enough "relative strength" to remain on our radar for a potential buy:
+
+*   **TCS.NS (Top Pick):** Trading near its opening high (₹2,093.50). If it crosses this with high volume, it’s the strongest candidate.
+*   **INFY.NS:** Showing high momentum (74) and holding above its average price. Needs to clear ₹1,022.00 to trigger an entry.
+
+---
+
+### **⚠️ Critical Warnings & Exits**
+*   **No "Bottom Fishing":** Do **NOT** buy stocks like RELIANCE or ADANIENT just because they are down. Our strategy only buys strength (breakouts), not dips.
+*   **Hard Stop:** If a trade is entered, the maximum loss is capped at **₹100**. No exceptions.
+*   **The 15:10 Rule:** All positions **must** be closed by 3:10 PM IST. Do not carry any trades into tomorrow, regardless of profit or loss.
+*   **Patience is Key:** If no stock breaks above its "Opening High" with a volume surge, the best trade today is **no trade.**
 
 ---
 
 # 📈 Intraday Report — 2026-09-24
 
-> Auto-generated at **18:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
