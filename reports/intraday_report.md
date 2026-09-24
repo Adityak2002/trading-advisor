@@ -1,16 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level trading summary for **September 24, 2026 (15:10 IST)**:
+Here is a high-level, actionable summary of the trading report for **September 24, 2026**:
 
-### 📉 Market Context: Weak & Sideways
-* **Bearish Bias:** The market showed no upward momentum today. Most major stocks either remained stuck within their opening 15-minute range or broke down to the downside.
-* **Heavy Selling Volume:** Stocks like **SBIN** (42.4x average volume) and **INFY** (2.4x average
+### 📉 Market Context: Highly Bearish
+* **Downward Bias:** The market experienced significant downward pressure today. Out of 12 watchlist stocks, **7 broke
 
 ---
 
 # 📈 Intraday Report — 2026-09-24
 
-> Auto-generated at **15:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -27,18 +26,18 @@ Here is your high-level trading summary for **September 24, 2026 (15:10 IST)**:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ICICIBANK.NS** | ₹1,338.00 | ▶ Inside Range ▶ | 9.6/100 | 68 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹730.25 | ▶ Inside Range ▶ | 6.7/100 | 60 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,193.00 | ▶ Inside Range ▶ | -3.1/100 | 91 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹980.00 | 🔽 Broken Down 🔽 | -4.0/100 | 56 | ❌ No | 42.4× | — |
-| **INFY.NS** | ₹1,010.70 | 🔽 Broken Down 🔽 | -4.2/100 | 67 | ❌ No | 2.4× | — |
-| **BAJFINANCE.NS** | ₹981.60 | ▶ Inside Range ▶ | -4.6/100 | 55 | ❌ No | — | — |
-| **TCS.NS** | ₹2,071.30 | ▶ Inside Range ▶ | -8.0/100 | 44 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹267.75 | 🔽 Broken Down 🔽 | -18.0/100 | 95 | ✅ Yes | 0.2× | — |
-| **WIPRO.NS** | ₹163.47 | 🔽 Broken Down 🔽 | -18.8/100 | 32 | ❌ No | 1.8× | — |
-| **TMPV.NS** | ₹295.70 | 🔽 Broken Down 🔽 | -19.2/100 | 42 | ❌ No | 1.3× | — |
-| **ADANIENT.NS** | ₹2,907.20 | 🔽 Broken Down 🔽 | -23.2/100 | 48 | ❌ No | 0.5× | — |
-| **RELIANCE.NS** | ₹1,221.50 | 🔽 Broken Down 🔽 | -26.8/100 | 38 | ❌ No | 0.9× | — |
+| **TCS.NS** | ₹2,087.00 | ▶ Inside Range ▶ | 10.5/100 | 66 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,014.50 | ▶ Inside Range ▶ | 0.3/100 | 74 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,334.50 | ▶ Inside Range ▶ | 0.2/100 | 55 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹728.90 | ▶ Inside Range ▶ | -1.2/100 | 54 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹982.00 | ▶ Inside Range ▶ | -4.5/100 | 56 | ❌ No | — | — |
+| **SBIN.NS** | ₹978.50 | 🔽 Broken Down 🔽 | -10.2/100 | 47 | ❌ No | 41.6× | — |
+| **AXISBANK.NS** | ₹1,186.50 | 🔽 Broken Down 🔽 | -15.2/100 | 66 | ❌ No | 0.5× | — |
+| **POWERGRID.NS** | ₹266.40 | 🔽 Broken Down 🔽 | -17.0/100 | 59 | ❌ No | 0.2× | — |
+| **WIPRO.NS** | ₹163.64 | 🔽 Broken Down 🔽 | -19.6/100 | 39 | ❌ No | 1.8× | — |
+| **TMPV.NS** | ₹295.00 | 🔽 Broken Down 🔽 | -22.8/100 | 28 | ❌ No | 1.2× | — |
+| **RELIANCE.NS** | ₹1,219.20 | 🔽 Broken Down 🔽 | -26.8/100 | 20 | ❌ No | 0.9× | — |
+| **ADANIENT.NS** | ₹2,900.00 | 🔽 Broken Down 🔽 | -26.8/100 | 40 | ❌ No | 0.5× | — |
 
 ---
 
@@ -52,11 +51,11 @@ Here is your high-level trading summary for **September 24, 2026 (15:10 IST)**:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ICICIBANK.NS | ₹1,338.00 | ₹1341.60 | ₹1331.30 | 67.6 | 🟢 Yes |
-| HDFCBANK.NS | ₹730.25 | ₹731.95 | ₹728.30 | 59.6 | 🟢 Yes |
-| AXISBANK.NS | ₹1,193.00 | ₹1217.70 | ₹1191.00 | 90.9 | 🟢 Yes |
-| BAJFINANCE.NS | ₹981.60 | ₹1012.00 | ₹976.60 | 54.7 | 🔴 No |
-| TCS.NS | ₹2,071.30 | ₹2093.50 | ₹2068.70 | 44.4 | 🔴 No |
+| TCS.NS | ₹2,087.00 | ₹2093.50 | ₹2068.70 | 65.7 | 🟢 Yes |
+| INFY.NS | ₹1,014.50 | ₹1022.00 | ₹1015.00 | 73.7 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,334.50 | ₹1341.60 | ₹1331.30 | 54.6 | 🔴 No |
+| HDFCBANK.NS | ₹728.90 | ₹731.95 | ₹728.30 | 53.6 | 🔴 No |
+| BAJFINANCE.NS | ₹982.00 | ₹1012.00 | ₹976.60 | 56.1 | 🔴 No |
 
 ---
 
