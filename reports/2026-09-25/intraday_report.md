@@ -1,15 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+### 📊 Market Summary: 2026-09-25
 
-### 📈 Market Context & Strategy
-* **The Game Plan:** We are tracking the **Opening Price Breakout** strategy
+The market is showing a strong bullish bias with several stocks clearing their opening range highs. However, despite the breakout activity, the system has **not triggered any automated entries** as of 18:48 IST, likely due to strict volume or momentum filters.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are showing the strongest momentum:
+*   **BAJFINANCE.NS:** Highest momentum score (77.0); currently trading above its opening high.
+*   **POWERGRID.NS:** Strong momentum (65.6) with a clean breakout above the opening range.
+*   **TCS.NS:** Notable volume surge (2.8×) earlier in the session; remains a primary candidate if momentum sustains.
+
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Positions:** The portfolio is currently flat. Do not force trades; wait for the system to confirm entry signals.
+*   **Strict Risk Cap:** If you trade manually, limit losses to **₹100 per trade** (2% of your ₹5,000 capital).
+*   **No Overnight Risk:** All positions must be closed by **15:10 IST**. Never carry trades into the next day.
+*   **Trade Discipline:** Limit yourself to a maximum of **2 concurrent trades** to maintain focus and capital protection.
+*   **Exit Strategy:** If a trade hits +0.5% profit, move your stop-loss to breakeven immediately to protect your capital.
+
+***
+
+**Analyst Note:** The market is currently in a "wait-and-see" phase. While several stocks have broken out, the lack of active buy signals suggests the current price action may not meet the strict volume-surge requirements (≥1.8×) for a high-probability entry. Stay disciplined.
 
 ---
 
 # 📈 Intraday Report — 2026-09-25
 
-> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
