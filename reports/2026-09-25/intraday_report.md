@@ -2,30 +2,35 @@
 
 ### 📊 Market Summary: 2026-09-25
 
-The market is showing a strong bullish bias with several stocks clearing their opening range highs. However, despite the breakout activity, the system has **not triggered any automated entries** as of 18:48 IST, likely due to strict volume or momentum filters.
+The market is currently showing strong bullish sentiment with multiple stocks clearing their opening range highs. However, the automated system has **not triggered any entries** yet, likely due to strict volume requirements (≥1.8× average) not being met for the top candidates.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening highs and are showing the strongest momentum:
-*   **BAJFINANCE.NS:** Highest momentum score (77.0); currently trading above its opening high.
-*   **POWERGRID.NS:** Strong momentum (65.6) with a clean breakout above the opening range.
-*   **TCS.NS:** Notable volume surge (2.8×) earlier in the session; remains a primary candidate if momentum sustains.
+---
 
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Positions:** The portfolio is currently flat. Do not force trades; wait for the system to confirm entry signals.
-*   **Strict Risk Cap:** If you trade manually, limit losses to **₹100 per trade** (2% of your ₹5,000 capital).
-*   **No Overnight Risk:** All positions must be closed by **15:10 IST**. Never carry trades into the next day.
-*   **Trade Discipline:** Limit yourself to a maximum of **2 concurrent trades** to maintain focus and capital protection.
-*   **Exit Strategy:** If a trade hits +0.5% profit, move your stop-loss to breakeven immediately to protect your capital.
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have broken above their opening range and are showing strong momentum. Monitor these for a volume surge to confirm an entry:
 
-***
+*   **TCS.NS:** Strongest breakout candidate with a 2.8× volume surge.
+*   **BAJFINANCE.NS:** Highest momentum score (77.0); keep a close eye for volume confirmation.
+*   **RELIANCE.NS & AXISBANK.NS:** Solid breakout setups; currently trading above their opening highs.
 
-**Analyst Note:** The market is currently in a "wait-and-see" phase. While several stocks have broken out, the lack of active buy signals suggests the current price action may not meet the strict volume-surge requirements (≥1.8×) for a high-probability entry. Stay disciplined.
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not enter a trade unless the volume surge hits the **1.8× threshold**. High price action without volume is a "fake-out" risk.
+*   **Risk Cap:** You are strictly limited to a **₹100 loss per trade**. If the price hits your stop loss, exit immediately—do not hope for a recovery.
+*   **No Overnight Risk:** All positions **must** be closed by **15:10 IST**. Do not hold anything into the next day.
+*   **Focus:** Limit yourself to a maximum of **2 active trades** at any given time to maintain execution quality.
+
+---
+
+### 💡 Analyst Note
+The market is in a "wait-and-see" phase. While several stocks have technically broken out, the lack of volume on most candidates suggests the move may lack conviction. **Patience is your best strategy today.**
 
 ---
 
 # 📈 Intraday Report — 2026-09-25
 
-> Auto-generated at **18:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
