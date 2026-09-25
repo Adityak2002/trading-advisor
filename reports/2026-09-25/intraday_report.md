@@ -1,31 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-25
+Here is a high-level, actionable summary of the trading report:
 
-The market is showing strong bullish sentiment with multiple stocks breaking above their opening ranges. However, the system is currently in a "wait-and-see" mode as no stocks met the strict volume surge criteria (≥1.8× average) required for an automated entry at this time.
-
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening highs and are showing strong momentum. Monitor these for a potential volume spike:
-*   **BAJFINANCE.NS:** Highest momentum score (77.0); currently trading above its opening high.
-*   **TCS.NS:** Strong breakout candidate with solid momentum (57.1).
-*   **RELIANCE.NS:** Stable breakout; currently trading above the opening high (1,226.00 vs 1,223.50).
-
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades.
-*   **Volume Filter:** A breakout is only valid if accompanied by a **1.8× volume surge**. Without this, the risk of a "fakeout" is high.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Risk Cap:** Maximum loss is strictly limited to **₹100 per trade**. If a trade hits the stop loss, exit immediately—do not hold or "average down."
-*   **Trade Limit:** Do not exceed **2 active trades** simultaneously to maintain focus and capital protection.
-
-***
-
-**Analyst Note:** The market is currently in a consolidation phase regarding volume. Stay patient; wait for the volume surge to confirm the breakout before deploying capital.
+### 📈 Market Context & Strategy
+* **The Game Plan:** We are tracking the **Opening Price Breakout** strategy
 
 ---
 
 # 📈 Intraday Report — 2026-09-25
 
-> Auto-generated at **16:26 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
