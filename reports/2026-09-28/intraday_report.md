@@ -2,27 +2,26 @@
 
 ### 📊 Market Summary: 2026-09-28
 
-The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening range. No "Buy" signals were triggered today, as the strategy requires a breakout above the opening high, which failed to materialize for the monitored stocks.
+The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening range. No long positions were triggered today, as the "Opening Price Breakout" strategy requires a bullish surge that failed to materialize.
 
 #### 🎯 Top Entry Candidates (Watchlist)
-These stocks are currently holding within their opening range and are the only ones showing potential for a bullish breakout:
+These stocks are currently holding within their opening range and remain the only viable candidates for a potential breakout:
 *   **BAJFINANCE.NS:** Closest to the opening high; highest momentum score (64.8).
-*   **INFY.NS:** Trading near the opening high with stable momentum.
-*   **AXISBANK.NS:** Holding steady above the average price; secondary candidate.
+*   **INFY.NS:** Tightest range; potential for a quick move if it clears ₹1,004.
+*   **AXISBANK.NS:** Stable price action; currently trading just below the opening high.
 
-#### ⚠️ Critical Warnings & Status
-*   **No Active Positions:** The strategy remained sidelined today due to lack of bullish confirmation.
-*   **Bearish Trend:** Most stocks (SBIN, ADANIENT, RELIANCE, etc.) broke below their opening lows with significant volume, confirming a downward bias.
-*   **Risk Discipline:** The strategy successfully avoided "false breakouts" by strictly adhering to the volume surge requirement (≥1.8×).
-*   **End-of-Day Protocol:** As of 15:10 IST, all systems are in "flat" mode. No overnight risk is carried into the next session.
+#### ⚠️ Critical Status & Warnings
+*   **No Active Trades:** The system correctly avoided entry today due to lack of volume-backed bullish momentum.
+*   **Bearish Trend:** Most tracked stocks (Reliance, TCS, HDFC Bank, etc.) broke down below their opening lows with significant volume, signaling a "stay away" environment for long-only strategies.
+*   **Risk Discipline:** The strategy remains strictly disciplined—no trades were forced despite the lack of signals. 
 
-**Analyst Note:** The market is currently unfavorable for the "Opening Price Breakout" strategy. Maintain capital preservation and wait for a shift in momentum where stocks sustain above their opening highs with high volume.
+**Action Plan:** Continue monitoring the three candidates above. If they fail to break the opening high with a volume surge (≥1.8× average) before the final hours, **remain in cash.**
 
 ---
 
 # 📈 Intraday Report — 2026-09-28
 
-> Auto-generated at **15:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -42,13 +41,13 @@ These stocks are currently holding within their opening range and are the only o
 | **BAJFINANCE.NS** | ₹985.00 | ▶ Inside Range ▶ | 8.0/100 | 65 | ✅ Yes | — | — |
 | **INFY.NS** | ₹1,003.20 | ▶ Inside Range ▶ | 3.6/100 | 37 | ✅ Yes | — | — |
 | **AXISBANK.NS** | ₹1,209.90 | ▶ Inside Range ▶ | 2.6/100 | 57 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,831.10 | 🔽 Broken Down 🔽 | -4.0/100 | 50 | ❌ No | 3.0× | — |
 | **SBIN.NS** | ₹962.00 | 🔽 Broken Down 🔽 | -11.2/100 | 67 | ❌ No | 1.6× | — |
-| **ADANIENT.NS** | ₹2,820.00 | 🔽 Broken Down 🔽 | -13.8/100 | 37 | ❌ No | 3.0× | — |
-| **WIPRO.NS** | ₹162.18 | 🔽 Broken Down 🔽 | -15.6/100 | 30 | ❌ No | 1.9× | — |
+| **WIPRO.NS** | ₹161.56 | 🔽 Broken Down 🔽 | -15.6/100 | 23 | ❌ No | 1.9× | — |
 | **RELIANCE.NS** | ₹1,197.60 | 🔽 Broken Down 🔽 | -15.8/100 | 24 | ❌ No | 2.7× | — |
-| **ICICIBANK.NS** | ₹1,300.90 | 🔽 Broken Down 🔽 | -19.6/100 | 27 | ❌ No | 1.6× | — |
+| **ICICIBANK.NS** | ₹1,302.00 | 🔽 Broken Down 🔽 | -19.6/100 | 31 | ❌ No | 1.5× | — |
 | **TCS.NS** | ₹2,070.70 | 🔽 Broken Down 🔽 | -19.6/100 | 28 | ❌ No | 1.3× | — |
-| **HDFCBANK.NS** | ₹719.00 | 🔽 Broken Down 🔽 | -23.6/100 | 31 | ❌ No | 0.9× | — |
+| **HDFCBANK.NS** | ₹719.05 | 🔽 Broken Down 🔽 | -23.6/100 | 33 | ❌ No | 0.9× | — |
 | **TMPV.NS** | ₹281.75 | 🔽 Broken Down 🔽 | -26.8/100 | 21 | ❌ No | 0.9× | — |
 | **POWERGRID.NS** | ₹261.85 | 🔽 Broken Down 🔽 | -26.8/100 | 20 | ❌ No | 0.4× | — |
 
