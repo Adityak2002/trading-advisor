@@ -1,30 +1,12 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-09-28
-
-The market is currently showing **bearish sentiment**, with the majority of the watchlist breaking below their opening range. No long positions were triggered today as the "Opening Price Breakout" criteria were not met.
-
-#### 🎯 Top Entry Candidates (Watchlist)
-These stocks are currently holding within their opening range and show the highest potential if they break above the "Opening High":
-*   **BAJFINANCE.NS:** Strongest momentum (64.8); closest to a potential breakout.
-*   **AXISBANK.NS:** Solid momentum (57.5); keep an eye on the ₹1,217.50 level.
-*   **INFY.NS:** Stable, but currently lower momentum; watch for a volume-backed surge.
-
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The strategy remained sidelined today due to lack of bullish confirmation.
-*   **Bearish Bias:** Most stocks (ADANIENT, RELIANCE, etc.) broke below their opening lows with significant volume, signaling selling pressure. **Do not force entries** in a downward-trending market.
-*   **Risk Discipline:** The strategy is strictly "Long Only." Since the market is trending downward, the best action is to remain in cash rather than attempting to catch a falling knife.
-
-#### 💡 Action Plan
-*   **Stay Patient:** Wait for a clear, high-volume breakout above the "Opening High" before entering.
-*   **Strict Adherence:** If the market continues to trade below the opening range, maintain a **"No Trade"** stance to preserve capital.
-*   **Risk Cap:** Remember the ₹100 max loss limit per trade if you decide to execute later in the session.
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-09-28
 
-> Auto-generated at **18:05 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
