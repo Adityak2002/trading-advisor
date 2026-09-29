@@ -1,34 +1,24 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan
+Based on the intraday report for September 29, 2026, here is your high-level trading summary:
 
-The market is currently in a **"Wait-and-See" phase**. Despite several stocks breaking above their opening range, the system has not triggered an entry, likely due to strict volume or momentum filters.
+### 📈 Market Context
+The market showed a **polarized performance**. While high-momentum stocks in the Banking and IT sectors (HDFCBANK, INFY) surged significantly above their opening ranges, heavyweights like RELIANCE and TCS faced selling pressure and "broke down" below their opening lows.
 
-#### **Top Entry Candidates (Watchlist)**
-These stocks are showing the strongest momentum and are positioned to trigger a buy if they sustain their current breakout levels:
-*   **INFY.NS:** Highest momentum (86.7) with a massive volume surge (17.4×). This is your primary candidate.
-*   **POWERGRID.NS:** Strong breakout with significant volume (9.6×).
-*   **ADANIENT.NS:** Solid breakout performance with 3.2× volume.
+### 🚀 Top Entry Candidates (Based on Strategy Fit)
+These stocks met the "Breakout + Volume" criteria most effectively today:
+*   **ADANIENT.NS:** The strongest candidate. It broke its opening high with exactly the required **1.8× volume surge** and high momentum (91/100).
+*   **INFY.NS & HDFCBANK.NS:** Both showed **massive institutional interest** with volume surges over 17× their average. They are trading well above their "Opening High" levels.
+*   **AXISBANK.NS:** Currently "Inside Range" but sitting right at the breakout door (Price: ₹1,212.10 vs. High: ₹1,211.60). One to watch if the momentum continues.
 
-#### **Market Context**
-*   **Trend:** The market is showing bullish intent, with most watchlist stocks trading above their average price.
-*   **Status:** No active trades are currently open. The system is filtering out "false" breakouts by requiring specific volume confirmation.
-
-#### **Critical Warnings & Rules**
-*   **Strict Discipline:** Do not force entries. Wait for the system to confirm the signal.
-*   **Risk Cap:** You are limited to **₹100 risk per trade**. If a trade triggers, ensure your stop loss is set immediately at -0.4%.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
-*   **Position Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital protection.
-
-***
-
-**Analyst Note:** The high volume on **INFY** and **POWERGRID** suggests institutional interest. If these stocks hold their current levels, they are the most likely to provide a high-probability setup. Keep your terminal ready.
+### ⚠️ Critical Warnings & Action Plan
+*   **Market Closed:** As it is now **16:31 IST**, the trading day is over. Per strategy rules, all positions **must be closed** (
 
 ---
 
 # 📈 Intraday Report — 2026-09-29
 
-> Auto-generated at **15:47 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -45,17 +35,17 @@ These stocks are showing the strongest momentum and are positioned to trigger a 
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹2,882.00 | 🔼 Broken Out 🔼 | 32.1/100 | 71 | ✅ Yes | 3.2× | — |
-| **POWERGRID.NS** | ₹263.50 | 🔼 Broken Out 🔼 | 31.9/100 | 69 | ✅ Yes | 9.6× | — |
 | **INFY.NS** | ₹1,015.40 | 🔼 Broken Out 🔼 | 30.4/100 | 87 | ✅ Yes | 17.4× | — |
-| **TMPV.NS** | ₹279.00 | ▶ Inside Range ▶ | 15.9/100 | 67 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,205.90 | ▶ Inside Range ▶ | 10.0/100 | 74 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹722.70 | 🔼 Broken Out 🔼 | 27.7/100 | 91 | ✅ Yes | 17.5× | — |
+| **TMPV.NS** | ₹280.95 | 🔼 Broken Out 🔼 | 24.9/100 | 73 | ✅ Yes | 1.1× | — |
+| **ADANIENT.NS** | ₹2,972.90 | 🔼 Broken Out 🔼 | 20.7/100 | 91 | ✅ Yes | 1.8× | — |
+| **AXISBANK.NS** | ₹1,212.10 | ▶ Inside Range ▶ | 8.9/100 | 81 | ✅ Yes | — | — |
 | **SBIN.NS** | ₹964.70 | ▶ Inside Range ▶ | 8.6/100 | 80 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹715.40 | ▶ Inside Range ▶ | 8.4/100 | 82 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹968.80 | ▶ Inside Range ▶ | -5.7/100 | 49 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹973.80 | ▶ Inside Range ▶ | 8.1/100 | 66 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹261.50 | ▶ Inside Range ▶ | 1.4/100 | 53 | ❌ No | — | — |
 | **ICICIBANK.NS** | ₹1,292.20 | ▶ Inside Range ▶ | -10.3/100 | 24 | ❌ No | — | — |
-| **RELIANCE.NS** | ₹1,187.40 | 🔽 Broken Down 🔽 | -12.0/100 | 41 | ❌ No | 2.0× | — |
-| **WIPRO.NS** | ₹157.70 | 🔽 Broken Down 🔽 | -23.6/100 | 35 | ❌ No | 0.7× | — |
+| **RELIANCE.NS** | ₹1,182.00 | 🔽 Broken Down 🔽 | -19.6/100 | 24 | ❌ No | 1.3× | — |
+| **WIPRO.NS** | ₹156.79 | 🔽 Broken Down 🔽 | -23.6/100 | 19 | ❌ No | 0.1× | — |
 | **TCS.NS** | ₹2,032.40 | 🔽 Broken Down 🔽 | -26.8/100 | 35 | ❌ No | 0.7× | — |
 
 ---
@@ -70,11 +60,11 @@ These stocks are showing the strongest momentum and are positioned to trigger a 
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹2,882.00 | ₹2828.70 | ₹2809.60 | 70.7 | 🟢 Yes |
-| POWERGRID.NS | ₹263.50 | ₹262.75 | ₹260.55 | 68.6 | 🟢 Yes |
 | INFY.NS | ₹1,015.40 | ₹1004.80 | ₹992.00 | 86.7 | 🟢 Yes |
-| TMPV.NS | ₹279.00 | ₹278.95 | ₹272.60 | 66.7 | 🟢 Yes |
-| AXISBANK.NS | ₹1,205.90 | ₹1211.60 | ₹1195.60 | 73.7 | 🟢 Yes |
+| HDFCBANK.NS | ₹722.70 | ₹715.55 | ₹708.50 | 90.6 | 🟢 Yes |
+| TMPV.NS | ₹280.95 | ₹278.95 | ₹272.60 | 73.5 | 🟢 Yes |
+| ADANIENT.NS | ₹2,972.90 | ₹2828.70 | ₹2809.60 | 90.8 | 🟢 Yes |
+| AXISBANK.NS | ₹1,212.10 | ₹1211.60 | ₹1195.60 | 80.7 | 🟢 Yes |
 | SBIN.NS | ₹964.70 | ₹964.70 | ₹956.30 | 79.7 | 🟢 Yes |
 
 ---
