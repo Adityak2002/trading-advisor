@@ -1,28 +1,21 @@
 # 🤖 Gemini AI Insights
 
-Based on the intraday data for September 29, 2026, here is your high-level trading brief:
+### **Executive Summary: Market Outlook & Action Plan**
 
-### 📈 Market Sentiment: Bullish but Selective
-The market is showing a clear divide. While high-momentum stocks in Banking and IT are surging with massive volume, heavyweights like Reliance and TCS are dragging, indicating a "stock-specific" day rather than a broad market rally.
+The market is showing a **polarized trend**. While heavyweights in the Banking and IT sectors are showing explosive strength, traditional leaders like Reliance and TCS are dragging. The strategy is currently hunting for high-volume breakouts.
 
-### 🚀 Top Entry Candidates
-These stocks have cleared their 15-minute opening highs with significant "smart money" participation (high volume):
+---
 
-*   **INFY.NS (Infosys):** **Strongest Setup.** Price has broken out with a massive **17.4x volume surge**. High momentum (87) makes this a primary target.
-*   **HDFCBANK.NS:** **High Conviction.** Similar to Infosys, it shows a **17.5x volume surge** and the highest momentum score (91) on the list.
-*   **ADANIENT.NS:** **Valid Breakout.** Meets the strategy criteria with exactly **1.8x volume** and very strong momentum.
+### **🚀 Top Entry Candidates (High Conviction)**
+These stocks have cleared their opening ranges with significant "smart money" participation:
 
-### ⚠️ Critical Warnings & Exits
-*   **Avoid "Fakeouts":** Do **not** enter **TMPV.NS**. Although the price broke out, the volume is only 1.1x (below our 1.8x requirement), suggesting a lack of institutional support.
-*   **The "No-Go" Zone:** Stay away from **RELIANCE, WIPRO, and TCS**. These have "Broken Down" below their opening range, indicating selling pressure.
-*   **Hard Stop:** All trades **must be closed by 15:10 IST**. Do not hold any positions overnight, regardless of profit or loss.
-*   **Risk Control:** Limit your loss to **₹1
+*   **HDFCBANK.NS:** **Top Pick.** Boasts the highest momentum (91) and
 
 ---
 
 # 📈 Intraday Report — 2026-09-29
 
-> Auto-generated at **20:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:54 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
