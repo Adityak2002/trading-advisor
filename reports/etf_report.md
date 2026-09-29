@@ -1,33 +1,56 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Executive Summary: Trading Advisory (2026-09-29)
+
+The market is currently in a **"Wait and Watch"** phase. With global cues turning bearish and domestic indices struggling, the strategy remains defensive to protect your ₹10,000 capital.
+
+#### **Market Context**
+*   **Sentiment:** Mildly Bearish. Both Nifty 50 and US markets (S&P 500/NASDAQ) closed in the red.
+*   **Risk:** Low fear (VIX 13.6) suggests the market isn't panicking, but the downward momentum is persistent.
+*   **Status:** 100% Cash. No active positions.
+
+#### **Top Entry Candidates (Watchlist)**
+*No immediate buys.* All candidates are currently failing the "EMA50" filter, meaning they are in a confirmed downtrend. We are waiting for a trend reversal or a stronger "Oversold" signal (Score ≥ 40).
+*   **Top 3 to Monitor:**
+    1.  **HNGSNGBEES.NS** (Score: 29.0)
+    2.  **UNIONBANK.NS** (Score: 29.0)
+    3.  **RECLTD.NS** (Score: 27.8)
+
+#### **Critical Warnings & Action Plan**
+*   **Stay Disciplined:** Do not force a trade. The "Oversold Bounce" strategy requires a specific score threshold (≥40) to ensure we aren't "catching a falling knife."
+*   **Trend Check:** Every single candidate on your watchlist is currently trading below its 50-day moving average (EMA50). This confirms a broad-market weakness.
+*   **Action:** Keep capital idle. Wait for the market to stabilize or for the scores of the top 3 candidates to improve as they recover from oversold levels.
+
+---
+*Disclaimer: This is a quantitative analysis report. Ensure all manual executions align with your personal risk tolerance.*
 
 ---
 
-# 📊 ETF/MF Daily Report — 2026-09-28
-> *Auto-generated at 15:02 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-09-29
+> *Auto-generated at 15:07 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟢 Bullish — Good day for entries
+**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 22,784.80 | 📉 -1.54% |
-| India VIX | 13.76 | 📈 +13.12% |
-| S&P 500 (overnight) | 7,743.41 | 📈 +0.51% |
-| NASDAQ | 27,068.72 | 📈 +0.48% |
-| WTI Crude Oil | $95.46 | 📈 +3.30% |
-| USD / INR | 95.9800 | 📉 -0.19% |
+| Nifty 50 | 22,683.75 | 📉 -0.42% |
+| India VIX | 13.57 | 📉 -0.51% |
+| S&P 500 (overnight) | 7,683.69 | 📉 -0.77% |
+| NASDAQ | 26,820.38 | 📉 -0.92% |
+| WTI Crude Oil | $92.64 | 📈 +0.04% |
+| USD / INR | 95.9725 | 📈 +0.19% |
 
 **Key Factors:**
-- VIX 13.8 — Low fear 🟢 (full sizing)
-- S&P 500 +0.51% — Positive overnight cues 📈
-- Nifty -1.54% — Domestic market bearish
-- WTI Crude $95.46 (+3.30%) — Bullish for OILIETF 📈
-- USD/INR 95.98 (-0.189%) — USD stable
+- VIX 13.6 — Low fear 🟢 (full sizing)
+- S&P 500 -0.77% — Negative overnight cues 📉
+- NASDAQ -0.92% — Tech bearish
+- Nifty -0.42% — Domestic market bearish
+- WTI Crude $92.64 (+0.04%) — Neutral for OILIETF
+- USD/INR 95.97 (+0.192%) — USD stable
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -55,11 +78,11 @@ AI Summary unavailable (All Gemini models failed).
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| HNGSNGBEES.NS | 35.0 | Below EMA50 · Score=35 (need ≥40) |
-| SUZLON.NS | 27.5 | Below EMA50 · VolZ=0.4 (need ≥1.5) · Score=28 (need ≥40) |
-| UNIONBANK.NS | 27.5 | Below EMA50 · VolZ=0.1 (need ≥1.5) · Score=28 (need ≥40) |
-| OILIETF.NS | 25.4 | Below EMA50 · VolZ=0.3 (need ≥1.5) · Score=25 (need ≥40) |
-| BANKBEES.NS | 25.2 | Below EMA50 · VolZ=0.7 (need ≥1.5) · Score=25 (need ≥40) |
+| HNGSNGBEES.NS | 29.0 | Below EMA50 · Score=29 (need ≥40) |
+| UNIONBANK.NS | 29.0 | Below EMA50 · Score=29 (need ≥40) |
+| RECLTD.NS | 27.8 | Below EMA50 · Score=28 (need ≥40) |
+| ABFRL.NS | 25.2 | Below EMA50 · Score=25 (need ≥40) |
+| HDFCAMC.NS | 25.2 | Below EMA50 · Score=25 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -71,27 +94,27 @@ AI Summary unavailable (All Gemini models failed).
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | HNGSNGBEES.NS | 35.0 | 12 | 🔴 | 1.5 | -18.1% | 👀 Watch |
-| 2 | SUZLON.NS | 27.5 | 15 | 🔴 | 0.4 | -33.0% | 👀 Watch |
-| 3 | UNIONBANK.NS | 27.5 | 30 | 🔴 | 0.1 | -9.1% | 👀 Watch |
-| 4 | OILIETF.NS | 25.4 | 31 | 🔴 | 0.3 | -9.2% | 👀 Watch |
-| 5 | BANKBEES.NS | 25.2 | 25 | 🔴 | 0.7 | -6.5% | 👀 Watch |
-| 6 | PSUBNKBEES.NS | 25.2 | 28 | 🔴 | 1.1 | -10.4% | 👀 Watch |
-| 7 | HDFCAMC.NS | 25.2 | 28 | 🔴 | 0.8 | -17.6% | 👀 Watch |
-| 8 | PHARMABEES.NS | 21.0 | 54 | 🟢 | 0.0 | -1.1% | 👀 Watch |
-| 9 | MAFANG.NS | 21.0 | 53 | 🟢 | -0.4 | -3.9% | 👀 Watch |
-| 10 | RECLTD.NS | 20.2 | 34 | 🔴 | 1.0 | -19.4% | 👀 Watch |
-| 11 | AUTOBEES.NS | 16.2 | 25 | 🔴 | -0.4 | -10.7% | ⏸ Skip |
-| 12 | JUNIORBEES.NS | 14.0 | 35 | 🔴 | 1.1 | -5.8% | ⏸ Skip |
-| 13 | CANBK.NS | 14.0 | 36 | 🔴 | 0.9 | -14.1% | ⏸ Skip |
-| 14 | ABFRL.NS | 13.2 | 26 | 🔴 | -0.6 | -29.6% | ⏸ Skip |
-| 15 | BANKBARODA.NS | 12.5 | 38 | 🔴 | -0.0 | -20.3% | ⏸ Skip |
-| 16 | IRFC.NS | 11.2 | 34 | 🔴 | 0.3 | -26.5% | ⏸ Skip |
-| 17 | ITETF.NS | 11.0 | 26 | 🔴 | -0.5 | -11.4% | ⏸ Skip |
-| 18 | NHPC.NS | 3.2 | 43 | 🔴 | -1.2 | -12.3% | ⏸ Skip |
-| 19 | RVNL.NS | -9.5 | 45 | 🔴 | -0.8 | -34.1% | ⏸ Skip |
-| 20 | TATAPOWER.NS | -10.2 | 46 | 🔴 | -0.4 | -21.4% | ⏸ Skip |
-| 21 | IREDA.NS | -17.5 | 59 | 🔴 | 3.1 | -17.2% | ⏸ Skip |
+| 1 | HNGSNGBEES.NS | 29.0 | 11 | 🔴 | 1.8 | -18.4% | 👀 Watch |
+| 2 | UNIONBANK.NS | 29.0 | 26 | 🔴 | 2.0 | -9.8% | 👀 Watch |
+| 3 | RECLTD.NS | 27.8 | 32 | 🔴 | 3.7 | -21.0% | 👀 Watch |
+| 4 | ABFRL.NS | 25.2 | 25 | 🔴 | 1.6 | -31.6% | 👀 Watch |
+| 5 | HDFCAMC.NS | 25.2 | 25 | 🔴 | 1.6 | -19.4% | 👀 Watch |
+| 6 | BANKBEES.NS | 19.2 | 25 | 🔴 | 0.9 | -6.8% | ⏸ Skip |
+| 7 | OILIETF.NS | 17.8 | 29 | 🔴 | -0.3 | -9.6% | ⏸ Skip |
+| 8 | PSUBNKBEES.NS | 17.8 | 27 | 🔴 | -0.5 | -10.5% | ⏸ Skip |
+| 9 | AUTOBEES.NS | 17.8 | 23 | 🔴 | 0.3 | -11.3% | ⏸ Skip |
+| 10 | JUNIORBEES.NS | 14.2 | 35 | 🔴 | 0.7 | -5.9% | ⏸ Skip |
+| 11 | CANBK.NS | 14.2 | 34 | 🔴 | 1.3 | -15.1% | ⏸ Skip |
+| 12 | SUZLON.NS | 14.0 | 16 | 🔴 | 0.2 | -33.0% | ⏸ Skip |
+| 13 | IRFC.NS | 12.8 | 34 | 🔴 | 1.9 | -27.0% | ⏸ Skip |
+| 14 | NHPC.NS | 12.8 | 32 | 🔴 | -0.2 | -13.4% | ⏸ Skip |
+| 15 | MAFANG.NS | 12.0 | 54 | 🟢 | -0.7 | -3.2% | ⏸ Skip |
+| 16 | PHARMABEES.NS | 10.5 | 53 | 🟢 | 0.1 | -0.3% | ⏸ Skip |
+| 17 | ITETF.NS | 10.2 | 23 | 🔴 | 0.4 | -12.9% | ⏸ Skip |
+| 18 | RVNL.NS | -5.8 | 41 | 🔴 | 0.9 | -35.4% | ⏸ Skip |
+| 19 | TATAPOWER.NS | -5.8 | 40 | 🔴 | 1.3 | -21.5% | ⏸ Skip |
+| 20 | BANKBARODA.NS | -7.2 | 44 | 🔴 | -0.1 | -19.7% | ⏸ Skip |
+| 21 | IREDA.NS | -18.5 | 51 | 🔴 | 0.9 | -19.9% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -99,6 +122,6 @@ AI Summary unavailable (All Gemini models failed).
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-28 15:02 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-29 15:07 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
