@@ -1,12 +1,32 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Market Summary: 2026-09-29
+
+The market is showing strong bullish momentum in the IT and Banking sectors. While several stocks have cleared their opening range, the system is currently in a "wait-and-see" mode for optimal entry triggers.
+
+#### 🚀 Top Entry Candidates
+These stocks have broken above their opening highs with strong momentum and are the primary focus for potential long positions:
+*   **ADANIENT.NS:** Highest momentum (90.8) with a confirmed volume surge (1.8×).
+*   **HDFCBANK.NS:** Strong momentum (90.6) and significant volume (17.5×).
+*   **INFY.NS:** High momentum (86.7) with massive volume participation (17.4×).
+
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Entries:** Despite the breakouts, the system has not triggered an automated entry yet. Do not force trades.
+*   **Strict Risk Cap:** Limit losses to **₹100 per trade** (2% of your ₹5,000 capital).
+*   **Position Limit:** Never hold more than **2 trades simultaneously**.
+*   **Mandatory Exit:** All positions must be closed by **15:10 IST**. No exceptions for overnight holding.
+*   **Stop-Loss Discipline:** If a trade hits the -0.4% stop-loss, exit immediately. **Never add to a losing position.**
+
+#### 💡 Action Plan
+1.  **Monitor:** Keep a close eye on the "Stocks to Watch" list.
+2.  **Wait for Trigger:** Only enter if the price sustains the breakout with the required volume surge.
+3.  **Protect Capital:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
 
 ---
 
 # 📈 Intraday Report — 2026-09-29
 
-> Auto-generated at **17:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
