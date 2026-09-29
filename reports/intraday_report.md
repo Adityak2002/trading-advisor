@@ -1,24 +1,12 @@
 # 🤖 Gemini AI Insights
 
-Based on the intraday report for September 29, 2026, here is your high-level trading summary:
-
-### 📈 Market Context
-The market showed a **polarized performance**. While high-momentum stocks in the Banking and IT sectors (HDFCBANK, INFY) surged significantly above their opening ranges, heavyweights like RELIANCE and TCS faced selling pressure and "broke down" below their opening lows.
-
-### 🚀 Top Entry Candidates (Based on Strategy Fit)
-These stocks met the "Breakout + Volume" criteria most effectively today:
-*   **ADANIENT.NS:** The strongest candidate. It broke its opening high with exactly the required **1.8× volume surge** and high momentum (91/100).
-*   **INFY.NS & HDFCBANK.NS:** Both showed **massive institutional interest** with volume surges over 17× their average. They are trading well above their "Opening High" levels.
-*   **AXISBANK.NS:** Currently "Inside Range" but sitting right at the breakout door (Price: ₹1,212.10 vs. High: ₹1,211.60). One to watch if the momentum continues.
-
-### ⚠️ Critical Warnings & Action Plan
-*   **Market Closed:** As it is now **16:31 IST**, the trading day is over. Per strategy rules, all positions **must be closed** (
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-09-29
 
-> Auto-generated at **16:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
