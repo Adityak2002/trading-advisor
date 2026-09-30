@@ -1,26 +1,30 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Analysis Summary: 2026-09-30
+### 📊 Market Summary: 2026-09-30
 
-The market is currently in a **low-conviction, consolidation phase**. Despite several stocks breaking their opening price ranges, none have met the strict volume requirements necessary to trigger a high-probability trade.
+The market is currently in a **low-conviction, consolidation phase**. Despite several stocks breaking their opening ranges, the lack of significant volume confirms that institutional participation is weak today. No trades were triggered as none of the breakout candidates met the strict volume-surge criteria.
 
-#### 🎯 Top Entry Candidates (Watchlist)
-*   **AXISBANK.NS:** Currently the strongest candidate. It has broken above its opening high and is trading above its average price. **Action:** Wait for a volume spike (currently only 0.6×) before entering.
-*   **POWERGRID.NS:** Showing strong momentum (57.5) and holding above its average price. **Action:** Monitor for a clean break above the ₹261.50 resistance level.
+---
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The system has correctly filtered out all "broken out" stocks because they lacked the required volume surge (≥1.8×). **Do not force entries.**
-*   **Volume Discipline:** Do not enter any trade unless the volume surge criteria is met. Low-volume breakouts are "fake-outs" and lead to unnecessary losses.
-*   **Hard Risk Cap:** You are limited to a maximum loss of **₹100 per trade**. If a trade triggers, ensure your stop-loss is set immediately at -0.4%.
-*   **End-of-Day Protocol:** All positions must be closed by **15:10 IST**. Do not hold any positions overnight under any circumstances.
+### 🚀 Top Entry Candidates (Watchlist)
+*   **AXISBANK.NS:** The strongest candidate. It has broken the opening high and is trading above its average price. **Action:** Monitor for a sudden volume spike to confirm the move.
+*   **POWERGRID.NS:** Currently coiling inside the opening range. **Action:** Keep on high alert for a breakout above ₹261.50 with increased volume.
 
-**Bottom Line:** The market is "quiet." Stay patient. The current lack of volume suggests the market is waiting for a catalyst. Stick to the rules and avoid over-trading.
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **Volume is King:** Do not chase breakouts that lack a volume surge (≥1.8× average). Low-volume breakouts are high-risk "fake-outs."
+*   **Strict Discipline:** With a small capital base (₹5,000), do not force trades. If the criteria aren't met, **stay in cash.**
+*   **Risk Cap:** Ensure your stop loss is strictly set at -0.4% (max ₹100 loss). Never widen your stop to "give it room."
+*   **No Overnight Risk:** The system will auto-close all positions at **15:10 IST**. Do not attempt to hold any position past this time.
+
+**Bottom Line:** The market is currently "wait-and-see." Focus exclusively on **AXISBANK** and **POWERGRID**; ignore the rest of the noise.
 
 ---
 
 # 📈 Intraday Report — 2026-09-30
 
-> Auto-generated at **17:13 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:35 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
