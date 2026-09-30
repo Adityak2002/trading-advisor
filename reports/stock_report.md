@@ -1,30 +1,32 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan (2026-09-30)
+### 📊 Market Summary: 2026-09-30
 
-The market is currently in a **"Wait and Watch"** phase. While global cues are positive, domestic weakness is keeping your momentum-pullback strategy on the sidelines.
+The market is currently in a **"Wait and See"** phase. While global cues (US markets) are bullish, domestic sentiment (Nifty) is dragging, keeping your strategy in a defensive, cash-heavy position.
 
-#### **Market Context**
-*   **Sentiment:** Neutral. Global markets (NASDAQ/S&P) are bullish, but Nifty is showing weakness, which is currently overriding your entry signals.
-*   **Volatility:** India VIX is low (13.49), suggesting a stable environment, but the lack of a clear trend in Nifty is preventing new deployments.
-*   **Capital Status:** 100% Cash (₹10,000). No active positions.
+#### 🌍 Market Context
+*   **Sentiment:** Neutral. Global tech strength is being offset by local weakness.
+*   **Risk:** Low (VIX at 13.5), but the Nifty is currently trading below its 20-day EMA, which acts as a "red light" for your momentum strategy.
+*   **Commodities:** Crude oil is up (+2.23%), which may impact margins for manufacturing-heavy stocks.
 
-#### **Top Entry Candidates**
-*   **Status:** **Zero entries.** All stocks on your watchlist are currently failing your "Momentum Pullback" criteria.
-*   **The "Closest" Watch:** **TITAN.NS** is the highest-ranked candidate (-25.0 score). It is currently oversold (RSI 26) and significantly below its 21-day EMA. 
-*   **Action:** Do not buy yet. Wait for the Nifty to reclaim its 20-EMA and for individual stocks to show signs of price stabilization (RSI moving back into the 42–55 range).
+#### 🎯 Entry Candidates
+*   **Status:** **Zero entries.** 
+*   **Why?** Your strategy requires a specific "Momentum Pullback" setup (RSI between 42–55 and price proximity to the 21-day EMA). Currently, most stocks are either oversold (RSI too low) or trending below their 50-day EMA, failing to meet your quality criteria.
+*   **Watchlist:** Keep an eye on **TITAN.NS** and **HDFCBANK.NS**. They are the closest to your entry criteria, but they are not yet "green" for deployment.
 
-#### **Critical Warnings & Strategy Notes**
-*   **Strategy Discipline:** Your current strategy requires Nifty to be above its 20-EMA to trigger entries. **Do not force a trade** while the index is bearish; the risk of a "falling knife" scenario is high.
-*   **Performance Check:** Your last trade resulted in a -7.14% loss (Stop-loss hit). Ensure your risk management remains strict—do not increase position sizing to "recover" losses.
-*   **Key Trigger to Watch:** Look for a reversal in Nifty. Once the index stabilizes above its 20-EMA, your watchlist scores will likely improve rapidly, signaling potential entry points.
+#### ⚠️ Critical Warnings & Strategy Health
+*   **Capital Preservation:** You are currently 100% in cash. This is the correct move given the current market structure. Do not force trades while the Nifty remains below its 20-EMA.
+*   **Performance Check:** Your strategy is currently at a **0% win rate** with one closed loss (-₹243.50). 
+*   **Actionable Advice:** 
+    *   **Stay Patient:** The current "Skip" status across your entire watchlist is a sign that the market is not providing the high-probability setups your strategy requires.
+    *   **Monitor the Nifty:** Your primary "Go" signal is the Nifty reclaiming its 20-day EMA. Until that happens, keep your capital idle to avoid catching a falling knife.
 
-**Bottom Line:** Keep your capital idle. The market is not currently offering the "momentum pullback" setup you require. **Patience is your primary tool today.**
+***Disclaimer:** This is a quantitative analysis report. Continue to exercise manual discipline and avoid over-trading during periods of low market alignment.*
 
 ---
 
 # 📈 Stock Delivery Report — 2026-09-30
-> *Auto-generated at 19:55 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 21:43 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -36,17 +38,17 @@ The market is currently in a **"Wait and Watch"** phase. While global cues are p
 |---------------|-------|--------|
 | Nifty 50 | 22,620.45 | 📉 -0.42% |
 | India VIX | 13.49 | 📈 +0.60% |
-| S&P 500 (overnight) | 7,712.45 | 📈 +0.54% |
-| NASDAQ | 27,049.17 | 📈 +0.94% |
-| WTI Crude Oil | $90.99 | 📈 +1.80% |
+| S&P 500 (overnight) | 7,718.50 | 📈 +0.62% |
+| NASDAQ | 27,084.50 | 📈 +1.07% |
+| WTI Crude Oil | $91.37 | 📈 +2.23% |
 | USD / INR | 95.8200 | 📉 -0.17% |
 
 **Key Factors:**
 - VIX 13.5 — Low fear 🟢 (full sizing)
-- S&P 500 +0.54% — Positive overnight cues 📈
-- NASDAQ +0.94% — Tech bullish (N100/MAFANG +ve)
+- S&P 500 +0.62% — Positive overnight cues 📈
+- NASDAQ +1.07% — Tech bullish (N100/MAFANG +ve)
 - Nifty -0.42% — Domestic market bearish
-- WTI Crude $90.99 (+1.80%) — Bullish for OILIETF 📈
+- WTI Crude $91.37 (+2.23%) — Bullish for OILIETF 📈
 - USD/INR 95.82 (-0.168%) — USD stable
 
 ---
@@ -124,6 +126,6 @@ The market is currently in a **"Wait and Watch"** phase. While global cues are p
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-30 19:55 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-30 21:43 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
