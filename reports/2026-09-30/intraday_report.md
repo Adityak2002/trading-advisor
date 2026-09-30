@@ -1,15 +1,26 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today's trading setup:
+### 📊 Market Analysis Summary: 2026-09-30
 
-### 📉 Market Context: Weak & Bearish
-* **Dominant Downward Pressure:** The market is showing significant
+The market is currently in a **low-conviction, consolidation phase**. Despite several stocks breaking their opening price ranges, none have met the strict volume requirements necessary to trigger a high-probability trade.
+
+#### 🎯 Top Entry Candidates (Watchlist)
+*   **AXISBANK.NS:** Currently the strongest candidate. It has broken above its opening high and is trading above its average price. **Action:** Wait for a volume spike (currently only 0.6×) before entering.
+*   **POWERGRID.NS:** Showing strong momentum (57.5) and holding above its average price. **Action:** Monitor for a clean break above the ₹261.50 resistance level.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The system has correctly filtered out all "broken out" stocks because they lacked the required volume surge (≥1.8×). **Do not force entries.**
+*   **Volume Discipline:** Do not enter any trade unless the volume surge criteria is met. Low-volume breakouts are "fake-outs" and lead to unnecessary losses.
+*   **Hard Risk Cap:** You are limited to a maximum loss of **₹100 per trade**. If a trade triggers, ensure your stop-loss is set immediately at -0.4%.
+*   **End-of-Day Protocol:** All positions must be closed by **15:10 IST**. Do not hold any positions overnight under any circumstances.
+
+**Bottom Line:** The market is "quiet." Stay patient. The current lack of volume suggests the market is waiting for a catalyst. Stick to the rules and avoid over-trading.
 
 ---
 
 # 📈 Intraday Report — 2026-09-30
 
-> Auto-generated at **16:21 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:13 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
