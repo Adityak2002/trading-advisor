@@ -1,15 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **September 30, 2026**:
+### 📊 Market Summary: 2026-09-30
 
-### 📉 Market Context: Weak & Bearish
-* **Downward
+The market is currently in a **"Wait and See"** phase. Despite several stocks breaking their opening range, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability trade.
+
+#### 🎯 Top Entry Candidates
+*   **AXISBANK.NS:** Currently the strongest candidate. It has broken the opening high and is trading above its average price. **Watch for a sudden volume spike** to confirm entry.
+*   **POWERGRID.NS:** Currently consolidating inside the opening range. Keep this on your radar; a breakout above ₹261.50 with volume would signal a potential move.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** Do not force entries. The current "Action Scores" are low across the board, indicating weak conviction in the current price action.
+*   **Volume is King:** Even if a stock breaks its high, **do not trade** unless the volume surge is at least 1.8× the average. This is your primary filter to avoid "fake-outs."
+*   **Strict Discipline:** 
+    *   Max loss is capped at **₹100 per trade**.
+    *   If you enter, ensure your stop loss is set at **-0.4%** immediately.
+    *   All positions must be closed by **15:10 IST**—no exceptions.
+
+**Bottom Line:** The market lacks the necessary momentum today. Stay patient and wait for the volume-backed breakout before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-09-30
 
-> Auto-generated at **20:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
