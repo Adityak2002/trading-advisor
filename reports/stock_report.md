@@ -1,47 +1,36 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: September 29, 2026
+Here is your high-level, actionable summary of the trading report:
 
-**Market Context: 🟡 Neutral / Wait-and-Watch**
-*   **Nifty 50:** Down -0.28% (22,716). Crucially, it is trading **below its 20-day EMA**, which acts as a "red light" for new momentum entries.
-*   **Volatility (VIX):** 13.41 (Low). Fear is low, but the lack of upward price action suggests a lack of conviction in the market.
-*   **Global Cues:** Mixed to negative. S&P 500 and NASDAQ both closed slightly red; Crude Oil dropped -2%, which is generally a positive for Indian markets but hasn't triggered a rally yet.
-
-**Top Entry Candidates: 🚫 None (Stay in Cash)**
-No stocks met the "Momentum Pullback" criteria today. The system is intentionally keeping you on the sidelines because the technical setup isn't perfect.
-*   **Closest Watch (TITAN):** Currently the highest-ranked, but RSI is too low (30), indicating it hasn't stabilized enough to bounce yet.
-*   **Blue Chip Watch (HDFCBANK):** RSI is too high (67); we are waiting for a "cool down" (pullback) to the 42–55 range before entering.
-
-**Critical Warnings & Actions**
-*   **Action:** **Do Not Trade.** Your capital is 100% idle (₹10,000 cash), which is the correct position when the Nifty is below its 20-day average.
-*   **Strategy Filter:** Every single stock on the watchlist is currently blocked because the **Nifty is below its 20-EMA**. This is a safety mechanism to prevent buying into a falling market.
-*   **Portfolio Health:** You have a
+### 🌍 Market Context: **Proceed with Caution**
+* **Overall Signal:** 🟡 **Mildly Bullish (Caut
 
 ---
 
-# 📈 Stock Delivery Report — 2026-09-29
-> *Auto-generated at 21:48 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 📈 Stock Delivery Report — 2026-09-30
+> *Auto-generated at 15:36 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟢 Bullish — Good day for entries
+**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 22,716.20 | 📉 -0.28% |
-| India VIX | 13.41 | 📉 -1.67% |
-| S&P 500 (overnight) | 7,659.88 | 📉 -0.31% |
-| NASDAQ | 26,765.45 | 📉 -0.20% |
-| WTI Crude Oil | $90.67 | 📉 -2.08% |
-| USD / INR | 95.9700 | 📈 +0.19% |
+| Nifty 50 | 22,620.45 | 📉 -0.42% |
+| India VIX | 13.53 | 📈 +0.90% |
+| S&P 500 (overnight) | 7,670.84 | 📉 -0.17% |
+| NASDAQ | 26,797.54 | 📉 -0.09% |
+| WTI Crude Oil | $90.24 | 📈 +0.96% |
+| USD / INR | 95.8300 | 📉 -0.16% |
 
 **Key Factors:**
-- VIX 13.4 — Low fear 🟢 (full sizing)
-- S&P 500 -0.31% — Neutral
-- WTI Crude $90.67 (-2.08%) — Bearish for OILIETF 📉
-- USD/INR 95.97 (+0.190%) — USD stable
+- VIX 13.5 — Low fear 🟢 (full sizing)
+- S&P 500 -0.17% — Neutral
+- Nifty -0.42% — Domestic market bearish
+- WTI Crude $90.24 (+0.96%) — Neutral for OILIETF
+- USD/INR 95.83 (-0.158%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -70,16 +59,16 @@ No stocks met the "Momentum Pullback" criteria today. The system is intentionall
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| HDFCBANK.NS | -45.0 | RSI=67 (need 42–55) · EMA21 < EMA50 · Price -0.1% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-45 (need ≥50) |
-| ICICIBANK.NS | -84.5 | RSI=12 (need 42–55) · EMA21 < EMA50 · Price -4.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-84 (need ≥50) |
-| RELIANCE.NS | -89.0 | RSI=24 (need 42–55) · EMA21 < EMA50 · Price -5.2% from EMA21 (need ±4%) · VolZ=2.9 (need ≤2.0) · Nifty below 20-EMA ❌ · Score=-89 (need ≥50) |
+| HDFCBANK.NS | -35.8 | RSI=57 (need 42–55) · EMA21 < EMA50 · Price -1.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-36 (need ≥50) |
+| ICICIBANK.NS | -71.8 | RSI=29 (need 42–55) · EMA21 < EMA50 · Price -2.4% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-72 (need ≥50) |
+| RELIANCE.NS | -71.8 | RSI=26 (need 42–55) · EMA21 < EMA50 · Price -4.4% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-72 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| TITAN.NS | -29.5 | RSI=30 (need 42–55) · Price -4.6% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-30 (need ≥50) |
-| KEI.NS | -56.0 | RSI=38 (need 42–55) · EMA21 < EMA50 · Price -6.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-56 (need ≥50) |
-| CDSL.NS | -61.0 | RSI=32 (need 42–55) · EMA21 < EMA50 · Price -5.9% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-61 (need ≥50) |
+| TITAN.NS | -26.8 | RSI=26 (need 42–55) · Price -5.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-27 (need ≥50) |
+| KEI.NS | -62.8 | RSI=39 (need 42–55) · EMA21 < EMA50 · Price -5.8% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-63 (need ≥50) |
+| CDSL.NS | -64.8 | RSI=34 (need 42–55) · EMA21 < EMA50 · Price -5.2% from EMA21 (need ±4%) · Nifty below 20-EMA ❌ · Score=-65 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -91,17 +80,17 @@ No stocks met the "Momentum Pullback" criteria today. The system is intentionall
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | TITAN.NS | -29.5 | 30 | 🟢 | — | 2.0 | ⏸ Skip |
-| 2 | HDFCBANK.NS | -45.0 | 67 | 🔴 | — | 1.2 | ⏸ Skip |
-| 3 | KEI.NS | -56.0 | 38 | 🔴 | — | -0.0 | ⏸ Skip |
-| 4 | CDSL.NS | -61.0 | 32 | 🔴 | — | 0.5 | ⏸ Skip |
-| 5 | BAJFINANCE.NS | -61.0 | 36 | 🔴 | — | 0.9 | ⏸ Skip |
-| 6 | HAVELLS.NS | -64.0 | 30 | 🔴 | — | 0.4 | ⏸ Skip |
-| 7 | ANGELONE.NS | -74.0 | 29 | 🔴 | — | -0.1 | ⏸ Skip |
-| 8 | POLYCAB.NS | -79.0 | 38 | 🔴 | — | 2.8 | ⏸ Skip |
-| 9 | ICICIBANK.NS | -84.5 | 12 | 🔴 | — | 1.9 | ⏸ Skip |
-| 10 | PIDILITIND.NS | -84.5 | 27 | 🔴 | — | 1.7 | ⏸ Skip |
-| 11 | RELIANCE.NS | -89.0 | 24 | 🔴 | — | 2.9 | ⏸ Skip |
+| 1 | TITAN.NS | -26.8 | 26 | 🟢 | — | 1.1 | ⏸ Skip |
+| 2 | HDFCBANK.NS | -35.8 | 57 | 🔴 | — | 1.0 | ⏸ Skip |
+| 3 | KEI.NS | -62.8 | 39 | 🔴 | — | -0.8 | ⏸ Skip |
+| 4 | CDSL.NS | -64.8 | 34 | 🔴 | — | -0.5 | ⏸ Skip |
+| 5 | POLYCAB.NS | -64.8 | 35 | 🔴 | — | 0.1 | ⏸ Skip |
+| 6 | BAJFINANCE.NS | -64.8 | 33 | 🔴 | — | 0.2 | ⏸ Skip |
+| 7 | ANGELONE.NS | -64.8 | 31 | 🔴 | — | -0.4 | ⏸ Skip |
+| 8 | ICICIBANK.NS | -71.8 | 29 | 🔴 | — | 1.5 | ⏸ Skip |
+| 9 | RELIANCE.NS | -71.8 | 26 | 🔴 | — | 1.1 | ⏸ Skip |
+| 10 | PIDILITIND.NS | -71.8 | 29 | 🔴 | — | 1.1 | ⏸ Skip |
+| 11 | HAVELLS.NS | -71.8 | 27 | 🔴 | — | 1.0 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -118,6 +107,6 @@ No stocks met the "Momentum Pullback" criteria today. The system is intentionall
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-09-29 21:48 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-09-30 15:36 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
