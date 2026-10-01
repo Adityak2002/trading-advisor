@@ -1,33 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### **📈 Market Summary: Oct 01, 2026 (Post-Market Review)**
+Here is a high-level, actionable summary of today’s trading setup:
 
-The market showed a clear divide today. While the Tech sector showed signs of strength, heavyweights in Banking and Energy faced downward pressure. Since it is now **16:07 IST**, the trading session is closed, and all positions should be squared off per the 15:10 IST rule.
-
----
-
-### **🚀 Top Performance Highlights**
-*   **INFY.NS (Star Performer):** The only stock that perfectly met the strategy criteria. It broke out of its opening range with a **massive 4.4× volume surge** and strong momentum (84). This was the high-conviction trade of the day.
-*   **HDFCBANK.NS (False Signal):** Although it broke above its opening high, it lacked the necessary "oomph." Volume was only 0.6× (well below the 1.8× requirement), making it a low-quality breakout to avoid.
-*   **Sector Weakness:** **RELIANCE, ICICI, and AXIS** all broke *below* their opening ranges, signaling a bearish day for these heavyweights.
-
----
-
-### **🎯 Key Entry Candidates (For Next Session)**
-Based on today's momentum, keep these on your radar for tomorrow’s opening range:
-*   **INFY.NS:** Strongest buyer interest; look for continuation.
-*   **TCS & WIPRO:** Both remained "Inside Range" today with high momentum scores (>80). They are coiled springs waiting for a breakout.
-
----
-
-### **⚠️ Critical Risk & Strategy Warnings**
-*   **Market is Closed:** All intraday trades **must be closed**. Do not carry any of these positions overnight, as the strategy is strictly for intrad
+### 📈 Market Context
+* **Mixed Market Sentiment:** The market is highly polarized today. While IT stocks are showing
 
 ---
 
 # 📈 Intraday Report — 2026-10-01
 
-> Auto-generated at **16:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
