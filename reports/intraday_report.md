@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+Here is your high-level, actionable summary of the trading report:
 
 ### 📈 Market Context
-The market is showing a **neutral-to-bearish bias** today. Out of the 12
+* **The Strategy:** We are tracking stocks breaking out of their initial 15
 
 ---
 
 # 📈 Intraday Report — 2026-10-01
 
-> Auto-generated at **19:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
