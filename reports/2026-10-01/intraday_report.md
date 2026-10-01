@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level, actionable summary of the trading report:
+### 📊 Market Summary & Action Plan
 
-### 📈 Market Context
-* **The Strategy:** We are tracking stocks breaking out of their initial 15
+The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the strict volume requirements for a high-probability breakout are not being met across the board.
+
+#### **Top Entry Candidates (Watchlist)**
+*   **INFY.NS:** Strongest candidate. It has broken the opening high with a significant **4.4× volume surge**. Keep this at the top of your radar.
+*   **HDFCBANK.NS:** Has broken the opening high, but currently lacks the required volume confirmation (only 0.6×). Monitor for a sudden spike in buying pressure.
+*   **TCS.NS & WIPRO.NS:** Both are currently trading inside the opening range. They are showing high momentum; watch for a clean breakout above their respective opening highs.
+
+#### **Critical Warnings & Risk Management**
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force a trade; wait for the volume surge criteria (≥1.8×) to be met.
+*   **Strict Discipline:** 
+    *   **Max 2 Trades:** Do not over-leverage.
+    *   **Risk Cap:** Ensure your position size limits loss to **₹100 per trade**.
+    *   **Auto-Exit:** All positions must be closed by **15:10 IST**.
+*   **Avoid "Broken Down" Stocks:** Steer clear of RELIANCE, ICICIBANK, and ADANIENT, as they are currently showing bearish price action below their opening ranges.
+
+**Bottom Line:** The setup is primed for IT sector strength (INFY/TCS/WIPRO). Wait for the volume confirmation before pulling the trigger.
 
 ---
 
 # 📈 Intraday Report — 2026-10-01
 
-> Auto-generated at **20:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
