@@ -1,16 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading setup:
+Here is a high-level, actionable summary of the trading report:
 
 ### 📈 Market Context
-* **Mixed Market Sentiment:** Out of the 12 watched stocks, 2 have broken out to the upside, 5 are stuck trading within their opening range, and 5 have broken down. 
-* **The Strategy:** We
+The market is showing a **neutral-to-bearish bias** today. Out of the 12
 
 ---
 
 # 📈 Intraday Report — 2026-10-01
 
-> Auto-generated at **17:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
