@@ -1,12 +1,30 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Market Summary: 2026-10-05
+
+The market is showing clear bullish intent with several stocks breaking above their opening ranges. While the system is currently in a "wait-and-see" mode for new entries, the setup is primed for momentum-based breakouts.
+
+#### **Top Entry Candidates (High Momentum & Volume)**
+*   **ICICIBANK.NS:** Strongest candidate. It has cleared the opening high with a significant **2.0× volume surge**, indicating high institutional interest.
+*   **TCS.NS:** Solid secondary candidate. Shows strong momentum (72) and a healthy **1.8× volume surge** confirming the breakout.
+
+#### **Market Context**
+*   **Bullish Bias:** Multiple stocks (ICICIBANK, TCS, ADANIENT, RELIANCE, TMPV) have successfully broken above their opening highs.
+*   **Stagnation:** Stocks like WIPRO, INFY, and SBIN are currently trapped inside their opening ranges; avoid these until a clear breakout occurs.
+*   **Bearish Signals:** HDFCBANK and AXISBANK have broken below their opening lows—**do not attempt to buy these** under the current strategy.
+
+#### **Critical Warnings & Risk Management**
+*   **Strict Entry Criteria:** Do not enter unless the price is above the opening high **AND** volume is at least 1.8× the average.
+*   **Risk Cap:** Never risk more than **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **Position Limit:** Keep a maximum of **2 active trades** simultaneously to maintain focus.
+*   **Mandatory Exit:** All positions must be closed by **15:10 IST**. No overnight holdings allowed.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
 
 ---
 
 # 📈 Intraday Report — 2026-10-05
 
-> Auto-generated at **20:50 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:22 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
