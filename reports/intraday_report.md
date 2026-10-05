@@ -1,19 +1,37 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report:
+### 📊 Market Summary: 2026-10-05
 
-### 📈 Market Context
-The strategy is designed to capture quick, intraday gains by identifying stocks that break above their initial 15-minute opening range (9:15–9:30 AM). To filter out false moves, a valid buy signal requires the price to break upward accompanied by a **strong volume surge (at least 1.8x the average volume)**. 
+The market shows a **bullish bias** with several key stocks breaking above their opening range. However, despite the breakouts, the system has flagged **no active entries** at this moment, suggesting a "wait-and-see" approach to ensure volume confirmation meets your strict criteria.
 
 ---
 
-### 🎯
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are currently showing the strongest momentum:
+
+*   **TMPV.NS:** Highest momentum score (75.3); currently trading well above its opening high.
+*   **TCS.NS:** Strong momentum (72.0) with a solid volume surge (1.8×).
+*   **ICICIBANK.NS:** High volume confirmation (2.0×) and solid momentum (65.0).
+
+---
+
+### ⚠️ Critical Rules & Warnings
+
+*   **Volume is King:** Do not enter a trade unless the volume surge is **≥1.8×** the average. Even if a stock breaks the price range, low volume signals a "fakeout."
+*   **Strict Risk Cap:** You are limited to **2 concurrent trades**. Do not over-leverage.
+*   **Hard Stop-Loss:** If a trade hits the **-0.4%** mark, exit immediately. **Never** hold a losing trade hoping for a reversal.
+*   **Auto-Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once you hit **+0.5% profit**, move your stop-loss to breakeven to protect your capital.
+
+---
+
+**Analyst Note:** The market is currently in a "setup" phase. Focus on **TMPV** and **TCS** if they maintain their momentum; ignore any stocks that fail to show the required volume surge.
 
 ---
 
 # 📈 Intraday Report — 2026-10-05
 
-> Auto-generated at **17:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:45 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
