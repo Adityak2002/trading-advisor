@@ -1,31 +1,19 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-05
+Here is a concise, high-level summary of the trading report:
 
-The market shows a clear **bullish bias** for the Opening Price Breakout strategy, with several high-momentum stocks clearing their opening ranges. However, despite the breakouts, the system has not triggered formal entries, suggesting a cautious wait-and-see approach.
+### 📈 Market Context
+The strategy is designed to capture quick, intraday gains by identifying stocks that break above their initial 15-minute opening range (9:15–9:30 AM). To filter out false moves, a valid buy signal requires the price to break upward accompanied by a **strong volume surge (at least 1.8x the average volume)**. 
 
-#### 🚀 Top Entry Candidates (High Momentum)
-These stocks have broken above their opening highs with strong momentum and volume:
-*   **ICICIBANK.NS:** Strongest volume surge (2.0×); high action score.
-*   **TCS.NS:** High momentum (72) and solid volume (1.8×).
-*   **ADANIENT.NS & RELIANCE.NS:** Both show valid breakouts, though volume is slightly lower than the leaders.
+---
 
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Entries:** Despite the breakouts, the system is currently holding off. Do not force trades.
-*   **Strict Risk Cap:** Limit loss to **₹100 per trade** (2% of your ₹5,000 capital).
-*   **Position Limit:** Never exceed **2 concurrent trades**.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No exceptions for overnight holding.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
-
-#### 📉 What to Avoid
-*   **Inside Range Stocks:** Avoid *WIPRO, INFY, SBIN, BAJFINANCE,* and *POWERGRID*. They lack the necessary momentum to trigger the strategy.
-*   **Breakdowns:** *HDFCBANK* and *AXISBANK* have broken below their opening lows; these are currently "avoid" zones for this long-only strategy.
+### 🎯
 
 ---
 
 # 📈 Intraday Report — 2026-10-05
 
-> Auto-generated at **16:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
