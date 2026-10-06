@@ -1,15 +1,27 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, actionable summary of today’s intraday trading setup:
+### 📊 Market Summary: 2026-10-06
 
-### 📈 Market Context
-* **Bullish Morning Momentum:** Major large-cap stocks (Reliance, ICICI Bank
+The market is currently in a **"Wait and See"** phase. While several stocks have broken above their opening range, the lack of significant volume confirmation across the board suggests a lack of conviction from institutional buyers.
+
+#### 🚀 Top Entry Candidates
+*   **AXISBANK.NS:** The only stock meeting all criteria. It has broken the opening high with a strong volume surge (1.9×), signaling genuine momentum.
+*   **Watchlist:** Keep a close eye on **RELIANCE.NS, ICICIBANK.NS, and HDFCBANK.NS**. They have broken their opening highs, but are currently lacking the required volume surge to trigger a high-probability entry.
+
+#### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not enter a trade just because the price is high. Only enter if the volume is at least **1.8× the average**.
+*   **Strict Risk Cap:** You are limited to a maximum of **₹100 loss per trade**. If the price hits your stop loss, exit immediately—do not hope for a reversal.
+*   **Position Limit:** Do not hold more than **2 active trades** simultaneously.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Avoid:** **BAJFINANCE.NS and ADANIENT.NS** are showing bearish breakdowns; avoid any long positions in these tickers.
+
+**Action Plan:** Focus exclusively on **AXISBANK.NS** for a potential long entry. Monitor the others for a sudden spike in volume before committing capital.
 
 ---
 
 # 📈 Intraday Report — 2026-10-06
 
-> Auto-generated at **18:03 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
