@@ -1,27 +1,27 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-06
+### 📊 Market Analysis Summary: 2026-10-06
 
-The market is currently in a **"Wait and See"** phase. While several stocks have broken above their opening range, the lack of significant volume confirmation across the board suggests a lack of conviction from institutional buyers.
+The market is currently in a **consolidation phase** following the initial morning volatility. While several stocks have technically breached their opening ranges, the lack of high-conviction volume confirms a "wait-and-see" environment.
 
 #### 🚀 Top Entry Candidates
-*   **AXISBANK.NS:** The only stock meeting all criteria. It has broken the opening high with a strong volume surge (1.9×), signaling genuine momentum.
-*   **Watchlist:** Keep a close eye on **RELIANCE.NS, ICICIBANK.NS, and HDFCBANK.NS**. They have broken their opening highs, but are currently lacking the required volume surge to trigger a high-probability entry.
+*   **AXISBANK.NS:** The only stock currently meeting your strict criteria. It has broken the opening high with a **1.9× volume surge**, signaling genuine institutional interest.
+*   **Watchlist:** Keep a close eye on **RELIANCE.NS** and **ICICIBANK.NS**. They have broken their opening highs, but are currently lacking the required volume confirmation to trigger a buy.
 
-#### ⚠️ Critical Warnings & Rules
-*   **Volume is King:** Do not enter a trade just because the price is high. Only enter if the volume is at least **1.8× the average**.
-*   **Strict Risk Cap:** You are limited to a maximum of **₹100 loss per trade**. If the price hits your stop loss, exit immediately—do not hope for a reversal.
-*   **Position Limit:** Do not hold more than **2 active trades** simultaneously.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Avoid:** **BAJFINANCE.NS and ADANIENT.NS** are showing bearish breakdowns; avoid any long positions in these tickers.
+#### ⚠️ Critical Warnings & Risk Management
+*   **Volume is King:** Do not enter trades based on price movement alone. If the volume surge (≥1.8× average) is missing, the breakout is likely a "fake-out."
+*   **Strict Exposure:** Limit yourself to a maximum of **2 active trades**. Do not over-leverage your ₹5,000 capital.
+*   **Hard Stop-Loss:** Your risk cap is **₹100 per trade**. If the price hits your -0.4% stop-loss, exit immediately—no exceptions.
+*   **EOD Discipline:** All positions must be closed by **15:10 IST**. Do not hold any positions overnight.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
 
-**Action Plan:** Focus exclusively on **AXISBANK.NS** for a potential long entry. Monitor the others for a sudden spike in volume before committing capital.
+**Bottom Line:** The market is quiet. **AXISBANK.NS** is your primary focus; stay patient and wait for volume confirmation on others before deploying capital.
 
 ---
 
 # 📈 Intraday Report — 2026-10-06
 
-> Auto-generated at **19:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:17 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
