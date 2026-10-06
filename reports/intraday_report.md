@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **October 6, 2026**:
+Here is a concise, high-level summary of the trading report, tailored for quick decision-making:
 
-### 📈 Market Context
-* **Selective Bullishness
+### 🌐 Market Context
+* **Mixed Market Sentiment:** Out of 12 watched stocks
 
 ---
 
 # 📈 Intraday Report — 2026-10-06
 
-> Auto-generated at **16:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
