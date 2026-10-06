@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report, tailored for quick decision-making:
+Here is a concise, actionable summary of today’s intraday trading setup:
 
-### 🌐 Market Context
-* **Mixed Market Sentiment:** Out of 12 watched stocks
+### 📈 Market Context
+* **Bullish Morning Momentum:** Major large-cap stocks (Reliance, ICICI Bank
 
 ---
 
 # 📈 Intraday Report — 2026-10-06
 
-> Auto-generated at **17:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:03 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
