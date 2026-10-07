@@ -1,28 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-07
+Here is a high-level, actionable summary of the trading report for **October 7, 2026**:
 
-The market is currently in a **low-volatility consolidation phase**. Most watchlist stocks are trading within their initial 15-minute opening ranges, indicating a lack of directional conviction for the remainder of the session.
-
-#### 🚀 Top Entry Candidates
-*   **ICICIBANK.NS:** The only stock to show a confirmed breakout. It cleared the opening high with a significant **3.6× volume surge**. 
-    *   *Note:* While it met the breakout criteria, the report shows no active entry, likely due to the timing of the scan or specific price-action filters. Monitor for pullbacks to the breakout level.
-
-#### ⚠️ Critical Warnings & Status
-*   **No New Signals:** The majority of the watchlist (Axis, SBI, Reliance, etc.) is trapped "Inside Range." Do not force trades; wait for a clean break of the opening high with high volume.
-*   **Bearish Sentiment:** Several heavyweights (HDFCBANK, INFY, ADANIENT) have broken *below* their opening lows, suggesting underlying weakness in the broader market.
-*   **Strict Discipline:** 
-    *   **Auto-Close:** All positions must be squared off by **15:10 IST**.
-    *   **Risk Cap:** Do not exceed a **₹100 loss per trade**.
-    *   **No Averaging:** If a trade hits the -0.4% stop loss, exit immediately. Do not add to losing positions.
-
-**Action Plan:** Stay on the sidelines unless a stock breaks its opening high with a clear volume spike. If no further breakouts occur, preserve capital and wait for tomorrow's session.
+### 📈 Market Context
+The market exhibited a
 
 ---
 
 # 📈 Intraday Report — 2026-10-07
 
-> Auto-generated at **16:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:58 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
