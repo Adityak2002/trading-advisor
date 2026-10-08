@@ -1,19 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is a high-level, actionable summary of the trading report:
 
-### 📉 Market Context: Weak & Bearish
-* **Overall Market Weakness:** The majority of watched stocks (8 out of 12) have broken *below* their opening 15-minute range. This indicates a downward bias in the market today, meaning we must be highly selective and patient before entering any buy positions.
+### 📉 Market Context: Bearish & Heavy
+* **Dominant Downward Trend:** The market is experiencing strong downward pressure. Out of 12 watchlist stocks, **8 have broken down** below their morning lows (including heavyweights like Reliance, TCS, and HDFC Bank). 
+* **Lack of Buying Interest:** Only one stock (Axis Bank) attempted an upward breakout, but it failed to sustain momentum due to weak volume.
 
-### 🔍 Top Candidates to Watch
-* **No Active Buy Signals:** There are currently **zero** active trades. Do not force any entries.
-* **Top Watchlist Stock — BAJFINANCE.NS:** This is the strongest candidate. It is holding steady "Inside Range," trading above its average price, and showing good momentum.
+### 🎯 Top Entry Candidates (On Watch)
+There are **no active buy signals** at the moment. However, keep a close eye on these setups:
+* **BAJFINANCE (Top Watch):** This is the strongest candidate. It is trading inside its morning range (₹946.45 – ₹960.00),
 
 ---
 
 # 📈 Intraday Report — 2026-10-08
 
-> Auto-generated at **19:37 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:46 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
