@@ -1,16 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is a high-level, actionable summary of the trading report:
 
-### 📉 Market Context: Highly Bearish
-* **Downward Bias:** The market experienced significant downward pressure today. Out of the 12 watchlist stocks, **8 broke down** below their opening range (including heavyweights like Reliance, TCS, and HDFC Bank). 
-* **Weak Breakouts:** Only AXISBANK managed an upward breakout, but it lacked the necessary volume surge and price strength to sustain it, making it a trap rather than a trade
+### 📉 Market Context: Highly Bearish Bias
+* **Dominant Downward Trend:** The market is showing significant weakness
 
 ---
 
 # 📈 Intraday Report — 2026-10-08
 
-> Auto-generated at **16:34 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
