@@ -1,15 +1,16 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
+Here is a high-level, actionable summary of the trading report for **October 8, 2026**:
 
-### 📉 Market Context: Highly Bearish Bias
-* **Dominant Downward Trend:** The market is showing significant weakness
+### 📉 Market Context: Strongly Bearish
+* **Downward Market Bias:** The overall market is showing significant weakness. Out of the 12 watched stocks, **8 have broken down** below their morning lows (including heavyweights like Reliance, HDFC Bank, and SBI). 
+* **Lack of Buying Pressure:** Only one stock
 
 ---
 
 # 📈 Intraday Report — 2026-10-08
 
-> Auto-generated at **17:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
