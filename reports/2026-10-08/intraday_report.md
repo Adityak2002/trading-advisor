@@ -1,16 +1,19 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report for **October 8, 2026**:
+Here is a high-level, actionable summary of today’s trading report:
 
-### 📉 Market Context: Strongly Bearish
-* **Downward Market Bias:** The overall market is showing significant weakness. Out of the 12 watched stocks, **8 have broken down** below their morning lows (including heavyweights like Reliance, HDFC Bank, and SBI). 
-* **Lack of Buying Pressure:** Only one stock
+### 📉 Market Context: Weak & Bearish
+* **Overall Market Weakness:** The majority of watched stocks (8 out of 12) have broken *below* their opening 15-minute range. This indicates a downward bias in the market today, meaning we must be highly selective and patient before entering any buy positions.
+
+### 🔍 Top Candidates to Watch
+* **No Active Buy Signals:** There are currently **zero** active trades. Do not force any entries.
+* **Top Watchlist Stock — BAJFINANCE.NS:** This is the strongest candidate. It is holding steady "Inside Range," trading above its average price, and showing good momentum.
 
 ---
 
 # 📈 Intraday Report — 2026-10-08
 
-> Auto-generated at **18:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:37 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
