@@ -2,14 +2,14 @@
 
 Here is a high-level, actionable summary of the trading report:
 
-### 📈 Market Context & Strategy
-* **The Game Plan:** We are tracking the **Opening Price Breakout** strategy
+### 📈 Market Context
+* **Strategy:** Intraday Opening Price Breakout. We monitor stocks during the
 
 ---
 
 # 📈 Intraday Report — 2026-10-09
 
-> Auto-generated at **19:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
