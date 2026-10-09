@@ -1,15 +1,12 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the trading report:
-
-### 📈 Market Context
-* **Strategy:** Intraday Opening Price Breakout. We monitor stocks during the
+SBIN.NS (Top Pick):** The strongest setup. It broke out of its opening range with a massive **3.0x volume surge** (well above the 1.
 
 ---
 
 # 📈 Intraday Report — 2026-10-09
 
-> Auto-generated at **20:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
