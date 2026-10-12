@@ -1,12 +1,31 @@
 # 🤖 Gemini AI Insights
 
-SBIN.NS (Top Pick):** The strongest setup. It broke out of its opening range with a massive **3.0x volume surge** (well above the 1.
+Here is a high-level summary of today’s automated intraday report:
+
+### 📉 Market Context
+* **Overall Market Sentiment:** **Bearish / Weak.** 8 out of the 12 tracked stocks broke below their opening price range, indicating strong selling pressure across major indices.
+* **Capital Base:** Operating with a tight budget of ₹5,000 using an Opening Price Breakout strategy.
 
 ---
 
-# 📈 Intraday Report — 2026-10-09
+### 🎯 Top Candidates & Setups
+* **TMPV.NS (Top Standout):** The only stock that achieved a bullish breakout today, supported by a massive **4.1x volume surge** and strong momentum. 
+* **Watchlist Candidates:** **INFY.NS** and **AXISBANK.NS** held above their average price within their opening ranges, making them top candidates to watch if market sentiment flips positive.
+* **Active Trades:** **0 active buys.** No trades met all safety and entry criteria prior to market close.
 
-> Auto-generated at **21:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+---
+
+### ⚠️ Critical Warnings & Rules
+* **Market Status (Post-Market):** The report was generated at **17:01 IST**. Since all intraday positions auto-close by **15:10 IST**, no new trades can or should be taken today.
+* **Risk Limit:** Maximum loss is strictly capped at **₹100 per trade** (2% of total capital).
+* **Execution Rules:** 
+  *
+
+---
+
+# 📈 Intraday Report — 2026-10-12
+
+> Auto-generated at **17:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -23,18 +42,18 @@ SBIN.NS (Top Pick):** The strongest setup. It broke out of its opening range wit
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹959.10 | 🔼 Broken Out 🔼 | 32.8/100 | 63 | ✅ Yes | 3.0× | — |
-| **TMPV.NS** | ₹279.90 | 🔼 Broken Out 🔼 | 18.1/100 | 49 | ✅ Yes | 1.3× | — |
-| **ADANIENT.NS** | ₹2,634.40 | 🔼 Broken Out 🔼 | 14.8/100 | 33 | ✅ Yes | 1.7× | — |
-| **HDFCBANK.NS** | ₹707.25 | 🔼 Broken Out 🔼 | 14.2/100 | 48 | ✅ Yes | 1.0× | — |
-| **INFY.NS** | ₹1,023.40 | ▶ Inside Range ▶ | 9.6/100 | 57 | ✅ Yes | — | — |
-| **ICICIBANK.NS** | ₹1,355.00 | ▶ Inside Range ▶ | 7.5/100 | 46 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,170.30 | ▶ Inside Range ▶ | 3.6/100 | 42 | ✅ Yes | — | — |
-| **WIPRO.NS** | ₹162.57 | ▶ Inside Range ▶ | 2.9/100 | 48 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹960.00 | ▶ Inside Range ▶ | -2.8/100 | 36 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,259.10 | 🔼 Broken Out 🔼 | -4.9/100 | 47 | ❌ No | 0.8× | — |
-| **TCS.NS** | ₹2,156.00 | ▶ Inside Range ▶ | -5.2/100 | 30 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹249.15 | 🔼 Broken Out 🔼 | -9.0/100 | 24 | ❌ No | 0.8× | — |
+| **TMPV.NS** | ₹284.45 | 🔼 Broken Out 🔼 | 34.6/100 | 67 | ✅ Yes | 4.1× | — |
+| **AXISBANK.NS** | ₹1,253.00 | ▶ Inside Range ▶ | 5.5/100 | 56 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,020.00 | ▶ Inside Range ▶ | 0.4/100 | 71 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,630.00 | ▶ Inside Range ▶ | -2.3/100 | 52 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹957.25 | 🔽 Broken Down 🔽 | -12.6/100 | 36 | ❌ No | 2.0× | — |
+| **WIPRO.NS** | ₹161.80 | 🔽 Broken Down 🔽 | -13.0/100 | 51 | ❌ No | 1.2× | — |
+| **RELIANCE.NS** | ₹1,158.90 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.9× | — |
+| **HDFCBANK.NS** | ₹704.90 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.7× | — |
+| **SBIN.NS** | ₹941.00 | 🔽 Broken Down 🔽 | -17.0/100 | 53 | ❌ No | 0.8× | — |
+| **ICICIBANK.NS** | ₹1,340.00 | 🔽 Broken Down 🔽 | -20.0/100 | 48 | ❌ No | 0.3× | — |
+| **POWERGRID.NS** | ₹249.00 | 🔽 Broken Down 🔽 | -20.0/100 | 47 | ❌ No | 0.7× | — |
+| **TCS.NS** | ₹2,125.00 | 🔽 Broken Down 🔽 | -22.8/100 | 23 | ❌ No | 1.0× | — |
 
 ---
 
@@ -48,12 +67,10 @@ SBIN.NS (Top Pick):** The strongest setup. It broke out of its opening range wit
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹959.10 | ₹948.45 | ₹939.30 | 63.3 | 🟢 Yes |
-| TMPV.NS | ₹279.90 | ₹276.90 | ₹274.60 | 48.7 | 🟢 Yes |
-| ADANIENT.NS | ₹2,634.40 | ₹2613.40 | ₹2583.30 | 33.2 | 🟢 Yes |
-| HDFCBANK.NS | ₹707.25 | ₹702.25 | ₹695.45 | 48.5 | 🟢 Yes |
-| INFY.NS | ₹1,023.40 | ₹1026.35 | ₹1009.00 | 57.3 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,355.00 | ₹1356.00 | ₹1342.60 | 45.8 | 🟢 Yes |
+| TMPV.NS | ₹284.45 | ₹282.10 | ₹280.00 | 67.3 | 🟢 Yes |
+| AXISBANK.NS | ₹1,253.00 | ₹1263.90 | ₹1245.40 | 55.9 | 🟢 Yes |
+| INFY.NS | ₹1,020.00 | ₹1033.55 | ₹1020.85 | 71.3 | 🟢 Yes |
+| ADANIENT.NS | ₹2,630.00 | ₹2664.00 | ₹2628.20 | 51.8 | 🔴 No |
 
 ---
 
