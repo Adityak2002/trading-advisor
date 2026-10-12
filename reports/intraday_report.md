@@ -1,30 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is a quick, high-level summary of today's trading report:
+### **Market Analysis Summary: October 12, 2026**
 
-### 🌐 Market Context
-* **Overall Market Tone: Weak / Bearish.** 8 out of the 12 monitored stocks have broken down below their opening price range and are trading below average prices. 
-* **Selective Strength:** Buying interest is extremely isolated, with only one stock showing significant breakout momentum.
+#### **🌍 Market Context: Bearish Sentiment**
+The overall market tone is **weak**. Out of the 12 monitored stocks, 8 have "Broken Down" below their opening range, including heavyweights like Reliance, HDFC Bank, and TCS. The majority of the market is trading in the red, suggesting a day where caution is prioritized over aggressive buying.
 
----
+#### **🚀 Top Entry Candidate**
+*   **TMPV.NS (Tata Motors PV):** This is the **only** stock showing genuine bullish strength.
+    *   **Status:** Confirmed Breakout.
+    *   **Strength:** Massive volume surge (**4.1x average**), indicating strong institutional interest.
+    *   **Action:** It is the primary candidate for a long position if it maintains momentum above ₹282.10.
 
-### 🎯 Top Entry Candidates & Watchlist
-* **Active Buy Signals:** **None.** No stocks currently meet all strict criteria for an immediate trade entry.
-* **Top Stock to Watch (`TMPV.NS`):** **Strongest Candidate.** It broke out above its opening high with a massive **4.1× volume spike** and strong upward momentum. Keep a close eye on it for an upcoming entry trigger.
-* **Secondary Watchlist (`AXISBANK.NS` & `INFY.NS`):** Holding firm inside their opening ranges and trading above average prices. Waiting for potential upward breakouts.
+#### **👀 Stocks on the Radar (Wait for Breakout)**
+These stocks are holding steady but haven't "exploded" yet. Do not enter until they break their **Opening High**:
+*   **AXISBANK.NS:** Needs to cross **₹1,263.90**.
+*   **INFY.NS:** Needs to cross **₹1,033.55**.
+*   *Note: Both are trading above their average price, which is a positive sign.*
 
----
-
-### ⚠️ Critical Warnings & Trading Rules
-* **Strict Market Cut-Off (15:10 IST):** All open positions will automatically close before market end—**zero overnight risk.**
-* **Risk Control Cap:** Maximum risk is **₹100 per trade** (2% of total ₹5,000 capital). Never add capital to a losing trade.
-* **Position Limit:** Maximum of **2 active trades** at a time to keep
+#### **⚠️ Critical Warnings & Risk Rules**
+*   **Avoid the "Falling Knives
 
 ---
 
 # 📈 Intraday Report — 2026-10-12
 
-> Auto-generated at **19:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
