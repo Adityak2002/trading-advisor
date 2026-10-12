@@ -1,28 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report:
+Here is a quick, high-level summary of today's trading report:
 
-### 📉 Market Context
-* **Overall Market Sentiment:** **Weak / Bearish.** Out of 12 monitored stocks, 8 broke down below their opening ranges and only 1 managed a bullish breakout. 
-* **Range-Bound Activity:** 3 major stocks (AXISBANK, INFY, ADANIENT) remained squeezed inside their opening price ranges without clear direction.
-
----
-
-### 🎯 Top Entry Candidates
-* **Active Buy Signals:** **None.** No trades met all execution criteria.
-* **Top Breakout Performer:** **TMPV.NS** — Broke out above its opening high with a massive **4.1× volume surge** and strong momentum, making it the top stock to watch for continuation.
-* **Building Setups (Watchlist):** **AXISBANK** and **INFY** are holding above average prices and may offer future breakout setups if volume steps in.
+### 🌐 Market Context
+* **Overall Market Tone: Weak / Bearish.** 8 out of the 12 monitored stocks have broken down below their opening price range and are trading below average prices. 
+* **Selective Strength:** Buying interest is extremely isolated, with only one stock showing significant breakout momentum.
 
 ---
 
-### ⚠️ Critical Warnings & Action Items
-* **Market is Closed:** This report was generated post-market (18:11 IST).
+### 🎯 Top Entry Candidates & Watchlist
+* **Active Buy Signals:** **None.** No stocks currently meet all strict criteria for an immediate trade entry.
+* **Top Stock to Watch (`TMPV.NS`):** **Strongest Candidate.** It broke out above its opening high with a massive **4.1× volume spike** and strong upward momentum. Keep a close eye on it for an upcoming entry trigger.
+* **Secondary Watchlist (`AXISBANK.NS` & `INFY.NS`):** Holding firm inside their opening ranges and trading above average prices. Waiting for potential upward breakouts.
+
+---
+
+### ⚠️ Critical Warnings & Trading Rules
+* **Strict Market Cut-Off (15:10 IST):** All open positions will automatically close before market end—**zero overnight risk.**
+* **Risk Control Cap:** Maximum risk is **₹100 per trade** (2% of total ₹5,000 capital). Never add capital to a losing trade.
+* **Position Limit:** Maximum of **2 active trades** at a time to keep
 
 ---
 
 # 📈 Intraday Report — 2026-10-12
 
-> Auto-generated at **18:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
