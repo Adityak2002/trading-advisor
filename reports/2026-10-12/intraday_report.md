@@ -1,30 +1,24 @@
 # 🤖 Gemini AI Insights
 
-### **Market Analysis Summary: October 12, 2026**
+### **Market Overview: Bearish Sentiment Prevails**
+The market is currently showing significant weakness. Out of the 12 monitored stocks, **9 have "Broken Down"** (fallen below their morning lows), including heavyweights like Reliance, HDFC Bank, and ICICI Bank. The overall environment is not favorable for aggressive buying.
 
-#### **🌍 Market Context: Bearish Sentiment**
-The overall market tone is **weak**. Out of the 12 monitored stocks, 8 have "Broken Down" below their opening range, including heavyweights like Reliance, HDFC Bank, and TCS. The majority of the market is trading in the red, suggesting a day where caution is prioritized over aggressive buying.
+### **Top Entry Candidates**
+*   **Primary Pick: TMPV.NS**
+    *   **Status:** The only stock showing a confirmed bullish breakout.
+    *   **Why:** It features a massive **4.1× volume surge** and strong momentum (67.3). It is the clear outlier in an otherwise weak market.
+*   **On the Radar: AXISBANK.NS & INFY.NS**
+    *   **Status:** Currently "Inside Range."
+    *   **Action:** These are holding steady above their average prices. If they break above their opening highs (₹1263.90 for Axis; ₹1033.55 for Infy), they become valid buy candidates.
 
-#### **🚀 Top Entry Candidate**
-*   **TMPV.NS (Tata Motors PV):** This is the **only** stock showing genuine bullish strength.
-    *   **Status:** Confirmed Breakout.
-    *   **Strength:** Massive volume surge (**4.1x average**), indicating strong institutional interest.
-    *   **Action:** It is the primary candidate for a long position if it maintains momentum above ₹282.10.
-
-#### **👀 Stocks on the Radar (Wait for Breakout)**
-These stocks are holding steady but haven't "exploded" yet. Do not enter until they break their **Opening High**:
-*   **AXISBANK.NS:** Needs to cross **₹1,263.90**.
-*   **INFY.NS:** Needs to cross **₹1,033.55**.
-*   *Note: Both are trading above their average price, which is a positive sign.*
-
-#### **⚠️ Critical Warnings & Risk Rules**
-*   **Avoid the "Falling Knives
+### **Critical Warnings & Risk Rules**
+*   **Avoid the "Red" Zone
 
 ---
 
 # 📈 Intraday Report — 2026-10-12
 
-> Auto-generated at **21:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
