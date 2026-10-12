@@ -1,31 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today’s automated intraday report:
+Here is a concise, high-level summary of the trading report:
 
 ### 📉 Market Context
-* **Overall Market Sentiment:** **Bearish / Weak.** 8 out of the 12 tracked stocks broke below their opening price range, indicating strong selling pressure across major indices.
-* **Capital Base:** Operating with a tight budget of ₹5,000 using an Opening Price Breakout strategy.
+* **Overall Market Sentiment:** **Weak / Bearish.** Out of 12 monitored stocks, 8 broke down below their opening ranges and only 1 managed a bullish breakout. 
+* **Range-Bound Activity:** 3 major stocks (AXISBANK, INFY, ADANIENT) remained squeezed inside their opening price ranges without clear direction.
 
 ---
 
-### 🎯 Top Candidates & Setups
-* **TMPV.NS (Top Standout):** The only stock that achieved a bullish breakout today, supported by a massive **4.1x volume surge** and strong momentum. 
-* **Watchlist Candidates:** **INFY.NS** and **AXISBANK.NS** held above their average price within their opening ranges, making them top candidates to watch if market sentiment flips positive.
-* **Active Trades:** **0 active buys.** No trades met all safety and entry criteria prior to market close.
+### 🎯 Top Entry Candidates
+* **Active Buy Signals:** **None.** No trades met all execution criteria.
+* **Top Breakout Performer:** **TMPV.NS** — Broke out above its opening high with a massive **4.1× volume surge** and strong momentum, making it the top stock to watch for continuation.
+* **Building Setups (Watchlist):** **AXISBANK** and **INFY** are holding above average prices and may offer future breakout setups if volume steps in.
 
 ---
 
-### ⚠️ Critical Warnings & Rules
-* **Market Status (Post-Market):** The report was generated at **17:01 IST**. Since all intraday positions auto-close by **15:10 IST**, no new trades can or should be taken today.
-* **Risk Limit:** Maximum loss is strictly capped at **₹100 per trade** (2% of total capital).
-* **Execution Rules:** 
-  *
+### ⚠️ Critical Warnings & Action Items
+* **Market is Closed:** This report was generated post-market (18:11 IST).
 
 ---
 
 # 📈 Intraday Report — 2026-10-12
 
-> Auto-generated at **17:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:11 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
