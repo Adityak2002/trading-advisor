@@ -1,17 +1,35 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s intraday report:
+Here is a high-level summary of the intraday report:
 
 ---
 
 ### 📈 Market Context
-* **Strong Bullish Sentiment:** 11 out
+* **Strong Bullish Sentiment:** 11 out of 12 watchlist stocks have broken above their initial 15-minute opening highs, trading with solid upward momentum.
+* **Volume Support:** Buyers are actively stepping in, with several major names experiencing significant trading volume spikes compared to their daily averages.
+
+---
+
+### 🎯 Top Entry Candidates
+While the automated scanner lists "No Active Signals" (indicating a potential logic delay in the script), **3 stocks fully meet all breakout criteria** (Breakout + Volume Surge $\ge$ 1.8x):
+
+* **WIPRO.NS:** Highest overall momentum (90.1) and massive buyer participation (**3.1x average volume**).
+* **ADANIENT.NS:** Highest total Action Score (31.2) backed by a strong surge (**2.6x average volume**).
+* **TCS.NS:** Clear price breakout accompanied by high relative volume (**2.2x average volume**).
+
+---
+
+### ⚠️ Critical Warnings & Execution Rules
+* **System Discrepancy Warning:** Manual verification is required. The system failed to auto-flag WIPRO, ADANIENT, and TCS despite them meeting the strategy's exact entry criteria.
+* **Capital & Trade Limits:** Max **2 open trades** at a time. Strict risk cap of **₹100 max loss per trade** (2% of total ₹5,000 capital).
+* **Hard Exit Time:** All trades **must be closed by 15:10 IST**. Do not carry any positions overnight.
+* **Profit Lock:** Automatically move stop-loss to breakeven once a trade reaches **+0.5% profit** (trail 0.3% behind peak highs).
 
 ---
 
 # 📈 Intraday Report — 2026-10-13
 
-> Auto-generated at **18:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
