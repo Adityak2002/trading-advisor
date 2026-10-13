@@ -1,12 +1,29 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Market Summary: 2026-10-13
+
+The market is showing strong bullish momentum with multiple stocks clearing their opening price ranges. While many tickers have technically "broken out," the strategy is currently in a **wait-and-see mode** as it filters for the highest-conviction volume surges.
+
+#### 🚀 Top Entry Candidates
+*Focus on these tickers if they maintain momentum and volume support:*
+*   **WIPRO.NS:** Highest momentum score (90.1) with a massive 3.1× volume surge.
+*   **ADANIENT.NS:** Strong breakout with a 2.6× volume surge; currently trading well above its opening high.
+*   **TCS.NS:** Solid momentum (77.5) and healthy volume (2.2×) backing the move.
+
+#### ⚠️ Critical Rules & Warnings
+*   **No Active Trades:** The system is currently not in any positions. Do not force entries; wait for the specific volume criteria (≥1.8× average) to be met.
+*   **Strict Risk Cap:** Max loss is capped at **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No overnight risk is permitted under this strategy.
+*   **Position Sizing:** Limit yourself to a maximum of **2 concurrent trades** to maintain focus and capital safety.
+
+---
+*Disclaimer: This is an automated report based on quantitative parameters. Ensure your trading platform is synced with these exit rules.*
 
 ---
 
 # 📈 Intraday Report — 2026-10-13
 
-> Auto-generated at **21:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
