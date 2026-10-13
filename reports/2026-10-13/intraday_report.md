@@ -1,37 +1,20 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of the intraday trading report:
+Here is a high-level, actionable summary of the automated trading report:
 
 ### 📈 Market Context
-* **Strong Bullish Sentiment:** 11 out of 12 tracked stocks broke out above their initial 15-minute opening highs, trading solidly above their intraday average prices.
-* **Volume Participation:** Heavy buying interest was concentrated in select IT and Adani Group stocks, while financial sector breakouts lacked strong volume support.
+* **Strong Bullish Bias:** Market sentiment was highly positive, with nearly all major watchlist stocks breaking out above their 15-minute opening highs.
+* **Post-Market Report:** The report was generated at **17:55 IST**—well after the market close (15:30 IST). **No live trades can be executed today.**
 
 ---
 
-### 🎯 Top Setup Candidates
-*(Stocks meeting all breakout criteria: Price Breakout + Volume Surge ≥ 1.8×)*
-
-* **WIPRO.NS:** **Strongest Momentum** — Massive 3.1× volume surge, highest momentum score (90.1), trading comfortably above its opening range.
-* **ADANIENT.NS:** **Highest Overall Score** — Top action score (31.2/100) paired with a high 2.6× volume surge.
-* **TCS.NS:** **Solid IT Candidate** — Strong 2.2× volume surge with robust momentum (77.5).
-
-> *Note: While these setups formed strong technical patterns, no trades were triggered—likely due to the low account size relative to share prices or the report being generated post-market.*
-
----
-
-### ⚠️ Critical Warnings & Risk Rules
-
-* **Market Closed:** This report was generated at **16:49 IST** (after market close). Do not enter new positions until the next trading session opens.
-* **Strict Square-Off:** All intraday positions **must be closed by 15:10 IST**—never hold overnight.
-* **Tight Risk Management:** 
-  * Maximum loss capped at **₹100 per trade** (2% of the total ₹5,000 capital).
-  * Take profit target is set at **+1.2%** vs. stop
+### 🔥 Top Setup Candidates (Watch
 
 ---
 
 # 📈 Intraday Report — 2026-10-13
 
-> Auto-generated at **16:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
