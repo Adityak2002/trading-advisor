@@ -1,20 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the automated trading report:
-
-### 📈 Market Context
-* **Strong Bullish Bias:** Market sentiment was highly positive, with nearly all major watchlist stocks breaking out above their 15-minute opening highs.
-* **Post-Market Report:** The report was generated at **17:55 IST**—well after the market close (15:30 IST). **No live trades can be executed today.**
+Here is a high-level, actionable summary of today’s intraday report:
 
 ---
 
-### 🔥 Top Setup Candidates (Watch
+### 📈 Market Context
+* **Strong Bullish Sentiment:** 11 out
 
 ---
 
 # 📈 Intraday Report — 2026-10-13
 
-> Auto-generated at **17:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
