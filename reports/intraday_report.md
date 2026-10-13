@@ -1,24 +1,37 @@
 # 🤖 Gemini AI Insights
 
-### **Market Overview: Bearish Sentiment Prevails**
-The market is currently showing significant weakness. Out of the 12 monitored stocks, **9 have "Broken Down"** (fallen below their morning lows), including heavyweights like Reliance, HDFC Bank, and ICICI Bank. The overall environment is not favorable for aggressive buying.
+Here is a high-level summary of the intraday trading report:
 
-### **Top Entry Candidates**
-*   **Primary Pick: TMPV.NS**
-    *   **Status:** The only stock showing a confirmed bullish breakout.
-    *   **Why:** It features a massive **4.1× volume surge** and strong momentum (67.3). It is the clear outlier in an otherwise weak market.
-*   **On the Radar: AXISBANK.NS & INFY.NS**
-    *   **Status:** Currently "Inside Range."
-    *   **Action:** These are holding steady above their average prices. If they break above their opening highs (₹1263.90 for Axis; ₹1033.55 for Infy), they become valid buy candidates.
-
-### **Critical Warnings & Risk Rules**
-*   **Avoid the "Red" Zone
+### 📈 Market Context
+* **Strong Bullish Sentiment:** 11 out of 12 tracked stocks broke out above their initial 15-minute opening highs, trading solidly above their intraday average prices.
+* **Volume Participation:** Heavy buying interest was concentrated in select IT and Adani Group stocks, while financial sector breakouts lacked strong volume support.
 
 ---
 
-# 📈 Intraday Report — 2026-10-12
+### 🎯 Top Setup Candidates
+*(Stocks meeting all breakout criteria: Price Breakout + Volume Surge ≥ 1.8×)*
 
-> Auto-generated at **22:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+* **WIPRO.NS:** **Strongest Momentum** — Massive 3.1× volume surge, highest momentum score (90.1), trading comfortably above its opening range.
+* **ADANIENT.NS:** **Highest Overall Score** — Top action score (31.2/100) paired with a high 2.6× volume surge.
+* **TCS.NS:** **Solid IT Candidate** — Strong 2.2× volume surge with robust momentum (77.5).
+
+> *Note: While these setups formed strong technical patterns, no trades were triggered—likely due to the low account size relative to share prices or the report being generated post-market.*
+
+---
+
+### ⚠️ Critical Warnings & Risk Rules
+
+* **Market Closed:** This report was generated at **16:49 IST** (after market close). Do not enter new positions until the next trading session opens.
+* **Strict Square-Off:** All intraday positions **must be closed by 15:10 IST**—never hold overnight.
+* **Tight Risk Management:** 
+  * Maximum loss capped at **₹100 per trade** (2% of the total ₹5,000 capital).
+  * Take profit target is set at **+1.2%** vs. stop
+
+---
+
+# 📈 Intraday Report — 2026-10-13
+
+> Auto-generated at **16:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -35,18 +48,18 @@ The market is currently showing significant weakness. Out of the 12 monitored st
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TMPV.NS** | ₹284.45 | 🔼 Broken Out 🔼 | 34.6/100 | 67 | ✅ Yes | 4.1× | — |
-| **AXISBANK.NS** | ₹1,253.00 | ▶ Inside Range ▶ | 5.5/100 | 56 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,020.00 | ▶ Inside Range ▶ | 0.4/100 | 71 | ✅ Yes | — | — |
-| **ADANIENT.NS** | ₹2,630.00 | ▶ Inside Range ▶ | -2.3/100 | 52 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹957.25 | 🔽 Broken Down 🔽 | -12.6/100 | 36 | ❌ No | 2.0× | — |
-| **WIPRO.NS** | ₹161.80 | 🔽 Broken Down 🔽 | -13.0/100 | 51 | ❌ No | 1.2× | — |
-| **RELIANCE.NS** | ₹1,158.90 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.9× | — |
-| **HDFCBANK.NS** | ₹704.90 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.7× | — |
-| **SBIN.NS** | ₹941.00 | 🔽 Broken Down 🔽 | -17.0/100 | 53 | ❌ No | 0.8× | — |
-| **ICICIBANK.NS** | ₹1,340.00 | 🔽 Broken Down 🔽 | -20.0/100 | 48 | ❌ No | 0.3× | — |
-| **POWERGRID.NS** | ₹249.00 | 🔽 Broken Down 🔽 | -20.0/100 | 47 | ❌ No | 0.7× | — |
-| **TCS.NS** | ₹2,125.00 | 🔽 Broken Down 🔽 | -22.8/100 | 23 | ❌ No | 1.0× | — |
+| **ADANIENT.NS** | ₹2,695.00 | 🔼 Broken Out 🔼 | 31.2/100 | 72 | ✅ Yes | 2.6× | — |
+| **WIPRO.NS** | ₹169.00 | 🔼 Broken Out 🔼 | 28.6/100 | 90 | ✅ Yes | 3.1× | — |
+| **TCS.NS** | ₹2,269.30 | 🔼 Broken Out 🔼 | 27.7/100 | 78 | ✅ Yes | 2.2× | — |
+| **TMPV.NS** | ₹285.85 | 🔼 Broken Out 🔼 | 25.8/100 | 70 | ✅ Yes | 1.0× | — |
+| **AXISBANK.NS** | ₹1,268.40 | 🔼 Broken Out 🔼 | 24.2/100 | 60 | ✅ Yes | 1.3× | — |
+| **BAJFINANCE.NS** | ₹982.75 | 🔼 Broken Out 🔼 | 22.3/100 | 67 | ✅ Yes | 0.5× | — |
+| **POWERGRID.NS** | ₹250.50 | 🔼 Broken Out 🔼 | 21.9/100 | 70 | ✅ Yes | 1.0× | — |
+| **INFY.NS** | ₹1,062.10 | 🔼 Broken Out 🔼 | 18.9/100 | 78 | ✅ Yes | 1.4× | — |
+| **RELIANCE.NS** | ₹1,166.70 | 🔼 Broken Out 🔼 | 18.5/100 | 75 | ✅ Yes | 1.0× | — |
+| **SBIN.NS** | ₹957.00 | 🔼 Broken Out 🔼 | 18.3/100 | 86 | ✅ Yes | 1.2× | — |
+| **ICICIBANK.NS** | ₹1,360.20 | 🔼 Broken Out 🔼 | 16.9/100 | 70 | ✅ Yes | 0.4× | — |
+| **HDFCBANK.NS** | ₹714.00 | ▶ Inside Range ▶ | 11.0/100 | 69 | ✅ Yes | — | — |
 
 ---
 
@@ -60,10 +73,12 @@ The market is currently showing significant weakness. Out of the 12 monitored st
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TMPV.NS | ₹284.45 | ₹282.10 | ₹280.00 | 67.3 | 🟢 Yes |
-| AXISBANK.NS | ₹1,253.00 | ₹1263.90 | ₹1245.40 | 55.9 | 🟢 Yes |
-| INFY.NS | ₹1,020.00 | ₹1033.55 | ₹1020.85 | 71.3 | 🟢 Yes |
-| ADANIENT.NS | ₹2,630.00 | ₹2664.00 | ₹2628.20 | 51.8 | 🔴 No |
+| ADANIENT.NS | ₹2,695.00 | ₹2657.50 | ₹2613.10 | 71.7 | 🟢 Yes |
+| WIPRO.NS | ₹169.00 | ₹165.84 | ₹162.81 | 90.1 | 🟢 Yes |
+| TCS.NS | ₹2,269.30 | ₹2222.90 | ₹2160.10 | 77.5 | 🟢 Yes |
+| TMPV.NS | ₹285.85 | ₹284.20 | ₹281.50 | 69.6 | 🟢 Yes |
+| AXISBANK.NS | ₹1,268.40 | ₹1256.10 | ₹1242.40 | 59.8 | 🟢 Yes |
+| BAJFINANCE.NS | ₹982.75 | ₹962.80 | ₹949.25 | 67.1 | 🟢 Yes |
 
 ---
 
