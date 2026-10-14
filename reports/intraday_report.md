@@ -1,27 +1,28 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-14
+Based on the intraday report for October 14, 2026, here is your high-level summary and actionable outlook:
 
-The market session shows **low conviction** for the Opening Price Breakout strategy. Despite several stocks breaking above their opening range, none met the strict volume requirement (≥1.8× average) needed to confirm a high-probability trade.
+### 📉 Market Context: "Wait and Watch"
+The market is currently showing a **neutral-to-weak bias**. While several stocks have broken out of their opening ranges, they lack the "fuel" (trading volume) required to confirm a high-probability move. 
+*   **The Big Picture:** No trades have been triggered yet because the strict volume requirement (1.8x average) has not been met.
+*   **Trend:** Most heavyweights like Reliance and HDFC Bank are trading below their average prices, suggesting a lack of overall market strength.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-*   **ADANIENT.NS:** Currently trading above the opening high (₹2,722.60 vs ₹2,710.80). Needs a volume spike to trigger an entry.
-*   **SBIN.NS:** Trading just below the opening high (₹955.45). Strong momentum (68.0) makes this a prime candidate if it breaks out with volume.
-*   **INFY.NS:** Currently above the opening high (₹1,088.00 vs ₹1,085.40). Monitor for sustained buying pressure.
+### 🔍 Top Entry Candidates (On the Radar)
+No active "Buy" signals exist, but two stocks are showing the most promise if momentum shifts:
+*   **ADANIENT.NS:** The strongest performer today. It has broken above its opening high (₹2,710.80), but volume is only at 0.6x. **Action:** Only enter if volume spikes significantly.
+*   **SBIN.NS:** Showing the best momentum (68/100) and trading near its breakout level (₹955.45). **Action:** Watch for a clean break above ₹955.50 with a surge in activity.
 
-#### ⚠️ Critical Warnings & Rules
-*   **No Trades Executed:** The volume surge filter is currently acting as a necessary "safety brake." Do not force entries without the 1.8× volume confirmation.
-*   **Strict Risk Control:** 
-    *   Max loss is capped at **₹100 per trade**.
-    *   **Never** add to a losing position.
-*   **Mandatory Exit:** All positions must be squared off by **15:10 IST**. No exceptions.
-*   **Strategy Discipline:** With an Action Score of 17.3 or lower across the board, the market lacks the "explosive" momentum required for this specific strategy today. **Patience is your best trade.**
+### ⚠️ Critical Warnings & Risk Rules
+*   **No Volume, No Trade:** Do not be tempted by "ADANIENT" or "INFY" just because the price is up. Without the **1.8x volume surge**, these are likely "bull traps" that could quickly reverse.
+*   **Avoid the "Down" Stocks:** BAJFINANCE and ICICIBANK have "Broken Down" (dropped below their morning lows). Stay far away from these for long positions.
+*   **Hard Stop at 15:10:** Regardless of profit or loss, all positions must be closed by **3:10 PM IST**. Do not carry any trades overnight.
+*   **Capital Protection:** Your max risk is ₹100 per trade. If a trade hits your stop loss, exit immediately—do not "average down
 
 ---
 
 # 📈 Intraday Report — 2026-10-14
 
-> Auto-generated at **18:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
