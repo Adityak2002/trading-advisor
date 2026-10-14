@@ -1,33 +1,24 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-14
+Here is a high-level summary of today’s intraday report:
 
-The market is currently in a **low-conviction state**. While several stocks have breached their opening range, they lack the necessary "fuel"—specifically, the required volume surge (≥1.8× average)—to trigger a high-probability breakout.
-
----
-
-### 🚀 Top Entry Candidates (Watchlist)
-These stocks are currently trading above their average price and are showing the most potential for a breakout:
-
-*   **SBIN.NS (₹954.90):** Currently testing its opening high (₹955.45). Strong momentum (68/100). Keep a close eye for a volume-backed breakout.
-*   **ADANIENT.NS (₹2,722.60):** Already above its opening high (₹2,710.80). Needs a significant volume spike to confirm the move.
-*   **AXISBANK.NS (₹1,264.60):** Trading just below its opening high (₹1,269.70). A clean break above this level with volume is the signal to watch.
+### 🌐 Market Context
+* **Weak Buyer Participation:** While a few stocks broke above their opening price ranges, overall market volume was low. 
+* **Filters Protected Capital:** No trades were triggered because no stock met our mandatory buyer surge requirement (at least 1.8× average volume). This kept capital safe from false breakouts.
 
 ---
 
-### ⚠️ Critical Warnings & Rules
-*   **No "Blind" Entries:** Despite some price breakouts, **no trades are currently active** because volume requirements have not been met. Do not chase price action without the volume surge.
-*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100**. Exit immediately if the stop loss is hit.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Momentum Check:** Avoid **TCS.NS** and **RELIANCE.NS** for now; they are currently trading below their average price, indicating weak buyer interest.
-
-**Bottom Line:** The market is "quiet." Wait for the volume to confirm the breakout before deploying capital. If the volume doesn't show up, stay on the sidelines.
+### 🎯 Top Entry Candidates
+* **No Active Buy Signals:** Zero trades were taken today.
+* **Top Stocks to Watch for Next Session:**
+  * **ADANIENT.NS** (₹2,722.60) — Price is above its opening range with positive momentum, but needs a volume spike to confirm a buy.
+  * **SBIN.NS** (₹954.9
 
 ---
 
 # 📈 Intraday Report — 2026-10-14
 
-> Auto-generated at **16:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
