@@ -1,24 +1,27 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today’s intraday report:
+### 📊 Market Summary: 2026-10-14
 
-### 🌐 Market Context
-* **Weak Buyer Participation:** While a few stocks broke above their opening price ranges, overall market volume was low. 
-* **Filters Protected Capital:** No trades were triggered because no stock met our mandatory buyer surge requirement (at least 1.8× average volume). This kept capital safe from false breakouts.
+The market session shows **low conviction** for the Opening Price Breakout strategy. Despite several stocks breaking above their opening range, none met the strict volume requirement (≥1.8× average) needed to confirm a high-probability trade.
 
----
+#### 🚀 Top Entry Candidates (Watchlist)
+*   **ADANIENT.NS:** Currently trading above the opening high (₹2,722.60 vs ₹2,710.80). Needs a volume spike to trigger an entry.
+*   **SBIN.NS:** Trading just below the opening high (₹955.45). Strong momentum (68.0) makes this a prime candidate if it breaks out with volume.
+*   **INFY.NS:** Currently above the opening high (₹1,088.00 vs ₹1,085.40). Monitor for sustained buying pressure.
 
-### 🎯 Top Entry Candidates
-* **No Active Buy Signals:** Zero trades were taken today.
-* **Top Stocks to Watch for Next Session:**
-  * **ADANIENT.NS** (₹2,722.60) — Price is above its opening range with positive momentum, but needs a volume spike to confirm a buy.
-  * **SBIN.NS** (₹954.9
+#### ⚠️ Critical Warnings & Rules
+*   **No Trades Executed:** The volume surge filter is currently acting as a necessary "safety brake." Do not force entries without the 1.8× volume confirmation.
+*   **Strict Risk Control:** 
+    *   Max loss is capped at **₹100 per trade**.
+    *   **Never** add to a losing position.
+*   **Mandatory Exit:** All positions must be squared off by **15:10 IST**. No exceptions.
+*   **Strategy Discipline:** With an Action Score of 17.3 or lower across the board, the market lacks the "explosive" momentum required for this specific strategy today. **Patience is your best trade.**
 
 ---
 
 # 📈 Intraday Report — 2026-10-14
 
-> Auto-generated at **18:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
