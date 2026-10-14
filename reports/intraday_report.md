@@ -1,29 +1,31 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-13
+### 📊 Market Strategy Brief: 2026-10-14
 
-The market is showing strong bullish momentum with multiple stocks clearing their opening price ranges. While many tickers have technically "broken out," the strategy is currently in a **wait-and-see mode** as it filters for the highest-conviction volume surges.
+The market is currently in a **"Wait-and-See" phase**. Despite several stocks breaking above their opening range, none have met the strict volume requirement (1.8× average) needed to trigger a high-probability entry.
 
-#### 🚀 Top Entry Candidates
-*Focus on these tickers if they maintain momentum and volume support:*
-*   **WIPRO.NS:** Highest momentum score (90.1) with a massive 3.1× volume surge.
-*   **ADANIENT.NS:** Strong breakout with a 2.6× volume surge; currently trading well above its opening high.
-*   **TCS.NS:** Solid momentum (77.5) and healthy volume (2.2×) backing the move.
+#### 🎯 Top Entry Candidates (Watchlist)
+These stocks are showing strong momentum and are trading above their opening highs. Monitor these for a sudden volume spike:
+*   **RELIANCE.NS:** Strongest momentum (76.6); currently trading above the opening high.
+*   **INFY.NS:** Solid momentum (74.3); sitting comfortably above the opening range.
+*   **ADANIENT.NS:** Showing early breakout potential; watch for a surge in buying pressure.
 
-#### ⚠️ Critical Rules & Warnings
-*   **No Active Trades:** The system is currently not in any positions. Do not force entries; wait for the specific volume criteria (≥1.8× average) to be met.
-*   **Strict Risk Cap:** Max loss is capped at **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No overnight risk is permitted under this strategy.
-*   **Position Sizing:** Limit yourself to a maximum of **2 concurrent trades** to maintain focus and capital safety.
+#### ⚠️ Critical Status & Warnings
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force a trade; wait for the volume confirmation.
+*   **Volume Filter:** The 1.8× volume surge is the "gatekeeper." If the price moves up without this volume, it is likely a "fakeout."
+*   **Bearish Signals:** Note that **BAJFINANCE.NS** is showing a high-volume breakdown (1.8×). Avoid any long positions in this ticker.
+*   **Hard Stop:** If you enter, your risk is capped at **₹100 per trade**. Do not deviate from the 0.4% stop-loss rule.
+
+#### 🕒 Action Plan
+*   **Monitor:** Keep an eye on the "Stocks to Watch" list for the required volume surge.
+*   **Discipline:** If no volume surge occurs by mid-afternoon, remain in cash. 
+*   **Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
 
 ---
-*Disclaimer: This is an automated report based on quantitative parameters. Ensure your trading platform is synced with these exit rules.*
 
----
+# 📈 Intraday Report — 2026-10-14
 
-# 📈 Intraday Report — 2026-10-13
-
-> Auto-generated at **22:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:41 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -40,18 +42,18 @@ The market is showing strong bullish momentum with multiple stocks clearing thei
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹2,695.00 | 🔼 Broken Out 🔼 | 31.2/100 | 72 | ✅ Yes | 2.6× | — |
-| **WIPRO.NS** | ₹169.00 | 🔼 Broken Out 🔼 | 28.6/100 | 90 | ✅ Yes | 3.1× | — |
-| **TCS.NS** | ₹2,269.30 | 🔼 Broken Out 🔼 | 27.7/100 | 78 | ✅ Yes | 2.2× | — |
-| **TMPV.NS** | ₹285.85 | 🔼 Broken Out 🔼 | 25.8/100 | 70 | ✅ Yes | 1.0× | — |
-| **AXISBANK.NS** | ₹1,268.40 | 🔼 Broken Out 🔼 | 24.2/100 | 60 | ✅ Yes | 1.3× | — |
-| **BAJFINANCE.NS** | ₹982.75 | 🔼 Broken Out 🔼 | 22.3/100 | 67 | ✅ Yes | 0.5× | — |
-| **POWERGRID.NS** | ₹250.50 | 🔼 Broken Out 🔼 | 21.9/100 | 70 | ✅ Yes | 1.0× | — |
-| **INFY.NS** | ₹1,062.10 | 🔼 Broken Out 🔼 | 18.9/100 | 78 | ✅ Yes | 1.4× | — |
-| **RELIANCE.NS** | ₹1,166.70 | 🔼 Broken Out 🔼 | 18.5/100 | 75 | ✅ Yes | 1.0× | — |
-| **SBIN.NS** | ₹957.00 | 🔼 Broken Out 🔼 | 18.3/100 | 86 | ✅ Yes | 1.2× | — |
-| **ICICIBANK.NS** | ₹1,360.20 | 🔼 Broken Out 🔼 | 16.9/100 | 70 | ✅ Yes | 0.4× | — |
-| **HDFCBANK.NS** | ₹714.00 | ▶ Inside Range ▶ | 11.0/100 | 69 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,722.50 | 🔼 Broken Out 🔼 | 21.9/100 | 65 | ✅ Yes | 0.7× | — |
+| **INFY.NS** | ₹1,093.10 | 🔼 Broken Out 🔼 | 19.9/100 | 74 | ✅ Yes | 0.8× | — |
+| **RELIANCE.NS** | ₹1,185.00 | 🔼 Broken Out 🔼 | 18.2/100 | 77 | ✅ Yes | 1.0× | — |
+| **POWERGRID.NS** | ₹249.65 | ▶ Inside Range ▶ | 11.4/100 | 67 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹171.53 | ▶ Inside Range ▶ | 10.8/100 | 70 | ✅ Yes | — | — |
+| **SBIN.NS** | ₹952.55 | ▶ Inside Range ▶ | 4.8/100 | 73 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,305.00 | ▶ Inside Range ▶ | 2.4/100 | 51 | ❌ No | — | — |
+| **AXISBANK.NS** | ₹1,265.60 | ▶ Inside Range ▶ | 1.7/100 | 85 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹283.65 | ▶ Inside Range ▶ | -1.5/100 | 67 | ❌ No | — | — |
+| **ICICIBANK.NS** | ₹1,344.10 | 🔽 Broken Down 🔽 | -11.2/100 | 69 | ❌ No | 1.0× | — |
+| **HDFCBANK.NS** | ₹710.50 | 🔽 Broken Down 🔽 | -11.2/100 | 68 | ❌ No | 1.4× | — |
+| **BAJFINANCE.NS** | ₹961.15 | 🔽 Broken Down 🔽 | -19.2/100 | 47 | ❌ No | 1.8× | — |
 
 ---
 
@@ -65,12 +67,12 @@ The market is showing strong bullish momentum with multiple stocks clearing thei
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹2,695.00 | ₹2657.50 | ₹2613.10 | 71.7 | 🟢 Yes |
-| WIPRO.NS | ₹169.00 | ₹165.84 | ₹162.81 | 90.1 | 🟢 Yes |
-| TCS.NS | ₹2,269.30 | ₹2222.90 | ₹2160.10 | 77.5 | 🟢 Yes |
-| TMPV.NS | ₹285.85 | ₹284.20 | ₹281.50 | 69.6 | 🟢 Yes |
-| AXISBANK.NS | ₹1,268.40 | ₹1256.10 | ₹1242.40 | 59.8 | 🟢 Yes |
-| BAJFINANCE.NS | ₹982.75 | ₹962.80 | ₹949.25 | 67.1 | 🟢 Yes |
+| ADANIENT.NS | ₹2,722.50 | ₹2710.80 | ₹2683.00 | 64.8 | 🟢 Yes |
+| INFY.NS | ₹1,093.10 | ₹1085.40 | ₹1070.65 | 74.3 | 🟢 Yes |
+| RELIANCE.NS | ₹1,185.00 | ₹1169.30 | ₹1162.70 | 76.6 | 🟢 Yes |
+| POWERGRID.NS | ₹249.65 | ₹250.00 | ₹247.90 | 67.4 | 🟢 Yes |
+| WIPRO.NS | ₹171.53 | ₹171.50 | ₹169.71 | 70.0 | 🟢 Yes |
+| SBIN.NS | ₹952.55 | ₹955.45 | ₹950.65 | 72.8 | 🟢 Yes |
 
 ---
 
