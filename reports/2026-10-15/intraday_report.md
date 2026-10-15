@@ -1,17 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the automated intraday report:
+### 📊 Market Summary: 2026-10-15
 
----
+The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening price ranges, the strict volume requirements for a high-probability breakout are largely unmet.
 
-### 📊 Market Context
-* **Bullish Bias in Banking & Heavyweights:** Key banking stocks
+#### 🚀 Top Entry Candidates
+*   **SBIN.NS:** The only ticker meeting the strict **volume surge criteria (2.3×)**. It is the strongest candidate for a breakout trade if momentum sustains.
+*   **POWERGRID.NS:** Showing solid volume (1.7×) and has cleared its opening high; keep this on high alert for a potential entry.
+*   **HDFCBANK.NS:** Currently trending above its opening range with moderate volume (1.3×).
+
+#### ⚠️ Critical Warnings & Strategy Notes
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume surge (≥1.8×) to confirm the breakout.
+*   **Volume Filter:** Many stocks (ICICI, Reliance, TMPV) have broken their price range but **failed the volume test**. These are "false breakouts"—avoid entering these.
+*   **Risk Discipline:** 
+    *   **Max 2 trades:** Do not over-leverage.
+    *   **Hard Stop:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit.
+    *   **Auto-Close:** All positions must be closed by **15:10 IST**. No exceptions.
+
+**Bottom Line:** The market is active but lacks the conviction (volume) required for a high-confidence entry. **Focus exclusively on SBIN.NS and POWERGRID.NS** if volume spikes further.
 
 ---
 
 # 📈 Intraday Report — 2026-10-15
 
-> Auto-generated at **16:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
