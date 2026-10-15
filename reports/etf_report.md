@@ -1,32 +1,16 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan (2026-10-14)
+Here is your high-level executive summary of today’s automated report:
 
-The market is currently in a **"Wait and See"** phase. With the Nifty showing weakness and most assets trading below their 50-day moving averages, the "Oversold Bounce" strategy is currently sidelined to preserve capital.
-
-#### **Market Context**
-*   **Sentiment:** Mildly Bullish, but cautious.
-*   **Volatility:** India VIX at 14.7 is healthy (low fear), allowing for full position sizing once triggers are met.
-*   **Headwinds:** Domestic indices are trending downward, and a weakening USD/INR is creating a drag on international-linked ETFs.
-
-#### **Top Entry Candidates (Watchlist)**
-*No immediate buys today. All candidates are currently failing to meet the required "Oversold" threshold (Score < 40 or Vol-Z < 1.5).*
-
-*   **PHARMABEES.NS:** The closest candidate (Score: 25). Monitor for a spike in volume and a rebound from current lows.
-*   **AUTOBEES.NS & OILIETF.NS:** Secondary watches. Currently too weak to trigger an entry.
-
-#### **Critical Warnings & Strategy Notes**
-*   **Capital Preservation:** 100% of your ₹10,000 capital remains in cash. **Do not force a trade.** The current market environment does not meet your specific "Oversold Bounce" criteria.
-*   **Trend Alert:** Every single asset in your watchlist is currently trading **below its 50-day EMA**. This indicates a broader bearish trend; buying into this requires strict adherence to your volume (Vol-Z) and score triggers to avoid "catching a falling knife."
-*   **Action:** Continue to monitor daily. Wait for the **Vol-Z score to hit ≥ 1.5** and the **Strategy Score to hit ≥ 40** before deploying any capital.
-
----
-*Disclaimer: This is a quantitative summary for informational purposes. Ensure all manual executions align with your risk tolerance.*
+### 🌍 **Market Context**
+* **Overall Stance:** **Mildly Bullish (Proceed with Caution)** 🟡  
+* **Domestic Strength:** Nifty surged **+1.90%** to 23,051. Low volatility (India VIX at 14.55 🟢) indicates a stable environment for normal trade sizing.
+* **Global Drag:**
 
 ---
 
-# 📊 ETF/MF Daily Report — 2026-10-14
-> *Auto-generated at 14:01 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-10-15
+> *Auto-generated at 13:36 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
@@ -36,19 +20,20 @@ The market is currently in a **"Wait and See"** phase. With the Nifty showing we
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 22,648.65 | 📉 -0.32% |
-| India VIX | 14.70 | 📈 +4.07% |
-| S&P 500 (overnight) | 7,805.45 | 📉 -0.02% |
-| NASDAQ | 27,204.38 | 📉 -0.15% |
-| WTI Crude Oil | $94.24 | 📈 +0.11% |
-| USD / INR | 95.0800 | 📉 -0.73% |
+| Nifty 50 | 23,051.40 | 📈 +1.90% |
+| India VIX | 14.55 | 📉 -0.51% |
+| S&P 500 (overnight) | 7,718.94 | 📉 -1.11% |
+| NASDAQ | 26,692.87 | 📉 -1.88% |
+| WTI Crude Oil | $94.05 | 📉 -1.09% |
+| USD / INR | 94.9400 | 📉 -0.36% |
 
 **Key Factors:**
-- VIX 14.7 — Low fear 🟢 (full sizing)
-- S&P 500 -0.02% — Neutral
-- Nifty -0.32% — Domestic market bearish
-- WTI Crude $94.24 (+0.11%) — Neutral for OILIETF
-- USD/INR 95.08 (-0.727%) — Dollar weakening → intl ETFs headwind
+- VIX 14.6 — Low fear 🟢 (full sizing)
+- S&P 500 -1.11% — Negative overnight cues 📉
+- NASDAQ -1.88% — Tech bearish
+- Nifty +1.90% — Domestic market bullish
+- WTI Crude $94.05 (-1.09%) — Neutral for OILIETF
+- USD/INR 94.94 (-0.364%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -76,11 +61,11 @@ The market is currently in a **"Wait and See"** phase. With the Nifty showing we
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| PHARMABEES.NS | 25.0 | Below EMA50 · VolZ=-0.5 (need ≥1.5) · Score=25 (need ≥40) |
-| AUTOBEES.NS | 5.5 | Below EMA50 · VolZ=-0.7 (need ≥1.5) · Score=6 (need ≥40) |
-| OILIETF.NS | 3.7 | Below EMA50 · VolZ=-0.5 (need ≥1.5) · Score=4 (need ≥40) |
-| JUNIORBEES.NS | 3.5 | Below EMA50 · VolZ=-0.4 (need ≥1.5) · Score=4 (need ≥40) |
-| NHPC.NS | 3.5 | Below EMA50 · VolZ=0.5 (need ≥1.5) · Score=4 (need ≥40) |
+| PHARMABEES.NS | 11.2 | Below EMA50 · VolZ=-1.6 (need ≥1.5) · Score=11 (need ≥40) |
+| CANBK.NS | 8.0 | Below EMA50 · Score=8 (need ≥40) |
+| MAFANG.NS | 5.8 | RSI=62 (need <38) · VolZ=0.6 (need ≥1.5) · Score=6 (need ≥40) |
+| JUNIORBEES.NS | 5.0 | Below EMA50 · VolZ=-0.7 (need ≥1.5) · Score=5 (need ≥40) |
+| ITETF.NS | 3.8 | RSI=73 (need <38) · Score=4 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -92,27 +77,27 @@ The market is currently in a **"Wait and See"** phase. With the Nifty showing we
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | PHARMABEES.NS | 25.0 | 28 | 🔴 | -0.5 | -5.0% | 👀 Watch |
-| 2 | AUTOBEES.NS | 5.5 | 26 | 🔴 | -0.7 | -15.0% | ⏸ Skip |
-| 3 | OILIETF.NS | 3.7 | 31 | 🔴 | -0.5 | -10.7% | ⏸ Skip |
-| 4 | JUNIORBEES.NS | 3.5 | 34 | 🔴 | -0.4 | -7.5% | ⏸ Skip |
-| 5 | NHPC.NS | 3.5 | 32 | 🔴 | 0.5 | -13.9% | ⏸ Skip |
-| 6 | BANKBARODA.NS | 2.2 | 39 | 🔴 | 2.0 | -19.7% | ⏸ Skip |
-| 7 | TATAPOWER.NS | -2.8 | 36 | 🔴 | 0.0 | -23.3% | ⏸ Skip |
-| 8 | UNIONBANK.NS | -5.2 | 42 | 🔴 | 1.8 | -8.0% | ⏸ Skip |
-| 9 | RVNL.NS | -5.8 | 36 | 🔴 | -0.8 | -35.6% | ⏸ Skip |
-| 10 | ABFRL.NS | -5.8 | 36 | 🔴 | -0.8 | -33.0% | ⏸ Skip |
-| 11 | HDFCAMC.NS | -5.8 | 37 | 🔴 | -1.0 | -18.2% | ⏸ Skip |
-| 12 | CANBK.NS | -6.0 | 47 | 🔴 | 3.6 | -11.3% | ⏸ Skip |
-| 13 | BANKBEES.NS | -12.0 | 41 | 🔴 | -1.6 | -5.2% | ⏸ Skip |
-| 14 | MAFANG.NS | -14.0 | 72 | 🟢 | -1.1 | -3.0% | ⏸ Skip |
-| 15 | HNGSNGBEES.NS | -15.8 | 47 | 🔴 | -1.7 | -17.3% | ⏸ Skip |
-| 16 | IREDA.NS | -15.8 | 45 | 🔴 | -0.8 | -22.1% | ⏸ Skip |
-| 17 | SUZLON.NS | -15.8 | 42 | 🔴 | -0.6 | -31.5% | ⏸ Skip |
-| 18 | PSUBNKBEES.NS | -16.5 | 45 | 🔴 | -0.5 | -9.2% | ⏸ Skip |
-| 19 | IRFC.NS | -16.5 | 47 | 🔴 | -0.3 | -25.0% | ⏸ Skip |
-| 20 | RECLTD.NS | -21.0 | 51 | 🔴 | -0.0 | -16.8% | ⏸ Skip |
-| 21 | ITETF.NS | -43.8 | 66 | 🔴 | 0.4 | -4.8% | ⏸ Skip |
+| 1 | PHARMABEES.NS | 11.2 | 34 | 🔴 | -1.6 | -4.5% | ⏸ Skip |
+| 2 | CANBK.NS | 8.0 | 36 | 🔴 | 2.8 | -16.0% | ⏸ Skip |
+| 3 | MAFANG.NS | 5.8 | 62 | 🟢 | 0.6 | -10.6% | ⏸ Skip |
+| 4 | JUNIORBEES.NS | 5.0 | 28 | 🔴 | -0.7 | -8.0% | ⏸ Skip |
+| 5 | ITETF.NS | 3.8 | 73 | 🟢 | 2.9 | -3.0% | ⏸ Skip |
+| 6 | AUTOBEES.NS | 3.0 | 31 | 🔴 | 0.1 | -13.8% | ⏸ Skip |
+| 7 | NHPC.NS | 0.0 | 33 | 🔴 | -1.3 | -14.8% | ⏸ Skip |
+| 8 | PSUBNKBEES.NS | -1.8 | 35 | 🔴 | 1.3 | -10.2% | ⏸ Skip |
+| 9 | OILIETF.NS | -5.4 | 35 | 🔴 | -0.4 | -9.7% | ⏸ Skip |
+| 10 | BANKBARODA.NS | -9.5 | 42 | 🔴 | -0.2 | -19.8% | ⏸ Skip |
+| 11 | UNIONBANK.NS | -9.5 | 40 | 🔴 | 0.3 | -9.0% | ⏸ Skip |
+| 12 | RVNL.NS | -12.5 | 40 | 🔴 | -0.9 | -35.9% | ⏸ Skip |
+| 13 | TATAPOWER.NS | -12.5 | 40 | 🔴 | -0.6 | -23.4% | ⏸ Skip |
+| 14 | ABFRL.NS | -12.5 | 38 | 🔴 | -1.1 | -33.3% | ⏸ Skip |
+| 15 | HNGSNGBEES.NS | -16.2 | 46 | 🔴 | -1.6 | -17.6% | ⏸ Skip |
+| 16 | IREDA.NS | -16.2 | 47 | 🔴 | -0.8 | -22.0% | ⏸ Skip |
+| 17 | BANKBEES.NS | -17.0 | 47 | 🔴 | 0.0 | -3.9% | ⏸ Skip |
+| 18 | RECLTD.NS | -17.0 | 52 | 🔴 | -0.5 | -17.6% | ⏸ Skip |
+| 19 | SUZLON.NS | -17.0 | 52 | 🔴 | -0.1 | -30.6% | ⏸ Skip |
+| 20 | HDFCAMC.NS | -17.0 | 49 | 🔴 | -0.4 | -15.5% | ⏸ Skip |
+| 21 | IRFC.NS | -20.0 | 48 | 🔴 | -0.8 | -25.8% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -120,6 +105,6 @@ The market is currently in a **"Wait and See"** phase. With the Nifty showing we
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-10-14 14:01 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-10-15 13:36 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
