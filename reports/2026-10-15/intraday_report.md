@@ -1,29 +1,37 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-15
+Here is a high-level, actionable summary of the intraday report:
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening price ranges, the strict volume requirements for a high-probability breakout are largely unmet.
+---
 
-#### 🚀 Top Entry Candidates
-*   **SBIN.NS:** The only ticker meeting the strict **volume surge criteria (2.3×)**. It is the strongest candidate for a breakout trade if momentum sustains.
-*   **POWERGRID.NS:** Showing solid volume (1.7×) and has cleared its opening high; keep this on high alert for a potential entry.
-*   **HDFCBANK.NS:** Currently trending above its opening range with moderate volume (1.3×).
+### 📈 Market Snapshot & Sentiment
+* **Bullish Bias:** Strong upward momentum across major large-caps, particularly in the banking sector (**HDFCBANK, SBIN, ICICIBANK, AXISBANK**).
+* **High Breakout Rate:** 7 out of 12 monitored stocks broke above their initial 15-minute opening range high, indicating strong buyer interest.
 
-#### ⚠️ Critical Warnings & Strategy Notes
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume surge (≥1.8×) to confirm the breakout.
-*   **Volume Filter:** Many stocks (ICICI, Reliance, TMPV) have broken their price range but **failed the volume test**. These are "false breakouts"—avoid entering these.
-*   **Risk Discipline:** 
-    *   **Max 2 trades:** Do not over-leverage.
-    *   **Hard Stop:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit.
-    *   **Auto-Close:** All positions must be closed by **15:10 IST**. No exceptions.
+---
 
-**Bottom Line:** The market is active but lacks the conviction (volume) required for a high-confidence entry. **Focus exclusively on SBIN.NS and POWERGRID.NS** if volume spikes further.
+### 🎯 Top Entry Candidates
+
+* 🔥 **SBIN.NS (Top Pick):** The **only valid breakout candidate**. Price cleared its opening high with a massive **2.3× volume surge** (exceeding the 1.8× strategy threshold).
+* 👀 **POWERGRID.NS & HDFCBANK.NS (On Watch):** Showed price breakouts, but volume surges (**1.7×** and **1.3×**) fell slightly short of the required 1.8× filter. Wait for volume to confirm before entering.
+* ⚠️ **RELIANCE / ICICIBANK / AXISBANK (Avoid for now):** Broke price ranges, but on weak volume (<1.5×). High risk of a false breakout.
+
+---
+
+### ⚠️ Critical Warnings & Execution Rules
+
+* 🕒 **Post-Market Context:** This report was generated at **18:37 IST** (after market close). Do not place live orders tonight; use this data to identify market leaders for the next trading session.
+* 🛑 **Strict Risk Limits:** 
+  * Maximum loss per trade is capped at **₹100** (2% of ₹5,000 capital).
+  * Risk-to-Reward ratio is **1 : 3** (Stop Loss: -0.4% | Profit Target: +1.2%).
+* ⏰ **Mandatory Exit:** All positions **must be closed by 15:10 IST**. No trades are held overnight.
+* ⚡ **Volume Confirmation Rule:** Never enter a breakout unless trading volume is **at least 1.8× average**. Price movement without volume is a trap.
 
 ---
 
 # 📈 Intraday Report — 2026-10-15
 
-> Auto-generated at **17:42 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:37 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
