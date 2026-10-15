@@ -1,18 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today’s market scan:
+Here is your executive summary of today's trading report:
+
+### 🌍 Market Snapshot
+* **Domestic Strength vs. Global Drag:** Nifty rose sharply (**+1.66%**) and market fear dropped (India VIX at **14.0** 🟢), indicating a calm local market. However, heavy tech drops in US markets (NASDAQ **-1.88%**) and lower crude oil offer mixed global signals.
+* **Overall Bias:** 🟡 **Mildly Bullish — Proceed with caution.**
 
 ---
 
-### 🌍 **Market Snapshot**
-* **Overall Sentiment:** 🟡 **Mildly Bullish (Proceed with Caution)**
-* **Domestic Strength:** Nifty 50 posted a strong jump (**+1.83%**), and market fear remains low (India VIX at **14.37** 🟢), making it safe to trade full position sizes *when* setups appear.
-* **Global Drag:** Overnight US markets took a hit (NASDAQ **-1.88%**, S&P 500 **-1.11%**), creating mixed
+### 🎯 Top Entry Candidates
+* **No Trades Today:** 🛑 Zero stocks met all entry criteria. 
+* **Current Allocation:** 100% Cash (₹10,000 idle).
+* **Top Stocks to Watch (Getting Closer):**
+  * **HDFC Bank** *(Score: 24.0)* — Closest to an entry signal, but blocked by a short-term downtrend.
+  * **ICICI Bank** *(Score: -7.5)* — RSI is slightly inflated (61 vs target 42–55).
+
+---
+
+### ⚠️ Critical Warnings & Action Items
+* **Trend Filter Blocking All Trades:** All 11 tracked watchlist stocks fail the moving average filter (`EMA21 < EMA50`). This means underlying stock momentum is still weak despite today's N
 
 ---
 
 # 📈 Stock Delivery Report — 2026-10-15
-> *Auto-generated at 14:12 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 15:58 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -22,20 +33,20 @@ Here is your high-level executive summary of today’s market scan:
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 23,037.10 | 📈 +1.83% |
-| India VIX | 14.37 | 📉 -1.81% |
+| Nifty 50 | 22,997.35 | 📈 +1.66% |
+| India VIX | 14.03 | 📉 -4.13% |
 | S&P 500 (overnight) | 7,718.94 | 📉 -1.11% |
 | NASDAQ | 26,692.87 | 📉 -1.88% |
-| WTI Crude Oil | $94.45 | 📉 -0.67% |
-| USD / INR | 94.9800 | 📉 -0.32% |
+| WTI Crude Oil | $93.59 | 📉 -1.58% |
+| USD / INR | 95.0550 | 📉 -0.24% |
 
 **Key Factors:**
-- VIX 14.4 — Low fear 🟢 (full sizing)
+- VIX 14.0 — Low fear 🟢 (full sizing)
 - S&P 500 -1.11% — Negative overnight cues 📉
 - NASDAQ -1.88% — Tech bearish
-- Nifty +1.83% — Domestic market bullish
-- WTI Crude $94.45 (-0.67%) — Neutral for OILIETF
-- USD/INR 94.98 (-0.322%) — Dollar weakening → intl ETFs headwind
+- Nifty +1.66% — Domestic market bullish
+- WTI Crude $93.59 (-1.58%) — Bearish for OILIETF 📉
+- USD/INR 95.06 (-0.244%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -64,16 +75,16 @@ Here is your high-level executive summary of today’s market scan:
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| HDFCBANK.NS | 21.0 | EMA21 < EMA50 · Score=21 (need ≥50) |
-| ICICIBANK.NS | 3.0 | RSI=60 (need 42–55) · EMA21 < EMA50 · Score=3 (need ≥50) |
-| RELIANCE.NS | -36.0 | EMA21 < EMA50 · Price +0.8% from EMA21 (need ±4%) · Score=-36 (need ≥50) |
+| HDFCBANK.NS | 24.0 | EMA21 < EMA50 · Score=24 (need ≥50) |
+| ICICIBANK.NS | -7.5 | RSI=61 (need 42–55) · EMA21 < EMA50 · Score=-8 (need ≥50) |
+| RELIANCE.NS | -54.0 | EMA21 < EMA50 · Price +0.7% from EMA21 (need ±4%) · VolZ=2.2 (need ≤2.0) · Score=-54 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ANGELONE.NS | -12.0 | RSI=64 (need 42–55) · EMA21 < EMA50 · Price +6.2% from EMA21 (need ±4%) · Score=-12 (need ≥50) |
-| POLYCAB.NS | -36.0 | EMA21 < EMA50 · Price -1.0% from EMA21 (need ±4%) · Score=-36 (need ≥50) |
-| BAJFINANCE.NS | -39.0 | EMA21 < EMA50 · Price -1.1% from EMA21 (need ±4%) · Score=-39 (need ≥50) |
+| ANGELONE.NS | -16.5 | RSI=63 (need 42–55) · EMA21 < EMA50 · Price +5.6% from EMA21 (need ±4%) · VolZ=2.1 (need ≤2.0) · Score=-16 (need ≥50) |
+| POLYCAB.NS | -36.0 | EMA21 < EMA50 · Price -1.1% from EMA21 (need ±4%) · Score=-36 (need ≥50) |
+| BAJFINANCE.NS | -36.0 | EMA21 < EMA50 · Price -1.9% from EMA21 (need ±4%) · Score=-36 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -85,17 +96,17 @@ Here is your high-level executive summary of today’s market scan:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | HDFCBANK.NS | 21.0 | 49 | 🔴 | ✅ | -0.1 | ⏸ Skip |
-| 2 | ICICIBANK.NS | 3.0 | 60 | 🔴 | ✅ | 0.4 | ⏸ Skip |
-| 3 | ANGELONE.NS | -12.0 | 64 | 🔴 | — | 1.5 | ⏸ Skip |
-| 4 | RELIANCE.NS | -36.0 | 49 | 🔴 | — | 0.8 | ⏸ Skip |
-| 5 | POLYCAB.NS | -36.0 | 45 | 🔴 | — | 0.7 | ⏸ Skip |
-| 6 | BAJFINANCE.NS | -39.0 | 48 | 🔴 | — | 0.5 | ⏸ Skip |
-| 7 | KEI.NS | -39.0 | 48 | 🔴 | — | 0.1 | ⏸ Skip |
-| 8 | CDSL.NS | -45.0 | 45 | 🔴 | — | -0.9 | ⏸ Skip |
-| 9 | PIDILITIND.NS | -45.0 | 46 | 🔴 | — | -0.7 | ⏸ Skip |
-| 10 | HAVELLS.NS | -51.0 | 53 | 🔴 | — | -0.9 | ⏸ Skip |
-| 11 | TITAN.NS | -81.0 | 29 | 🔴 | — | -0.8 | ⏸ Skip |
+| 1 | HDFCBANK.NS | 24.0 | 49 | 🔴 | ✅ | 0.6 | ⏸ Skip |
+| 2 | ICICIBANK.NS | -7.5 | 61 | 🔴 | ✅ | 1.9 | ⏸ Skip |
+| 3 | ANGELONE.NS | -16.5 | 63 | 🔴 | — | 2.1 | ⏸ Skip |
+| 4 | POLYCAB.NS | -36.0 | 45 | 🔴 | — | 1.0 | ⏸ Skip |
+| 5 | BAJFINANCE.NS | -36.0 | 45 | 🔴 | — | 1.1 | ⏸ Skip |
+| 6 | CDSL.NS | -39.0 | 43 | 🔴 | — | -0.5 | ⏸ Skip |
+| 7 | PIDILITIND.NS | -39.0 | 46 | 🔴 | — | -0.2 | ⏸ Skip |
+| 8 | KEI.NS | -39.0 | 46 | 🔴 | — | 0.4 | ⏸ Skip |
+| 9 | HAVELLS.NS | -51.0 | 55 | 🔴 | — | -0.7 | ⏸ Skip |
+| 10 | RELIANCE.NS | -54.0 | 49 | 🔴 | — | 2.2 | ⏸ Skip |
+| 11 | TITAN.NS | -81.0 | 29 | 🔴 | — | -0.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -112,6 +123,6 @@ Here is your high-level executive summary of today’s market scan:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-10-15 14:12 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-10-15 15:58 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
