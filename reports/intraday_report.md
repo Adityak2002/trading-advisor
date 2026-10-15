@@ -1,16 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report:
+Here is a high-level, actionable summary of the automated intraday report:
 
-### 📈 Market Context
-* **Session Phase:** Late intraday session (**15:03 IST**), with only **7 minutes remaining** before the mandatory auto-close deadline (**15:10 IST**).
-* **Overall Market Sentiment:** Mixed. Several major banking and blue-chip stocks
+---
+
+### 📊 Market Context
+* **Bullish Bias in Banking & Heavyweights:** Key banking stocks
 
 ---
 
 # 📈 Intraday Report — 2026-10-15
 
-> Auto-generated at **15:03 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -27,18 +28,18 @@ Here is a concise, high-level summary of the trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹960.00 | 🔼 Broken Out 🔼 | 25.0/100 | 42 | ✅ Yes | 2.4× | — |
-| **ICICIBANK.NS** | ₹1,386.60 | 🔼 Broken Out 🔼 | 20.4/100 | 53 | ✅ Yes | 0.8× | — |
-| **HDFCBANK.NS** | ₹724.60 | 🔼 Broken Out 🔼 | 14.6/100 | 34 | ✅ Yes | 1.4× | — |
-| **RELIANCE.NS** | ₹1,208.00 | 🔼 Broken Out 🔼 | 10.3/100 | 31 | ✅ Yes | 0.8× | — |
-| **WIPRO.NS** | ₹174.00 | ▶ Inside Range ▶ | 9.9/100 | 65 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹967.70 | ▶ Inside Range ▶ | 4.8/100 | 31 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,109.80 | ▶ Inside Range ▶ | 1.9/100 | 41 | ❌ No | — | — |
-| **TCS.NS** | ₹2,358.80 | ▶ Inside Range ▶ | 1.4/100 | 47 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹248.85 | ▶ Inside Range ▶ | -2.2/100 | 31 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,286.10 | 🔼 Broken Out 🔼 | -4.4/100 | 33 | ❌ No | 1.1× | — |
-| **ADANIENT.NS** | ₹2,689.10 | ▶ Inside Range ▶ | -6.5/100 | 21 | ❌ No | — | — |
-| **TMPV.NS** | ₹286.20 | 🔼 Broken Out 🔼 | -8.9/100 | 30 | ❌ No | 0.9× | — |
+| **HDFCBANK.NS** | ₹726.85 | 🔼 Broken Out 🔼 | 23.9/100 | 56 | ✅ Yes | 1.3× | — |
+| **SBIN.NS** | ₹960.00 | 🔼 Broken Out 🔼 | 21.4/100 | 40 | ✅ Yes | 2.3× | — |
+| **ICICIBANK.NS** | ₹1,389.40 | 🔼 Broken Out 🔼 | 20.4/100 | 60 | ✅ Yes | 0.7× | — |
+| **AXISBANK.NS** | ₹1,288.00 | 🔼 Broken Out 🔼 | 18.6/100 | 45 | ✅ Yes | 1.1× | — |
+| **POWERGRID.NS** | ₹249.85 | 🔼 Broken Out 🔼 | 17.6/100 | 44 | ✅ Yes | 1.7× | — |
+| **RELIANCE.NS** | ₹1,215.00 | 🔼 Broken Out 🔼 | 16.7/100 | 49 | ✅ Yes | 0.8× | — |
+| **TMPV.NS** | ₹287.05 | 🔼 Broken Out 🔼 | 14.1/100 | 40 | ✅ Yes | 0.8× | — |
+| **WIPRO.NS** | ₹174.05 | ▶ Inside Range ▶ | 8.4/100 | 56 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,700.00 | ▶ Inside Range ▶ | 5.4/100 | 47 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹965.25 | ▶ Inside Range ▶ | 3.3/100 | 12 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,110.00 | ▶ Inside Range ▶ | -1.5/100 | 37 | ❌ No | — | — |
+| **TCS.NS** | ₹2,350.00 | ▶ Inside Range ▶ | -8.4/100 | 30 | ❌ No | — | — |
 
 ---
 
@@ -52,12 +53,12 @@ Here is a concise, high-level summary of the trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹960.00 | ₹956.95 | ₹949.60 | 42.4 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,386.60 | ₹1361.00 | ₹1343.40 | 52.6 | 🟢 Yes |
-| HDFCBANK.NS | ₹724.60 | ₹717.25 | ₹710.95 | 33.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,208.00 | ₹1185.00 | ₹1177.40 | 30.8 | 🟢 Yes |
-| WIPRO.NS | ₹174.00 | ₹174.60 | ₹172.72 | 64.9 | 🟢 Yes |
-| BAJFINANCE.NS | ₹967.70 | ₹967.40 | ₹951.85 | 30.6 | 🟢 Yes |
+| HDFCBANK.NS | ₹726.85 | ₹717.25 | ₹710.95 | 56.1 | 🟢 Yes |
+| SBIN.NS | ₹960.00 | ₹956.95 | ₹949.60 | 39.9 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,389.40 | ₹1361.00 | ₹1343.40 | 59.7 | 🟢 Yes |
+| AXISBANK.NS | ₹1,288.00 | ₹1283.00 | ₹1266.20 | 45.1 | 🟢 Yes |
+| POWERGRID.NS | ₹249.85 | ₹249.10 | ₹248.10 | 44.1 | 🟢 Yes |
+| RELIANCE.NS | ₹1,215.00 | ₹1185.00 | ₹1177.40 | 49.0 | 🟢 Yes |
 
 ---
 
