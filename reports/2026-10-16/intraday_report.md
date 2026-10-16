@@ -1,20 +1,12 @@
 # 🤖 Gemini AI Insights
 
-### **Market Overview**
-The market is showing strong **bullish momentum**, particularly in the **IT sector**. Several stocks have successfully cleared their initial 15-minute "Opening Range," but only a few have the necessary volume (buying pressure) to confirm a high-probability trade.
-
----
-
-### **Top Entry Candidates**
-Based on the strategy's strict volume and breakout rules, these are the primary targets:
-
-*   **WIPRO.NS (Top Pick):** The strongest setup. It has broken
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-10-16
 
-> Auto-generated at **18:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
