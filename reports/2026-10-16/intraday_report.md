@@ -1,36 +1,20 @@
 # 🤖 Gemini AI Insights
 
-### 📊 **Market Pulse: IT Sector Leads the Charge**
-The market is showing a clear **bullish bias in the IT sector**, with several heavyweights breaking out of their initial 15-minute ranges on high volume. While the overall sentiment is positive, the session is now in its closing phase.
+### **Market Overview**
+The market is showing strong **bullish momentum**, particularly in the **IT sector**. Several stocks have successfully cleared their initial 15-minute "Opening Range," but only a few have the necessary volume (buying pressure) to confirm a high-probability trade.
 
 ---
 
-### 🚀 **Top Entry Candidates (Watchlist)**
-Based on the "Opening Price Breakout" criteria, these stocks showed the strongest technical setups today:
+### **Top Entry Candidates**
+Based on the strategy's strict volume and breakout rules, these are the primary targets:
 
-*   **WIPRO.NS:** The standout performer with a massive **3.0× volume surge** and a clean breakout.
-*   **INFY.NS:** Strong momentum (67) paired with a **2.1× volume surge**, confirming buyer conviction.
-*   **TCS.NS:** High momentum (71) and a successful breakout, though volume (1.6×) was slightly under the preferred 1.8× threshold.
-*   **SBIN.NS:** Currently "Inside Range" but hovering at the top; a break above **₹962.00** would trigger a late-session signal.
-
----
-
-### ⚠️ **Critical Warnings & Risk Rules**
-*   **Market Closed:** As of 17:27 IST, the trading window is shut. **Do not enter new trades.**
-*   **Hard Exit:** All positions must have been squared off by **15:10 IST**. Never carry these intraday setups overnight.
-*   **Risk Ceiling:** Total risk is capped at **₹100 per trade** (2% of your ₹5,000 capital). 
-*   **Volume is King:** Only take breakouts where volume is at least **1.8× the average**; otherwise, the move is likely a "fake-out."
-
----
-
-### 💡 **Actionable Summary**
-Today was a "Tech Day." If you missed the morning breakout in **INFY** or **WIPRO**, the strategy dictates standing aside rather than chasing the price late in the day. Your priority remains capital preservation over aggressive entry.
+*   **WIPRO.NS (Top Pick):** The strongest setup. It has broken
 
 ---
 
 # 📈 Intraday Report — 2026-10-16
 
-> Auto-generated at **17:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
