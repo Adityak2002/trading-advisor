@@ -1,16 +1,36 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the intraday report:
+### 📊 **Market Pulse: IT Sector Leads the Charge**
+The market is showing a clear **bullish bias in the IT sector**, with several heavyweights breaking out of their initial 15-minute ranges on high volume. While the overall sentiment is positive, the session is now in its closing phase.
 
-### 🌐 Market Context
-* **IT Sector Leading:** Technology stocks (**WIPRO**, **INFY**, **TCS**) and **BAJFINANCE** showed strong bullish momentum, successfully breaking above their opening 15-minute price ranges.
-* **Muted Broader Market:** Heavyweights like **Reliance**, **HDFC Bank**, and **ICICI Bank** remained stuck inside their opening ranges without clear
+---
+
+### 🚀 **Top Entry Candidates (Watchlist)**
+Based on the "Opening Price Breakout" criteria, these stocks showed the strongest technical setups today:
+
+*   **WIPRO.NS:** The standout performer with a massive **3.0× volume surge** and a clean breakout.
+*   **INFY.NS:** Strong momentum (67) paired with a **2.1× volume surge**, confirming buyer conviction.
+*   **TCS.NS:** High momentum (71) and a successful breakout, though volume (1.6×) was slightly under the preferred 1.8× threshold.
+*   **SBIN.NS:** Currently "Inside Range" but hovering at the top; a break above **₹962.00** would trigger a late-session signal.
+
+---
+
+### ⚠️ **Critical Warnings & Risk Rules**
+*   **Market Closed:** As of 17:27 IST, the trading window is shut. **Do not enter new trades.**
+*   **Hard Exit:** All positions must have been squared off by **15:10 IST**. Never carry these intraday setups overnight.
+*   **Risk Ceiling:** Total risk is capped at **₹100 per trade** (2% of your ₹5,000 capital). 
+*   **Volume is King:** Only take breakouts where volume is at least **1.8× the average**; otherwise, the move is likely a "fake-out."
+
+---
+
+### 💡 **Actionable Summary**
+Today was a "Tech Day." If you missed the morning breakout in **INFY** or **WIPRO**, the strategy dictates standing aside rather than chasing the price late in the day. Your priority remains capital preservation over aggressive entry.
 
 ---
 
 # 📈 Intraday Report — 2026-10-16
 
-> Auto-generated at **15:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -27,12 +47,12 @@ Here is a concise, high-level summary of the intraday report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
+| **INFY.NS** | ₹1,161.20 | 🔼 Broken Out 🔼 | 33.6/100 | 67 | ✅ Yes | 2.1× | — |
 | **WIPRO.NS** | ₹184.40 | 🔼 Broken Out 🔼 | 33.2/100 | 53 | ✅ Yes | 3.0× | — |
-| **INFY.NS** | ₹1,163.25 | 🔼 Broken Out 🔼 | 26.4/100 | 76 | ✅ Yes | 2.1× | — |
 | **TCS.NS** | ₹2,465.00 | 🔼 Broken Out 🔼 | 24.5/100 | 71 | ✅ Yes | 1.6× | — |
 | **BAJFINANCE.NS** | ₹982.10 | 🔼 Broken Out 🔼 | 21.8/100 | 64 | ✅ Yes | 0.6× | — |
+| **SBIN.NS** | ₹962.60 | ▶ Inside Range ▶ | 11.8/100 | 59 | ✅ Yes | — | — |
 | **TMPV.NS** | ₹286.85 | ▶ Inside Range ▶ | 11.1/100 | 63 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹960.60 | ▶ Inside Range ▶ | 9.9/100 | 50 | ✅ Yes | — | — |
 | **ICICIBANK.NS** | ₹1,397.00 | ▶ Inside Range ▶ | 9.1/100 | 49 | ✅ Yes | — | — |
 | **AXISBANK.NS** | ₹1,290.00 | ▶ Inside Range ▶ | 8.3/100 | 70 | ✅ Yes | — | — |
 | **RELIANCE.NS** | ₹1,211.20 | ▶ Inside Range ▶ | 6.4/100 | 49 | ✅ Yes | — | — |
@@ -52,12 +72,12 @@ Here is a concise, high-level summary of the intraday report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
+| INFY.NS | ₹1,161.20 | ₹1144.40 | ₹1125.50 | 67.4 | 🟢 Yes |
 | WIPRO.NS | ₹184.40 | ₹180.03 | ₹170.20 | 52.6 | 🟢 Yes |
-| INFY.NS | ₹1,163.25 | ₹1144.40 | ₹1125.50 | 75.5 | 🟢 Yes |
 | TCS.NS | ₹2,465.00 | ₹2424.90 | ₹2378.80 | 70.6 | 🟢 Yes |
 | BAJFINANCE.NS | ₹982.10 | ₹971.60 | ₹962.35 | 63.7 | 🟢 Yes |
+| SBIN.NS | ₹962.60 | ₹962.00 | ₹951.75 | 58.8 | 🟢 Yes |
 | TMPV.NS | ₹286.85 | ₹287.40 | ₹284.60 | 63.2 | 🟢 Yes |
-| SBIN.NS | ₹960.60 | ₹962.00 | ₹951.75 | 50.3 | 🟢 Yes |
 
 ---
 
