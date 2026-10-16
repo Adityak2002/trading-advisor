@@ -1,28 +1,16 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-16
+Here is a concise, high-level summary of the intraday report:
 
-The market is currently in a **"Wait and See"** phase. While several IT sector stocks have shown strong breakouts, the system has not triggered new entries as of 14:56 IST, likely due to the proximity to the market close and the strict 15:10 IST exit rule.
-
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening range and show strong momentum, though they are currently "on hold" due to the late hour:
-*   **INFY.NS:** Strongest momentum (78.0) with a solid volume surge (2.3×).
-*   **TCS.NS:** High momentum (74.7) and consistent volume (1.9×).
-*   **WIPRO.NS:** Highest volume surge (3.1×), indicating significant buyer interest.
-
-#### ⚠️ Critical Warnings & Rules
-*   **No New Entries:** With only 14 minutes until the mandatory 15:10 IST auto-close, **do not initiate new positions.** The risk-to-reward window has effectively closed for today.
-*   **Strict Exit Protocol:** If you are holding any open positions, ensure they are squared off by **15:10 IST**. No overnight carry is permitted under this strategy.
-*   **Risk Cap:** Maintain the ₹100 loss limit per trade. If any active trade hits the stop loss, exit immediately—do not "hope" for a reversal.
-*   **Avoid Over-trading:** Stick to the 2-trade maximum rule to maintain focus and capital preservation.
-
-**Analyst Note:** The IT sector is leading the momentum today. Keep these tickers at the top of your watchlist for tomorrow’s opening session.
+### 🌐 Market Context
+* **IT Sector Leading:** Technology stocks (**WIPRO**, **INFY**, **TCS**) and **BAJFINANCE** showed strong bullish momentum, successfully breaking above their opening 15-minute price ranges.
+* **Muted Broader Market:** Heavyweights like **Reliance**, **HDFC Bank**, and **ICICI Bank** remained stuck inside their opening ranges without clear
 
 ---
 
 # 📈 Intraday Report — 2026-10-16
 
-> Auto-generated at **14:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **15:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +27,18 @@ These stocks have cleared their opening range and show strong momentum, though t
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **WIPRO.NS** | ₹184.80 | 🔼 Broken Out 🔼 | 37.0/100 | 63 | ✅ Yes | 3.1× | — |
-| **TCS.NS** | ₹2,461.40 | 🔼 Broken Out 🔼 | 28.5/100 | 75 | ✅ Yes | 1.9× | — |
-| **INFY.NS** | ₹1,160.45 | 🔼 Broken Out 🔼 | 26.4/100 | 78 | ✅ Yes | 2.3× | — |
-| **BAJFINANCE.NS** | ₹978.25 | 🔼 Broken Out 🔼 | 17.2/100 | 52 | ✅ Yes | 0.6× | — |
-| **ICICIBANK.NS** | ₹1,396.20 | ▶ Inside Range ▶ | 11.4/100 | 58 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹959.05 | ▶ Inside Range ▶ | 5.4/100 | 48 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,208.80 | ▶ Inside Range ▶ | 1.4/100 | 39 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹250.80 | ▶ Inside Range ▶ | 0.5/100 | 27 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,283.90 | ▶ Inside Range ▶ | -2.8/100 | 42 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹726.25 | ▶ Inside Range ▶ | -6.7/100 | 49 | ❌ No | — | — |
-| **TMPV.NS** | ₹284.85 | ▶ Inside Range ▶ | -8.5/100 | 16 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹2,677.20 | 🔽 Broken Down 🔽 | -22.8/100 | 22 | ❌ No | 1.2× | — |
+| **WIPRO.NS** | ₹184.40 | 🔼 Broken Out 🔼 | 33.2/100 | 53 | ✅ Yes | 3.0× | — |
+| **INFY.NS** | ₹1,163.25 | 🔼 Broken Out 🔼 | 26.4/100 | 76 | ✅ Yes | 2.1× | — |
+| **TCS.NS** | ₹2,465.00 | 🔼 Broken Out 🔼 | 24.5/100 | 71 | ✅ Yes | 1.6× | — |
+| **BAJFINANCE.NS** | ₹982.10 | 🔼 Broken Out 🔼 | 21.8/100 | 64 | ✅ Yes | 0.6× | — |
+| **TMPV.NS** | ₹286.85 | ▶ Inside Range ▶ | 11.1/100 | 63 | ✅ Yes | — | — |
+| **SBIN.NS** | ₹960.60 | ▶ Inside Range ▶ | 9.9/100 | 50 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,397.00 | ▶ Inside Range ▶ | 9.1/100 | 49 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,290.00 | ▶ Inside Range ▶ | 8.3/100 | 70 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,211.20 | ▶ Inside Range ▶ | 6.4/100 | 49 | ✅ Yes | — | — |
+| **HDFCBANK.NS** | ₹728.85 | ▶ Inside Range ▶ | 3.0/100 | 62 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹250.45 | ▶ Inside Range ▶ | -0.6/100 | 28 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹2,692.00 | ▶ Inside Range ▶ | -3.6/100 | 49 | ❌ No | — | — |
 
 ---
 
@@ -64,12 +52,12 @@ These stocks have cleared their opening range and show strong momentum, though t
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| WIPRO.NS | ₹184.80 | ₹180.03 | ₹170.20 | 62.8 | 🟢 Yes |
-| TCS.NS | ₹2,461.40 | ₹2424.90 | ₹2378.80 | 74.7 | 🟢 Yes |
-| INFY.NS | ₹1,160.45 | ₹1144.40 | ₹1125.50 | 78.0 | 🟢 Yes |
-| BAJFINANCE.NS | ₹978.25 | ₹971.60 | ₹962.35 | 51.6 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,396.20 | ₹1395.90 | ₹1383.60 | 58.1 | 🟢 Yes |
-| SBIN.NS | ₹959.05 | ₹962.00 | ₹951.75 | 47.9 | 🟢 Yes |
+| WIPRO.NS | ₹184.40 | ₹180.03 | ₹170.20 | 52.6 | 🟢 Yes |
+| INFY.NS | ₹1,163.25 | ₹1144.40 | ₹1125.50 | 75.5 | 🟢 Yes |
+| TCS.NS | ₹2,465.00 | ₹2424.90 | ₹2378.80 | 70.6 | 🟢 Yes |
+| BAJFINANCE.NS | ₹982.10 | ₹971.60 | ₹962.35 | 63.7 | 🟢 Yes |
+| TMPV.NS | ₹286.85 | ₹287.40 | ₹284.60 | 63.2 | 🟢 Yes |
+| SBIN.NS | ₹960.60 | ₹962.00 | ₹951.75 | 50.3 | 🟢 Yes |
 
 ---
 
