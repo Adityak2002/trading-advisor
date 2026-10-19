@@ -1,27 +1,22 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-19
+Here is a high-level summary of the automated trading report:
 
-The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening range lows. No long positions have been triggered, as the "Opening Price Breakout" strategy requires a bullish surge that is currently absent.
+### 📊 Market Context
+* **Overall Sentiment: Bearish / Weak.** Out of 12 tracked blue-chip stocks, 8 broke below their morning range and 4 remained stuck in consolidation. Zero stocks staged a bullish breakout.
+* **Volume Activity:** Significant heavy-volume selling was seen in key stocks like **ICICIBANK** (2.6x avg volume), **TMPV** (2.1x), and **BAJFINANCE** (1.9x).
 
-#### 🎯 Top Entry Candidates
-*   **SBIN.NS (State Bank of India):** The only stock currently showing resilience. It is trading inside its opening range and remains above its average price. **Action:** Monitor for a clean break above **₹977.70** with a significant volume spike.
+---
 
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The system is currently in "Wait-and-See" mode. Do not force entries.
-*   **Bearish Trend:** Most tracked stocks (ICICIBANK, RELIANCE, HDFCBANK) have broken down. Avoid attempting to "catch a falling knife" on these tickers.
-*   **Risk Discipline:** 
-    *   Strictly adhere to the **₹100 max loss per trade** limit.
-    *   If a trade is triggered, ensure the **15:10 IST auto-close** is active to eliminate overnight risk.
-    *   Do not exceed **2 concurrent trades** to maintain capital preservation.
-
-**Bottom Line:** The market is weak. Stay on the sidelines unless **SBIN.NS** confirms a breakout with high volume. If the market continues to slide, preserve your capital and wait for a more favorable setup tomorrow.
+### 🎯 Top Entry Candidates
+* **Active Buy Signals: None.** No stocks triggered an entry signal today, as none met the double requirement of a price breakout and volume surge.
+* **Top Stock on Watch:** **SBIN.NS** is the only resilient stock in the basket. It
 
 ---
 
 # 📈 Intraday Report — 2026-10-19
 
-> Auto-generated at **17:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
