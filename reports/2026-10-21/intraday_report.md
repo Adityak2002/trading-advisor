@@ -1,35 +1,12 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-21
-
-The market is currently in a **"Wait and See"** phase. The Opening Price Breakout (OPB) strategy has not triggered any buy signals today, as most stocks are either trading within their initial 15-minute range or have broken down below their opening lows.
-
----
-
-### 🚀 Top Entry Candidates (Watchlist)
-These stocks are currently trading inside their opening range and are closest to a potential breakout:
-
-*   **TCS.NS:** Trading at ₹2,529.00 (High: ₹2,531.90). Needs a volume-backed push above ₹2,532 to trigger.
-*   **INFY.NS:** Trading at ₹1,168.00 (High: ₹1,170.35). Closely tracking the opening high.
-*   **POWERGRID.NS:** Strong momentum (79.9); watch for a clean break above ₹2,53.50.
-
----
-
-### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** Do not force entries. The strategy requires a **1.8× volume surge** to confirm a breakout; without it, the risk of a "fakeout" is high.
-*   **Bearish Sentiment:** Several major stocks (HDFCBANK, SBIN, AXISBANK) have already broken below their opening lows. Avoid "bottom fishing" these stocks; they do not fit the current long-only strategy.
-*   **Strict Discipline:** 
-    *   **Max 2 trades:** Do not over-leverage.
-    *   **Hard Stop:** If you enter and the price hits the -0.4% stop loss, exit immediately.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-
-**Bottom Line:** The market is currently showing more weakness than strength. Stay patient and wait for the volume-confirmed breakout before deploying capital.
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-10-21
 
-> Auto-generated at **19:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
