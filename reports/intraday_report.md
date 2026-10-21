@@ -1,26 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Based on the intraday report for **October 19, 2026**, here is your high-level trading summary:
+Here is a high-level, plain-English summary of today’s intraday report as of **2:31 PM IST**:
 
-### 📉 Market Context: Bearish Sentiment
-The market is currently showing significant weakness. Out of the 12 monitored stocks, **8 have broken below their opening range**, indicating a downward trend. Most heavyweights (Reliance, HDFC Bank, ICICI Bank) are trading with negative "Action Scores," suggesting this is not an ideal environment for aggressive buying.
-
-### 🔍 Top Entry Candidate
-There are **no active buy signals** at this moment. However, one stock stands out for a potential reversal:
-*   **SBIN.NS (State Bank of India):** This is the only stock on the list showing relative strength. It is trading above its average price with a positive Action Score (8.3/100) and high momentum (71). 
-    *   *Trigger:* Watch for a break above **₹977.70** with high volume.
-
-### ⚠️ Critical Warnings & Rules
-*   **Avoid "Broken Down" Stocks:** Do not attempt to buy stocks like RELIANCE, HDFCBANK, or INFOSYS today; they have failed their opening levels and are currently "falling knives."
-*   **Strict Exit Time:** All positions **must be closed by 15:10 IST**. Do not hold any trades overnight, regardless of profit or loss.
-*   **Risk Ceiling:** Limit your loss to a maximum of **₹100 per trade**. If a stock hits your stop loss, exit immediately—do not "wait for a recovery."
-*   **Patience is Key:** Since no active buy signals exist, the best move right now is to **stay in cash** and wait for a valid breakout above the opening high.
+### 📉 Market Context
+* **Strong Bearish Bias:** The broader market is under heavy selling pressure. **9 out of 12 tracked stocks** (including major banks like HDFC, ICICI, SBI, and Reliance) have broken below their morning low points.
+* **IT Holding Up:** Only IT stocks (**INFY, WIPRO, TCS**) are showing resilience and holding inside their morning price ranges.
+* **Late Session Window:** With the market closing soon, the window for intraday breakouts is rapidly closing.
 
 ---
 
-# 📈 Intraday Report — 2026-10-19
+### 🎯 Top Entry Candidates
+* **NO ACTIVE BUY SIGNALS:** There are **zero valid buy setups** right now. 
+* **Closest Stock to Watch:** **INFY (Infosys)** is the only stock showing mild strength (trading at ₹1,164.35, near its ₹1,170.35 breakout mark), but it currently lacks the required volume surge to trigger a trade.
 
-> Auto-generated at **21:44 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+---
+
+### ⚠️ Critical Warnings & Actions
+* **Stay in Cash (No Trade Day):** Market conditions do not match your strategy. Preserving capital is the priority—do not force trades on a weak day.
+* **Upcoming Auto Cut-off (15:10 IST):** Mandatory square-off is in **~39 minutes**. Avoid taking any new positions this late in the day.
+* **Never Catch Falling Knives:** Avoid buying stocks marked as *"Broken Down"* (e.g., Adani, Reliance, Axis Bank), even if they look cheap.
+* **Zero Overnight Risk:** Do not carry any intraday positions into tomorrow.
+
+---
+
+# 📈 Intraday Report — 2026-10-21
+
+> Auto-generated at **14:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -37,18 +42,18 @@ There are **no active buy signals** at this moment. However, one stock stands ou
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹973.70 | ▶ Inside Range ▶ | 8.3/100 | 71 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,460.90 | ▶ Inside Range ▶ | 0.3/100 | 53 | ❌ No | — | — |
-| **POWERGRID.NS** | ₹250.35 | ▶ Inside Range ▶ | -1.2/100 | 60 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,236.00 | ▶ Inside Range ▶ | -3.0/100 | 50 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,381.00 | 🔽 Broken Down 🔽 | -9.2/100 | 56 | ❌ No | 2.6× | — |
-| **HDFCBANK.NS** | ₹712.00 | 🔽 Broken Down 🔽 | -11.2/100 | 60 | ❌ No | 1.6× | — |
-| **BAJFINANCE.NS** | ₹957.35 | 🔽 Broken Down 🔽 | -15.2/100 | 47 | ❌ No | 1.9× | — |
-| **TMPV.NS** | ₹278.00 | 🔽 Broken Down 🔽 | -15.8/100 | 27 | ❌ No | 2.1× | — |
-| **ADANIENT.NS** | ₹2,657.50 | 🔽 Broken Down 🔽 | -19.2/100 | 43 | ❌ No | 1.2× | — |
-| **INFY.NS** | ₹1,130.70 | 🔽 Broken Down 🔽 | -20.2/100 | 57 | ❌ No | 0.6× | — |
-| **RELIANCE.NS** | ₹1,202.00 | 🔽 Broken Down 🔽 | -22.8/100 | 36 | ❌ No | 1.5× | — |
-| **WIPRO.NS** | ₹182.14 | 🔽 Broken Down 🔽 | -23.2/100 | 43 | ❌ No | 0.8× | — |
+| **INFY.NS** | ₹1,164.35 | ▶ Inside Range ▶ | 5.3/100 | 47 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹188.60 | ▶ Inside Range ▶ | -1.1/100 | 38 | ❌ No | — | — |
+| **TCS.NS** | ₹2,510.60 | ▶ Inside Range ▶ | -3.9/100 | 31 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹247.25 | 🔽 Broken Down 🔽 | -7.2/100 | 55 | ❌ No | 3.0× | — |
+| **AXISBANK.NS** | ₹1,211.70 | 🔽 Broken Down 🔽 | -14.4/100 | 61 | ❌ No | 1.5× | — |
+| **HDFCBANK.NS** | ₹700.45 | 🔽 Broken Down 🔽 | -15.2/100 | 50 | ❌ No | 1.8× | — |
+| **BAJFINANCE.NS** | ₹920.10 | 🔽 Broken Down 🔽 | -18.8/100 | 18 | ❌ No | 1.8× | — |
+| **SBIN.NS** | ₹963.70 | 🔽 Broken Down 🔽 | -22.8/100 | 28 | ❌ No | 1.7× | — |
+| **TMPV.NS** | ₹272.90 | 🔽 Broken Down 🔽 | -22.8/100 | 27 | ❌ No | 1.1× | — |
+| **ADANIENT.NS** | ₹2,572.20 | 🔽 Broken Down 🔽 | -26.0/100 | 17 | ❌ No | 1.4× | — |
+| **RELIANCE.NS** | ₹1,202.40 | 🔽 Broken Down 🔽 | -26.8/100 | 19 | ❌ No | 0.5× | — |
+| **ICICIBANK.NS** | ₹1,384.20 | 🔽 Broken Down 🔽 | -26.8/100 | 27 | ❌ No | 0.9× | — |
 
 ---
 
@@ -62,10 +67,9 @@ There are **no active buy signals** at this moment. However, one stock stands ou
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹973.70 | ₹977.70 | ₹960.90 | 70.8 | 🟢 Yes |
-| TCS.NS | ₹2,460.90 | ₹2486.80 | ₹2448.30 | 52.7 | 🔴 No |
-| POWERGRID.NS | ₹250.35 | ₹253.30 | ₹250.40 | 60.0 | 🔴 No |
-| AXISBANK.NS | ₹1,236.00 | ₹1257.90 | ₹1226.90 | 49.5 | 🔴 No |
+| INFY.NS | ₹1,164.35 | ₹1170.35 | ₹1150.45 | 47.4 | 🟢 Yes |
+| WIPRO.NS | ₹188.60 | ₹189.35 | ₹183.89 | 37.5 | 🔴 No |
+| TCS.NS | ₹2,510.60 | ₹2531.90 | ₹2481.40 | 30.9 | 🔴 No |
 
 ---
 
