@@ -1,27 +1,31 @@
 # 🤖 Gemini AI Insights
 
-### 📉 Market Summary: October 21, 2026
+### 📊 Market Summary: 2026-10-21
 
-Today was a day for **patience and capital preservation**. The market exhibited a clear bearish bias, meaning the conditions for our "Buy on Breakout" strategy were never met.
+The market is currently in a **"Wait and See"** phase. No stocks met the strict criteria for an Opening Price Breakout today, as most tickers are either trading within their initial 15-minute range or have broken to the downside.
 
-*   **Market Context: Bearish Sentiment**
-    The overall market was weak. Most heavyweights—especially the Banking sector (HDFCBANK, SBIN, ICICIBANK)—broke **below** their morning lows. Since our strategy only looks for upward breakouts, the system correctly stayed on the sidelines.
+#### 🎯 Top Entry Candidates (Watchlist)
+These stocks are currently trading inside their opening range and are the most likely to trigger a buy signal if they break above their "Opening High":
+*   **TCS.NS:** Closest to the breakout level (Current: ₹2,529 | High: ₹2,531.90).
+*   **INFY.NS:** Strong momentum; watch for a move above ₹1,170.35.
+*   **POWERGRID.NS:** High momentum (79.9); watch for a move above ₹253.50.
+*   **WIPRO.NS:** Stable, waiting for a push above ₹189.35.
 
-*   **Top Entry Candidates: None**
-    *   **TCS & INFY:** These were the strongest performers, holding "Inside Range," but they never gained enough momentum or volume to trigger a buy.
-    *   **RELIANCE:** Failed to stay above its average price, signaling a lack of buyer interest.
-    *   **Active Signals:** **Zero.** No stocks met the 1.8× volume surge requirement.
+#### ⚠️ Critical Warnings & Status
+*   **No Active Trades:** The strategy did not trigger any entries today. Do not force trades.
+*   **Bearish Bias:** Several major stocks (HDFCBANK, BAJFINANCE, ADANIENT) have broken *below* their opening lows, indicating selling pressure. Avoid buying these.
+*   **Risk Discipline:** 
+    *   **Max 2 Trades:** If a signal triggers, limit exposure to two positions.
+    *   **Strict Stop Loss:** If you enter, your stop loss is fixed at **-0.4%**.
+    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
 
-*   **Critical Warnings & Action Items**
-    *   **No Trade is a Good Trade:** In a market where 60% of the watchlist is "Breaking Down," the best action is to do nothing. The strategy successfully protected your ₹5,000 capital from a declining market.
-    *   **Sector Alert:** Avoid long positions in Banks (SBIN, AXIS, ICICI) for now, as they show the highest negative "Action Scores."
-    *   **Post-Market Status:** As
+**Bottom Line:** The market lacks the bullish breakout momentum required by your strategy today. **Stay patient; no action is required unless a stock clears its Opening High with a significant volume surge.**
 
 ---
 
 # 📈 Intraday Report — 2026-10-21
 
-> Auto-generated at **16:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:00 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
