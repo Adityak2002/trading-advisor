@@ -1,21 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s automated trading report:
+Here is a high-level summary of the trading report:
 
 ### 🌐 Market Context
-* **Mixed & Selective Market:** Market sentiment is split. While select financial stocks pushed upward, major heavyweights like Reliance and Infosys trended downward.
-* **Low Conviction:** Overall Action Scores are weak across the board (top stock scored just 23.6 out of 100), signaling a lack of strong market-wide momentum.
+* **Split Market Sentiment:** Financial stocks are showing upward strength, while major heavyweights (HDFCBANK, INFY, RELIANCE) are pulling down.
+* **Capital Protection Active:** Total trading capital remains 100% safe (**₹5,000**) because the system filtered out weak moves and prevented bad entries.
 
 ---
 
 ### 🎯 Top Entry Candidates
-* **Active Buy Signals:** **NONE.** No trades
+* **Active Buy Signals:** **NONE** 
+  * *Why?* While stocks like **BAJFINANCE**, **SBIN**, and **ICICIBANK** crossed their opening highs, they lacked the required **volume surge (1.8x)** to confirm a safe entry.
+* **Top Watchlist (Strong Potential):**
+  * **BAJFINANCE.NS** (High momentum, price above average)
+  * **SBIN.NS** (Strong bullish momentum)
+  * **ICICIBANK.NS** (Holding steady above opening range)
+
+---
+
+### ⚠️ Critical Warnings & Action Items
+* **Bearish Alert:** **HDFCBANK** broke below
 
 ---
 
 # 📈 Intraday Report — 2026-10-22
 
-> Auto-generated at **19:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
