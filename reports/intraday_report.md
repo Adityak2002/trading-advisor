@@ -1,24 +1,21 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today's trading setup:
+Here is a high-level, actionable summary of today’s automated trading report:
 
-### 📈 Market Context
-* **Mixed Sentiment:** Banking and financial stocks (**Bajaj Finance, SBI, ICICI Bank**) showed upward strength, but major market drivers (**Reliance, Infosys, HDFC Bank**) dragged downward.
-* **Lack of Volume Support:** While a few stocks broke above their opening levels, the market lacked strong buying volume to confirm a safe, high-probability rally.
+### 🌐 Market Context
+* **Mixed & Selective Market:** Market sentiment is split. While select financial stocks pushed upward, major heavyweights like Reliance and Infosys trended downward.
+* **Low Conviction:** Overall Action Scores are weak across the board (top stock scored just 23.6 out of 100), signaling a lack of strong market-wide momentum.
 
 ---
 
 ### 🎯 Top Entry Candidates
-* **No Active Buy Signals Right Now:** Zero trades met the strategy's strict entrance criteria.
-* **Top Stocks to Watch for a Setup:**
-  * 🟢 **Bajaj Finance (BAJFINANCE.NS):** Strongest upward momentum today, but needs a heavier volume boost (≥1.8× average) before entry.
-  * 🟢 **State Bank of India (SBIN.NS):** Trading above average prices with solid momentum, awaiting a confirmed volume breakout.
+* **Active Buy Signals:** **NONE.** No trades
 
 ---
 
 # 📈 Intraday Report — 2026-10-22
 
-> Auto-generated at **18:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
