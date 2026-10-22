@@ -1,12 +1,16 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+Here is a high-level summary of your intraday trading session as of **14:34 IST**:
+
+### 📉 Market Context
+* **Overall Sentiment:** Mixed-to-Weak. A noticeable division in the market with key tech and heavyweight stocks (WIPRO, INFY, HDFCBANK, RELIANCE) experiencing strong downward breakdowns on heavy volume.
+* **Lack of Buying Volume:** While select banking stocks (**SBIN**, **BAJFINANCE**, **ICICIBANK**) have moved above their morning range, they **lack the strong volume surge** required to confirm a safe, high-probability rally.
 
 ---
 
-# 📈 Intraday Report — 2026-10-21
+# 📈 Intraday Report — 2026-10-22
 
-> Auto-generated at **19:51 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **14:34 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -23,18 +27,18 @@ AI Summary unavailable (All Gemini models failed).
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TCS.NS** | ₹2,529.00 | ▶ Inside Range ▶ | 12.4/100 | 67 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,168.00 | ▶ Inside Range ▶ | 11.9/100 | 68 | ✅ Yes | — | — |
-| **WIPRO.NS** | ₹189.17 | ▶ Inside Range ▶ | 10.9/100 | 59 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹252.15 | ▶ Inside Range ▶ | 2.7/100 | 80 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,209.00 | ▶ Inside Range ▶ | -4.0/100 | 67 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹706.95 | 🔽 Broken Down 🔽 | -14.0/100 | 82 | ✅ Yes | 1.7× | — |
-| **TMPV.NS** | ₹275.70 | 🔽 Broken Down 🔽 | -14.0/100 | 77 | ✅ Yes | 1.1× | — |
-| **BAJFINANCE.NS** | ₹926.00 | 🔽 Broken Down 🔽 | -14.4/100 | 70 | ❌ No | 1.8× | — |
-| **ADANIENT.NS** | ₹2,594.50 | 🔽 Broken Down 🔽 | -16.2/100 | 57 | ❌ No | 1.2× | — |
-| **SBIN.NS** | ₹963.00 | 🔽 Broken Down 🔽 | -19.2/100 | 45 | ❌ No | 1.5× | — |
-| **AXISBANK.NS** | ₹1,210.00 | 🔽 Broken Down 🔽 | -19.2/100 | 49 | ❌ No | 1.2× | — |
-| **ICICIBANK.NS** | ₹1,385.00 | 🔽 Broken Down 🔽 | -20.2/100 | 50 | ❌ No | 0.8× | — |
+| **SBIN.NS** | ₹966.55 | 🔼 Broken Out 🔼 | 21.2/100 | 54 | ✅ Yes | 1.5× | — |
+| **BAJFINANCE.NS** | ₹934.15 | 🔼 Broken Out 🔼 | 18.4/100 | 42 | ✅ Yes | 1.2× | — |
+| **ICICIBANK.NS** | ₹1,396.70 | 🔼 Broken Out 🔼 | 17.0/100 | 52 | ✅ Yes | 0.9× | — |
+| **AXISBANK.NS** | ₹1,208.10 | ▶ Inside Range ▶ | 7.4/100 | 70 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹247.75 | ▶ Inside Range ▶ | 5.4/100 | 45 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,503.30 | ▶ Inside Range ▶ | -0.9/100 | 59 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹2,546.50 | ▶ Inside Range ▶ | -2.0/100 | 51 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹693.00 | 🔽 Broken Down 🔽 | -7.2/100 | 63 | ❌ No | 1.8× | — |
+| **WIPRO.NS** | ₹189.95 | 🔽 Broken Down 🔽 | -10.4/100 | 64 | ❌ No | 1.9× | — |
+| **INFY.NS** | ₹1,155.00 | 🔽 Broken Down 🔽 | -11.2/100 | 69 | ❌ No | 1.2× | — |
+| **TMPV.NS** | ₹268.80 | 🔽 Broken Down 🔽 | -13.8/100 | 37 | ❌ No | 3.4× | — |
+| **RELIANCE.NS** | ₹1,189.70 | 🔽 Broken Down 🔽 | -16.0/100 | 50 | ❌ No | 1.4× | — |
 
 ---
 
@@ -48,11 +52,12 @@ AI Summary unavailable (All Gemini models failed).
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TCS.NS | ₹2,529.00 | ₹2531.90 | ₹2481.40 | 67.3 | 🟢 Yes |
-| INFY.NS | ₹1,168.00 | ₹1170.35 | ₹1150.45 | 68.4 | 🟢 Yes |
-| WIPRO.NS | ₹189.17 | ₹189.35 | ₹183.89 | 58.8 | 🟢 Yes |
-| POWERGRID.NS | ₹252.15 | ₹253.50 | ₹251.30 | 79.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,209.00 | ₹1234.10 | ₹1208.40 | 67.3 | 🔴 No |
+| SBIN.NS | ₹966.55 | ₹959.30 | ₹950.05 | 53.9 | 🟢 Yes |
+| BAJFINANCE.NS | ₹934.15 | ₹917.40 | ₹907.50 | 42.2 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,396.70 | ₹1387.10 | ₹1376.30 | 52.4 | 🟢 Yes |
+| AXISBANK.NS | ₹1,208.10 | ₹1215.80 | ₹1202.60 | 69.9 | 🟢 Yes |
+| POWERGRID.NS | ₹247.75 | ₹248.95 | ₹244.80 | 44.8 | 🟢 Yes |
+| TCS.NS | ₹2,503.30 | ₹2523.80 | ₹2498.10 | 59.0 | 🔴 No |
 
 ---
 
