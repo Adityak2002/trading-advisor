@@ -1,27 +1,24 @@
 # 🤖 Gemini AI Insights
 
-### 📈 Market Analysis Summary: October 22, 2026
+Here is your high-level executive summary of today's trading setup:
 
-The market today showed a clear divide between banking strength and heavyweight weakness. While several stocks broke their opening ranges, the high-conviction "Buy" signals remained elusive due to strict volume requirements.
+### 📈 Market Context
+* **Mixed Sentiment:** Banking and financial stocks (**Bajaj Finance, SBI, ICICI Bank**) showed upward strength, but major market drivers (**Reliance, Infosys, HDFC Bank**) dragged downward.
+* **Lack of Volume Support:** While a few stocks broke above their opening levels, the market lacked strong buying volume to confirm a safe, high-probability rally.
 
-#### **🌍 Market Context**
-*   **Mixed Sentiment:** The session was a tug-of-war. Financials (BAJFINANCE, SBIN) showed upward momentum, while major indices heavyweights (RELIANCE, HDFCBANK) broke below their opening lows, signaling selling pressure in those sectors.
-*   **Low Conviction:** Although three stocks broke their "Opening High," none met the **1.8× volume surge** requirement needed to trigger an automated entry.
+---
 
-#### **🔝 Top Watchlist Performers**
-*   **BAJFINANCE.NS:** The strongest performer of the day with a momentum score of **74**. It broke its opening high of ₹917.40 decisively but lacked the massive volume spike required for a safe entry.
-*   **SBIN.NS:** Showed steady growth, trading well above its average price with a solid momentum score of **71**.
-*   **ICICIBANK.NS:** Successfully broke its range but had the weakest volume (0.8×), suggesting the move lacked institutional backing.
-
-#### **⚠️ Critical Warnings & Strategy Notes**
-*   **No Trade Zone:** As of 16:27 IST, **no trades were executed.** The strategy’s "Volume Filter" acted as a safety net, preventing entries into moves that lacked enough "fuel" to reach the 1.2% profit target.
-*   **Hard Stop:** The market
+### 🎯 Top Entry Candidates
+* **No Active Buy Signals Right Now:** Zero trades met the strategy's strict entrance criteria.
+* **Top Stocks to Watch for a Setup:**
+  * 🟢 **Bajaj Finance (BAJFINANCE.NS):** Strongest upward momentum today, but needs a heavier volume boost (≥1.8× average) before entry.
+  * 🟢 **State Bank of India (SBIN.NS):** Trading above average prices with solid momentum, awaiting a confirmed volume breakout.
 
 ---
 
 # 📈 Intraday Report — 2026-10-22
 
-> Auto-generated at **16:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
