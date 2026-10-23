@@ -1,34 +1,22 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today's intraday trading session:
+Here is your concise, high-level summary of today’s automated trading report:
 
 ### 📉 Market Context
-* **Weak & Defensive Session:** No bullish breakout signals were triggered today.
-* **Dominant Downward Pressure:** Over half of the watchlist (7 out of 12 stocks) broke below their morning lows, driven by heavy selling volume in IT (TCS, WIPRO, INFY) and Select Finance (BAJFINANCE).
-* **Consolidation:** The remaining 5 stocks (mainly banking and energy) traded flat inside their opening 15-minute range.
+* **Overall Market Sentiment:** **Bearish / Weak.** Out of 12 tracked stocks, **7 broke down** below their morning support levels (notably tech and financial heavyweights like INFY, TCS, WIPRO, and BAJFINANCE).
+* **No Bullish Momentum:** Not a single stock on the watchlist managed an upward breakout with required volume. The remaining 5 stocks stayed trapped in neutral trading ranges.
 
 ---
 
 ### 🎯 Top Entry Candidates
-* **Active Trades:** **0 Entries Taken** — Strategy rules correctly kept capital safe as no stock broke out on the upside with required volume.
-* **Top Stocks to Watch for Next Session:**
-  * **AXISBANK:** Strongest relative momentum (62.1) holding near its opening range high.
-  * **POWERGRID:** Highest momentum score (73.1) holding above average price.
-
----
-
-### ⚠️ Critical Warnings & Risk Takeaways
-* **100% Capital Preserved:** Zero trades meant ₹0 lost on a choppy/bearish day. Discipline paid off.
-* **Avoid "Falling Knives":** Heavy sell volume was observed in **BAJFINANCE** (3.3× avg volume breakdown) and **WIPRO** (2.6×)—do not attempt to buy these until a clear reversal forms.
-* **Risk Reminders for Next Session:** 
-  * Max loss capped strictly at **₹100 per trade** (2% of ₹5,000 capital).
-  *
+* **Active Buy Signals:** **NONE.** No trades met the mandatory setup rules (breakout above opening high + 1.8x volume surge).
+* **Stocks to Keep on
 
 ---
 
 # 📈 Intraday Report — 2026-10-23
 
-> Auto-generated at **17:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:38 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
