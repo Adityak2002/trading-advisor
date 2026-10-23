@@ -1,22 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your concise, high-level summary of today’s automated trading report:
+Here is a high-level, actionable summary of today’s intraday report:
 
 ### 📉 Market Context
-* **Overall Market Sentiment:** **Bearish / Weak.** Out of 12 tracked stocks, **7 broke down** below their morning support levels (notably tech and financial heavyweights like INFY, TCS, WIPRO, and BAJFINANCE).
-* **No Bullish Momentum:** Not a single stock on the watchlist managed an upward breakout with required volume. The remaining 5 stocks stayed trapped in neutral trading ranges.
-
----
-
-### 🎯 Top Entry Candidates
-* **Active Buy Signals:** **NONE.** No trades met the mandatory setup rules (breakout above opening high + 1.8x volume surge).
-* **Stocks to Keep on
+* **Overall Sentiment:** **Neutral to Weak.** Market showed
 
 ---
 
 # 📈 Intraday Report — 2026-10-23
 
-> Auto-generated at **18:38 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:35 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
