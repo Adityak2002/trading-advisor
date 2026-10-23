@@ -1,28 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today’s automated trading report:
-
-### 📉 Market Context
-* **Dominant Sentiment:** **Bearish / Selling Pressure.** 9 out of the 12 tracked stocks broke down below their opening low levels.
-* **Heavy Volatility:** High selling volume was triggered in major tech and finance names (BAJFINANCE, TCS, WIPRO, and INFY). 
-* **Overall Condition:** The market did not favor bullish (buy) breakout strategies today.
+Here is your executive intraday summary:
 
 ---
 
-### 🎯 Top Entry Candidates
-* **Active Buy Signals:** **NONE.** No stocks met the volume and breakout criteria required to open a trade today.
-* **Watchlist Summary:** Only **AXISBANK**, **RELIANCE**, and **HDFCBANK** managed to hold within their morning price ranges, but none showed enough upward momentum to buy.
-
----
-
-### ⚠️ Critical Warnings & Actions
-*
+### 📉 **Market Context**
+* **Overall Bias: Bearish / Defense Mode.** Over half the watchlist (7 out of
 
 ---
 
 # 📈 Intraday Report — 2026-10-23
 
-> Auto-generated at **15:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +28,18 @@ Here is your high-level executive summary of today’s automated trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **AXISBANK.NS** | ₹1,213.00 | ▶ Inside Range ▶ | 3.2/100 | 50 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,185.50 | ▶ Inside Range ▶ | 2.9/100 | 51 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹245.80 | 🔽 Broken Down 🔽 | -4.0/100 | 63 | ✅ Yes | 1.1× | — |
-| **ADANIENT.NS** | ₹2,488.80 | 🔽 Broken Down 🔽 | -8.6/100 | 55 | ✅ Yes | 1.7× | — |
-| **HDFCBANK.NS** | ₹691.55 | ▶ Inside Range ▶ | -9.8/100 | 28 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹922.80 | 🔽 Broken Down 🔽 | -10.2/100 | 44 | ❌ No | 3.5× | — |
-| **WIPRO.NS** | ₹189.76 | 🔽 Broken Down 🔽 | -12.2/100 | 43 | ❌ No | 2.6× | — |
-| **TMPV.NS** | ₹262.95 | 🔽 Broken Down 🔽 | -12.6/100 | 56 | ✅ Yes | 0.8× | — |
-| **TCS.NS** | ₹2,524.00 | 🔽 Broken Down 🔽 | -15.4/100 | 42 | ❌ No | 2.2× | — |
-| **ICICIBANK.NS** | ₹1,384.60 | 🔽 Broken Down 🔽 | -19.6/100 | 30 | ❌ No | 1.4× | — |
-| **INFY.NS** | ₹1,147.90 | 🔽 Broken Down 🔽 | -22.8/100 | 12 | ❌ No | 1.8× | — |
-| **SBIN.NS** | ₹954.95 | 🔽 Broken Down 🔽 | -22.8/100 | 37 | ❌ No | 1.2× | — |
+| **AXISBANK.NS** | ₹1,217.50 | ▶ Inside Range ▶ | 11.3/100 | 62 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹247.40 | ▶ Inside Range ▶ | 9.2/100 | 73 | ✅ Yes | — | — |
+| **RELIANCE.NS** | ₹1,190.00 | ▶ Inside Range ▶ | 8.0/100 | 58 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,394.20 | ▶ Inside Range ▶ | 1.5/100 | 53 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹928.95 | 🔽 Broken Down 🔽 | 0.4/100 | 57 | ✅ Yes | 3.3× | — |
+| **HDFCBANK.NS** | ₹692.80 | ▶ Inside Range ▶ | -2.7/100 | 35 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹264.60 | 🔽 Broken Down 🔽 | -8.0/100 | 65 | ✅ Yes | 0.8× | — |
+| **TCS.NS** | ₹2,530.00 | 🔽 Broken Down 🔽 | -12.2/100 | 46 | ❌ No | 2.2× | — |
+| **WIPRO.NS** | ₹189.84 | 🔽 Broken Down 🔽 | -12.2/100 | 47 | ❌ No | 2.6× | — |
+| **SBIN.NS** | ₹958.60 | 🔽 Broken Down 🔽 | -13.0/100 | 53 | ❌ No | 1.2× | — |
+| **ADANIENT.NS** | ₹2,477.00 | 🔽 Broken Down 🔽 | -16.0/100 | 45 | ❌ No | 1.6× | — |
+| **INFY.NS** | ₹1,153.80 | 🔽 Broken Down 🔽 | -22.8/100 | 37 | ❌ No | 1.8× | — |
 
 ---
 
@@ -64,9 +53,11 @@ Here is your high-level executive summary of today’s automated trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| AXISBANK.NS | ₹1,213.00 | ₹1223.40 | ₹1210.90 | 50.3 | 🟢 Yes |
-| RELIANCE.NS | ₹1,185.50 | ₹1201.60 | ₹1183.00 | 51.4 | 🟢 Yes |
-| HDFCBANK.NS | ₹691.55 | ₹696.15 | ₹691.75 | 27.8 | 🔴 No |
+| AXISBANK.NS | ₹1,217.50 | ₹1223.40 | ₹1210.90 | 62.1 | 🟢 Yes |
+| POWERGRID.NS | ₹247.40 | ₹248.30 | ₹246.25 | 73.1 | 🟢 Yes |
+| RELIANCE.NS | ₹1,190.00 | ₹1201.60 | ₹1183.00 | 58.1 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,394.20 | ₹1404.50 | ₹1394.30 | 52.6 | 🟢 Yes |
+| HDFCBANK.NS | ₹692.80 | ₹696.15 | ₹691.75 | 35.4 | 🟢 Yes |
 
 ---
 
