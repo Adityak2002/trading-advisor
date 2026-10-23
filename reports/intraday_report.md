@@ -1,17 +1,34 @@
 # 🤖 Gemini AI Insights
 
-Here is your executive intraday summary:
+Here is a high-level summary of today's intraday trading session:
+
+### 📉 Market Context
+* **Weak & Defensive Session:** No bullish breakout signals were triggered today.
+* **Dominant Downward Pressure:** Over half of the watchlist (7 out of 12 stocks) broke below their morning lows, driven by heavy selling volume in IT (TCS, WIPRO, INFY) and Select Finance (BAJFINANCE).
+* **Consolidation:** The remaining 5 stocks (mainly banking and energy) traded flat inside their opening 15-minute range.
 
 ---
 
-### 📉 **Market Context**
-* **Overall Bias: Bearish / Defense Mode.** Over half the watchlist (7 out of
+### 🎯 Top Entry Candidates
+* **Active Trades:** **0 Entries Taken** — Strategy rules correctly kept capital safe as no stock broke out on the upside with required volume.
+* **Top Stocks to Watch for Next Session:**
+  * **AXISBANK:** Strongest relative momentum (62.1) holding near its opening range high.
+  * **POWERGRID:** Highest momentum score (73.1) holding above average price.
+
+---
+
+### ⚠️ Critical Warnings & Risk Takeaways
+* **100% Capital Preserved:** Zero trades meant ₹0 lost on a choppy/bearish day. Discipline paid off.
+* **Avoid "Falling Knives":** Heavy sell volume was observed in **BAJFINANCE** (3.3× avg volume breakdown) and **WIPRO** (2.6×)—do not attempt to buy these until a clear reversal forms.
+* **Risk Reminders for Next Session:** 
+  * Max loss capped strictly at **₹100 per trade** (2% of ₹5,000 capital).
+  *
 
 ---
 
 # 📈 Intraday Report — 2026-10-23
 
-> Auto-generated at **16:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
