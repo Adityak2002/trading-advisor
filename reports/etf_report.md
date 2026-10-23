@@ -1,38 +1,37 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise summary of today’s trading report:
+Here is your high-level, actionable summary of today’s trading report:
 
-### 💡 Executive Summary
-**Action:** **STAY IN CASH (No Trades Today)**  
-Domestic markets are under
+### 🔴 Market Snapshot
+* **Overall Signal:** **Bearish / Defensive** — Avoid opening new trades and preserve
 
 ---
 
-# 📊 ETF/MF Daily Report — 2026-10-22
-> *Auto-generated at 13:56 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-10-23
+> *Auto-generated at 13:52 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🔴 Bearish — Avoid new entries; protect open positions
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 22,638.30 | 📉 -0.76% |
-| India VIX | 15.99 | 📈 +1.99% |
-| S&P 500 (overnight) | 7,757.17 | 📈 +0.58% |
-| NASDAQ | 26,702.86 | 📈 +1.05% |
-| WTI Crude Oil | $99.85 | 📈 +2.78% |
-| USD / INR | 94.8150 | 📈 +0.10% |
+| Nifty 50 | 22,527.75 | 📉 -0.70% |
+| India VIX | 16.73 | 📈 +6.14% |
+| S&P 500 (overnight) | 7,663.43 | 📉 -1.21% |
+| NASDAQ | 26,008.86 | 📉 -2.60% |
+| WTI Crude Oil | $100.46 | 📈 +0.99% |
+| USD / INR | 94.9475 | 📈 +0.67% |
 
 **Key Factors:**
-- VIX 16.0 — Moderate 🟡 (70% sizing)
-- S&P 500 +0.58% — Positive overnight cues 📈
-- NASDAQ +1.05% — Tech bullish (N100/MAFANG +ve)
-- Nifty -0.76% — Domestic market bearish
-- WTI Crude $99.85 (+2.78%) — Bullish for OILIETF 📈
-- USD/INR 94.81 (+0.104%) — USD stable
+- VIX 16.7 — Moderate 🟡 (70% sizing)
+- S&P 500 -1.21% — Negative overnight cues 📉
+- NASDAQ -2.60% — Tech bearish
+- Nifty -0.70% — Domestic market bearish
+- WTI Crude $100.46 (+0.99%) — Neutral for OILIETF
+- USD/INR 94.95 (+0.674%) — Dollar rising → intl ETFs gain in INR terms 📈
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -60,11 +59,11 @@ Domestic markets are under
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ABFRL.NS | 14.2 | Below EMA50 · VolZ=-0.3 (need ≥1.5) · Score=14 (need ≥40) |
-| IREDA.NS | 11.2 | Below EMA50 · VolZ=-0.6 (need ≥1.5) · Score=11 (need ≥40) |
-| MAFANG.NS | 11.0 | RSI=58 (need <38) · VolZ=-1.0 (need ≥1.5) · Score=11 (need ≥40) |
-| RVNL.NS | 9.2 | Below EMA50 · VolZ=-0.5 (need ≥1.5) · Score=9 (need ≥40) |
-| JUNIORBEES.NS | 6.2 | Below EMA50 · VolZ=-1.0 (need ≥1.5) · Score=6 (need ≥40) |
+| HNGSNGBEES.NS | 17.2 | Below EMA50 · Score=17 (need ≥40) |
+| JUNIORBEES.NS | 16.2 | Below EMA50 · VolZ=0.8 (need ≥1.5) · Score=16 (need ≥40) |
+| IREDA.NS | 14.8 | Below EMA50 · VolZ=-0.1 (need ≥1.5) · Score=15 (need ≥40) |
+| ABFRL.NS | 14.8 | Below EMA50 · VolZ=-0.1 (need ≥1.5) · Score=15 (need ≥40) |
+| MAFANG.NS | 10.8 | RSI=51 (need <38) · VolZ=0.4 (need ≥1.5) · Score=11 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -76,27 +75,27 @@ Domestic markets are under
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | ABFRL.NS | 14.2 | 30 | 🔴 | -0.3 | -38.9% | ⏸ Skip |
-| 2 | IREDA.NS | 11.2 | 27 | 🔴 | -0.6 | -26.4% | ⏸ Skip |
-| 3 | MAFANG.NS | 11.0 | 58 | 🟢 | -1.0 | -12.0% | ⏸ Skip |
-| 4 | RVNL.NS | 9.2 | 33 | 🔴 | -0.5 | -39.2% | ⏸ Skip |
-| 5 | JUNIORBEES.NS | 6.2 | 31 | 🔴 | -1.0 | -10.1% | ⏸ Skip |
-| 6 | HNGSNGBEES.NS | 5.8 | 38 | 🔴 | 0.8 | -21.1% | ⏸ Skip |
-| 7 | PHARMABEES.NS | 5.5 | 30 | 🔴 | 0.8 | -6.1% | ⏸ Skip |
-| 8 | AUTOBEES.NS | 1.0 | 34 | 🔴 | -0.6 | -16.0% | ⏸ Skip |
-| 9 | OILIETF.NS | -5.9 | 41 | 🔴 | -1.1 | -11.2% | ⏸ Skip |
-| 10 | UNIONBANK.NS | -9.0 | 68 | 🟢 | 0.6 | -4.0% | ⏸ Skip |
-| 11 | IRFC.NS | -11.5 | 44 | 🔴 | -0.5 | -27.8% | ⏸ Skip |
-| 12 | NHPC.NS | -11.5 | 45 | 🔴 | -0.6 | -15.3% | ⏸ Skip |
-| 13 | TATAPOWER.NS | -11.5 | 43 | 🔴 | -0.8 | -23.4% | ⏸ Skip |
-| 14 | CANBK.NS | -12.2 | 51 | 🔴 | -0.4 | -14.8% | ⏸ Skip |
-| 15 | HDFCAMC.NS | -12.2 | 54 | 🔴 | 0.0 | -18.9% | ⏸ Skip |
-| 16 | BANKBEES.NS | -15.2 | 54 | 🔴 | -0.8 | -6.0% | ⏸ Skip |
-| 17 | RECLTD.NS | -15.2 | 51 | 🔴 | -0.6 | -20.4% | ⏸ Skip |
-| 18 | SUZLON.NS | -15.2 | 46 | 🔴 | -1.1 | -34.9% | ⏸ Skip |
-| 19 | ITETF.NS | -19.5 | 81 | 🟢 | -0.0 | 0.0% | ⏸ Skip |
-| 20 | BANKBARODA.NS | -21.0 | 62 | 🔴 | -0.5 | -17.5% | ⏸ Skip |
-| 21 | PSUBNKBEES.NS | -24.0 | 58 | 🔴 | -0.5 | -8.7% | ⏸ Skip |
+| 1 | HNGSNGBEES.NS | 17.2 | 27 | 🔴 | 1.9 | -23.4% | ⏸ Skip |
+| 2 | JUNIORBEES.NS | 16.2 | 28 | 🔴 | 0.8 | -12.2% | ⏸ Skip |
+| 3 | IREDA.NS | 14.8 | 25 | 🔴 | -0.1 | -26.9% | ⏸ Skip |
+| 4 | ABFRL.NS | 14.8 | 30 | 🔴 | -0.1 | -41.5% | ⏸ Skip |
+| 5 | MAFANG.NS | 10.8 | 51 | 🟢 | 0.4 | -18.1% | ⏸ Skip |
+| 6 | RVNL.NS | 9.8 | 33 | 🔴 | -0.2 | -40.9% | ⏸ Skip |
+| 7 | PHARMABEES.NS | 4.2 | 30 | 🔴 | -1.9 | -7.2% | ⏸ Skip |
+| 8 | NHPC.NS | -2.8 | 42 | 🔴 | 0.4 | -18.3% | ⏸ Skip |
+| 9 | OILIETF.NS | -5.8 | 37 | 🔴 | 0.6 | -12.2% | ⏸ Skip |
+| 10 | AUTOBEES.NS | -6.0 | 33 | 🔴 | -0.6 | -16.8% | ⏸ Skip |
+| 11 | TATAPOWER.NS | -9.2 | 38 | 🔴 | -0.4 | -25.0% | ⏸ Skip |
+| 12 | HDFCAMC.NS | -10.2 | 43 | 🔴 | -0.3 | -20.3% | ⏸ Skip |
+| 13 | SUZLON.NS | -13.2 | 44 | 🔴 | -0.7 | -37.3% | ⏸ Skip |
+| 14 | ITETF.NS | -17.5 | 80 | 🟢 | 0.4 | -0.4% | ⏸ Skip |
+| 15 | PSUBNKBEES.NS | -19.2 | 52 | 🔴 | -0.3 | -8.4% | ⏸ Skip |
+| 16 | CANBK.NS | -19.2 | 47 | 🔴 | -0.0 | -14.8% | ⏸ Skip |
+| 17 | UNIONBANK.NS | -20.5 | 70 | 🟢 | -0.6 | -5.0% | ⏸ Skip |
+| 18 | BANKBEES.NS | -22.2 | 46 | 🔴 | -0.7 | -6.9% | ⏸ Skip |
+| 19 | IRFC.NS | -22.2 | 45 | 🔴 | -0.6 | -29.2% | ⏸ Skip |
+| 20 | RECLTD.NS | -22.2 | 45 | 🔴 | -0.7 | -21.2% | ⏸ Skip |
+| 21 | BANKBARODA.NS | -27.2 | 50 | 🔴 | -0.6 | -19.2% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -104,6 +103,6 @@ Domestic markets are under
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-10-22 13:56 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-10-23 13:52 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
