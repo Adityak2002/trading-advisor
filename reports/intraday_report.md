@@ -1,23 +1,13 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of the trading report:
-
-### 📈 Market Context
-* **Bullish Bias:** Most monitored stocks (8 out of 12) broke above their initial 15-minute opening high, indicating strong upside market momentum.
-* **Volume Activity:** A few select stocks (ADANIENT, RELIANCE, WIPRO) show massive volume spikes, confirming genuine buying interest.
-
----
-
-### 👁️ Top Watchlist Candidates
-While **no trades are currently active**, the following stocks are building strong setups and top your watchlist:
-
-*
+structure clear? Market Context, Top Entry Candidates, Critical Warnings/Exits.
+    *   Layman-friendly? Avoid overly dense jargon, explain simply.
 
 ---
 
 # 📈 Intraday Report — 2026-10-26
 
-> Auto-generated at **20:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
