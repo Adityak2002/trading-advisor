@@ -1,29 +1,23 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: Opening Range Breakout (ORB) Report
+Here is a high-level summary of the trading report:
 
-The market is showing strong bullish sentiment with multiple stocks breaking above their opening ranges. However, despite the breakouts, the system is currently in a **"Wait and Watch"** mode as it filters for the highest-probability setups.
+### 📈 Market Context
+* **Bullish Bias:** Most monitored stocks (8 out of 12) broke above their initial 15-minute opening high, indicating strong upside market momentum.
+* **Volume Activity:** A few select stocks (ADANIENT, RELIANCE, WIPRO) show massive volume spikes, confirming genuine buying interest.
 
-#### 🚀 Top Entry Candidates
-These stocks have cleared their opening highs with significant volume, making them the primary focus for potential long positions:
-*   **ADANIENT.NS:** Highest volume surge (5.0×). Strongest breakout candidate.
-*   **RELIANCE.NS:** Solid volume (3.3×) with a clean breakout.
-*   **WIPRO.NS:** Reliable volume (2.5×) and steady momentum.
+---
 
-#### ⚠️ Critical Rules & Risk Management
-*   **No Active Trades:** The system has not triggered an entry yet. Do not force a trade; wait for the specific volume criteria (≥1.8× average) to be met.
-*   **Strict Risk Cap:** Max loss is limited to **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **Trade Limit:** Maximum of **2 concurrent trades**. Do not over-leverage.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No overnight risk is permitted.
-*   **Profit Protection:** Once a trade hits +0.5% profit, move the stop loss to breakeven to protect your capital.
+### 👁️ Top Watchlist Candidates
+While **no trades are currently active**, the following stocks are building strong setups and top your watchlist:
 
-**Analyst Note:** The market is currently in a "momentum-heavy" phase. Focus on **ADANIENT** and **RELIANCE** as they show the most significant volume conviction. Stay disciplined and wait for the signal.
+*
 
 ---
 
 # 📈 Intraday Report — 2026-10-26
 
-> Auto-generated at **19:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
