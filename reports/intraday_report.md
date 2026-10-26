@@ -1,15 +1,21 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the intraday report:
+Here is a high-level summary of the intraday trading report:
 
 ### 📈 Market Context
-* **Bullish Momentum:** Strong buying interest overall—**8 out of 1
+* **Bullish Bias:** 8 out of 12 watchlist stocks successfully broke above their 15-minute morning highs, driven by strong price action above their average intraday prices.
+* **No Triggers Yet:** Despite positive price action, **zero trades were executed** as setups did not fully align with the automated entry parameters before market close. 
+
+---
+
+### 🎯 Top Setup Candidates to Watch
+These stocks showed the strongest combination of
 
 ---
 
 # 📈 Intraday Report — 2026-10-26
 
-> Auto-generated at **16:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:34 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
