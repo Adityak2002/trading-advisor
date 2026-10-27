@@ -1,23 +1,32 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s automated intraday trading report:
-
-### 📉 Market Context
-* **Bearish Tone:** The market leans heavily negative—7 out of the 12 tracked stocks broke below their morning lows, while only 2 broke above.
-* **Market Closed:** This report was generated post-market (16:52 IST). All intraday activity is completed, and no positions are open.
+Here is your high-level executive summary of today’s automated intraday report:
 
 ---
 
-### 🎯 Top Entry Candidates
-* **Zero Active Trades:** No stocks triggered a "BUY" signal today. 
-* **Near-Miss Watchlist:** 
-  * **POWERGRID.NS:** Price broke above its morning high
+### 📊 **Market Context**
+* **Bearish Tilt:** The overall market showed clear underlying weakness. Out of 12 tracked blue-chip stocks, **7 broke down** below their morning lows, while only 2 managed to move above their opening high.
+* **Lack of Buying Volume:** Although a couple of stocks tried to rally, overall buying interest across the board lacked strong institutional backing.
+* **Session Ended:** The trading day is over (Square-off time was **15:10 IST**).
+
+---
+
+### 🎯 **Top Entry Candidates**
+* **NO TRADES TAKEN TODAY:** **0 Active Buy Signals.** 
+* **Near-Misses Filtered Out:**
+  * **POWERGRID** and **INFY** moved above their morning range, but **failed the volume test** (POWERGRID saw 1.5× volume and INFY saw 0.9×, both below our strict 1.8× threshold). 
+  * **Result:** The system correctly identified these as low-conviction moves and stayed safely on the sidelines.
+
+---
+
+### ⚠️ **Critical Warnings & Takeaways**
+* **Capital Preserved:** By strictly enforcing the **1.8× volume filter**, the trading bot successfully avoided "trap" breakouts in a weak market,
 
 ---
 
 # 📈 Intraday Report — 2026-10-27
 
-> Auto-generated at **16:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:18 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
