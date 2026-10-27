@@ -1,21 +1,23 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today's intraday trading report:
+Here is a high-level, actionable summary of today’s automated intraday trading report:
 
-### 📈 Market Context
-* **Mixed Sentiment with Bearish Tilt:** A majority of watchlist stocks (especially major banking names like HDFCBANK, SBIN, and ICICIBANK) broke **down** below their opening ranges.
-* **Select Strength:** High-cap market leaders like **RELIANCE**, **POWERGRID**, and **WIPRO** defied the weakness and broke out above their opening highs.
+### 📉 Market Context
+* **Bearish Tone:** The market leans heavily negative—7 out of the 12 tracked stocks broke below their morning lows, while only 2 broke above.
+* **Market Closed:** This report was generated post-market (16:52 IST). All intraday activity is completed, and no positions are open.
 
 ---
 
 ### 🎯 Top Entry Candidates
-* **No Active Buy Signals:** Zero
+* **Zero Active Trades:** No stocks triggered a "BUY" signal today. 
+* **Near-Miss Watchlist:** 
+  * **POWERGRID.NS:** Price broke above its morning high
 
 ---
 
 # 📈 Intraday Report — 2026-10-27
 
-> Auto-generated at **15:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -32,18 +34,18 @@ Here is your high-level executive summary of today's intraday trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **RELIANCE.NS** | ₹1,202.10 | 🔼 Broken Out 🔼 | 34.5/100 | 64 | ✅ Yes | 5.2× | — |
-| **POWERGRID.NS** | ₹253.20 | 🔼 Broken Out 🔼 | 25.7/100 | 66 | ✅ Yes | 1.7× | — |
-| **WIPRO.NS** | ₹188.50 | 🔼 Broken Out 🔼 | 15.4/100 | 81 | ✅ Yes | 0.8× | — |
-| **TCS.NS** | ₹2,500.30 | ▶ Inside Range ▶ | 4.9/100 | 56 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,151.20 | ▶ Inside Range ▶ | -0.7/100 | 27 | ❌ No | — | — |
-| **TMPV.NS** | ₹262.05 | ▶ Inside Range ▶ | -1.9/100 | 51 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,216.50 | ▶ Inside Range ▶ | -5.9/100 | 49 | ❌ No | — | — |
-| **ICICIBANK.NS** | ₹1,386.90 | 🔽 Broken Down 🔽 | -6.8/100 | 65 | ✅ Yes | 1.3× | — |
-| **HDFCBANK.NS** | ₹682.70 | 🔽 Broken Down 🔽 | -11.2/100 | 68 | ❌ No | 1.5× | — |
-| **SBIN.NS** | ₹953.00 | 🔽 Broken Down 🔽 | -15.2/100 | 61 | ❌ No | 0.6× | — |
-| **BAJFINANCE.NS** | ₹911.80 | 🔽 Broken Down 🔽 | -15.2/100 | 67 | ❌ No | 0.7× | — |
-| **ADANIENT.NS** | ₹2,475.00 | 🔽 Broken Down 🔽 | -22.4/100 | 77 | ❌ No | 0.6× | — |
+| **POWERGRID.NS** | ₹251.75 | 🔼 Broken Out 🔼 | 21.1/100 | 51 | ✅ Yes | 1.5× | — |
+| **INFY.NS** | ₹1,163.00 | 🔼 Broken Out 🔼 | 21.1/100 | 54 | ✅ Yes | 0.9× | — |
+| **RELIANCE.NS** | ₹1,196.20 | ▶ Inside Range ▶ | 10.2/100 | 57 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,496.90 | ▶ Inside Range ▶ | 4.2/100 | 53 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹187.00 | ▶ Inside Range ▶ | 0.7/100 | 31 | ✅ Yes | — | — |
+| **ICICIBANK.NS** | ₹1,386.90 | 🔽 Broken Down 🔽 | -9.2/100 | 71 | ✅ Yes | 1.1× | — |
+| **HDFCBANK.NS** | ₹680.20 | 🔽 Broken Down 🔽 | -13.0/100 | 53 | ❌ No | 1.4× | — |
+| **ADANIENT.NS** | ₹2,490.00 | 🔽 Broken Down 🔽 | -15.2/100 | 78 | ✅ Yes | 0.6× | — |
+| **AXISBANK.NS** | ₹1,205.70 | 🔽 Broken Down 🔽 | -15.8/100 | 30 | ❌ No | 2.7× | — |
+| **BAJFINANCE.NS** | ₹912.00 | 🔽 Broken Down 🔽 | -17.6/100 | 72 | ❌ No | 0.6× | — |
+| **TMPV.NS** | ₹261.20 | 🔽 Broken Down 🔽 | -23.2/100 | 49 | ❌ No | 0.8× | — |
+| **SBIN.NS** | ₹945.10 | 🔽 Broken Down 🔽 | -26.8/100 | 38 | ❌ No | 0.6× | — |
 
 ---
 
@@ -57,12 +59,11 @@ Here is your high-level executive summary of today's intraday trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| RELIANCE.NS | ₹1,202.10 | ₹1197.00 | ₹1189.70 | 64.0 | 🟢 Yes |
-| POWERGRID.NS | ₹253.20 | ₹248.40 | ₹246.30 | 65.5 | 🟢 Yes |
-| WIPRO.NS | ₹188.50 | ₹188.25 | ₹185.20 | 81.1 | 🟢 Yes |
-| TCS.NS | ₹2,500.30 | ₹2531.60 | ₹2484.20 | 55.8 | 🟢 Yes |
-| INFY.NS | ₹1,151.20 | ₹1153.15 | ₹1131.30 | 27.0 | 🔴 No |
-| TMPV.NS | ₹262.05 | ₹264.00 | ₹261.85 | 50.9 | 🔴 No |
+| POWERGRID.NS | ₹251.75 | ₹248.40 | ₹246.30 | 50.9 | 🟢 Yes |
+| INFY.NS | ₹1,163.00 | ₹1153.15 | ₹1131.30 | 53.8 | 🟢 Yes |
+| RELIANCE.NS | ₹1,196.20 | ₹1197.00 | ₹1189.70 | 57.1 | 🟢 Yes |
+| TCS.NS | ₹2,496.90 | ₹2531.60 | ₹2484.20 | 52.5 | 🟢 Yes |
+| WIPRO.NS | ₹187.00 | ₹188.25 | ₹185.20 | 30.9 | 🟢 Yes |
 
 ---
 
