@@ -1,32 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today’s automated intraday report:
+### 📊 Market Summary: 2026-10-27
 
----
+The market is currently in a **"Wait and See"** phase. Despite several stocks breaking out of their opening ranges, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability trade.
 
-### 📊 **Market Context**
-* **Bearish Tilt:** The overall market showed clear underlying weakness. Out of 12 tracked blue-chip stocks, **7 broke down** below their morning lows, while only 2 managed to move above their opening high.
-* **Lack of Buying Volume:** Although a couple of stocks tried to rally, overall buying interest across the board lacked strong institutional backing.
-* **Session Ended:** The trading day is over (Square-off time was **15:10 IST**).
+#### 🎯 Top Entry Candidates (Watchlist)
+These stocks are currently trading above their average price and are closest to triggering a buy signal if volume spikes:
+*   **POWERGRID.NS:** Strongest breakout candidate; currently trading above its opening high (₹248.40).
+*   **INFY.NS:** Showing solid momentum; currently trading above its opening high (₹1153.15).
+*   **RELIANCE.NS:** Currently consolidating inside the opening range; keep a close eye for a breakout above ₹1197.00.
 
----
+#### ⚠️ Critical Warnings & Rules
+*   **No Active Trades:** The system has not entered any positions today because the volume surge criteria (the "confirmation" signal) has not been met.
+*   **Strict Volume Filter:** Do not force trades. The 1.8× volume surge is your primary filter to avoid "fake-out" breakouts.
+*   **Risk Management:** 
+    *   Max loss is capped at **₹100 per trade**.
+    *   If a trade triggers, ensure the **Stop Loss (-0.4%)** is set immediately.
+    *   **Auto-Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
+*   **Avoid:** Do not trade stocks currently breaking *down* (e.g., AXISBANK, SBIN, BAJFINANCE) as this strategy is strictly for long-side momentum.
 
-### 🎯 **Top Entry Candidates**
-* **NO TRADES TAKEN TODAY:** **0 Active Buy Signals.** 
-* **Near-Misses Filtered Out:**
-  * **POWERGRID** and **INFY** moved above their morning range, but **failed the volume test** (POWERGRID saw 1.5× volume and INFY saw 0.9×, both below our strict 1.8× threshold). 
-  * **Result:** The system correctly identified these as low-conviction moves and stayed safely on the sidelines.
-
----
-
-### ⚠️ **Critical Warnings & Takeaways**
-* **Capital Preserved:** By strictly enforcing the **1.8× volume filter**, the trading bot successfully avoided "trap" breakouts in a weak market,
+**Bottom Line:** Patience is the strategy today. Wait for the volume surge before committing capital.
 
 ---
 
 # 📈 Intraday Report — 2026-10-27
 
-> Auto-generated at **18:18 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
