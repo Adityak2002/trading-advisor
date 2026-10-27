@@ -1,31 +1,12 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-27
-
-The market is currently in a **"Wait and See"** phase. Despite several stocks breaking out of their opening ranges, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability trade.
-
-#### 🎯 Top Entry Candidates (Watchlist)
-These stocks are currently trading above their average price and are closest to triggering a buy signal if volume spikes:
-*   **POWERGRID.NS:** Strongest breakout candidate; currently trading above its opening high (₹248.40).
-*   **INFY.NS:** Showing solid momentum; currently trading above its opening high (₹1153.15).
-*   **RELIANCE.NS:** Currently consolidating inside the opening range; keep a close eye for a breakout above ₹1197.00.
-
-#### ⚠️ Critical Warnings & Rules
-*   **No Active Trades:** The system has not entered any positions today because the volume surge criteria (the "confirmation" signal) has not been met.
-*   **Strict Volume Filter:** Do not force trades. The 1.8× volume surge is your primary filter to avoid "fake-out" breakouts.
-*   **Risk Management:** 
-    *   Max loss is capped at **₹100 per trade**.
-    *   If a trade triggers, ensure the **Stop Loss (-0.4%)** is set immediately.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
-*   **Avoid:** Do not trade stocks currently breaking *down* (e.g., AXISBANK, SBIN, BAJFINANCE) as this strategy is strictly for long-side momentum.
-
-**Bottom Line:** Patience is the strategy today. Wait for the volume surge before committing capital.
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-10-27
 
-> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
