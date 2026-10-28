@@ -1,26 +1,21 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today’s automated intraday report:
+Here is a high-level, actionable summary of today's intraday trading context:
 
 ### 📈 Market Context
-* **Mild Bullish Bias, Weak Volume:** Most tracked stocks are trading above their morning highs, but buying volume is generally too low to confirm strong upward momentum.
-* **Key Divergence:** While most stocks are attempting to go up, **Reliance (RELIANCE.NS)** is experiencing heavy selling with high volume.
+* **Bullish Bias, Low Volume:** Most top stocks (7 out of 12) broke above their morning highs, showing positive market sentiment. 
+* **Lack of Institutional Buying:** Despite price breakouts, overall trading volume remains weak across the board, preventing confirmed buy signals.
 
 ---
 
-### 🎯 Top Entry Candidates
-* **Active Buy Signals:** **NONE.** 
-  * *Why?* Although stocks like TCS and Bajaj Finance broke above their morning highs, they failed to meet the required **1.8× volume surge** for a safe entry.
-* **Top Stocks to Watch (Awaiting Volume):**
-  * **TCS.NS** (₹2,460.00) — Closest to setup; needs a stronger volume surge (currently 1.3×).
-  * **BAJFINANCE.NS** (₹917.25) — Positive momentum; needs volume confirmation (currently 1.1×).
-  * **AXISBANK.NS** (₹1,220.00) — Strongest
+### 🎯 Entry Candidates
+* **
 
 ---
 
 # 📈 Intraday Report — 2026-10-28
 
-> Auto-generated at **19:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
