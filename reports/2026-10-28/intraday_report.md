@@ -1,33 +1,27 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-28
-
-The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the lack of significant volume confirms that the breakout lacks conviction. No trades were triggered today as the strategy requires a strict 1.8× volume surge to confirm momentum.
+Here is a high-level summary of today’s automated trading report:
 
 ---
 
-### 🚀 Top Entry Candidates (Watchlist)
-These stocks are currently trading above their opening highs and are the primary focus for potential momentum:
-
-*   **AXISBANK.NS:** Highest momentum score (72.1); currently leading the pack.
-*   **TCS.NS:** Strongest price action relative to the opening range.
-*   **BAJFINANCE.NS:** Stable breakout with consistent momentum.
+### 📊 **Market Context**
+* **Bullish Bias, Low Conviction:** Several major stocks (TCS, BAJFINANCE, AXISBANK, etc.) broke above their initial morning range, showing positive price movement.
+* **Volume Shortfall:** Despite positive price action, trading volumes across the board were too low to confirm genuine institutional buying interest.
 
 ---
 
-### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The system correctly avoided entries today because the volume criteria (1.8× average) were not met. This prevented potential "fake-out" losses.
-*   **Volume Alert:** **RELIANCE.NS** showed a massive volume surge (2.1×) but broke *downward*. This is a bearish signal; avoid any long positions here.
-*   **Risk Discipline:** The strategy remains strictly disciplined. With no high-conviction volume spikes, the capital remains protected.
-*   **Market Close:** All monitoring ceases at **15:10 IST**. No overnight risk is being carried.
-
-**Bottom Line:** The market is lacking the "fuel" (volume) required for this strategy. Stay patient; do not force entries if the volume surge is absent.
+### 🎯 **Entry Candidates & Signal Status**
+* **Active Buy Signals:** **NONE.** No trades were executed today.
+* **Filter Working as Intended:** While 7 stocks broke price targets, **none met the required 1.8× volume surge** threshold. The algorithm correctly stayed cash-heavy to avoid false breakouts.
+* **Top Watchlist Candidates (For Next Session):**
+  * **TCS.NS** (Highest action score: 24.5 | Volume: 1.3×)
+  * **BAJFINANCE.NS** (Action score: 24.0 | Volume: 1.1×)
 
 ---
 
 # 📈 Intraday Report — 2026-10-28
 
-> Auto-generated at **16:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:26 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
