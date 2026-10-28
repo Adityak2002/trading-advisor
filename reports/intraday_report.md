@@ -1,21 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today's intraday trading context:
+Here is your high-level trading summary for the current session:
 
-### 📈 Market Context
-* **Bullish Bias, Low Volume:** Most top stocks (7 out of 12) broke above their morning highs, showing positive market sentiment. 
-* **Lack of Institutional Buying:** Despite price breakouts, overall trading volume remains weak across the board, preventing confirmed buy signals.
+### 📊 Market Context
+*   **Bullish Bias, Low Conviction:** Most of the watchlist (TCS, BAJFINANCE, AXISBANK) has broken above the morning's opening range, but **trading volume is weak**. 
+*   **Missing Trigger:** While prices are rising, they haven't hit the required **1.8× volume surge** needed to confirm a high-probability "Buy" signal.
+*   **Outlier Alert:** **RELIANCE.NS** is the only stock showing heavy selling pressure, breaking *down* on high volume (2.1×).
 
----
+### 🎯 Top Entry Candidates (Watchlist)
+*   **TCS.NS (Score: 24.5):** The strongest setup currently. It is trading above its opening high (₹2,447) with decent momentum, but needs more volume to trigger an entry.
+*   **BAJFINANCE.NS (Score: 24.0):** Showing steady strength above ₹908.70. A sudden spike in trading activity would make this a prime candidate.
+*   **AXISBANK.NS:** Boasts the highest momentum (72), though volume is currently too low (0.7×) to trust the breakout.
 
-### 🎯 Entry Candidates
-* **
+### ⚠️ Critical Warnings & Actions
+*   **Patience is Key:** **No active buy signals** have been triggered yet. Do not "force" a trade until the volume confirms the price move.
+*   **Avoid Reliance:** Do not attempt to buy the dip on RELIANCE.NS; its downward momentum is backed by significant volume.
+*   **Hard Exit:** Ensure all positions are closed by **15:10 IST**. No exceptions.
+*   **Risk Cap:** Limit your loss to **₹100 per trade**. If a stock hits your stop loss, exit immediately—never "average down" on a losing position.
 
 ---
 
 # 📈 Intraday Report — 2026-10-28
 
-> Auto-generated at **20:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
