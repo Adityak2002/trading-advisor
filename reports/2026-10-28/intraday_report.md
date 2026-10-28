@@ -1,27 +1,26 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today’s automated trading report:
+Here is a high-level summary of today’s automated intraday report:
+
+### 📈 Market Context
+* **Mild Bullish Bias, Weak Volume:** Most tracked stocks are trading above their morning highs, but buying volume is generally too low to confirm strong upward momentum.
+* **Key Divergence:** While most stocks are attempting to go up, **Reliance (RELIANCE.NS)** is experiencing heavy selling with high volume.
 
 ---
 
-### 📊 **Market Context**
-* **Bullish Bias, Low Conviction:** Several major stocks (TCS, BAJFINANCE, AXISBANK, etc.) broke above their initial morning range, showing positive price movement.
-* **Volume Shortfall:** Despite positive price action, trading volumes across the board were too low to confirm genuine institutional buying interest.
-
----
-
-### 🎯 **Entry Candidates & Signal Status**
-* **Active Buy Signals:** **NONE.** No trades were executed today.
-* **Filter Working as Intended:** While 7 stocks broke price targets, **none met the required 1.8× volume surge** threshold. The algorithm correctly stayed cash-heavy to avoid false breakouts.
-* **Top Watchlist Candidates (For Next Session):**
-  * **TCS.NS** (Highest action score: 24.5 | Volume: 1.3×)
-  * **BAJFINANCE.NS** (Action score: 24.0 | Volume: 1.1×)
+### 🎯 Top Entry Candidates
+* **Active Buy Signals:** **NONE.** 
+  * *Why?* Although stocks like TCS and Bajaj Finance broke above their morning highs, they failed to meet the required **1.8× volume surge** for a safe entry.
+* **Top Stocks to Watch (Awaiting Volume):**
+  * **TCS.NS** (₹2,460.00) — Closest to setup; needs a stronger volume surge (currently 1.3×).
+  * **BAJFINANCE.NS** (₹917.25) — Positive momentum; needs volume confirmation (currently 1.1×).
+  * **AXISBANK.NS** (₹1,220.00) — Strongest
 
 ---
 
 # 📈 Intraday Report — 2026-10-28
 
-> Auto-generated at **17:26 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
