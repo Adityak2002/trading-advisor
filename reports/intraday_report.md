@@ -1,31 +1,38 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-10-29
+### 📈 Market Snapshot: Oct 29, 2026
 
-The market is showing a strong bullish bias with most watchlist stocks trading above their opening range highs. However, despite the positive price action, **volume participation is generally weak**, suggesting a lack of institutional conviction behind the current moves.
+The market is showing a strong **bullish bias** today, with the majority of the watchlist successfully breaking above their 15-minute opening ranges. While momentum is high across the board, only one stock truly meets the "high-conviction" criteria for a trade.
 
 ---
 
 ### 🚀 Top Entry Candidates
-While the system is currently in a "wait-and-see" mode, these stocks show the best technical alignment for a breakout:
 
-*   **ADANIENT.NS:** The clear leader. It is the only stock showing a significant volume surge (3.9×), confirming the breakout is backed by real buying pressure.
-*   **SBIN.NS & TMPV.NS:** These are your "Momentum Plays." They have the highest momentum scores (74.6 and 73.0 respectively), indicating strong underlying trend strength.
+*   **ADANIENT.NS (Top Pick):** This is the strongest candidate. It has not only broken out but is backed by a **massive 3.9x volume surge**, indicating heavy institutional interest. 
+*   **SBIN.NS:** Showing very high momentum (75/100) and trading comfortably above its opening high. A solid secondary pick if volume picks up.
+*   **TMPV.NS:** Strong price action and momentum (73/100), though volume is currently just at the average mark.
 
 ---
 
-### ⚠️ Critical Warnings & Rules
-*   **Volume is King:** Do not chase breakouts that lack volume. The strategy requires a **1.8× volume surge** to confirm a valid entry. Most stocks on the list currently fail this filter.
-*   **Risk Cap:** You are strictly limited to a **₹100 loss per trade**. If a trade hits your stop loss, exit immediately—do not hope for a reversal.
-*   **Position Limit:** Do not exceed **2 active trades** simultaneously. Over-trading is the fastest way to erode your ₹5,000 capital.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to your entry price (breakeven) to protect your capital.
+### ⚠️ Critical Warnings & Exits
+
+*   **Avoid TCS.NS:** It has "Broken Down" (trading below its opening low). Do not attempt to buy the dip here; it is currently the weakest stock on the list.
+*   **Volume Check:** While many stocks (like BAJFINANCE and WIPRO) have broken out, their volume is low (near 1.0x). **Wait for a surge (>1.8x)** before committing capital to avoid "fake-outs."
+*   **Hard Stop:** All positions **must be closed by 15:10 IST**. Do not carry any trades overnight, regardless of profit or loss.
+*   **Risk Limit:** Do not lose more than **₹100 per trade**. If the price hits your stop loss, exit immediately—no exceptions.
+
+---
+
+### 🛠 Action Plan for the Session
+1.  **Focus on ADANIENT:** It has the best "Action Score" and volume profile.
+2.  **Patience is Key:** No active buy signals are triggered *right now* because the system is waiting for the perfect alignment of volume and price.
+3.  **Two-Trade Limit:** Do not open more than two positions simultaneously to keep your risk manageable.
 
 ---
 
 # 📈 Intraday Report — 2026-10-29
 
-> Auto-generated at **19:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
