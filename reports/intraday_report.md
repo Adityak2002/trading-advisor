@@ -1,38 +1,21 @@
 # 🤖 Gemini AI Insights
 
-### 📈 Market Snapshot: Oct 29, 2026
+Here is a high-level, actionable summary of today’s automated trading report:
 
-The market is showing a strong **bullish bias** today, with the majority of the watchlist successfully breaking above their 15-minute opening ranges. While momentum is high across the board, only one stock truly meets the "high-conviction" criteria for a trade.
-
----
-
-### 🚀 Top Entry Candidates
-
-*   **ADANIENT.NS (Top Pick):** This is the strongest candidate. It has not only broken out but is backed by a **massive 3.9x volume surge**, indicating heavy institutional interest. 
-*   **SBIN.NS:** Showing very high momentum (75/100) and trading comfortably above its opening high. A solid secondary pick if volume picks up.
-*   **TMPV.NS:** Strong price action and momentum (73/100), though volume is currently just at the average mark.
+### 📊 Market Context
+* **Bullish Bias, Low Volume:** Most monitored stocks (9 out of 12) broke above their initial 15-minute high, indicating positive market sentiment. 
+* **Lack of Follow-Through:** Despite price breakouts, most stocks lacked the institutional buying interest (**volume surge**) required to safely trigger trades, calling for patience.
 
 ---
 
-### ⚠️ Critical Warnings & Exits
-
-*   **Avoid TCS.NS:** It has "Broken Down" (trading below its opening low). Do not attempt to buy the dip here; it is currently the weakest stock on the list.
-*   **Volume Check:** While many stocks (like BAJFINANCE and WIPRO) have broken out, their volume is low (near 1.0x). **Wait for a surge (>1.8x)** before committing capital to avoid "fake-outs."
-*   **Hard Stop:** All positions **must be closed by 15:10 IST**. Do not carry any trades overnight, regardless of profit or loss.
-*   **Risk Limit:** Do not lose more than **₹100 per trade**. If the price hits your stop loss, exit immediately—no exceptions.
-
----
-
-### 🛠 Action Plan for the Session
-1.  **Focus on ADANIENT:** It has the best "Action Score" and volume profile.
-2.  **Patience is Key:** No active buy signals are triggered *right now* because the system is waiting for the perfect alignment of volume and price.
-3.  **Two-Trade Limit:** Do not open more than two positions simultaneously to keep your risk manageable.
+### 🎯 Top Setup Candidates
+* **Adani Enterprises (`ADANIENT.NS`):** Strongest chart candidate of the day—broke out with an impressive **3.9× volume surge** and a top
 
 ---
 
 # 📈 Intraday Report — 2026-10-29
 
-> Auto-generated at **20:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
