@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the intraday trading report:
+Here is a high-level summary of the automated intraday trading report:
 
 ### 🌐 Market Context
-* **Bullish Bias, Low Volume:** 10 out of 12 tracked
+* **Bullish Bias:** Out of 12 monitored stocks, 9 have broken out
 
 ---
 
 # 📈 Intraday Report — 2026-10-29
 
-> Auto-generated at **16:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
