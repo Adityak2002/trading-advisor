@@ -1,15 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+### 📊 Market Summary: 2026-10-29
 
-### 📈 Market Context
-* **Strong Upward Bias:** Out of 12 tracked stocks, **10
+The market is showing a strong bullish bias with most watchlist stocks trading above their opening range highs. However, despite the positive price action, **volume participation is generally weak**, suggesting a lack of institutional conviction behind the current moves.
+
+---
+
+### 🚀 Top Entry Candidates
+While the system is currently in a "wait-and-see" mode, these stocks show the best technical alignment for a breakout:
+
+*   **ADANIENT.NS:** The clear leader. It is the only stock showing a significant volume surge (3.9×), confirming the breakout is backed by real buying pressure.
+*   **SBIN.NS & TMPV.NS:** These are your "Momentum Plays." They have the highest momentum scores (74.6 and 73.0 respectively), indicating strong underlying trend strength.
+
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not chase breakouts that lack volume. The strategy requires a **1.8× volume surge** to confirm a valid entry. Most stocks on the list currently fail this filter.
+*   **Risk Cap:** You are strictly limited to a **₹100 loss per trade**. If a trade hits your stop loss, exit immediately—do not hope for a reversal.
+*   **Position Limit:** Do not exceed **2 active trades** simultaneously. Over-trading is the fastest way to erode your ₹5,000 capital.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to your entry price (breakeven) to protect your capital.
 
 ---
 
 # 📈 Intraday Report — 2026-10-29
 
-> Auto-generated at **17:34 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
