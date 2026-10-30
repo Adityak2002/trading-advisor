@@ -2,28 +2,34 @@
 
 ### 📊 Market Summary: 2026-10-30
 
-The market is showing strong bullish intent with several key stocks clearing their opening range highs. However, despite the breakouts, the system is currently in a **"Wait and See"** mode as it filters for the specific volume requirements needed to trigger a high-probability entry.
+The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the **lack of significant volume surges** (all candidates are below the required 1.8× threshold) suggests a lack of institutional conviction. No trades were triggered today.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening highs and are showing strong momentum. Keep these on your radar for a potential entry if volume spikes:
-*   **WIPRO.NS:** Highest momentum score (75.4); currently trading well above its opening high.
-*   **POWERGRID.NS:** Strong volume surge (1.9×) and clean breakout above the opening range.
-*   **ICICIBANK.NS:** Solid momentum (64.4) with a confirmed breakout above the opening high.
+---
 
-#### ⚠️ Critical Warnings & Rules
-*   **Volume is Key:** Do not enter a trade just because the price is high. The strategy requires a **volume surge (≥1.8× average)** to confirm the breakout.
-*   **Strict Risk Cap:** You are limited to a **maximum of 2 concurrent trades**. Do not over-leverage.
-*   **Hard Stop-Loss:** If a trade hits the **-0.4% loss mark**, exit immediately. Never "hope" for a reversal.
-*   **Auto-Exit:** Regardless of profit or loss, all positions **must be closed by 15:10 IST**. No exceptions.
-*   **Breakeven Rule:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks are showing strong momentum and are trading above their average price. Keep a close eye on these for a potential volume-backed breakout:
 
-**Bottom Line:** The setup is active but disciplined. Wait for the volume confirmation before pulling the trigger. If the volume isn't there, stay on the sidelines.
+*   **WIPRO.NS:** Highest momentum score (75.4); currently trading at ₹198.31.
+*   **ICICIBANK.NS:** Strong momentum (64.4); currently trading at ₹1,398.00.
+*   **INFY.NS:** Solid momentum (62.5); currently trading at ₹1,185.00.
+*   **RELIANCE.NS:** Currently consolidating just below its opening high (₹1,171.60). A breakout here could be significant.
+
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not enter any trade unless you see a **1.8× volume surge**. Price movement without volume is a "fake-out" risk.
+*   **Strict Exposure:** Limit yourself to a maximum of **2 active trades** at any given time.
+*   **Risk Cap:** Your absolute maximum loss per trade is **₹100**. If the price hits your stop loss, exit immediately—do not hope for a reversal.
+*   **Auto-Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Breakeven Rule:** Once a trade hits +0.5% profit, move your stop loss to your entry price to protect your capital.
+
+**Bottom Line:** The market is quiet. Stay disciplined, wait for the volume trigger, and avoid "forcing" a trade if the criteria aren't met.
 
 ---
 
 # 📈 Intraday Report — 2026-10-30
 
-> Auto-generated at **19:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:22 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -40,18 +46,18 @@ These stocks have cleared their opening highs and are showing strong momentum. K
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **POWERGRID.NS** | ₹265.00 | 🔼 Broken Out 🔼 | 27.4/100 | 62 | ✅ Yes | 1.9× | — |
-| **WIPRO.NS** | ₹198.31 | 🔼 Broken Out 🔼 | 23.3/100 | 75 | ✅ Yes | 1.9× | — |
-| **INFY.NS** | ₹1,185.00 | 🔼 Broken Out 🔼 | 22.7/100 | 62 | ✅ Yes | 0.8× | — |
-| **ICICIBANK.NS** | ₹1,398.00 | 🔼 Broken Out 🔼 | 22.6/100 | 64 | ✅ Yes | 1.3× | — |
-| **HDFCBANK.NS** | ₹692.80 | 🔼 Broken Out 🔼 | 20.7/100 | 59 | ✅ Yes | 1.0× | — |
+| **INFY.NS** | ₹1,185.00 | 🔼 Broken Out 🔼 | 19.9/100 | 62 | ✅ Yes | 0.4× | — |
+| **POWERGRID.NS** | ₹265.00 | 🔼 Broken Out 🔼 | 19.4/100 | 62 | ✅ Yes | 1.0× | — |
+| **ICICIBANK.NS** | ₹1,398.00 | 🔼 Broken Out 🔼 | 18.6/100 | 64 | ✅ Yes | 0.7× | — |
+| **HDFCBANK.NS** | ₹692.80 | 🔼 Broken Out 🔼 | 16.7/100 | 59 | ✅ Yes | 0.5× | — |
+| **WIPRO.NS** | ₹198.31 | 🔼 Broken Out 🔼 | 15.3/100 | 75 | ✅ Yes | 1.0× | — |
 | **RELIANCE.NS** | ₹1,164.90 | ▶ Inside Range ▶ | 6.3/100 | 69 | ✅ Yes | — | — |
 | **TMPV.NS** | ₹265.40 | ▶ Inside Range ▶ | 3.9/100 | 50 | ✅ Yes | — | — |
 | **ADANIENT.NS** | ₹2,579.40 | ▶ Inside Range ▶ | 0.8/100 | 58 | ✅ Yes | — | — |
-| **BAJFINANCE.NS** | ₹939.10 | 🔼 Broken Out 🔼 | -5.5/100 | 42 | ❌ No | 0.9× | — |
+| **BAJFINANCE.NS** | ₹939.10 | 🔼 Broken Out 🔼 | -5.5/100 | 42 | ❌ No | 0.5× | — |
 | **TCS.NS** | ₹2,502.60 | ▶ Inside Range ▶ | -8.5/100 | 26 | ❌ No | — | — |
-| **SBIN.NS** | ₹961.85 | 🔽 Broken Down 🔽 | -13.0/100 | 51 | ❌ No | 1.3× | — |
-| **AXISBANK.NS** | ₹1,217.00 | 🔽 Broken Down 🔽 | -15.2/100 | 69 | ❌ No | 0.9× | — |
+| **AXISBANK.NS** | ₹1,217.00 | 🔽 Broken Down 🔽 | -15.2/100 | 69 | ❌ No | 0.5× | — |
+| **SBIN.NS** | ₹961.85 | 🔽 Broken Down 🔽 | -17.0/100 | 51 | ❌ No | 0.7× | — |
 
 ---
 
@@ -65,11 +71,11 @@ These stocks have cleared their opening highs and are showing strong momentum. K
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| POWERGRID.NS | ₹265.00 | ₹263.50 | ₹260.05 | 62.0 | 🟢 Yes |
-| WIPRO.NS | ₹198.31 | ₹193.80 | ₹190.80 | 75.4 | 🟢 Yes |
 | INFY.NS | ₹1,185.00 | ₹1169.60 | ₹1149.00 | 62.5 | 🟢 Yes |
+| POWERGRID.NS | ₹265.00 | ₹263.50 | ₹260.05 | 62.0 | 🟢 Yes |
 | ICICIBANK.NS | ₹1,398.00 | ₹1390.90 | ₹1383.40 | 64.4 | 🟢 Yes |
 | HDFCBANK.NS | ₹692.80 | ₹686.05 | ₹683.05 | 58.8 | 🟢 Yes |
+| WIPRO.NS | ₹198.31 | ₹193.80 | ₹190.80 | 75.4 | 🟢 Yes |
 | RELIANCE.NS | ₹1,164.90 | ₹1171.60 | ₹1162.00 | 68.6 | 🟢 Yes |
 
 ---
