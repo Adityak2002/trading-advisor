@@ -1,21 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s automated trading report:
+Here is a high-level, actionable summary of today’s intraday report:
 
-### 📊 Market Context
-* **Bullish Bias, Low Volume:** Most monitored stocks (9 out of 12) broke above their initial 15-minute high, indicating positive market sentiment. 
-* **Lack of Follow-Through:** Despite price breakouts, most stocks lacked the institutional buying interest (**volume surge**) required to safely trigger trades, calling for patience.
-
----
-
-### 🎯 Top Setup Candidates
-* **Adani Enterprises (`ADANIENT.NS`):** Strongest chart candidate of the day—broke out with an impressive **3.9× volume surge** and a top
+### 🌐 Market Context
+* **Mixed Sector Performance:** Strong upward momentum in Power and Tech stocks (**
 
 ---
 
-# 📈 Intraday Report — 2026-10-29
+# 📈 Intraday Report — 2026-10-30
 
-> Auto-generated at **21:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **16:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -32,18 +26,18 @@ Here is a high-level, actionable summary of today’s automated trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹2,607.90 | 🔼 Broken Out 🔼 | 33.3/100 | 50 | ✅ Yes | 3.9× | — |
-| **BAJFINANCE.NS** | ₹938.90 | 🔼 Broken Out 🔼 | 23.8/100 | 54 | ✅ Yes | 1.1× | — |
-| **SBIN.NS** | ₹971.90 | 🔼 Broken Out 🔼 | 23.1/100 | 75 | ✅ Yes | 1.0× | — |
-| **TMPV.NS** | ₹266.00 | 🔼 Broken Out 🔼 | 19.1/100 | 73 | ✅ Yes | 1.0× | — |
-| **ICICIBANK.NS** | ₹1,386.60 | 🔼 Broken Out 🔼 | 18.7/100 | 67 | ✅ Yes | 0.4× | — |
-| **WIPRO.NS** | ₹190.10 | 🔼 Broken Out 🔼 | 18.2/100 | 55 | ✅ Yes | 1.0× | — |
-| **INFY.NS** | ₹1,146.50 | 🔼 Broken Out 🔼 | 14.5/100 | 80 | ✅ Yes | 0.9× | — |
-| **AXISBANK.NS** | ₹1,225.00 | 🔼 Broken Out 🔼 | 14.1/100 | 49 | ✅ Yes | 0.5× | — |
-| **POWERGRID.NS** | ₹260.00 | 🔼 Broken Out 🔼 | 11.4/100 | 35 | ✅ Yes | 0.8× | — |
-| **RELIANCE.NS** | ₹1,167.40 | ▶ Inside Range ▶ | 1.7/100 | 47 | ❌ No | — | — |
-| **HDFCBANK.NS** | ₹683.30 | 🔼 Broken Out 🔼 | -2.5/100 | 52 | ❌ No | 0.6× | — |
-| **TCS.NS** | ₹2,478.00 | 🔽 Broken Down 🔽 | -13.0/100 | 56 | ❌ No | 1.7× | — |
+| **POWERGRID.NS** | ₹265.00 | 🔼 Broken Out 🔼 | 27.4/100 | 62 | ✅ Yes | 1.9× | — |
+| **WIPRO.NS** | ₹198.31 | 🔼 Broken Out 🔼 | 23.3/100 | 75 | ✅ Yes | 1.9× | — |
+| **INFY.NS** | ₹1,185.00 | 🔼 Broken Out 🔼 | 22.7/100 | 62 | ✅ Yes | 0.8× | — |
+| **ICICIBANK.NS** | ₹1,398.00 | 🔼 Broken Out 🔼 | 22.6/100 | 64 | ✅ Yes | 1.3× | — |
+| **HDFCBANK.NS** | ₹692.80 | 🔼 Broken Out 🔼 | 20.7/100 | 59 | ✅ Yes | 1.0× | — |
+| **RELIANCE.NS** | ₹1,164.90 | ▶ Inside Range ▶ | 6.3/100 | 69 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹265.40 | ▶ Inside Range ▶ | 3.9/100 | 50 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,579.40 | ▶ Inside Range ▶ | 0.8/100 | 58 | ✅ Yes | — | — |
+| **BAJFINANCE.NS** | ₹939.10 | 🔼 Broken Out 🔼 | -5.5/100 | 42 | ❌ No | 0.9× | — |
+| **TCS.NS** | ₹2,502.60 | ▶ Inside Range ▶ | -8.5/100 | 26 | ❌ No | — | — |
+| **SBIN.NS** | ₹961.85 | 🔽 Broken Down 🔽 | -13.0/100 | 51 | ❌ No | 1.3× | — |
+| **AXISBANK.NS** | ₹1,217.00 | 🔽 Broken Down 🔽 | -15.2/100 | 69 | ❌ No | 0.9× | — |
 
 ---
 
@@ -57,12 +51,12 @@ Here is a high-level, actionable summary of today’s automated trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹2,607.90 | ₹2505.20 | ₹2474.80 | 50.1 | 🟢 Yes |
-| BAJFINANCE.NS | ₹938.90 | ₹915.50 | ₹909.00 | 53.6 | 🟢 Yes |
-| SBIN.NS | ₹971.90 | ₹961.50 | ₹955.00 | 74.6 | 🟢 Yes |
-| TMPV.NS | ₹266.00 | ₹263.90 | ₹262.20 | 73.0 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,386.60 | ₹1376.80 | ₹1368.20 | 67.3 | 🟢 Yes |
-| WIPRO.NS | ₹190.10 | ₹189.21 | ₹185.75 | 54.9 | 🟢 Yes |
+| POWERGRID.NS | ₹265.00 | ₹263.50 | ₹260.05 | 62.0 | 🟢 Yes |
+| WIPRO.NS | ₹198.31 | ₹193.80 | ₹190.80 | 75.4 | 🟢 Yes |
+| INFY.NS | ₹1,185.00 | ₹1169.60 | ₹1149.00 | 62.5 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,398.00 | ₹1390.90 | ₹1383.40 | 64.4 | 🟢 Yes |
+| HDFCBANK.NS | ₹692.80 | ₹686.05 | ₹683.05 | 58.8 | 🟢 Yes |
+| RELIANCE.NS | ₹1,164.90 | ₹1171.60 | ₹1162.00 | 68.6 | 🟢 Yes |
 
 ---
 
