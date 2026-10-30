@@ -2,27 +2,28 @@
 
 ### 📊 Market Summary: 2026-10-30
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the system has flagged **zero active buy signals** because they likely failed to meet the strict volume surge requirement (≥1.8× average) or other momentum filters.
+The market is showing strong bullish intent with several key stocks clearing their opening range highs. However, despite the breakouts, the system is currently in a **"Wait and See"** mode as it filters for the specific volume requirements needed to trigger a high-probability entry.
 
 #### 🚀 Top Entry Candidates (Watchlist)
-These stocks are showing the strongest momentum and are currently trading above their opening highs. Keep these on your radar for a potential breakout:
+These stocks have cleared their opening highs and are showing strong momentum. Keep these on your radar for a potential entry if volume spikes:
 *   **WIPRO.NS:** Highest momentum score (75.4); currently trading well above its opening high.
-*   **POWERGRID.NS:** Strong volume profile (1.9× surge) and solid momentum.
-*   **ICICIBANK.NS:** Consistent performance; currently holding above its opening range.
+*   **POWERGRID.NS:** Strong volume surge (1.9×) and clean breakout above the opening range.
+*   **ICICIBANK.NS:** Solid momentum (64.4) with a confirmed breakout above the opening high.
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** Do not force entries. The system is currently filtering out "weak" breakouts that lack sufficient volume.
-*   **Strict Discipline:** If you decide to enter manually, adhere to the **₹100 max loss per trade** rule.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. Do not carry any positions overnight.
-*   **Volume is Key:** Do not chase a breakout unless you see a clear, significant spike in volume (1.8× or higher). A breakout without volume is a "trap."
+#### ⚠️ Critical Warnings & Rules
+*   **Volume is Key:** Do not enter a trade just because the price is high. The strategy requires a **volume surge (≥1.8× average)** to confirm the breakout.
+*   **Strict Risk Cap:** You are limited to a **maximum of 2 concurrent trades**. Do not over-leverage.
+*   **Hard Stop-Loss:** If a trade hits the **-0.4% loss mark**, exit immediately. Never "hope" for a reversal.
+*   **Auto-Exit:** Regardless of profit or loss, all positions **must be closed by 15:10 IST**. No exceptions.
+*   **Breakeven Rule:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
 
-**Bottom Line:** The market is active but hasn't triggered the system's high-conviction criteria yet. Stay patient and wait for the volume surge before committing capital.
+**Bottom Line:** The setup is active but disciplined. Wait for the volume confirmation before pulling the trigger. If the volume isn't there, stay on the sidelines.
 
 ---
 
 # 📈 Intraday Report — 2026-10-30
 
-> Auto-generated at **17:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
