@@ -1,29 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today’s intraday report:
+Here is a concise, high-level summary of the trading report:
 
----
-
-### 🌐 Market Context
-* **Strategy:** Opening Price Breakout (15-min range monitoring).
-* **Capital Pool:** ₹5,000.
-* **Overall Trend:** Mixed, split market. Large-cap heavyweights (Reliance, HDFC Bank, Adani Ent) pushed upward with high volume, while IT stocks (TCS, Infosys) traded weak.
-
----
-
-### 🎯 Top Entry Candidates (On Watch)
-> ⚠️ **Current Status:** **No live buy trades executed.** While several stocks broke out, system filters are waiting for valid trigger setups.
-
-* **TMPV.NS** (Price: ₹272.40) — **Strongest Volume Surge (3.6×)**; broke above opening high of ₹271.50.
-* **RELIANCE.NS** (Price: ₹1,300.00) — **Highest Momentum (90.9/100)** with massive volume (3.3×).
-* **HDFCBANK.NS** (Price: ₹700.00) — Healthy momentum (78.9) with 3.5× volume surge.
-* **ADANIENT.NS** (Price: ₹2,615.40) — Clear
+### 📈 Market Context
+* **Split Sentiment:** Large-cap favorites (Energy, Banking) showed strong upward movement, while
 
 ---
 
 # 📈 Intraday Report — 2026-11-02
 
-> Auto-generated at **19:57 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
