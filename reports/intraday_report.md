@@ -1,15 +1,38 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the trading report:
+Here is a high-level, actionable summary of today’s intraday trading report:
 
-### 📈 Market Context
-* **Split Sentiment:** Large-cap favorites (Energy, Banking) showed strong upward movement, while
+---
+
+### 📊 Market Context
+* **Bullish Bias:** Out of 12 watchlist stocks, **6 broke out above opening ranges**, showing strong upward momentum (led by Reliance and Banking stocks).
+* **High Liquidity Surge:** Big-cap stocks are seeing strong buying interest, with key names trading significantly above average volume and price benchmarks.
+
+---
+
+### 🎯 Top Entry Candidates (Watchlist Highlights)
+While no live orders are open (report generated post-market), these four stocks met all breakout **and** volume-surge criteria (≥1.8× average volume):
+
+* **TMPV.NS (₹272.40):** Strongest setup — **3.6× volume surge** with top overall technical score (32.0).
+* **RELIANCE.NS (₹1,300.00):** Highest momentum (90.9/100) paired with a massive **3.3× volume surge**.
+* **HDFCBANK.NS (₹700.00):** Clean breakout with a **3.5× volume surge** and solid momentum.
+* **ADANIENT.NS (₹2,615.40):** Solid breakout above opening high with **2.4× volume surge**.
+
+*(Note: SBIN and BAJFINANCE broke out but failed the required volume surge filter).*
+
+---
+
+### ⚠️ Critical Risk & Execution Rules
+* ⏰ **Hard Exit at 15:10 IST:** All trades automatically close before market end — **zero overnight risk**.
+* 🛑 **Strict Loss Limit:** Max **₹100 loss per trade** (2% of the ₹5,000 account balance). Never average down on a loser.
+* ⚖️ **Capacity Limit:** Maximum of **2 active trades** at any single time to avoid over-exposure.
+* 🛡️
 
 ---
 
 # 📈 Intraday Report — 2026-11-02
 
-> Auto-generated at **22:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
