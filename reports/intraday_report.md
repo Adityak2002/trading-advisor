@@ -1,15 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+Here is your high-level summary of the intraday trading report:
 
-### 📊 Market Context
-* **Bullish Bias:** 6 out of 12 watchlist stocks (50
+### 📈 Market Context
+* **Bullish Tilt in Heavyweights:** Major stocks like Reliance, H
 
 ---
 
 # 📈 Intraday Report — 2026-11-02
 
-> Auto-generated at **17:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:30 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
