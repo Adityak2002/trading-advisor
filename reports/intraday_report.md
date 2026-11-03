@@ -1,23 +1,23 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level market brief based on the current intraday data:
+Here is your high-level trading brief for the current session:
 
-### 📈 Market Context
-The market is showing a **split personality**. While the major banking stocks (HDFC, Axis, ICICI) have climbed above their morning price ranges, the broader market is struggling. We are seeing significant selling pressure in PSU stocks like SBIN and PowerGrid, which are crashing on high volume.
+### 🌍 Market Context
+The market is showing a clear "split" personality today. While the private banking sector is attempting to push higher, PSU stocks and Energy are facing significant selling pressure. The strategy is currently in "Wait & Watch" mode as we look for high-volume confirmation.
 
 ### 🚀 Top Entry Candidates
-*   **AXISBANK.NS (Prime Candidate):** This is the strongest setup. It has broken above its opening high with a **2.7× volume surge**, significantly exceeding our 1.8× requirement. It shows the best combination of price action and "real" buying interest.
-*   **RELIANCE.NS (On Watch):** Currently sitting inside its range but showing very high momentum (83.2). If it breaks **₹1,306.60** with a volume spike, it becomes a high-priority buy.
-*   **HDFCBANK.NS (Caution):** While the price has broken out, the volume is weak (0.9×). **Wait** for more trading activity before committing capital to avoid a "fake-out."
+*   **AXISBANK.NS (Prime Watch):** This is the strongest technical setup. It has broken above its opening range with a **2.7× volume surge**, meeting our strict entry criteria.
+*   **RELIANCE.NS (Momentum Play):** Currently sitting just above its opening high with the highest momentum score (83.2) on the list. If volume picks up, this is a high-probability mover.
+*   **HDFCBANK.NS:** Has broken out price-wise, but **caution is advised** as the volume (0.9×) is currently too weak to confirm a "strong" breakout.
 
 ### ⚠️ Critical Warnings & Exits
-*   **Avoid SBIN & PowerGrid:** These stocks are in a "free
+*   **The "No-Fly" Zone:** Stay away from **SBIN.NS** and **POWERGRID.NS**. Both have "Broken Down" with massive selling
 
 ---
 
 # 📈 Intraday Report — 2026-11-03
 
-> Auto-generated at **21:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:20 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
