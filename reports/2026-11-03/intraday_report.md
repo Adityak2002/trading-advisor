@@ -1,17 +1,26 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s intraday report:
+### 📊 Market Summary: 2026-11-03
 
----
+The market is currently in a **"Wait and See"** phase. While several banking stocks have cleared their opening range, the lack of significant volume confirms a lack of conviction, keeping the strategy in a neutral state.
 
-### 📊 Market Context
-* **Divergent Market Action:** Private bank stocks showed upside strength,
+#### 🚀 Top Entry Candidates
+*   **AXISBANK.NS:** The strongest candidate. It has broken the opening high with a **2.7× volume surge**, signaling genuine institutional interest.
+*   **HDFCBANK.NS & ICICIBANK.NS:** Both have cleared their opening highs, but lack the required volume confirmation (0.9× and 0.4× respectively). **Do not enter** until volume spikes to ≥1.8×.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The system has correctly identified that no stocks currently meet the full criteria (Price Breakout + Volume Surge). **Do not force a trade.**
+*   **Volume is King:** The strategy relies on a 1.8× volume surge to validate a breakout. Without this, the risk of a "fake-out" (price reversing after the breakout) is high.
+*   **Strict Capital Protection:** You are capped at a **₹100 loss per trade**. If you enter and the price hits your stop loss, exit immediately—do not hope for a recovery.
+*   **End-of-Day Discipline:** Regardless of profit or loss, all positions must be closed by **15:10 IST**. No exceptions.
+
+**Action Plan:** Monitor **AXISBANK.NS** for sustained momentum. Keep the other banking stocks on your watchlist, but wait for the volume to catch up to the price action before committing capital.
 
 ---
 
 # 📈 Intraday Report — 2026-11-03
 
-> Auto-generated at **17:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
