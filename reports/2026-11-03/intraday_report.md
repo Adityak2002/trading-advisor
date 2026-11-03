@@ -1,26 +1,26 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-03
+Here is your high-level market briefing based on the current intraday data:
 
-The market is currently in a **"Wait and See"** phase. While several banking stocks have cleared their opening range, the lack of significant volume confirms a lack of conviction, keeping the strategy in a neutral state.
+### 📈 Market Context
+The market is showing **selective bullishness** in the banking sector, while heavyweights in energy and public sectors are facing significant selling pressure. Most stocks are currently "trapped" within their first 15 minutes of trading range, indicating a day of consolidation rather than a broad market rally.
 
-#### 🚀 Top Entry Candidates
-*   **AXISBANK.NS:** The strongest candidate. It has broken the opening high with a **2.7× volume surge**, signaling genuine institutional interest.
-*   **HDFCBANK.NS & ICICIBANK.NS:** Both have cleared their opening highs, but lack the required volume confirmation (0.9× and 0.4× respectively). **Do not enter** until volume spikes to ≥1.8×.
+### 🚀 Top Entry Candidates
+While the system is currently waiting for "perfect" setups, these two stocks show the most promise:
+*   **AXISBANK.NS (Strongest Setup):** The clear leader. It has broken above its opening high with a **2.7× volume surge**, significantly exceeding our 1.8× requirement. 
+*   **RELIANCE.NS (On the Radar):** Currently inside its range but boasts the **highest momentum (83.2)**. If it crosses ₹1,306.60, it could trigger a fast move.
+*   **HDFCBANK.NS:** Has broken out price-wise, but **lacks the volume surge** (only 0.9×) needed to confirm a safe entry. Proceed with caution.
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The system has correctly identified that no stocks currently meet the full criteria (Price Breakout + Volume Surge). **Do not force a trade.**
-*   **Volume is King:** The strategy relies on a 1.8× volume surge to validate a breakout. Without this, the risk of a "fake-out" (price reversing after the breakout) is high.
-*   **Strict Capital Protection:** You are capped at a **₹100 loss per trade**. If you enter and the price hits your stop loss, exit immediately—do not hope for a recovery.
-*   **End-of-Day Discipline:** Regardless of profit or loss, all positions must be closed by **15:10 IST**. No exceptions.
-
-**Action Plan:** Monitor **AXISBANK.NS** for sustained momentum. Keep the other banking stocks on your watchlist, but wait for the volume to catch up to the price action before committing capital.
+### ⚠️ Critical Warnings & Exits
+*   **Avoid "Falling Knives":** **SBIN** and **POWERGRID** have "Broken Down" with massive volume (6.8× and 4.6× respectively). Do not attempt to buy these; the selling pressure is too high.
+*   **Strict Exit Policy:** All positions **must be closed by 15:10 IST**. Do not carry any trades overnight, regardless of profit or loss.
+*   **Risk Cap:** Limit your loss to **₹100 per trade**. If a stock hits your stop loss, exit immediately—never "average down" or wait for a recovery
 
 ---
 
 # 📈 Intraday Report — 2026-11-03
 
-> Auto-generated at **18:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
