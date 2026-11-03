@@ -1,27 +1,23 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Pulse & Action Plan: Nov 3, 2026
+Here is your high-level market brief based on the current intraday data:
 
-The market is showing a clear "tale of two sectors." While private banking stocks are showing breakout strength, PSU banks and utilities are facing heavy selling pressure.
+### 📈 Market Context
+The market is showing a **split personality**. While the major banking stocks (HDFC, Axis, ICICI) have climbed above their morning price ranges, the broader market is struggling. We are seeing significant selling pressure in PSU stocks like SBIN and PowerGrid, which are crashing on high volume.
 
-#### **🌍 Market Context**
-*   **Bullish Sector:** Private Banks (**HDFC, AXIS, ICICI**) have all successfully broken above their 15-minute opening highs, signaling intraday strength.
-*   **Bearish Sector:** PSU Banks and Energy (**SBIN, POWERGRID, ADANI**) have "broken down," meaning they are trading well below their opening prices on high volume.
-*   **Overall Sentiment:** Selective. Momentum is concentrated in a few high-quality names rather than a broad market rally.
+### 🚀 Top Entry Candidates
+*   **AXISBANK.NS (Prime Candidate):** This is the strongest setup. It has broken above its opening high with a **2.7× volume surge**, significantly exceeding our 1.8× requirement. It shows the best combination of price action and "real" buying interest.
+*   **RELIANCE.NS (On Watch):** Currently sitting inside its range but showing very high momentum (83.2). If it breaks **₹1,306.60** with a volume spike, it becomes a high-priority buy.
+*   **HDFCBANK.NS (Caution):** While the price has broken out, the volume is weak (0.9×). **Wait** for more trading activity before committing capital to avoid a "fake-out."
 
-#### **🚀 Top Entry Candidates**
-1.  **AXISBANK.NS (Best Setup):** The top pick. It has broken out with a **2.7× volume surge**, confirming that big players are buying. Momentum is steady.
-2.  **HDFCBANK.NS (High Momentum):** Strong breakout with the highest momentum score (70) among the banks, though volume is just average.
-3.  **RELIANCE.NS (Watchlist):** Currently "Inside Range" but has the highest momentum (83) on the board. If it crosses **₹1,306.60**, it could trigger a massive move.
-
-#### **⚠️ Critical Warnings & Risk Rules**
-*   **Avoid the "Falling Knives":** Stay completely away from **SBIN.NS** and **POWER
+### ⚠️ Critical Warnings & Exits
+*   **Avoid SBIN & PowerGrid:** These stocks are in a "free
 
 ---
 
 # 📈 Intraday Report — 2026-11-03
 
-> Auto-generated at **20:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
