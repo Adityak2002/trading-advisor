@@ -1,22 +1,25 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of the trading report:
-
-### 📈 Market Context
-* **Mixed Sector Trends:** Major banking (HDFCBANK, ICICIBANK) and energy stocks (RELIANCE) remained stuck in tight opening ranges, while IT stocks (INFY, TCS, WIPRO) showed clear downside weakness.
-* **Low Volume Breakouts:** Although a few stocks moved past morning highs, overall market buying volume was too weak to confirm strong bullish trends.
+Here is a high-level, executive summary of today’s automated trading setup:
 
 ---
 
-### 🎯 Top Entry Candidates
-* **Active Trade Signals: ZERO** — No trades met the strategy's strict criteria today.
-* **Top Watchlist
+### 🌐 Market Context
+* **Mixed Sentiment:** The market showed mixed signals today with a split watchlist—3 stocks broke out upwards, 3 broke down downwards, and 6 remained stuck inside their opening range.
+* **Lack of Volume:** While price moved up in select names, overall buying volume across the market was insufficient to confirm strong, reliable breakouts.
+
+---
+
+### 🎯 Top Candidates & Entry Status
+* **Active Trades Triggered:** **Zero (0)**. No positions were taken today.
+* **Near-Misses to Watch:**
+  * **BAJFINANCE & ADANIENT:** Both broke out above their opening prices with
 
 ---
 
 # 📈 Intraday Report — 2026-11-04
 
-> Auto-generated at **20:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
