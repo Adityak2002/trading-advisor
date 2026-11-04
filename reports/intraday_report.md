@@ -1,32 +1,22 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level market summary and action plan based on the latest intraday data:
+Here is your high-level executive summary of the trading report:
 
-### 📊 Market Context: A Tale of Two Sectors
-The market is currently split. We are seeing **bullish momentum in Financials and Energy**, while the **IT sector is underperforming** and breaking below opening ranges. 
-*   **Bullish Strength:** Bajaj Finance, Adani Enterprises, and PowerGrid.
-*   **Bearish Weakness:** Infosys, TCS, and Wipro.
+### 📈 Market Context
+* **Mixed Sector Trends:** Major banking (HDFCBANK, ICICIBANK) and energy stocks (RELIANCE) remained stuck in tight opening ranges, while IT stocks (INFY, TCS, WIPRO) showed clear downside weakness.
+* **Low Volume Breakouts:** Although a few stocks moved past morning highs, overall market buying volume was too weak to confirm strong bullish trends.
 
-### 🚀 Top Entry Candidates (On Watch)
-While several stocks have "Broken Out" past their morning highs, **none have yet met the strict volume requirement (1.8x surge)** to trigger a safe "Buy" signal.
+---
 
-1.  **BAJFINANCE.NS (Strongest Setup):** Price has cleared the opening high (₹980.55) with strong momentum (78/100). Volume is at 1.4x; we need it to hit 1.8x for a confirmed entry.
-2.  **ADANIENT.NS:** Trading well above its opening range with steady momentum.
-3.  **POWERGRID.NS:** Showing the highest momentum score (79/100) but lacks the necessary volume surge to justify the risk.
-
-### ⚠️ Critical Warnings & Action Items
-*   **Patience is Key:** There are **zero active buy signals** right now. Do not "revenge trade" or jump in early; the strategy requires that 1.8x volume surge to prevent "fake-out" losses.
-*   **The "Hard Stop":** All positions must be closed by **15:10 IST**. Do not hold these stocks overnight, regardless of profit or loss.
-*   **Risk Limit:** Your maximum loss is capped at **₹100 per trade**. If a stock hits its stop-loss, exit immediately—no exceptions.
-*   **IT Sector Warning:** Avoid buying INFY, TCS, or WIPRO today; they have "Broken Down" and are trading with negative sentiment.
-
-**Bottom Line:** The setup is building, but the "engine" (volume) isn't loud enough yet.
+### 🎯 Top Entry Candidates
+* **Active Trade Signals: ZERO** — No trades met the strategy's strict criteria today.
+* **Top Watchlist
 
 ---
 
 # 📈 Intraday Report — 2026-11-04
 
-> Auto-generated at **19:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
