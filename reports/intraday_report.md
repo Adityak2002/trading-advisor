@@ -1,32 +1,32 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-04
+Here is your high-level market summary and action plan based on the latest intraday data:
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have technically "broken out," the volume confirmation required by your strategy is currently only present in a few specific names.
+### 📊 Market Context: A Tale of Two Sectors
+The market is currently split. We are seeing **bullish momentum in Financials and Energy**, while the **IT sector is underperforming** and breaking below opening ranges. 
+*   **Bullish Strength:** Bajaj Finance, Adani Enterprises, and PowerGrid.
+*   **Bearish Weakness:** Infosys, TCS, and Wipro.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening highs and are showing the strongest momentum:
-*   **ADANIENT.NS:** The primary candidate. It is the only stock meeting your strict **1.9× volume surge** criteria.
-*   **BAJFINANCE.NS & POWERGRID.NS:** Strong momentum and price action, but currently lack the required volume spike. Keep these on high alert for a sudden surge.
+### 🚀 Top Entry Candidates (On Watch)
+While several stocks have "Broken Out" past their morning highs, **none have yet met the strict volume requirement (1.8x surge)** to trigger a safe "Buy" signal.
 
-#### ⚠️ Critical Warnings & Strategy Status
-*   **No Active Trades:** Despite the "Broken Out" status, the system has not triggered an entry because the volume threshold (≥1.8×) is the final gatekeeper. **Do not force entries** if volume is low.
-*   **Watch for Reversals:** TCS, INFY, and WIPRO have broken below their opening lows. Avoid any long positions in these tickers.
-*   **Risk Discipline:** 
-    *   **Max 2 trades:** Do not exceed this limit.
-    *   **Hard Stop:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit.
-    *   **Profit Protection:** Once a trade hits **+0.5%**, move your stop to breakeven to protect your capital.
+1.  **BAJFINANCE.NS (Strongest Setup):** Price has cleared the opening high (₹980.55) with strong momentum (78/100). Volume is at 1.4x; we need it to hit 1.8x for a confirmed entry.
+2.  **ADANIENT.NS:** Trading well above its opening range with steady momentum.
+3.  **POWERGRID.NS:** Showing the highest momentum score (79/100) but lacks the necessary volume surge to justify the risk.
 
-#### 🕒 Action Plan
-*   **Monitor Volume:** Focus exclusively on **ADANIENT.NS** for immediate potential.
-*   **Patience:** If volume does not materialize in the top candidates, stay in cash. A "no-trade" day is better than a "bad-trade" day.
-*   **Hard Exit:** Ensure all positions are closed by **15:10 IST** regardless of profit/loss status.
+### ⚠️ Critical Warnings & Action Items
+*   **Patience is Key:** There are **zero active buy signals** right now. Do not "revenge trade" or jump in early; the strategy requires that 1.8x volume surge to prevent "fake-out" losses.
+*   **The "Hard Stop":** All positions must be closed by **15:10 IST**. Do not hold these stocks overnight, regardless of profit or loss.
+*   **Risk Limit:** Your maximum loss is capped at **₹100 per trade**. If a stock hits its stop-loss, exit immediately—no exceptions.
+*   **IT Sector Warning:** Avoid buying INFY, TCS, or WIPRO today; they have "Broken Down" and are trading with negative sentiment.
+
+**Bottom Line:** The setup is building, but the "engine" (volume) isn't loud enough yet.
 
 ---
 
 # 📈 Intraday Report — 2026-11-04
 
-> Auto-generated at **18:13 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -43,18 +43,18 @@ These stocks have cleared their opening highs and are showing the strongest mome
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **ADANIENT.NS** | ₹2,709.20 | 🔼 Broken Out 🔼 | 29.0/100 | 56 | ✅ Yes | 1.9× | — |
-| **BAJFINANCE.NS** | ₹994.00 | 🔼 Broken Out 🔼 | 19.6/100 | 78 | ✅ Yes | 1.3× | — |
-| **POWERGRID.NS** | ₹262.05 | 🔼 Broken Out 🔼 | 19.5/100 | 79 | ✅ Yes | 1.5× | — |
+| **BAJFINANCE.NS** | ₹994.00 | 🔼 Broken Out 🔼 | 19.6/100 | 78 | ✅ Yes | 1.4× | — |
+| **ADANIENT.NS** | ₹2,709.20 | 🔼 Broken Out 🔼 | 18.2/100 | 56 | ✅ Yes | 1.0× | — |
+| **POWERGRID.NS** | ₹262.05 | 🔼 Broken Out 🔼 | 12.7/100 | 79 | ✅ Yes | 0.8× | — |
 | **RELIANCE.NS** | ₹1,311.00 | ▶ Inside Range ▶ | 9.6/100 | 55 | ✅ Yes | — | — |
 | **HDFCBANK.NS** | ₹736.70 | ▶ Inside Range ▶ | 9.2/100 | 58 | ✅ Yes | — | — |
 | **ICICIBANK.NS** | ₹1,424.10 | ▶ Inside Range ▶ | 6.9/100 | 62 | ✅ Yes | — | — |
 | **AXISBANK.NS** | ₹1,232.00 | ▶ Inside Range ▶ | 3.5/100 | 44 | ✅ Yes | — | — |
 | **SBIN.NS** | ₹979.00 | ▶ Inside Range ▶ | 3.4/100 | 44 | ✅ Yes | — | — |
 | **TMPV.NS** | ₹278.50 | ▶ Inside Range ▶ | -1.8/100 | 24 | ❌ No | — | — |
+| **INFY.NS** | ₹1,128.20 | 🔽 Broken Down 🔽 | -14.0/100 | 85 | ✅ Yes | 1.0× | — |
 | **TCS.NS** | ₹2,436.00 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.7× | — |
-| **INFY.NS** | ₹1,128.20 | 🔽 Broken Down 🔽 | -18.0/100 | 85 | ✅ Yes | 0.9× | — |
-| **WIPRO.NS** | ₹194.55 | 🔽 Broken Down 🔽 | -18.0/100 | 82 | ✅ Yes | 0.6× | — |
+| **WIPRO.NS** | ₹194.55 | 🔽 Broken Down 🔽 | -18.0/100 | 82 | ✅ Yes | 0.3× | — |
 
 ---
 
@@ -68,8 +68,8 @@ These stocks have cleared their opening highs and are showing the strongest mome
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| ADANIENT.NS | ₹2,709.20 | ₹2629.00 | ₹2581.40 | 56.5 | 🟢 Yes |
 | BAJFINANCE.NS | ₹994.00 | ₹980.55 | ₹962.45 | 78.1 | 🟢 Yes |
+| ADANIENT.NS | ₹2,709.20 | ₹2629.00 | ₹2581.40 | 56.5 | 🟢 Yes |
 | POWERGRID.NS | ₹262.05 | ₹260.00 | ₹255.40 | 78.9 | 🟢 Yes |
 | RELIANCE.NS | ₹1,311.00 | ₹1313.70 | ₹1297.10 | 54.7 | 🟢 Yes |
 | HDFCBANK.NS | ₹736.70 | ₹740.90 | ₹721.10 | 58.3 | 🟢 Yes |
