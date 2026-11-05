@@ -1,14 +1,28 @@
 # 🤖 Gemini AI Insights
 
-(Clarifying 0 immediate, but listing top watch candidates).
-    *   Critical warnings/exits? Yes.
-    *   Layman-friendly? Yes.
+Here is a high-level summary of the intraday report for **November 5, 2026**:
+
+### 📈 Market Context
+The market is showing **strong bullish momentum**, particularly in the Banking and IT sectors. Most stocks on the watchlist have successfully broken above their initial 15-minute opening range, backed by significant buying volume. This suggests a "risk-on" environment where buyers are aggressive.
+
+### 🚀 Top Entry Candidates
+Based on the **Action Score** (a mix of momentum and volume), these are the primary stocks to watch for a sustained move:
+
+*   **BAJFINANCE.NS:** The top performer with the highest momentum (73) and a strong 2.6× volume surge. It is trading well above its opening high of ₹1041.35.
+*   **SBIN.NS:** Shows massive institutional interest with a **4.0× volume surge**. This is a high-conviction breakout.
+*   **INFY.NS:** Leading the IT pack with a **4.1× volume surge**, indicating strong trend persistence.
+*   **AXISBANK.NS:** Solid breakout with steady momentum; a reliable secondary pick in the banking space.
+
+### ⚠️ Critical Warnings & Exit Strategy
+*   **Time Decay:** It is currently **21:43 IST**. The market is closed, and all positions should have been auto-squared off at **15:10 IST**. Do not carry any of these trades into tomorrow.
+*   **Risk Ceiling:** Never lose more than **₹100 per trade**. If a stock hits your stop loss, exit immediately—no exceptions.
+*   **Avoid Laggards
 
 ---
 
 # 📈 Intraday Report — 2026-11-05
 
-> Auto-generated at **20:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:43 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
