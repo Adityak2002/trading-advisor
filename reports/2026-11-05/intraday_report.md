@@ -2,32 +2,31 @@
 
 ### 📊 Market Summary: 2026-11-05
 
-The market is showing a **strong bullish bias** with multiple stocks clearing their opening price ranges on high volume. Despite the breakout activity, the system has triggered **no active entries** as of 17:15 IST, suggesting a cautious wait-and-see approach for the next session.
+The market is showing strong bullish sentiment with multiple stocks breaking above their opening ranges on high volume. However, the system is currently in a "wait-and-see" mode, as no new entries have been triggered despite the positive momentum.
 
----
+#### **Top Entry Candidates (Watchlist)**
+These stocks have cleared their opening highs with strong momentum and volume, making them the primary focus if a re-entry or consolidation breakout occurs:
+*   **BAJFINANCE.NS:** Highest momentum (72.6) and a solid 2.6× volume surge.
+*   **SBIN.NS:** Strong volume (4.0×) and clear breakout above the opening range.
+*   **AXISBANK.NS:** Consistent momentum (55.9) with a 2.6× volume surge.
+*   **INFY.NS:** High volume (4.1×) indicates strong institutional interest.
 
-### 🚀 Top Entry Candidates (Watchlist)
-These stocks have cleared their opening highs with strong momentum and volume support:
+#### **Critical Warnings & Risk Management**
+*   **No Active Trades:** The system is currently flat. Do not force entries; wait for the specific breakout criteria to be met.
+*   **Strict Exit Policy:** All positions **must** be closed by **15:10 IST**. No overnight risk is permitted.
+*   **Risk Cap:** Limit exposure to a maximum of **2 concurrent trades**.
+*   **Loss Protection:** If a trade is entered, the maximum loss per trade is capped at **₹100 (2% of capital)**. Exit immediately if the stop loss is hit—do not "hope" for a recovery.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move the stop loss to breakeven to protect your capital.
 
-*   **BAJFINANCE.NS:** Highest momentum (72.6); clear breakout leader.
-*   **SBIN.NS:** Strong volume surge (4.0×); high conviction breakout.
-*   **AXISBANK.NS:** Solid momentum (55.9) with consistent volume support.
-*   **INFY.NS:** High volume (4.1×) indicates significant institutional interest.
+***
 
----
-
-### ⚠️ Critical Warnings & Risk Management
-*   **No Overnight Risk:** All positions must be closed by **15:10 IST**. Do not hold trades into the next day.
-*   **Strict Loss Cap:** Limit losses to **₹100 per trade** (2% of your ₹5,000 capital). Exit immediately if the stop loss is hit.
-*   **Trade Discipline:** Do not exceed **2 concurrent trades**. Over-trading is the fastest way to erode your capital.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
-*   **Avoid "Broken Down" Stocks:** Stocks like **RELIANCE.NS** and **POWERGRID.NS** are showing bearish signals; avoid buying these until the trend reverses.
+**Analyst Note:** The market is currently "over-extended" in the short term. Ensure you are not chasing prices that have already moved significantly away from the opening range. Patience is your best tool today.
 
 ---
 
 # 📈 Intraday Report — 2026-11-05
 
-> Auto-generated at **17:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
