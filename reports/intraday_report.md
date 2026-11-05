@@ -1,30 +1,33 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of the intraday trading report:
+### 📊 Market Summary: 2026-11-05
 
-### 📈 Market Context
-* **Mixed Momentum:** The market showed selective strength with 3 stocks breaking out upward and 3 breaking down, while the majority remained neutral inside their opening range.
-* **Lack of Buying Volume:** Although several stocks broke above their opening highs, **none generated enough volume** to confirm a high-probability trade. 
+The market is showing a **strong bullish bias** with multiple stocks clearing their opening price ranges on high volume. Despite the breakout activity, the system has triggered **no active entries** as of 17:15 IST, suggesting a cautious wait-and-see approach for the next session.
 
 ---
 
-### 🎯 Top Entry Candidates (On Watchlist)
-* **No Active Buy Signals:** Zero trades were taken today because no stock met the required **1.8× volume surge** rule.
-* **Top Setup to Watch:** 
-  * **BAJFINANCE.NS** (₹994.00) — Strongest breakout candidate with solid price momentum, but volume fell slightly short (1.4× vs 1.8× target).
-  * **ADANIENT.NS** (₹2,709.20) & **POWERGRID.NS** (₹262.05) — Broke above opening range, but lacked buying interest (volume at or below average).
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs with strong momentum and volume support:
+
+*   **BAJFINANCE.NS:** Highest momentum (72.6); clear breakout leader.
+*   **SBIN.NS:** Strong volume surge (4.0×); high conviction breakout.
+*   **AXISBANK.NS:** Solid momentum (55.9) with consistent volume support.
+*   **INFY.NS:** High volume (4.1×) indicates significant institutional interest.
 
 ---
 
-### ⚠️ Critical Warnings & Action Plan
-* **Hold Strategy Discipline:** Do **not** force entries on stocks like BAJFINANCE; entering without volume confirmation significantly increases false breakout risks.
-* **Risk Limit:** Max loss
+### ⚠️ Critical Warnings & Risk Management
+*   **No Overnight Risk:** All positions must be closed by **15:10 IST**. Do not hold trades into the next day.
+*   **Strict Loss Cap:** Limit losses to **₹100 per trade** (2% of your ₹5,000 capital). Exit immediately if the stop loss is hit.
+*   **Trade Discipline:** Do not exceed **2 concurrent trades**. Over-trading is the fastest way to erode your capital.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
+*   **Avoid "Broken Down" Stocks:** Stocks like **RELIANCE.NS** and **POWERGRID.NS** are showing bearish signals; avoid buying these until the trend reverses.
 
 ---
 
-# 📈 Intraday Report — 2026-11-04
+# 📈 Intraday Report — 2026-11-05
 
-> Auto-generated at **22:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:15 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -41,18 +44,18 @@ Here is a high-level summary of the intraday trading report:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **BAJFINANCE.NS** | ₹994.00 | 🔼 Broken Out 🔼 | 19.6/100 | 78 | ✅ Yes | 1.4× | — |
-| **ADANIENT.NS** | ₹2,709.20 | 🔼 Broken Out 🔼 | 18.2/100 | 56 | ✅ Yes | 1.0× | — |
-| **POWERGRID.NS** | ₹262.05 | 🔼 Broken Out 🔼 | 12.7/100 | 79 | ✅ Yes | 0.8× | — |
-| **RELIANCE.NS** | ₹1,311.00 | ▶ Inside Range ▶ | 9.6/100 | 55 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹736.70 | ▶ Inside Range ▶ | 9.2/100 | 58 | ✅ Yes | — | — |
-| **ICICIBANK.NS** | ₹1,424.10 | ▶ Inside Range ▶ | 6.9/100 | 62 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,232.00 | ▶ Inside Range ▶ | 3.5/100 | 44 | ✅ Yes | — | — |
-| **SBIN.NS** | ₹979.00 | ▶ Inside Range ▶ | 3.4/100 | 44 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹278.50 | ▶ Inside Range ▶ | -1.8/100 | 24 | ❌ No | — | — |
-| **INFY.NS** | ₹1,128.20 | 🔽 Broken Down 🔽 | -14.0/100 | 85 | ✅ Yes | 1.0× | — |
-| **TCS.NS** | ₹2,436.00 | 🔽 Broken Down 🔽 | -15.2/100 | 64 | ❌ No | 0.7× | — |
-| **WIPRO.NS** | ₹194.55 | 🔽 Broken Down 🔽 | -18.0/100 | 82 | ✅ Yes | 0.3× | — |
+| **BAJFINANCE.NS** | ₹1,070.00 | 🔼 Broken Out 🔼 | 33.9/100 | 73 | ✅ Yes | 2.6× | — |
+| **SBIN.NS** | ₹1,006.40 | 🔼 Broken Out 🔼 | 32.9/100 | 54 | ✅ Yes | 4.0× | — |
+| **AXISBANK.NS** | ₹1,280.00 | 🔼 Broken Out 🔼 | 31.5/100 | 56 | ✅ Yes | 2.6× | — |
+| **INFY.NS** | ₹1,167.40 | 🔼 Broken Out 🔼 | 30.1/100 | 53 | ✅ Yes | 4.1× | — |
+| **ICICIBANK.NS** | ₹1,500.00 | 🔼 Broken Out 🔼 | 24.1/100 | 51 | ✅ Yes | 1.2× | — |
+| **WIPRO.NS** | ₹198.40 | 🔼 Broken Out 🔼 | 23.6/100 | 36 | ✅ Yes | 4.5× | — |
+| **TMPV.NS** | ₹293.70 | 🔼 Broken Out 🔼 | 23.0/100 | 39 | ✅ Yes | 2.4× | — |
+| **HDFCBANK.NS** | ₹760.00 | ▶ Inside Range ▶ | 13.3/100 | 64 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,495.70 | ▶ Inside Range ▶ | 2.9/100 | 35 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,733.30 | ▶ Inside Range ▶ | -10.7/100 | 38 | ❌ No | — | — |
+| **POWERGRID.NS** | ₹261.15 | 🔽 Broken Down 🔽 | -13.0/100 | 56 | ❌ No | 1.3× | — |
+| **RELIANCE.NS** | ₹1,313.40 | 🔽 Broken Down 🔽 | -15.6/100 | 41 | ✅ Yes | 0.8× | — |
 
 ---
 
@@ -66,12 +69,12 @@ Here is a high-level summary of the intraday trading report:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| BAJFINANCE.NS | ₹994.00 | ₹980.55 | ₹962.45 | 78.1 | 🟢 Yes |
-| ADANIENT.NS | ₹2,709.20 | ₹2629.00 | ₹2581.40 | 56.5 | 🟢 Yes |
-| POWERGRID.NS | ₹262.05 | ₹260.00 | ₹255.40 | 78.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,311.00 | ₹1313.70 | ₹1297.10 | 54.7 | 🟢 Yes |
-| HDFCBANK.NS | ₹736.70 | ₹740.90 | ₹721.10 | 58.3 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,424.10 | ₹1437.50 | ₹1416.50 | 61.9 | 🟢 Yes |
+| BAJFINANCE.NS | ₹1,070.00 | ₹1041.35 | ₹1021.00 | 72.6 | 🟢 Yes |
+| SBIN.NS | ₹1,006.40 | ₹998.30 | ₹990.00 | 54.5 | 🟢 Yes |
+| AXISBANK.NS | ₹1,280.00 | ₹1264.60 | ₹1247.50 | 55.9 | 🟢 Yes |
+| INFY.NS | ₹1,167.40 | ₹1154.70 | ₹1144.90 | 52.8 | 🟢 Yes |
+| ICICIBANK.NS | ₹1,500.00 | ₹1461.70 | ₹1446.30 | 50.9 | 🟢 Yes |
+| WIPRO.NS | ₹198.40 | ₹197.65 | ₹195.83 | 35.6 | 🟢 Yes |
 
 ---
 
