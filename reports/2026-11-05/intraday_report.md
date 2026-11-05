@@ -1,32 +1,27 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-05
+Based on the intraday report for November 5, 2026, here is a high-level summary and action plan:
 
-The market is showing strong bullish sentiment with multiple stocks breaking above their opening ranges on high volume. However, the system is currently in a "wait-and-see" mode, as no new entries have been triggered despite the positive momentum.
+### 📈 Market Context: Bullish Breakout
+The market is showing **strong upward momentum**, particularly in the Banking and IT sectors. Most stocks on the watchlist have successfully broken above their initial 15-minute opening range, supported by significant buying volume.
+*   **Sentiment:** Highly Bullish.
+*   **Trend:** "Opening Range Breakouts" are dominant today, with several stocks trading well above their average prices.
 
-#### **Top Entry Candidates (Watchlist)**
-These stocks have cleared their opening highs with strong momentum and volume, making them the primary focus if a re-entry or consolidation breakout occurs:
-*   **BAJFINANCE.NS:** Highest momentum (72.6) and a solid 2.6× volume surge.
-*   **SBIN.NS:** Strong volume (4.0×) and clear breakout above the opening range.
-*   **AXISBANK.NS:** Consistent momentum (55.9) with a 2.6× volume surge.
-*   **INFY.NS:** High volume (4.1×) indicates strong institutional interest.
+### 🚀 Top Entry Candidates
+While the report currently shows no *new* active signals (waiting for fresh triggers), the following stocks have the strongest technical setups based on **Action Scores** and **Volume Surges**:
 
-#### **Critical Warnings & Risk Management**
-*   **No Active Trades:** The system is currently flat. Do not force entries; wait for the specific breakout criteria to be met.
-*   **Strict Exit Policy:** All positions **must** be closed by **15:10 IST**. No overnight risk is permitted.
-*   **Risk Cap:** Limit exposure to a maximum of **2 concurrent trades**.
-*   **Loss Protection:** If a trade is entered, the maximum loss per trade is capped at **₹100 (2% of capital)**. Exit immediately if the stop loss is hit—do not "hope" for a recovery.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move the stop loss to breakeven to protect your capital.
+*   **BAJFINANCE.NS (Top Pick):** Highest Action Score (33.9) with a strong 2.6× volume surge. It has cleared its opening high of ₹1,041.35 decisively.
+*   **SBIN.NS (High Conviction):** Exceptional 4.0× volume surge and high momentum. It is trading comfortably above its ₹998.30 breakout level.
+*   **INFY.NS (Volume Leader):** Massive 4.1× volume surge, indicating heavy institutional interest. A very "clean" breakout above ₹1,154.70.
 
-***
-
-**Analyst Note:** The market is currently "over-extended" in the short term. Ensure you are not chasing prices that have already moved significantly away from the opening range. Patience is your best tool today.
+### ⚠️ Critical Warnings & Risk Rules
+To protect your ₹5,000 capital,
 
 ---
 
 # 📈 Intraday Report — 2026-11-05
 
-> Auto-generated at **18:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:19 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
