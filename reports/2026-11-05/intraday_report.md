@@ -1,27 +1,14 @@
 # 🤖 Gemini AI Insights
 
-Based on the intraday report for November 5, 2026, here is a high-level summary and action plan:
-
-### 📈 Market Context: Bullish Breakout
-The market is showing **strong upward momentum**, particularly in the Banking and IT sectors. Most stocks on the watchlist have successfully broken above their initial 15-minute opening range, supported by significant buying volume.
-*   **Sentiment:** Highly Bullish.
-*   **Trend:** "Opening Range Breakouts" are dominant today, with several stocks trading well above their average prices.
-
-### 🚀 Top Entry Candidates
-While the report currently shows no *new* active signals (waiting for fresh triggers), the following stocks have the strongest technical setups based on **Action Scores** and **Volume Surges**:
-
-*   **BAJFINANCE.NS (Top Pick):** Highest Action Score (33.9) with a strong 2.6× volume surge. It has cleared its opening high of ₹1,041.35 decisively.
-*   **SBIN.NS (High Conviction):** Exceptional 4.0× volume surge and high momentum. It is trading comfortably above its ₹998.30 breakout level.
-*   **INFY.NS (Volume Leader):** Massive 4.1× volume surge, indicating heavy institutional interest. A very "clean" breakout above ₹1,154.70.
-
-### ⚠️ Critical Warnings & Risk Rules
-To protect your ₹5,000 capital,
+(Clarifying 0 immediate, but listing top watch candidates).
+    *   Critical warnings/exits? Yes.
+    *   Layman-friendly? Yes.
 
 ---
 
 # 📈 Intraday Report — 2026-11-05
 
-> Auto-generated at **19:19 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:29 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
