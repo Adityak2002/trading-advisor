@@ -1,30 +1,28 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-05
+### 📊 Market Summary & Action Plan (2026-11-05)
 
-The market is currently in a **"Wait and Watch"** phase. While domestic indices (Nifty) are showing strength, the severe overnight sell-off in US tech stocks (NASDAQ -5%) creates a significant risk of a gap-down or volatility spike in the coming sessions.
+The market is currently in a **"Wait and Watch"** phase. While domestic indices (Nifty) are showing strength, the severe overnight sell-off in US tech stocks (NASDAQ -4.88%) creates a high-risk environment for new entries.
 
 #### 🌍 Market Context
-*   **Sentiment:** Mildly Bearish. Global cues are negative, but local sentiment remains resilient.
-*   **Risk Level:** Moderate (VIX at 15.6).
-*   **Strategy:** Capital is 100% idle. The system is strictly avoiding entries until price pullbacks align with technical indicators.
+*   **Sentiment:** Mildly Bearish. Global cues are negative, suggesting potential volatility in the coming sessions.
+*   **Volatility:** India VIX is rising (15.58), indicating increased market nervousness.
+*   **Strategy:** Capital remains 100% in cash. The current strategy requires a "Momentum Pullback," and current prices are too extended (too far from the 21-day moving average) to justify buying.
 
-#### 🎯 Top Entry Candidates (Watchlist)
-*No stocks currently meet the entry criteria.* All candidates are currently "overheated" (trading too far above their 21-day moving average) or have RSI levels that are too high for a momentum-pullback strategy.
-*   **Primary Watch:** `ANGELONE.NS` is the closest to a buy signal, but requires a price correction to reach the ideal entry zone.
-*   **Avoid:** `ICICIBANK.NS` and `HDFCBANK.NS` are currently showing high volatility and sector underperformance; keep these off your buy list for now.
+#### 🎯 Top Entry Candidates
+*   **ANGELONE.NS:** Currently the closest to a valid setup (Score: 33.5). It is the only stock on the watchlist showing decent momentum, but it is still slightly overextended. **Action:** Monitor for a price dip toward the 21-day EMA.
+*   **Others:** All other candidates (Reliance, ICICI, HDFC, etc.) are currently "too hot" (RSI too high) or fundamentally misaligned with the strategy. **Action:** Skip until they cool off.
 
 #### ⚠️ Critical Warnings & Strategy Notes
-*   **Avoid "FOMO" Buying:** All stocks on the watchlist are currently trading at a premium to their 21-day EMA. Buying now would mean entering at a peak, increasing the risk of a "stop-loss hit."
-*   **Global Headwinds:** The sharp drop in US markets (S&P 500 -3.29%) suggests potential selling pressure in Indian markets tomorrow. Do not rush to deploy capital.
-*   **Performance Check:** The strategy is currently 0/1 on closed trades. Maintain strict discipline on the 20-day hold horizon and stop-loss levels to protect the ₹10,000 corpus.
-
-**Action Plan:** Stay in cash. Wait for the market to cool down and for prices to pull back closer to the 21-day EMA before considering any deployment.
+*   **Avoid FOMO:** Do not chase stocks that have already rallied. Your strategy specifically requires a pullback to the 21-day EMA; buying now would violate your risk management rules.
+*   **Global Headwinds:** The significant drop in US markets often leads to a "gap down" or weak opening in India. Be prepared for potential volatility tomorrow morning.
+*   **Performance Check:** Your last trade resulted in a loss (-7.14%). Ensure you are strictly adhering to the "Near EMA21" rule to avoid buying at market tops.
+*   **Recommendation:** Stay in cash. Wait for the market to stabilize and for your target stocks to pull back to their support levels before deploying capital.
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-05
-> *Auto-generated at 21:26 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 23:19 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -36,17 +34,17 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 |---------------|-------|--------|
 | Nifty 50 | 24,536.60 | 📈 +2.40% |
 | India VIX | 15.58 | 📈 +2.57% |
-| S&P 500 (overnight) | 7,435.45 | 📉 -3.29% |
-| NASDAQ | 24,450.87 | 📉 -5.00% |
-| WTI Crude Oil | $90.11 | 📈 +2.26% |
+| S&P 500 (overnight) | 7,406.28 | 📉 -3.67% |
+| NASDAQ | 24,479.62 | 📉 -4.88% |
+| WTI Crude Oil | $90.52 | 📈 +2.72% |
 | USD / INR | 94.4650 | 📉 -0.30% |
 
 **Key Factors:**
 - VIX 15.6 — Moderate 🟡 (70% sizing)
-- S&P 500 -3.29% — Negative overnight cues 📉
-- NASDAQ -5.00% — Tech bearish
+- S&P 500 -3.67% — Negative overnight cues 📉
+- NASDAQ -4.88% — Tech bearish
 - Nifty +2.40% — Domestic market bullish
-- WTI Crude $90.11 (+2.26%) — Bullish for OILIETF 📈
+- WTI Crude $90.52 (+2.72%) — Bullish for OILIETF 📈
 - USD/INR 94.47 (-0.299%) — Dollar weakening → intl ETFs headwind
 
 ---
@@ -124,6 +122,6 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-05 21:26 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-05 23:19 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
