@@ -1,17 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s strategy snapshot:
+Here is your high-level executive summary:
 
----
-
-### 🌐 **Market Context**
-* **Financials Leading:** Banking and Finance
+### 🌐 Market Context
+* **Bullish Bias:** Mega-cap banking and financial stocks (HDFC Bank, Axis Bank, Bajaj Finance) are
 
 ---
 
 # 📈 Intraday Report — 2026-11-06
 
-> Auto-generated at **21:13 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
