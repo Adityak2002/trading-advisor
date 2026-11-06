@@ -1,53 +1,57 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-05
+### 📊 Market Summary: 2026-11-06
 
-The market is currently in a strong bullish phase, which is excellent for long-term growth but **counter-productive for your specific "Oversold Bounce" strategy.** Because prices are rallying, your entry criteria (which require assets to be "oversold" or cheap) are not being met.
+The market is currently in a **"Wait and Watch"** phase. While domestic indices (Nifty) are showing strength, the severe overnight sell-off in US tech markets (NASDAQ -5.52%) creates a significant headwind.
 
-#### 🌍 Market Context
-*   **Bullish Momentum:** Nifty 50 surged +2.40%, and global cues (S&P 500/NASDAQ) are positive.
-*   **Strategy Conflict:** Your strategy waits for fear/dips to buy. With the market currently "greedy" and rising, there are no high-probability entry signals.
-*   **Capital Status:** 100% cash (₹10,000). You are safely on the sidelines, avoiding the risk of "buying the top."
+#### **Market Context**
+*   **Sentiment:** Mildly Bearish. Global cues are negative, but local sentiment remains resilient.
+*   **Volatility:** India VIX is up 12%, signaling increased market nervousness.
+*   **Strategy:** Capital remains 100% in cash. We are avoiding entries until the "Oversold Bounce" criteria are met.
 
-#### 🎯 Top Entry Candidates (Watchlist)
-*   **BANKBEES.NS:** Currently your top candidate, but still too expensive. It needs a significant pullback (RSI < 38) before it becomes a "buy."
-*   **MAFANG.NS:** Closest to your RSI target (RSI 40), but lacks the necessary volume spike to confirm a bounce.
-*   **Action:** **Do nothing.** Continue to monitor these tickers, but do not force a trade while the market is overextended.
+#### **Top Entry Candidates (Monitor Only)**
+*No stocks currently meet the entry criteria (RSI < 38 and Vol-Z ≥ 1.5).*
+*   **IREDA.NS:** Closest to a setup, but needs a sharper price drop and higher volume to trigger.
+*   **CANBK.NS:** Currently too expensive (RSI 59); wait for a pullback.
+*   **ABFRL.NS:** Showing oversold signs (RSI 28), but currently trading below the 50-day EMA, which makes it a risky "falling knife."
 
-#### ⚠️ Critical Warnings & Strategy Notes
-*   **Patience is Key:** Your strategy is designed to buy when others are selling. In a strong bull market, the hardest part is waiting for the inevitable correction.
-*   **Avoid FOMO:** Do not be tempted to enter just because the market is green. Your rules are designed to protect your capital; stick to them.
-*   **USD/INR Headwind:** The weakening Dollar (USD/INR 94.47) acts as a slight negative for international ETFs (like MAFANG/HNGSNGBEES). Keep this in mind if you consider international exposure.
+#### **Critical Warnings & Action Plan**
+*   **Stay Light:** With the US markets crashing, do not force trades. Preserve your ₹10,000 capital.
+*   **Avoid "Falling Knives":** Stocks like **ABFRL** and **MAFANG** are oversold but are trading below their 50-day moving averages (EMA). Avoid these until they show signs of stabilizing.
+*   **Watch for Divergence:** If Nifty continues to rise while US markets remain weak, expect a potential correction in the coming days.
+*   **Action:** Keep the capital idle. Wait for the RSI to drop below 38 and volume to spike (Vol-Z ≥ 1.5) before considering any deployment.
 
-**Bottom Line:** The market is "too hot" for your current strategy. Keep your capital in cash and wait for the next dip.
+***
+
+*Disclaimer: This is an automated analysis for informational purposes. No trades are currently recommended.*
 
 ---
 
-# 📊 ETF/MF Daily Report — 2026-11-05
-> *Auto-generated at 16:03 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-11-06
+> *Auto-generated at 16:07 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟢 Bullish — Good day for entries
+**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,536.60 | 📈 +2.40% |
-| India VIX | 15.58 | 📈 +2.57% |
-| S&P 500 (overnight) | 7,688.62 | 📈 +1.58% |
-| NASDAQ | 25,736.51 | 📈 +1.44% |
-| WTI Crude Oil | $88.71 | 📈 +0.67% |
-| USD / INR | 94.4750 | 📉 -0.29% |
+| Nifty 50 | 25,030.35 | 📈 +2.01% |
+| India VIX | 17.46 | 📈 +12.10% |
+| S&P 500 (overnight) | 7,353.73 | 📉 -4.36% |
+| NASDAQ | 24,315.00 | 📉 -5.52% |
+| WTI Crude Oil | $90.14 | 📉 -0.42% |
+| USD / INR | 93.9100 | 📉 -0.64% |
 
 **Key Factors:**
-- VIX 15.6 — Moderate 🟡 (70% sizing)
-- S&P 500 +1.58% — Positive overnight cues 📈
-- NASDAQ +1.44% — Tech bullish (N100/MAFANG +ve)
-- Nifty +2.40% — Domestic market bullish
-- WTI Crude $88.71 (+0.67%) — Neutral for OILIETF
-- USD/INR 94.47 (-0.289%) — Dollar weakening → intl ETFs headwind
+- VIX 17.5 — Moderate 🟡 (70% sizing)
+- S&P 500 -4.36% — Negative overnight cues 📉
+- NASDAQ -5.52% — Tech bearish
+- Nifty +2.01% — Domestic market bullish
+- WTI Crude $90.14 (-0.42%) — Neutral for OILIETF
+- USD/INR 93.91 (-0.641%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -75,11 +79,11 @@ The market is currently in a strong bullish phase, which is excellent for long-t
 
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| BANKBEES.NS | 22.8 | RSI=65 (need <38) · Score=23 (need ≥40) |
-| IRFC.NS | 16.5 | RSI=57 (need <38) · VolZ=0.4 (need ≥1.5) · Score=16 (need ≥40) |
-| JUNIORBEES.NS | 9.2 | RSI=63 (need <38) · VolZ=0.8 (need ≥1.5) · Score=9 (need ≥40) |
-| NHPC.NS | 7.5 | RSI=70 (need <38) · Score=8 (need ≥40) |
-| MAFANG.NS | 5.8 | RSI=40 (need <38) · VolZ=0.5 (need ≥1.5) · Score=6 (need ≥40) |
+| IREDA.NS | 25.0 | RSI=55 (need <38) · VolZ=1.4 (need ≥1.5) · Score=25 (need ≥40) |
+| CANBK.NS | 20.0 | RSI=59 (need <38) · VolZ=0.8 (need ≥1.5) · Score=20 (need ≥40) |
+| ABFRL.NS | 16.2 | Below EMA50 · Score=16 (need ≥40) |
+| TATAPOWER.NS | 15.0 | RSI=49 (need <38) · Below EMA50 · Score=15 (need ≥40) |
+| MAFANG.NS | 12.8 | Below EMA50 · VolZ=1.4 (need ≥1.5) · Score=13 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -91,27 +95,27 @@ The market is currently in a strong bullish phase, which is excellent for long-t
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | BANKBEES.NS | 22.8 | 65 | 🟢 | 3.3 | -1.2% | 👀 Watch |
-| 2 | IRFC.NS | 16.5 | 57 | 🟢 | 0.4 | -23.8% | ⏸ Skip |
-| 3 | JUNIORBEES.NS | 9.2 | 63 | 🟢 | 0.8 | -4.0% | ⏸ Skip |
-| 4 | NHPC.NS | 7.5 | 70 | 🟢 | 3.7 | -3.4% | ⏸ Skip |
-| 5 | MAFANG.NS | 5.8 | 40 | 🔴 | 0.5 | -18.9% | ⏸ Skip |
-| 6 | ITETF.NS | 3.8 | 67 | 🟢 | -0.4 | 0.0% | ⏸ Skip |
-| 7 | ABFRL.NS | 2.2 | 35 | 🔴 | 1.1 | -38.4% | ⏸ Skip |
-| 8 | HDFCAMC.NS | -1.5 | 70 | 🟢 | 3.1 | -5.7% | ⏸ Skip |
-| 9 | PSUBNKBEES.NS | -5.2 | 69 | 🟢 | 2.4 | -2.9% | ⏸ Skip |
-| 10 | PHARMABEES.NS | -7.5 | 78 | 🟢 | 0.3 | 0.0% | ⏸ Skip |
-| 11 | TATAPOWER.NS | -7.5 | 63 | 🟢 | -0.2 | -17.2% | ⏸ Skip |
-| 12 | UNIONBANK.NS | -7.5 | 72 | 🟢 | -0.3 | -0.5% | ⏸ Skip |
-| 13 | OILIETF.NS | -7.7 | 69 | 🟢 | 1.8 | -4.5% | ⏸ Skip |
-| 14 | RECLTD.NS | -9.2 | 42 | 🔴 | -0.2 | -19.4% | ⏸ Skip |
-| 15 | SUZLON.NS | -9.2 | 42 | 🔴 | -0.5 | -34.9% | ⏸ Skip |
-| 16 | RVNL.NS | -13.0 | 47 | 🔴 | 0.2 | -37.1% | ⏸ Skip |
-| 17 | HNGSNGBEES.NS | -16.0 | 53 | 🔴 | 1.5 | -17.0% | ⏸ Skip |
-| 18 | IREDA.NS | -16.0 | 54 | 🔴 | 1.0 | -18.7% | ⏸ Skip |
-| 19 | AUTOBEES.NS | -16.5 | 71 | 🟢 | 2.7 | -7.3% | ⏸ Skip |
-| 20 | CANBK.NS | -21.0 | 61 | 🔴 | 0.6 | -9.1% | ⏸ Skip |
-| 21 | BANKBARODA.NS | -26.2 | 72 | 🟢 | 1.0 | -12.7% | ⏸ Skip |
+| 1 | IREDA.NS | 25.0 | 55 | 🟢 | 1.4 | -17.8% | 👀 Watch |
+| 2 | CANBK.NS | 20.0 | 59 | 🟢 | 0.8 | -9.1% | ⏸ Skip |
+| 3 | ABFRL.NS | 16.2 | 28 | 🔴 | 2.6 | -42.4% | ⏸ Skip |
+| 4 | TATAPOWER.NS | 15.0 | 49 | 🟢 | 2.7 | -20.0% | ⏸ Skip |
+| 5 | MAFANG.NS | 12.8 | 32 | 🔴 | 1.4 | -21.2% | ⏸ Skip |
+| 6 | ITETF.NS | 5.5 | 60 | 🟢 | -0.4 | 0.0% | ⏸ Skip |
+| 7 | IRFC.NS | -3.8 | 54 | 🟢 | -0.8 | -23.5% | ⏸ Skip |
+| 8 | JUNIORBEES.NS | -5.8 | 60 | 🟢 | 0.3 | -4.2% | ⏸ Skip |
+| 9 | BANKBEES.NS | -12.2 | 70 | 🟢 | 2.5 | 0.0% | ⏸ Skip |
+| 10 | PHARMABEES.NS | -14.5 | 79 | 🟢 | -0.2 | 0.0% | ⏸ Skip |
+| 11 | BANKBARODA.NS | -14.5 | 71 | 🟢 | 0.0 | -12.5% | ⏸ Skip |
+| 12 | RVNL.NS | -14.8 | 44 | 🔴 | 1.0 | -37.2% | ⏸ Skip |
+| 13 | PSUBNKBEES.NS | -16.0 | 69 | 🟢 | 1.9 | -2.5% | ⏸ Skip |
+| 14 | RECLTD.NS | -16.2 | 44 | 🔴 | -0.4 | -19.1% | ⏸ Skip |
+| 15 | SUZLON.NS | -16.2 | 38 | 🔴 | -0.4 | -34.6% | ⏸ Skip |
+| 16 | UNIONBANK.NS | -17.5 | 72 | 🟢 | -0.7 | -1.1% | ⏸ Skip |
+| 17 | HNGSNGBEES.NS | -18.5 | 48 | 🔴 | 1.1 | -18.8% | ⏸ Skip |
+| 18 | AUTOBEES.NS | -19.8 | 71 | 🟢 | 3.3 | -6.8% | ⏸ Skip |
+| 19 | NHPC.NS | -22.0 | 77 | 🟢 | 0.8 | -1.6% | ⏸ Skip |
+| 20 | OILIETF.NS | -24.3 | 69 | 🟢 | 0.0 | -4.5% | ⏸ Skip |
+| 21 | HDFCAMC.NS | -37.8 | 72 | 🟢 | -0.8 | -5.4% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -119,6 +123,6 @@ The market is currently in a strong bullish phase, which is excellent for long-t
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-05 16:03 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-06 16:07 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
