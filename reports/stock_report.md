@@ -1,28 +1,30 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan (2026-11-05)
+Here is your high-level executive summary of today's market report:
 
-The market is currently in a **"Wait and Watch"** phase. While domestic indices (Nifty) are showing strength, the severe overnight sell-off in US tech stocks (NASDAQ -4.88%) creates a high-risk environment for new entries.
-
-#### 🌍 Market Context
-*   **Sentiment:** Mildly Bearish. Global cues are negative, suggesting potential volatility in the coming sessions.
-*   **Volatility:** India VIX is rising (15.58), indicating increased market nervousness.
-*   **Strategy:** Capital remains 100% in cash. The current strategy requires a "Momentum Pullback," and current prices are too extended (too far from the 21-day moving average) to justify buying.
-
-#### 🎯 Top Entry Candidates
-*   **ANGELONE.NS:** Currently the closest to a valid setup (Score: 33.5). It is the only stock on the watchlist showing decent momentum, but it is still slightly overextended. **Action:** Monitor for a price dip toward the 21-day EMA.
-*   **Others:** All other candidates (Reliance, ICICI, HDFC, etc.) are currently "too hot" (RSI too high) or fundamentally misaligned with the strategy. **Action:** Skip until they cool off.
-
-#### ⚠️ Critical Warnings & Strategy Notes
-*   **Avoid FOMO:** Do not chase stocks that have already rallied. Your strategy specifically requires a pullback to the 21-day EMA; buying now would violate your risk management rules.
-*   **Global Headwinds:** The significant drop in US markets often leads to a "gap down" or weak opening in India. Be prepared for potential volatility tomorrow morning.
-*   **Performance Check:** Your last trade resulted in a loss (-7.14%). Ensure you are strictly adhering to the "Near EMA21" rule to avoid buying at market tops.
-*   **Recommendation:** Stay in cash. Wait for the market to stabilize and for your target stocks to pull back to their support levels before deploying capital.
+### 📊 Market Snapshot & Sentiment
+* **Overall Bias:** **Mildly Bearish 🟡** — Exercise caution and keep position sizes small (~70% of normal).
+* **Domestic Strength vs. Global Weakness:** Nifty rose **+2.01%** (25,030), showing local strength. However, heavy overnight sell-offs in the US (**S&P 500 -4.36%**, **NASDAQ -5.52%**) present strong global headwinds.
+* **Rising Volatility:** India VIX jumped **+12.10%** to 17.46, indicating growing market uncertainty.
 
 ---
 
-# 📈 Stock Delivery Report — 2026-11-05
-> *Auto-generated at 23:19 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+### 🎯 Entry Candidates & Actions
+* **Current Trade Recommendation:** **NO TRADES TODAY 🛑**
+* **Portfolio Status:** 100% Cash (₹10,000 idle). Zero open positions.
+* **Top Watchlist Stocks (Not ready yet):**
+  * **HAVELLS:** Leading score (22.0), but moving average trends remain weak.
+  * **ANGELONE:** Good trend, but RSI is overbought (66) and the financial sector is lagging.
+  * **CDSL:** Trading near key moving averages, but overall trend momentum is lacking.
+
+---
+
+###
+
+---
+
+# 📈 Stock Delivery Report — 2026-11-06
+> *Auto-generated at 17:11 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -32,20 +34,20 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 24,536.60 | 📈 +2.40% |
-| India VIX | 15.58 | 📈 +2.57% |
-| S&P 500 (overnight) | 7,406.28 | 📉 -3.67% |
-| NASDAQ | 24,479.62 | 📉 -4.88% |
-| WTI Crude Oil | $90.52 | 📈 +2.72% |
-| USD / INR | 94.4650 | 📉 -0.30% |
+| Nifty 50 | 25,030.35 | 📈 +2.01% |
+| India VIX | 17.46 | 📈 +12.10% |
+| S&P 500 (overnight) | 7,353.73 | 📉 -4.36% |
+| NASDAQ | 24,315.00 | 📉 -5.52% |
+| WTI Crude Oil | $90.98 | 📈 +0.51% |
+| USD / INR | 93.9000 | 📉 -0.65% |
 
 **Key Factors:**
-- VIX 15.6 — Moderate 🟡 (70% sizing)
-- S&P 500 -3.67% — Negative overnight cues 📉
-- NASDAQ -4.88% — Tech bearish
-- Nifty +2.40% — Domestic market bullish
-- WTI Crude $90.52 (+2.72%) — Bullish for OILIETF 📈
-- USD/INR 94.47 (-0.299%) — Dollar weakening → intl ETFs headwind
+- VIX 17.5 — Moderate 🟡 (70% sizing)
+- S&P 500 -4.36% — Negative overnight cues 📉
+- NASDAQ -5.52% — Tech bearish
+- Nifty +2.01% — Domestic market bullish
+- WTI Crude $90.98 (+0.51%) — Neutral for OILIETF
+- USD/INR 93.90 (-0.651%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -74,16 +76,16 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | -3.0 | RSI=68 (need 42–55) · EMA21 < EMA50 · Price +6.8% from EMA21 (need ±4%) · Score=-3 (need ≥50) |
-| ICICIBANK.NS | -12.5 | RSI=75 (need 42–55) · Price +7.5% from EMA21 (need ±4%) · VolZ=3.3 (need ≤2.0) · Sector underperforming ❌ · Score=-12 (need ≥50) |
-| HDFCBANK.NS | -18.0 | RSI=62 (need 42–55) · EMA21 < EMA50 · Price +6.8% from EMA21 (need ±4%) · VolZ=2.4 (need ≤2.0) · Sector underperforming ❌ · Score=-18 (need ≥50) |
+| ICICIBANK.NS | -6.5 | RSI=80 (need 42–55) · Price +11.3% from EMA21 (need ±4%) · VolZ=2.6 (need ≤2.0) · Sector underperforming ❌ · Score=-6 (need ≥50) |
+| RELIANCE.NS | -15.0 | RSI=70 (need 42–55) · EMA21 < EMA50 · Price +6.6% from EMA21 (need ±4%) · Score=-15 (need ≥50) |
+| HDFCBANK.NS | -30.5 | RSI=68 (need 42–55) · EMA21 < EMA50 · Price +9.7% from EMA21 (need ±4%) · VolZ=2.4 (need ≤2.0) · Sector underperforming ❌ · Score=-30 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ANGELONE.NS | 33.5 | RSI=57 (need 42–55) · Price +9.6% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=34 (need ≥50) |
-| PIDILITIND.NS | 25.0 | RSI=58 (need 42–55) · EMA21 < EMA50 · Price +4.1% from EMA21 (need ±4%) · Score=25 (need ≥50) |
-| CDSL.NS | 7.0 | RSI=57 (need 42–55) · EMA21 < EMA50 · Price +4.4% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=7 (need ≥50) |
+| HAVELLS.NS | 22.0 | EMA21 < EMA50 · Price +6.0% from EMA21 (need ±4%) · VolZ=2.2 (need ≤2.0) · Score=22 (need ≥50) |
+| ANGELONE.NS | 20.5 | RSI=66 (need 42–55) · Price +10.1% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=20 (need ≥50) |
+| CDSL.NS | 7.0 | RSI=57 (need 42–55) · EMA21 < EMA50 · Sector underperforming ❌ · Score=7 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -95,17 +97,17 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | ANGELONE.NS | 33.5 | 57 | 🟢 | — | 0.7 | 👀 Watch |
-| 2 | PIDILITIND.NS | 25.0 | 58 | 🔴 | — | 0.2 | ⏸ Skip |
-| 3 | CDSL.NS | 7.0 | 57 | 🔴 | — | 0.4 | ⏸ Skip |
-| 4 | RELIANCE.NS | -3.0 | 68 | 🔴 | — | -0.1 | ⏸ Skip |
-| 5 | ICICIBANK.NS | -12.5 | 75 | 🟢 | — | 3.3 | ⏸ Skip |
-| 6 | HDFCBANK.NS | -18.0 | 62 | 🔴 | — | 2.4 | ⏸ Skip |
-| 7 | BAJFINANCE.NS | -18.5 | 69 | 🔴 | — | 3.5 | ⏸ Skip |
-| 8 | TITAN.NS | -25.5 | 75 | 🔴 | — | 1.6 | ⏸ Skip |
-| 9 | HAVELLS.NS | -58.5 | 38 | 🔴 | — | -0.2 | ⏸ Skip |
-| 10 | POLYCAB.NS | -64.5 | 39 | 🔴 | — | -0.7 | ⏸ Skip |
-| 11 | KEI.NS | -66.5 | 32 | 🔴 | — | 0.4 | ⏸ Skip |
+| 1 | HAVELLS.NS | 22.0 | 51 | 🔴 | — | 2.2 | ⏸ Skip |
+| 2 | ANGELONE.NS | 20.5 | 66 | 🟢 | — | 0.2 | ⏸ Skip |
+| 3 | CDSL.NS | 7.0 | 57 | 🔴 | ✅ | -0.4 | ⏸ Skip |
+| 4 | PIDILITIND.NS | 7.0 | 62 | 🔴 | — | -0.3 | ⏸ Skip |
+| 5 | ICICIBANK.NS | -6.5 | 80 | 🟢 | — | 2.6 | ⏸ Skip |
+| 6 | RELIANCE.NS | -15.0 | 70 | 🔴 | — | 0.1 | ⏸ Skip |
+| 7 | BAJFINANCE.NS | -15.5 | 69 | 🔴 | — | -0.1 | ⏸ Skip |
+| 8 | HDFCBANK.NS | -30.5 | 68 | 🔴 | — | 2.4 | ⏸ Skip |
+| 9 | TITAN.NS | -48.5 | 81 | 🔴 | — | 4.0 | ⏸ Skip |
+| 10 | POLYCAB.NS | -58.5 | 39 | 🔴 | — | -0.0 | ⏸ Skip |
+| 11 | KEI.NS | -66.5 | 33 | 🔴 | — | -0.0 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -122,6 +124,6 @@ The market is currently in a **"Wait and Watch"** phase. While domestic indices 
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-05 23:19 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-06 17:11 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
