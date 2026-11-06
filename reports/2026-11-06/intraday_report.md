@@ -1,25 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of the intraday trading report:
+Here is a concise, high-level summary of the automated trading report:
 
-### 🌐 Market Snapshot
-* **Banking & Energy Lead:** Strong bullish momentum across major banking and financial stocks (HDFC Bank, Axis Bank, Bajaj Finance) and Reliance, all breaking above their opening range.
-* **IT Under Pressure:** Tech sector is lagging behind, with TCS and Wipro breaking down below opening range lows.
-
----
-
-### 🎯 Top Entry Candidates (For Next Session)
-* **No Active Buy Signals Right Now:** Zero live trades are active (market is closed).
-* **Top Setup Contenders:** If momentum carries into the next session, keep a close watch on:
-  * **HDFCBANK.NS:** Top performer (Action Score: 25.8, Momentum: 97, Volume Surge: 1.9x).
-  * **BAJFINANCE.NS:** Strong volume and price confirmation (Action Score: 24.7, Volume: 1.9x).
-  * **RELIANCE.NS:** solid
+### 📊 Market Context
+* **Bullish Bias in Large-Caps:** Major financial and mega-cap stocks (H
 
 ---
 
 # 📈 Intraday Report — 2026-11-06
 
-> Auto-generated at **17:12 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
