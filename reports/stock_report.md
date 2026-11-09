@@ -1,52 +1,51 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today’s automated trading report:
+### 📊 Trading Report Summary: 2026-11-09
 
-### 🌍 **Market Context**
-* **Overall Bias:** **Mildly Bullish (🟡 Caution advised)**. 
-* **Key Drivers:** US tech stocks are strong (NASDAQ +1.09%), but a falling USD/INR (-0.56%) and dropping crude oil prices (-2.69%) present mixed signals.
-* **Volatility (VIX):** Sitting at 17.42 (Moderate). Recommended position sizing is capped at **70%** if a trade triggers.
+The market is currently in a **"Wait and See"** phase. Despite a bullish global environment, your momentum pullback strategy is sidelined due to stocks being "overheated" (trading too far above their 21-day moving averages).
 
----
+#### 🌍 Market Context
+*   **Sentiment:** Bullish. Global cues (S&P 500/NASDAQ) are strong, but local stocks are currently overextended.
+*   **Volatility:** Moderate (VIX 17.4).
+*   **Headwinds:** Falling crude oil prices and a weakening USD/INR are creating mixed signals for specific sectors.
 
-### 🎯 **Top Entry Candidates**
-* **Action:** **NO TRADES TODAY (100% Cash).**
-* **Why?** No stocks currently meet the "Momentum Pullback" strategy rules. 
-* **Closest Watchlist Candidates:**
-  * **RELIANCE & ANGEL ONE:** Showing underlying strength, but currently **overbought** (RSI > 65) and extended too far above their 21-day averages. They need a price pullback before entering.
-  * **Banking (ICICIBANK / HDFCBANK):** Overextended and currently underperforming their sector indices.
+#### 🎯 Entry Candidates
+*   **Status:** **Zero entries.** All candidates on your watchlist are currently failing your "Momentum Pullback" criteria.
+*   **The Problem:** Every stock on your list has an RSI that is too high (indicating they are overbought) and is trading significantly above the 21-day EMA. 
+*   **Action:** **Patience is required.** Do not force a trade. Wait for these stocks to "cool off" (pull back toward their 21-day moving average) before considering an entry.
 
----
+#### ⚠️ Critical Warnings & Performance
+*   **Strategy Discipline:** Your strategy requires a price proximity of ±4% to the 21-day EMA. Currently, stocks like ICICIBANK (+11.3%) and ANGELONE (+11.1%) are far too expensive to enter safely.
+*   **Performance Check:** Your last trade resulted in a **-7.14% loss**. This confirms that buying when stocks are extended (away from the EMA) is high-risk. 
+*   **Actionable Advice:** Keep your ₹10,000 in cash. Monitor the watchlist daily; only trigger a buy when the RSI drops into the 42–55 range and the price settles closer to the 21-day EMA. 
 
-### ⚠️ **Critical Warnings & Takeaways**
-* **Capital Protection:** 100% of your ₹10,000 capital remains idle in cash. **Do not force trades.**
-* **Avoid FOMO:** High RSI levels across top names indicate the market is stretched short-term. Wait for prices to cool down into the target buy zone (RSI 42–55 near the 21 EMA) before manual execution.
+**Bottom Line:** The market is running hot. Let the prices revert to the mean before deploying your capital.
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-09
-> *Auto-generated at 17:50 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 20:03 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
 | Nifty 50 | 25,044.65 | 📈 +0.06% |
 | India VIX | 17.42 | 📉 -0.29% |
-| S&P 500 (overnight) | 7,376.86 | 📈 +0.32% |
-| NASDAQ | 24,579.43 | 📈 +1.09% |
-| WTI Crude Oil | $88.39 | 📉 -2.69% |
+| S&P 500 (overnight) | 7,454.60 | 📈 +1.05% |
+| NASDAQ | 24,894.73 | 📈 +1.28% |
+| WTI Crude Oil | $86.61 | 📉 -4.65% |
 | USD / INR | 93.9275 | 📉 -0.56% |
 
 **Key Factors:**
 - VIX 17.4 — Moderate 🟡 (70% sizing)
-- S&P 500 +0.32% — Neutral
-- NASDAQ +1.09% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $88.39 (-2.69%) — Bearish for OILIETF 📉
+- S&P 500 +1.05% — Positive overnight cues 📈
+- NASDAQ +1.28% — Tech bullish (N100/MAFANG +ve)
+- WTI Crude $86.61 (-4.65%) — Bearish for OILIETF 📉
 - USD/INR 93.93 (-0.563%) — Dollar weakening → intl ETFs headwind
 
 ---
@@ -76,16 +75,16 @@ Here is your high-level executive summary of today’s automated trading report:
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | 22.5 | RSI=73 (need 42–55) · Price +6.3% from EMA21 (need ±4%) · Score=22 (need ≥50) |
-| ICICIBANK.NS | 13.0 | RSI=86 (need 42–55) · Price +11.3% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=13 (need ≥50) |
-| HDFCBANK.NS | -0.5 | RSI=78 (need 42–55) · Price +10.0% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-0 (need ≥50) |
+| RELIANCE.NS | 23.8 | RSI=73 (need 42–55) · Price +6.3% from EMA21 (need ±4%) · Score=24 (need ≥50) |
+| ICICIBANK.NS | 14.2 | RSI=86 (need 42–55) · Price +11.3% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=14 (need ≥50) |
+| HDFCBANK.NS | 0.8 | RSI=78 (need 42–55) · Price +10.0% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=1 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ANGELONE.NS | 22.0 | RSI=68 (need 42–55) · Price +11.1% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=22 (need ≥50) |
-| HAVELLS.NS | -1.0 | RSI=60 (need 42–55) · EMA21 < EMA50 · Price +8.1% from EMA21 (need ±4%) · Score=-1 (need ≥50) |
-| CDSL.NS | -1.5 | RSI=64 (need 42–55) · EMA21 < EMA50 · Price +5.2% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-2 (need ≥50) |
+| ANGELONE.NS | 23.2 | RSI=68 (need 42–55) · Price +11.1% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=23 (need ≥50) |
+| HAVELLS.NS | 0.2 | RSI=60 (need 42–55) · EMA21 < EMA50 · Price +8.1% from EMA21 (need ±4%) · Score=0 (need ≥50) |
+| CDSL.NS | -0.2 | RSI=64 (need 42–55) · EMA21 < EMA50 · Price +5.2% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-0 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -97,17 +96,17 @@ Here is your high-level executive summary of today’s automated trading report:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | RELIANCE.NS | 22.5 | 73 | 🟢 | — | -0.1 | ⏸ Skip |
-| 2 | ANGELONE.NS | 22.0 | 68 | 🟢 | — | 0.3 | ⏸ Skip |
-| 3 | ICICIBANK.NS | 13.0 | 86 | 🟢 | — | 1.2 | ⏸ Skip |
-| 4 | HDFCBANK.NS | -0.5 | 78 | 🟢 | — | 1.6 | ⏸ Skip |
-| 5 | HAVELLS.NS | -1.0 | 60 | 🔴 | — | 1.1 | ⏸ Skip |
-| 6 | CDSL.NS | -1.5 | 64 | 🔴 | — | 0.3 | ⏸ Skip |
-| 7 | PIDILITIND.NS | -1.5 | 67 | 🔴 | — | -0.2 | ⏸ Skip |
-| 8 | BAJFINANCE.NS | -14.0 | 69 | 🔴 | — | -0.1 | ⏸ Skip |
-| 9 | TITAN.NS | -26.0 | 83 | 🔴 | — | -0.1 | ⏸ Skip |
-| 10 | POLYCAB.NS | -45.0 | 44 | 🔴 | — | -0.7 | ⏸ Skip |
-| 11 | KEI.NS | -71.0 | 34 | 🔴 | — | -0.5 | ⏸ Skip |
+| 1 | RELIANCE.NS | 23.8 | 73 | 🟢 | — | -0.1 | ⏸ Skip |
+| 2 | ANGELONE.NS | 23.2 | 68 | 🟢 | — | 0.3 | ⏸ Skip |
+| 3 | ICICIBANK.NS | 14.2 | 86 | 🟢 | — | 1.2 | ⏸ Skip |
+| 4 | HDFCBANK.NS | 0.8 | 78 | 🟢 | — | 1.6 | ⏸ Skip |
+| 5 | HAVELLS.NS | 0.2 | 60 | 🔴 | — | 1.1 | ⏸ Skip |
+| 6 | CDSL.NS | -0.2 | 64 | 🔴 | — | 0.3 | ⏸ Skip |
+| 7 | PIDILITIND.NS | -0.2 | 67 | 🔴 | — | -0.2 | ⏸ Skip |
+| 8 | BAJFINANCE.NS | -12.8 | 69 | 🔴 | — | -0.1 | ⏸ Skip |
+| 9 | TITAN.NS | -24.8 | 83 | 🔴 | — | -0.1 | ⏸ Skip |
+| 10 | POLYCAB.NS | -43.8 | 44 | 🔴 | — | -0.7 | ⏸ Skip |
+| 11 | KEI.NS | -69.8 | 34 | 🔴 | — | -0.5 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -124,6 +123,6 @@ Here is your high-level executive summary of today’s automated trading report:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-09 17:50 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-09 20:03 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
