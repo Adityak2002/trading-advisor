@@ -1,26 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level trading brief for the **November 9, 2026** session:
+Here is a concise, high-level summary of the intraday trading report:
 
-### 📈 Market Context
-The market is showing a **bullish bias** for the banking sector, with several heavyweights trading above their average prices. While many stocks are still stuck in their "Opening Range," a few leaders have successfully broken out with significant buying pressure.
+---
 
-### 🚀 Top Entry Candidates
-Based on the strategy's volume and momentum requirements, focus on these two primary movers:
-*   **SBIN (State Bank of India):** The strongest candidate. It has broken its opening high with a massive **4.1× volume surge**, indicating heavy institutional interest.
-*   **ICICIBANK:** A solid secondary pick. It cleared its opening range with **1.9× average volume** and maintains healthy momentum.
-*   **WIPRO:** Showing the highest momentum score (81/100), though it needs a confirmed volume spike to be as high-conviction as the banks.
+### 📌 **Executive Summary**
 
-### ⚠️ Critical Warnings & Risk Rules
-*   **Avoid the "Laggards":** Stay away from **ADANIENT** and **BAJFINANCE**. Both have "Broken Down" (dropped below their opening lows), signaling bearish sentiment.
-*   **Hard Exit Time:** Ensure all positions are closed by **15:10 IST**. Do not carry any trades overnight, regardless of profit or loss.
-*   **Strict Loss Limit:** Do not lose more than **₹100 per trade**. If a stock hits your
+#### 🟢 **Market Context**
+* **Overall Sentiment:** **Bullish.** 10 out of 12 watchlist stocks are trading above their average price, signaling strong underlying buyer strength.
+* **Timing Context:** Report generated post-market (22:25 IST). All intraday positions are closed.
+
+---
+
+#### 🎯 **Top Entry Candidates & Setup Watchlist**
+* **Active Signals:** **0 active buys.** No live trades are open right now.
+* **Top Breakout Candidates to Watch:**
+  * **SBIN.NS:** Strongest performer — broke out above opening range with a massive **4.1× volume surge** and strong momentum (73.1).
+  * **IC
 
 ---
 
 # 📈 Intraday Report — 2026-11-09
 
-> Auto-generated at **20:22 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
