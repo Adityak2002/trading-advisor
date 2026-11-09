@@ -1,32 +1,26 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-09
+Here is your high-level trading brief for the **November 9, 2026** session:
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have technically broken out, the system is currently in a "wait-and-see" mode to confirm sustained momentum before triggering entries.
+### 📈 Market Context
+The market is showing a **bullish bias** for the banking sector, with several heavyweights trading above their average prices. While many stocks are still stuck in their "Opening Range," a few leaders have successfully broken out with significant buying pressure.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks are showing the strongest momentum and are closest to or have just cleared their opening range highs:
-*   **SBIN.NS:** Strongest breakout candidate with a 4.1× volume surge.
-*   **ICICIBANK.NS:** Solid breakout with 1.9× volume; momentum is building.
-*   **WIPRO.NS:** High momentum (81) and trading above the opening range.
-*   **RELIANCE.NS & HDFCBANK.NS:** Currently testing their opening highs; keep these on high alert for a potential breakout.
+### 🚀 Top Entry Candidates
+Based on the strategy's volume and momentum requirements, focus on these two primary movers:
+*   **SBIN (State Bank of India):** The strongest candidate. It has broken its opening high with a massive **4.1× volume surge**, indicating heavy institutional interest.
+*   **ICICIBANK:** A solid secondary pick. It cleared its opening range with **1.9× average volume** and maintains healthy momentum.
+*   **WIPRO:** Showing the highest momentum score (81/100), though it needs a confirmed volume spike to be as high-conviction as the banks.
 
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume confirmation.
-*   **Strict Risk Cap:** Max loss is limited to **₹100 per trade** (2% of your ₹5,000 capital). If a trade hits the -0.4% stop loss, exit immediately.
-*   **Hard Exit:** All positions **must** be closed by **15:10 IST**. No overnight risk is permitted.
-*   **Trade Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital protection.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
-
-***
-
-**Analyst Note:** The market is showing selective strength. Focus only on stocks with confirmed volume surges (like SBIN/ICICIBANK) to avoid "fake-out" breakouts.
+### ⚠️ Critical Warnings & Risk Rules
+*   **Avoid the "Laggards":** Stay away from **ADANIENT** and **BAJFINANCE**. Both have "Broken Down" (dropped below their opening lows), signaling bearish sentiment.
+*   **Hard Exit Time:** Ensure all positions are closed by **15:10 IST**. Do not carry any trades overnight, regardless of profit or loss.
+*   **Strict Loss Limit:** Do not lose more than **₹100 per trade**. If a stock hits your
 
 ---
 
 # 📈 Intraday Report — 2026-11-09
 
-> Auto-generated at **19:02 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:22 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
