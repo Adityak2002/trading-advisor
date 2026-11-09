@@ -1,28 +1,23 @@
 # 🤖 Gemini AI Insights
 
-Here is a concise, high-level summary of the intraday trading report:
+Here is your high-level intraday strategy summary:
+
+### 🌐 **Market Context**
+* **Bullish Momentum in Banks:** The market is showing strong buying interest in major banking stocks, which are outperforming the broader market.
+* **Mixed Sentiment Overall:** While select blue-chips are breaking out to the upside, weaker stocks like **ADANIENT** and **BAJFINANCE** are breaking down below their opening levels.
 
 ---
 
-### 📌 **Executive Summary**
+### 🎯 **Top Stocks to Watch for Entry**
+*(Note: No trades have been executed yet—awaiting final execution triggers).*
 
-#### 🟢 **Market Context**
-* **Overall Sentiment:** **Bullish.** 10 out of 12 watchlist stocks are trading above their average price, signaling strong underlying buyer strength.
-* **Timing Context:** Report generated post-market (22:25 IST). All intraday positions are closed.
-
----
-
-#### 🎯 **Top Entry Candidates & Setup Watchlist**
-* **Active Signals:** **0 active buys.** No live trades are open right now.
-* **Top Breakout Candidates to Watch:**
-  * **SBIN.NS:** Strongest performer — broke out above opening range with a massive **4.1× volume surge** and strong momentum (73.1).
-  * **IC
+* 🟢 **SBIN (State Bank of India):** **Top Focus.** Has broken above its opening high with strong momentum and massive buying volume (**4.1× average volume**
 
 ---
 
 # 📈 Intraday Report — 2026-11-09
 
-> Auto-generated at **22:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
