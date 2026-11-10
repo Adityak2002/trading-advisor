@@ -1,35 +1,46 @@
 # 🤖 Gemini AI Insights
 
-Here is your executive summary of today’s automated trading report:
+Here is your high-level executive summary:
 
-### 🌍 Market Context
-* 🟢 **Overall Signal:** **Bullish.** Strong positive overnight cues from US
+---
+
+### 📊 **Market Context**
+* **Overall Bias:** 🟡 **Mildly Bearish / Cautious** — Preserve capital and stay light.
+* **Global Cues:** Weak overnight sentiment from the US (S&P 500 down -0.82%, NASDAQ down -1.04%), creating global tech and broader market headwinds.
+* **Volatility (India VIX):** Moderate at **17.42** — Calls for reduced position sizing (cap trades at 70% of usual allocation when entries appear).
+
+---
+
+### 🎯 **Entry Candidates**
+* 🛑 **Current Buy Signals:** **0 Candidates** (100% Cash | ₹10,000 Idle).
+* **Watchlist Status:** Leading momentum names (*Reliance, ICICI Bank, Angel One*) are currently **overbought** (RSI 68–86) and trading too far above their support levels (+5% to +11% extended from EMA21).
+* **Strategy Requirement:** Wait for these top stocks
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-10
-> *Auto-generated at 19:23 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 21:26 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟢 Bullish — Good day for entries
+**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
 | Nifty 50 | 25,044.65 | 📈 +0.06% |
 | India VIX | 17.42 | 📉 -0.29% |
-| S&P 500 (overnight) | 7,549.94 | 📈 +2.35% |
-| NASDAQ | 25,253.14 | 📈 +2.74% |
-| WTI Crude Oil | $84.17 | 📉 -3.09% |
+| S&P 500 (overnight) | 7,488.30 | 📉 -0.82% |
+| NASDAQ | 24,990.60 | 📉 -1.04% |
+| WTI Crude Oil | $85.85 | 📉 -1.15% |
 | USD / INR | 93.9180 | 📈 +0.02% |
 
 **Key Factors:**
 - VIX 17.4 — Moderate 🟡 (70% sizing)
-- S&P 500 +2.35% — Positive overnight cues 📈
-- NASDAQ +2.74% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $84.17 (-3.09%) — Bearish for OILIETF 📉
+- S&P 500 -0.82% — Negative overnight cues 📉
+- NASDAQ -1.04% — Tech bearish
+- WTI Crude $85.85 (-1.15%) — Neutral for OILIETF
 - USD/INR 93.92 (+0.016%) — USD stable
 
 ---
@@ -59,16 +70,16 @@ Here is your executive summary of today’s automated trading report:
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | 23.8 | RSI=73 (need 42–55) · Price +6.3% from EMA21 (need ±4%) · Score=24 (need ≥50) |
-| ICICIBANK.NS | 14.2 | RSI=86 (need 42–55) · Price +11.3% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=14 (need ≥50) |
-| HDFCBANK.NS | 0.8 | RSI=78 (need 42–55) · Price +10.0% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=1 (need ≥50) |
+| RELIANCE.NS | 20.2 | RSI=73 (need 42–55) · Price +6.3% from EMA21 (need ±4%) · Score=20 (need ≥50) |
+| ICICIBANK.NS | 10.8 | RSI=86 (need 42–55) · Price +11.3% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=11 (need ≥50) |
+| HDFCBANK.NS | -2.8 | RSI=78 (need 42–55) · Price +10.0% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-3 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ANGELONE.NS | 23.2 | RSI=68 (need 42–55) · Price +11.1% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=23 (need ≥50) |
-| HAVELLS.NS | 0.2 | RSI=60 (need 42–55) · EMA21 < EMA50 · Price +8.1% from EMA21 (need ±4%) · Score=0 (need ≥50) |
-| CDSL.NS | -0.2 | RSI=64 (need 42–55) · EMA21 < EMA50 · Price +5.2% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-0 (need ≥50) |
+| ANGELONE.NS | 19.8 | RSI=68 (need 42–55) · Price +11.1% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=20 (need ≥50) |
+| HAVELLS.NS | -3.2 | RSI=60 (need 42–55) · EMA21 < EMA50 · Price +8.1% from EMA21 (need ±4%) · Score=-3 (need ≥50) |
+| CDSL.NS | -3.8 | RSI=64 (need 42–55) · EMA21 < EMA50 · Price +5.2% from EMA21 (need ±4%) · Sector underperforming ❌ · Score=-4 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -80,17 +91,17 @@ Here is your executive summary of today’s automated trading report:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | RELIANCE.NS | 23.8 | 73 | 🟢 | — | -0.1 | ⏸ Skip |
-| 2 | ANGELONE.NS | 23.2 | 68 | 🟢 | — | 0.3 | ⏸ Skip |
-| 3 | ICICIBANK.NS | 14.2 | 86 | 🟢 | — | 1.2 | ⏸ Skip |
-| 4 | HDFCBANK.NS | 0.8 | 78 | 🟢 | — | 1.6 | ⏸ Skip |
-| 5 | HAVELLS.NS | 0.2 | 60 | 🔴 | — | 1.1 | ⏸ Skip |
-| 6 | CDSL.NS | -0.2 | 64 | 🔴 | — | 0.3 | ⏸ Skip |
-| 7 | PIDILITIND.NS | -0.2 | 67 | 🔴 | — | -0.2 | ⏸ Skip |
-| 8 | BAJFINANCE.NS | -12.8 | 69 | 🔴 | — | -0.1 | ⏸ Skip |
-| 9 | TITAN.NS | -24.8 | 83 | 🔴 | — | -0.1 | ⏸ Skip |
-| 10 | POLYCAB.NS | -43.8 | 44 | 🔴 | — | -0.7 | ⏸ Skip |
-| 11 | KEI.NS | -69.8 | 34 | 🔴 | — | -0.5 | ⏸ Skip |
+| 1 | RELIANCE.NS | 20.2 | 73 | 🟢 | — | -0.1 | ⏸ Skip |
+| 2 | ANGELONE.NS | 19.8 | 68 | 🟢 | — | 0.3 | ⏸ Skip |
+| 3 | ICICIBANK.NS | 10.8 | 86 | 🟢 | — | 1.2 | ⏸ Skip |
+| 4 | HDFCBANK.NS | -2.8 | 78 | 🟢 | — | 1.6 | ⏸ Skip |
+| 5 | HAVELLS.NS | -3.2 | 60 | 🔴 | — | 1.1 | ⏸ Skip |
+| 6 | CDSL.NS | -3.8 | 64 | 🔴 | — | 0.3 | ⏸ Skip |
+| 7 | PIDILITIND.NS | -3.8 | 67 | 🔴 | — | -0.2 | ⏸ Skip |
+| 8 | BAJFINANCE.NS | -16.2 | 69 | 🔴 | — | -0.1 | ⏸ Skip |
+| 9 | TITAN.NS | -28.2 | 83 | 🔴 | — | -0.1 | ⏸ Skip |
+| 10 | POLYCAB.NS | -47.2 | 44 | 🔴 | — | -0.7 | ⏸ Skip |
+| 11 | KEI.NS | -73.2 | 34 | 🔴 | — | -0.5 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -107,6 +118,6 @@ Here is your executive summary of today’s automated trading report:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-10 19:23 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-10 21:26 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
