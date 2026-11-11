@@ -1,24 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary of today's intraday trading report:
+### 📊 Market Summary: 2026-11-11
 
-### 🌐 Market Context
-* **Range-Bound & Hesitant:** Most benchmark stocks remained trapped inside their initial 15-minute opening price range, showing a lack of aggressive buying direction.
-* **No Volume Breakouts:** Zero stocks met the required **1.8× volume surge** needed to confirm a valid bullish breakout.
-* **Weakness in Heavyweights:** Banking and key large-caps (ICICIBANK, ADANIENT, HDFCBANK) traded below their intraday average prices, showing underlying selling pressure.
+The market is currently in a **consolidation phase**. Most watchlist stocks are trading within their initial 15-minute opening range, meaning no breakout momentum has been confirmed yet. The system is in "wait-and-watch" mode.
 
----
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks are currently trading above their average price and are closest to triggering a "Buy" signal if they break above their opening highs:
+*   **BAJFINANCE.NS:** Highest momentum (67.3); needs to clear ₹1,087.20.
+*   **INFY.NS:** Strong momentum (66.1); needs to clear ₹1,164.30.
+*   **POWERGRID.NS:** Tight range; needs to clear ₹264.55.
 
-### 🎯 Top Entry Candidates & Watchlist
-* **Active Buy Signals:** **0 Trades Triggered** (Capital remains 100% safe in cash).
-* **Top Stocks to Watch for Next Session** (Holding above average price with strong momentum):
-  * 🟢 **BAJFINANCE.NS**
+#### ⚠️ Critical Warnings & Rules
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force a trade.
+*   **Avoid These:** **ICICIBANK.NS** and **ADANIENT.NS** have broken below their opening lows; these are currently bearish and should be avoided for long positions.
+*   **Strict Risk Control:**
+    *   **Max Loss:** Never risk more than ₹100 per trade.
+    *   **Hard Exit:** All positions must be closed by **15:10 IST**.
+    *   **Discipline:** Do not add to losing positions. If the stop loss hits, exit immediately.
+
+**Action Plan:** Monitor the "Opening High" levels for the top 3 candidates. Only enter if the price breaks above these levels accompanied by a significant volume surge (≥1.8× average).
 
 ---
 
 # 📈 Intraday Report — 2026-11-11
 
-> Auto-generated at **20:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
