@@ -2,30 +2,23 @@
 
 Here is your high-level executive summary of today's intraday trading report:
 
----
-
-### 📊 Market Context
-* **Overall Market State:** **Neutral to Subdued.** Out of 12 tracked stocks, 10 remained trapped inside their initial 15-minute price ranges, indicating a lack of strong directional trend.
-* **Bearish Pressure:** **ICICIBANK** and **ADANIENT** broke below their opening lows, but volume was too weak (1.1× vs. required 1.8×) to justify short/sell setups.
-
----
-
-### 🎯 Top Entry Candidates (Watchlist)
-* **Zero Active Buy Signals:** No trades met the required breakout criteria (Price Breakout + ≥1.8× Volume Surge). **No capital was deployed.**
-* **Top Setup Candidates for Next Session:**
-  * **BAJFINANCE:** Leading candidate (Action Score: 10.5/100 | Strong momentum at 67.3 | Trading above average price).
-  * **POWERGRID:** Secondary candidate (Action Score: 8.7/100 | Steady momentum at 57.9).
+### 🌐 Market Context
+* **Range-Bound & Hesitant:** Most benchmark stocks remained trapped inside their initial 15-minute opening price range, showing a lack of aggressive buying direction.
+* **No Volume Breakouts:** Zero stocks met the required **1.8× volume surge** needed to confirm a valid bullish breakout.
+* **Weakness in Heavyweights:** Banking and key large-caps (ICICIBANK, ADANIENT, HDFCBANK) traded below their intraday average prices, showing underlying selling pressure.
 
 ---
 
-### ⚠️ Critical Warnings & Key Takeaways
-* **Post-Market Report:** This report was generated at **18
+### 🎯 Top Entry Candidates & Watchlist
+* **Active Buy Signals:** **0 Trades Triggered** (Capital remains 100% safe in cash).
+* **Top Stocks to Watch for Next Session** (Holding above average price with strong momentum):
+  * 🟢 **BAJFINANCE.NS**
 
 ---
 
 # 📈 Intraday Report — 2026-11-11
 
-> Auto-generated at **18:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
