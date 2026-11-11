@@ -1,31 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is your executive summary of today's intraday strategy report:
-
-### 🌐 Market Context
-* **Consolidation Day:** Most watchlisted stocks remained trapped inside their initial 15-minute opening range with low directional momentum.
-* **Lack of Volume:** While **ICICIBANK** and **ADANIENT** slipped below their opening lows, neither had enough volume surge (1.1× vs. the required 1.8×) to justify a safe short entry.
-* **Top Performers (Inside Range):** **BAJFINANCE** and **POWERGRID** showed the strongest relative strength and momentum above average prices, but ultimately lacked the breakout trigger.
+Here is your high-level executive summary of today's intraday trading report:
 
 ---
 
-### 🎯 Top Entry Candidates
-* **No Active Trades Triggered:** Zero stocks met all strategy criteria (price breakout + strong volume surge). 
-* **Capital Preserved:** No positions were taken, leaving the ₹5,000 capital completely safe.
-
----
-
-### ⚠️ Critical Warnings & Key Takeaways
-
-* ⏰ **Post-Market Note:** This report was generated at **17:07 IST** (after market close). Per strategy rules, all intraday positions are automatically squared off by **15:10 IST** to eliminate overnight risk.
-* 🛡️ **Patience Wins:** The system correctly avoided low-conviction, low-volume setups. No forced trades were taken.
-* 📏 **Rule Reminder:** For future sessions, keep strict risk management active—maximum ₹100 risk per trade (2% of capital) with a hard stop-loss.
+### 📊 **Market Context**
+* **No Breakout Triggers:** The
 
 ---
 
 # 📈 Intraday Report — 2026-11-11
 
-> Auto-generated at **17:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **17:50 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
