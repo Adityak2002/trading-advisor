@@ -1,23 +1,31 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level intraday strategy summary:
+Here is your executive summary of today's intraday strategy report:
 
-### 🌐 **Market Context**
-* **Bullish Momentum in Banks:** The market is showing strong buying interest in major banking stocks, which are outperforming the broader market.
-* **Mixed Sentiment Overall:** While select blue-chips are breaking out to the upside, weaker stocks like **ADANIENT** and **BAJFINANCE** are breaking down below their opening levels.
-
----
-
-### 🎯 **Top Stocks to Watch for Entry**
-*(Note: No trades have been executed yet—awaiting final execution triggers).*
-
-* 🟢 **SBIN (State Bank of India):** **Top Focus.** Has broken above its opening high with strong momentum and massive buying volume (**4.1× average volume**
+### 🌐 Market Context
+* **Consolidation Day:** Most watchlisted stocks remained trapped inside their initial 15-minute opening range with low directional momentum.
+* **Lack of Volume:** While **ICICIBANK** and **ADANIENT** slipped below their opening lows, neither had enough volume surge (1.1× vs. the required 1.8×) to justify a safe short entry.
+* **Top Performers (Inside Range):** **BAJFINANCE** and **POWERGRID** showed the strongest relative strength and momentum above average prices, but ultimately lacked the breakout trigger.
 
 ---
 
-# 📈 Intraday Report — 2026-11-09
+### 🎯 Top Entry Candidates
+* **No Active Trades Triggered:** Zero stocks met all strategy criteria (price breakout + strong volume surge). 
+* **Capital Preserved:** No positions were taken, leaving the ₹5,000 capital completely safe.
 
-> Auto-generated at **23:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+---
+
+### ⚠️ Critical Warnings & Key Takeaways
+
+* ⏰ **Post-Market Note:** This report was generated at **17:07 IST** (after market close). Per strategy rules, all intraday positions are automatically squared off by **15:10 IST** to eliminate overnight risk.
+* 🛡️ **Patience Wins:** The system correctly avoided low-conviction, low-volume setups. No forced trades were taken.
+* 📏 **Rule Reminder:** For future sessions, keep strict risk management active—maximum ₹100 risk per trade (2% of capital) with a hard stop-loss.
+
+---
+
+# 📈 Intraday Report — 2026-11-11
+
+> Auto-generated at **17:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -34,18 +42,18 @@ Here is your high-level intraday strategy summary:
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,042.00 | 🔼 Broken Out 🔼 | 29.8/100 | 73 | ✅ Yes | 4.1× | — |
-| **ICICIBANK.NS** | ₹1,589.00 | 🔼 Broken Out 🔼 | 29.8/100 | 63 | ✅ Yes | 1.9× | — |
-| **WIPRO.NS** | ₹199.00 | 🔼 Broken Out 🔼 | 18.2/100 | 81 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,324.40 | ▶ Inside Range ▶ | 14.0/100 | 57 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹295.00 | ▶ Inside Range ▶ | 11.1/100 | 51 | ✅ Yes | — | — |
-| **HDFCBANK.NS** | ₹798.15 | ▶ Inside Range ▶ | 5.7/100 | 75 | ✅ Yes | — | — |
-| **INFY.NS** | ₹1,154.10 | ▶ Inside Range ▶ | 3.7/100 | 55 | ✅ Yes | — | — |
-| **AXISBANK.NS** | ₹1,310.70 | ▶ Inside Range ▶ | 2.6/100 | 72 | ✅ Yes | — | — |
-| **TCS.NS** | ₹2,475.40 | ▶ Inside Range ▶ | 1.5/100 | 77 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹257.95 | ▶ Inside Range ▶ | -5.0/100 | 41 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹2,706.30 | 🔽 Broken Down 🔽 | -12.0/100 | 44 | ❌ No | 2.0× | — |
-| **BAJFINANCE.NS** | ₹1,064.85 | 🔽 Broken Down 🔽 | -20.0/100 | 40 | ❌ No | 0.8× | — |
+| **BAJFINANCE.NS** | ₹1,078.80 | ▶ Inside Range ▶ | 10.5/100 | 67 | ✅ Yes | — | — |
+| **POWERGRID.NS** | ₹263.75 | ▶ Inside Range ▶ | 8.7/100 | 58 | ✅ Yes | — | — |
+| **TMPV.NS** | ₹299.25 | ▶ Inside Range ▶ | 6.6/100 | 42 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,155.00 | ▶ Inside Range ▶ | 5.7/100 | 66 | ✅ Yes | — | — |
+| **WIPRO.NS** | ₹197.99 | ▶ Inside Range ▶ | 3.4/100 | 57 | ✅ Yes | — | — |
+| **AXISBANK.NS** | ₹1,336.40 | ▶ Inside Range ▶ | 2.4/100 | 46 | ❌ No | — | — |
+| **TCS.NS** | ₹2,472.10 | ▶ Inside Range ▶ | -0.8/100 | 66 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,335.40 | ▶ Inside Range ▶ | -1.3/100 | 45 | ❌ No | — | — |
+| **SBIN.NS** | ₹1,061.20 | ▶ Inside Range ▶ | -6.7/100 | 40 | ❌ No | — | — |
+| **HDFCBANK.NS** | ₹806.60 | ▶ Inside Range ▶ | -11.5/100 | 40 | ❌ No | — | — |
+| **ICICIBANK.NS** | ₹1,571.60 | 🔽 Broken Down 🔽 | -14.4/100 | 65 | ❌ No | 1.1× | — |
+| **ADANIENT.NS** | ₹2,714.50 | 🔽 Broken Down 🔽 | -22.8/100 | 31 | ❌ No | 1.1× | — |
 
 ---
 
@@ -59,12 +67,12 @@ Here is your high-level intraday strategy summary:
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,042.00 | ₹1034.95 | ₹1023.45 | 73.1 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,589.00 | ₹1586.80 | ₹1572.30 | 63.4 | 🟢 Yes |
-| WIPRO.NS | ₹199.00 | ₹197.61 | ₹194.77 | 80.9 | 🟢 Yes |
-| RELIANCE.NS | ₹1,324.40 | ₹1324.40 | ₹1313.50 | 56.9 | 🟢 Yes |
-| TMPV.NS | ₹295.00 | ₹295.05 | ₹291.05 | 50.6 | 🟢 Yes |
-| HDFCBANK.NS | ₹798.15 | ₹798.25 | ₹789.55 | 75.5 | 🟢 Yes |
+| BAJFINANCE.NS | ₹1,078.80 | ₹1087.20 | ₹1072.05 | 67.3 | 🟢 Yes |
+| POWERGRID.NS | ₹263.75 | ₹264.55 | ₹261.50 | 57.9 | 🟢 Yes |
+| TMPV.NS | ₹299.25 | ₹299.60 | ₹297.45 | 42.4 | 🟢 Yes |
+| INFY.NS | ₹1,155.00 | ₹1164.30 | ₹1152.00 | 66.1 | 🟢 Yes |
+| WIPRO.NS | ₹197.99 | ₹200.91 | ₹197.33 | 56.6 | 🟢 Yes |
+| AXISBANK.NS | ₹1,336.40 | ₹1338.10 | ₹1326.70 | 46.1 | 🔴 No |
 
 ---
 
