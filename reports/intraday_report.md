@@ -1,30 +1,16 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-11
+Here is a high-level, actionable summary of the automated trading report:
 
-The market is currently in a **consolidation phase**. Most watchlist stocks are trading within their initial 15-minute opening range, meaning no breakout momentum has been confirmed yet. The system is in "wait-and-watch" mode.
-
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks are currently trading above their average price and are closest to triggering a "Buy" signal if they break above their opening highs:
-*   **BAJFINANCE.NS:** Highest momentum (67.3); needs to clear ₹1,087.20.
-*   **INFY.NS:** Strong momentum (66.1); needs to clear ₹1,164.30.
-*   **POWERGRID.NS:** Tight range; needs to clear ₹264.55.
-
-#### ⚠️ Critical Warnings & Rules
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force a trade.
-*   **Avoid These:** **ICICIBANK.NS** and **ADANIENT.NS** have broken below their opening lows; these are currently bearish and should be avoided for long positions.
-*   **Strict Risk Control:**
-    *   **Max Loss:** Never risk more than ₹100 per trade.
-    *   **Hard Exit:** All positions must be closed by **15:10 IST**.
-    *   **Discipline:** Do not add to losing positions. If the stop loss hits, exit immediately.
-
-**Action Plan:** Monitor the "Opening High" levels for the top 3 candidates. Only enter if the price breaks above these levels accompanied by a significant volume surge (≥1.8× average).
+### 📈 Market Context
+* **No Active Trades:** No stocks have met the criteria for a buy signal yet—the market is in a wait-and-see phase.
+* **Range-Bound Action
 
 ---
 
 # 📈 Intraday Report — 2026-11-11
 
-> Auto-generated at **21:24 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
