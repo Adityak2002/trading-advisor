@@ -1,58 +1,50 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level executive summary for **November 12, 2026**:
+Here is your high-level executive summary of today's trading report:
+
+### 🌍 Market Context
+* **Overall Signal:** 🟡 **Mildly Bullish** — The market is creeping higher (Nifty 50 at 25,299, up +0.17%), but momentum is getting stretched.
+* **Volatility (VIX):** Down -5.37% to 16.62, signaling lower immediate market panic. 
+* **Actionable Rule:** Limit any new trade sizing to **70% of standard capital** due to moderate volatility.
 
 ---
 
-### 🌍 **Market Context**
-* **Overall Signal:** 🟢 **Bullish** — Nifty closed slightly up (+0.17% at 25,299), supported by strong overnight gains in US markets (NASDAQ +1.60%).
-* **Volatility (VIX):** Dropped -5.37% to 16.62. Indicates a safer market environment, calling for a **70% position sizing** rule.
+### 🎯 Entry Candidates
+* **Action:** **NO TRADES TODAY** — Hold 100% Cash (₹10,000 idle).
+* **Why:** Top watchlist stocks (Reliance, HDFC Bank, ICICI Bank, Titan) are currently **overbought** (RSI levels > 80) and trading too far above their 21-day averages.
+* **What to Watch:** Wait for these quality stocks to pull back closer to support (RSI between 42–55) before entering.
 
 ---
 
-### 🎯 **Top Entry Candidates**
-* 🚫 **Action:** **No New Entries Today** (0 candidates meet buy criteria).
-* 🔍 **Watchlist Insight:** Top heavyweights (**Reliance, Titan, ICICI Bank, HDFC Bank**) have strong underlying momentum, but are currently **overbought** (RSI values > 80 and stretched high above their 21-day average). 
-* ⏱️ **Strategy:** Waiting for a healthy price dip/pullback to the buy zone (RSI 42–55) before taking fresh positions.
-
----
-
-### 💼 **Portfolio Status & Exits**
-* 💵 **Idle Capital:** **100% Cash** (₹10,000 idle | 0 / 2 positions open).
-* 🛑 **Open Risk / Exits:** **None.** No open positions require monitoring or trailing stop-loss updates today.
-
----
-
-### ⚠️ **Critical Warnings & Actionable Advice**
-* 🧘 **Avoid FOMO (Fear Of Missing Out):** Even though global and domestic markets look green, **do not chase extended stocks**. Buying now increases the risk of getting caught in a sudden sharp pullback.
-* 💡 **Stay Patient in Cash:** Being 100% in cash is the correct tactical move right now. Wait for high-quality setups to cool down into your entry criteria.
+### ⚠️ Exits & Critical Warnings
+* **Active Exits:** **None** (You currently hold 0 open positions).
+* **Critical Warning:** **Do not chase the
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-12
-> *Auto-generated at 19:38 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 21:57 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟢 Bullish — Good day for entries
+**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
 | Nifty 50 | 25,299.35 | 📈 +0.17% |
 | India VIX | 16.62 | 📉 -5.37% |
-| S&P 500 (overnight) | 7,619.38 | 📈 +1.31% |
-| NASDAQ | 25,466.19 | 📈 +1.60% |
-| WTI Crude Oil | $86.68 | 📈 +0.17% |
-| USD / INR | 94.0400 | 📈 +0.12% |
+| S&P 500 (overnight) | 7,638.08 | 📈 +0.24% |
+| NASDAQ | 25,515.18 | 📈 +0.19% |
+| WTI Crude Oil | $86.79 | 📈 +0.30% |
+| USD / INR | 94.0330 | 📈 +0.12% |
 
 **Key Factors:**
 - VIX 16.6 — Moderate 🟡 (70% sizing)
-- S&P 500 +1.31% — Positive overnight cues 📈
-- NASDAQ +1.60% — Tech bullish (N100/MAFANG +ve)
-- WTI Crude $86.68 (+0.17%) — Neutral for OILIETF
-- USD/INR 94.04 (+0.122%) — USD stable
+- S&P 500 +0.24% — Neutral
+- WTI Crude $86.79 (+0.30%) — Neutral for OILIETF
+- USD/INR 94.03 (+0.115%) — USD stable
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -81,16 +73,16 @@ Here is your high-level executive summary for **November 12, 2026**:
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | 23.8 | RSI=81 (need 42–55) · Price +6.2% from EMA21 (need ±4%) · Score=24 (need ≥50) |
-| ICICIBANK.NS | 11.2 | RSI=81 (need 42–55) · Price +9.3% from EMA21 (need ±4%) · Score=11 (need ≥50) |
-| HDFCBANK.NS | 11.2 | RSI=89 (need 42–55) · Price +9.7% from EMA21 (need ±4%) · Score=11 (need ≥50) |
+| RELIANCE.NS | 22.0 | RSI=81 (need 42–55) · Price +6.2% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| ICICIBANK.NS | 9.5 | RSI=81 (need 42–55) · Price +9.3% from EMA21 (need ±4%) · Score=10 (need ≥50) |
+| HDFCBANK.NS | 9.5 | RSI=89 (need 42–55) · Price +9.7% from EMA21 (need ±4%) · Score=10 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| TITAN.NS | 23.8 | RSI=82 (need 42–55) · Price +5.3% from EMA21 (need ±4%) · Score=24 (need ≥50) |
-| BAJFINANCE.NS | 11.2 | RSI=81 (need 42–55) · Price +10.8% from EMA21 (need ±4%) · Score=11 (need ≥50) |
-| ANGELONE.NS | 5.2 | RSI=76 (need 42–55) · Price +9.9% from EMA21 (need ±4%) · Score=5 (need ≥50) |
+| TITAN.NS | 22.0 | RSI=82 (need 42–55) · Price +5.3% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| BAJFINANCE.NS | 9.5 | RSI=81 (need 42–55) · Price +10.8% from EMA21 (need ±4%) · Score=10 (need ≥50) |
+| ANGELONE.NS | 3.5 | RSI=76 (need 42–55) · Price +9.9% from EMA21 (need ±4%) · Score=4 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -102,17 +94,17 @@ Here is your high-level executive summary for **November 12, 2026**:
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | RELIANCE.NS | 23.8 | 81 | 🟢 | — | -0.5 | ⏸ Skip |
-| 2 | TITAN.NS | 23.8 | 82 | 🟢 | — | -0.3 | ⏸ Skip |
-| 3 | ICICIBANK.NS | 11.2 | 81 | 🟢 | — | -0.2 | ⏸ Skip |
-| 4 | HDFCBANK.NS | 11.2 | 89 | 🟢 | — | -0.1 | ⏸ Skip |
-| 5 | BAJFINANCE.NS | 11.2 | 81 | 🟢 | — | 0.3 | ⏸ Skip |
-| 6 | ANGELONE.NS | 5.2 | 76 | 🟢 | — | -0.6 | ⏸ Skip |
-| 7 | CDSL.NS | -3.8 | 81 | 🟢 | — | 2.5 | ⏸ Skip |
-| 8 | PIDILITIND.NS | -6.2 | 65 | 🔴 | ✅ | -0.8 | ⏸ Skip |
-| 9 | HAVELLS.NS | -12.8 | 69 | 🔴 | — | -0.2 | ⏸ Skip |
-| 10 | POLYCAB.NS | -62.8 | 65 | 🔴 | — | 0.6 | ⏸ Skip |
-| 11 | KEI.NS | -65.8 | 64 | 🔴 | — | 0.0 | ⏸ Skip |
+| 1 | RELIANCE.NS | 22.0 | 81 | 🟢 | — | -0.5 | ⏸ Skip |
+| 2 | TITAN.NS | 22.0 | 82 | 🟢 | — | -0.3 | ⏸ Skip |
+| 3 | ICICIBANK.NS | 9.5 | 81 | 🟢 | — | -0.2 | ⏸ Skip |
+| 4 | HDFCBANK.NS | 9.5 | 89 | 🟢 | — | -0.1 | ⏸ Skip |
+| 5 | BAJFINANCE.NS | 9.5 | 81 | 🟢 | — | 0.3 | ⏸ Skip |
+| 6 | ANGELONE.NS | 3.5 | 76 | 🟢 | — | -0.6 | ⏸ Skip |
+| 7 | CDSL.NS | -5.5 | 81 | 🟢 | — | 2.5 | ⏸ Skip |
+| 8 | PIDILITIND.NS | -8.0 | 65 | 🔴 | ✅ | -0.8 | ⏸ Skip |
+| 9 | HAVELLS.NS | -14.5 | 69 | 🔴 | — | -0.2 | ⏸ Skip |
+| 10 | POLYCAB.NS | -64.5 | 65 | 🔴 | — | 0.6 | ⏸ Skip |
+| 11 | KEI.NS | -67.5 | 64 | 🔴 | — | 0.0 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -129,6 +121,6 @@ Here is your high-level executive summary for **November 12, 2026**:
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-12 19:38 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-12 21:57 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
