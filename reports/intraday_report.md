@@ -1,34 +1,18 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-12
+Here is your high-level summary of the intraday trading report:
 
-The market is showing strong bullish momentum with several key stocks clearing their opening price ranges. While the system is currently in a "wait-and-see" mode for new entries, the setup is primed for high-conviction breakouts.
+---
 
-#### **Top Entry Candidates (Watchlist)**
-These stocks have cleared their opening highs with strong momentum and are the primary focus for potential entries:
-*   **BAJFINANCE.NS:** Strongest breakout candidate with high volume (2.8×).
-*   **HDFCBANK.NS:** Significant volume surge (3.8×) indicates institutional interest.
-*   **INFY.NS:** Highest momentum score (89.0) despite a tighter volume surge.
-*   **SBIN.NS:** Solid breakout, though volume is slightly lower than the 1.8× threshold.
-
-#### **Critical Status & Warnings**
-*   **No Active Positions:** The system is currently flat; no trades are open.
-*   **Volume Discipline:** Do not enter trades unless the volume surge meets the **≥1.8× average** requirement.
-*   **Risk Cap:** Total risk is strictly limited to **₹100 per trade** (2% of your ₹5,000 capital).
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Trade Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital safety.
-
-#### **Action Plan**
-1.  **Monitor:** Keep a close watch on the "Stocks to Watch" list.
-2.  **Verify:** Ensure the volume surge is confirmed before triggering any buy orders.
-3.  **Execute:** If a breakout occurs, set your **1.2% profit target** and **0.4% stop loss** immediately.
-4.  **Manage:** Once a trade hits +0.5% profit, move the stop loss to breakeven to protect your capital.
+### 🌐 Market Context
+* **Bullish Momentum:** The market leans positive, with major banking, financial, and tech stocks trading above their average prices.
+* **Breakout Activity:** Heavyweights like **HDFC Bank** and **Bajaj Finance** breached their opening 15-minute highs accompanied by heavy
 
 ---
 
 # 📈 Intraday Report — 2026-11-12
 
-> Auto-generated at **18:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
