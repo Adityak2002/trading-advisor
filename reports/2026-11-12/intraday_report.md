@@ -1,24 +1,35 @@
 # 🤖 Gemini AI Insights
 
-Here is a quick, high-level summary of today's intraday trading scan:
+### 📊 Market Strategy Brief: 2026-11-12
 
-### 📈 Market Context
-* **Bullish Bias:** The broader watchlist shows positive momentum, with most stocks trading above their average intraday price. 
-* **Key Sectors Leading:** Financial and banking stocks (Bajaj Finance, HDFC Bank) are showing the strongest breakout momentum and heavy buyer interest.
+The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening range, the system is filtering for high-conviction volume surges before triggering entries.
 
----
+#### **Top Entry Candidates (Watchlist)**
+These stocks have broken their opening high and are showing strong momentum. Monitor for a sustained volume surge to trigger an entry:
+*   **BAJFINANCE.NS:** Strongest breakout candidate (2.8× volume).
+*   **HDFCBANK.NS:** High volume participation (3.8× volume), indicating institutional interest.
+*   **INFY.NS:** Highest momentum score (89.0), though volume is currently just below the 1.8× threshold.
 
-### 🎯 Top Candidates to Watch
-*(No trades triggered right now, but these show the strongest setups)*
+#### **Market Context**
+*   **Status:** Neutral/Consolidating. Most major indices are currently trading within their opening ranges.
+*   **Volume Filter:** The system is strictly enforcing the **1.8× average volume** rule to avoid "fake-out" breakouts.
+*   **Capital Allocation:** With a ₹5,000 budget, the strategy is limited to a maximum of 2 concurrent trades to protect against volatility.
 
-* **Bajaj Finance (`BAJFINANCE.NS`)** — **Highest Score (35.0/100)**  
-  * *Why:* Broke above its opening high (₹1,110.65 ➔ ₹1,
+#### **Critical Warnings & Rules**
+*   **Strict Exit:** All positions **must** be closed by **15:10 IST**. No exceptions.
+*   **Risk Cap:** Do not risk more than **₹100 per trade**. If the price hits the -0.4% stop loss, exit immediately.
+*   **No Averaging:** Never add to a losing position. If the trade goes against you, accept the loss and move on.
+*   **Profit Protection:** Once a trade hits +0.5% profit, move your stop loss to **breakeven** to protect your capital.
+
+***
+
+**Action Plan:** Keep the watchlist open. Only enter if the price holds above the opening high with a clear, visible spike in volume. If the volume remains low, stay on the sidelines.
 
 ---
 
 # 📈 Intraday Report — 2026-11-12
 
-> Auto-generated at **22:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
