@@ -1,17 +1,24 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of the automated trading report:
+Here is a quick, high-level summary of today's intraday trading scan:
+
+### 📈 Market Context
+* **Bullish Bias:** The broader watchlist shows positive momentum, with most stocks trading above their average intraday price. 
+* **Key Sectors Leading:** Financial and banking stocks (Bajaj Finance, HDFC Bank) are showing the strongest breakout momentum and heavy buyer interest.
 
 ---
 
-### 📈 Market Context
-* **Overall Sentiment:** **Strong Bullish Bias.** The majority
+### 🎯 Top Candidates to Watch
+*(No trades triggered right now, but these show the strongest setups)*
+
+* **Bajaj Finance (`BAJFINANCE.NS`)** — **Highest Score (35.0/100)**  
+  * *Why:* Broke above its opening high (₹1,110.65 ➔ ₹1,
 
 ---
 
 # 📈 Intraday Report — 2026-11-12
 
-> Auto-generated at **21:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
