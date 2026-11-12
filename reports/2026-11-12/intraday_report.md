@@ -1,18 +1,17 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level summary of the intraday trading report:
+Here is a high-level, actionable summary of the automated trading report:
 
 ---
 
-### 🌐 Market Context
-* **Bullish Momentum:** The market leans positive, with major banking, financial, and tech stocks trading above their average prices.
-* **Breakout Activity:** Heavyweights like **HDFC Bank** and **Bajaj Finance** breached their opening 15-minute highs accompanied by heavy
+### 📈 Market Context
+* **Overall Sentiment:** **Strong Bullish Bias.** The majority
 
 ---
 
 # 📈 Intraday Report — 2026-11-12
 
-> Auto-generated at **19:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:08 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
