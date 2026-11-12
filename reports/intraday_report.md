@@ -2,31 +2,33 @@
 
 ### 📊 Market Summary: 2026-11-12
 
-The market is showing strong bullish intent with several high-momentum stocks clearing their opening range. While the system is currently in a "wait-and-see" mode for new entries, the setup is primed for potential breakout trades.
+The market is showing strong bullish momentum with several key stocks clearing their opening price ranges. While the system is currently in a "wait-and-see" mode for new entries, the setup is primed for high-conviction breakouts.
 
 #### **Top Entry Candidates (Watchlist)**
-These stocks have cleared their opening high and show strong momentum:
-*   **BAJFINANCE.NS:** Strongest breakout candidate with a 2.8× volume surge.
-*   **HDFCBANK.NS:** High conviction breakout with a 3.8× volume surge.
-*   **SBIN.NS:** Solid breakout, though volume is slightly lower (1.7×).
-*   **INFY.NS:** Highest momentum score (89.0), currently trading above its opening high.
+These stocks have cleared their opening highs with strong momentum and are the primary focus for potential entries:
+*   **BAJFINANCE.NS:** Strongest breakout candidate with high volume (2.8×).
+*   **HDFCBANK.NS:** Significant volume surge (3.8×) indicates institutional interest.
+*   **INFY.NS:** Highest momentum score (89.0) despite a tighter volume surge.
+*   **SBIN.NS:** Solid breakout, though volume is slightly lower than the 1.8× threshold.
 
-#### **Critical Warnings & Rules**
-*   **No Active Positions:** The system is currently holding no trades. Do not force entries if the volume criteria (≥1.8× average) is not met.
-*   **Strict Risk Cap:** Limit losses to **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **Position Limit:** Never exceed **2 concurrent trades** to maintain focus and capital protection.
-*   **Mandatory Exit:** All positions must be closed by **15:10 IST**. Do not carry any trades overnight.
-*   **Trade Management:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
+#### **Critical Status & Warnings**
+*   **No Active Positions:** The system is currently flat; no trades are open.
+*   **Volume Discipline:** Do not enter trades unless the volume surge meets the **≥1.8× average** requirement.
+*   **Risk Cap:** Total risk is strictly limited to **₹100 per trade** (2% of your ₹5,000 capital).
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trade Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital safety.
 
-***
-
-**Action Plan:** Monitor **BAJFINANCE** and **HDFCBANK** closely. If they maintain their current momentum and volume, they represent the highest probability setups for the remainder of the session.
+#### **Action Plan**
+1.  **Monitor:** Keep a close watch on the "Stocks to Watch" list.
+2.  **Verify:** Ensure the volume surge is confirmed before triggering any buy orders.
+3.  **Execute:** If a breakout occurs, set your **1.2% profit target** and **0.4% stop loss** immediately.
+4.  **Manage:** Once a trade hits +0.5% profit, move the stop loss to breakeven to protect your capital.
 
 ---
 
 # 📈 Intraday Report — 2026-11-12
 
-> Auto-generated at **17:32 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:59 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
