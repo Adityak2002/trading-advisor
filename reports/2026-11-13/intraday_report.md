@@ -1,27 +1,17 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-13
+Here is a high-level summary of the intraday trading report:
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have tested their opening highs, the lack of sustained volume on most tickers suggests a "wait-and-see" approach.
+### 📌 Executive Summary
 
-#### 🚀 Top Entry Candidates
-*   **BAJFINANCE.NS:** The strongest candidate. It has broken above the opening high with a significant **2.7× volume surge**, indicating high conviction.
-*   **RELIANCE.NS:** Also showing a breakout above the opening high, though volume is currently lower than ideal (0.7×). Monitor for a volume pick-up before entry.
-*   **ICICIBANK.NS:** Currently trading inside the opening range but boasts the **highest momentum (95.3)**. Keep on high alert for a breakout trigger.
-
-#### ⚠️ Critical Warnings & Rules
-*   **No Active Entries:** Despite the breakouts, the system has not triggered an automated entry. Do not force trades; wait for the strategy's specific volume/price confirmation.
-*   **Strict Risk Cap:** You are limited to **₹100 risk per trade**. If a position hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. Do not carry any intraday trades overnight.
-*   **Position Limit:** Do not exceed **2 active trades** simultaneously to maintain focus and capital protection.
-
-**Action Plan:** Focus exclusively on **BAJFINANCE** and **RELIANCE** for potential long entries if they maintain their breakout levels. Ignore tickers currently breaking down (TCS, POWERGRID, ADANIENT) as they do not align with the long-only breakout strategy.
+#### **Market Context & Overview**
+* **Mixed Tone:** The market is split—
 
 ---
 
 # 📈 Intraday Report — 2026-11-13
 
-> Auto-generated at **17:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **18:17 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
