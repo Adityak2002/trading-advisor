@@ -1,30 +1,27 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s intraday report:
+### 📊 Market Summary & Action Plan
 
-### 📈 Market Context
-* **Cautious & Mixed Sentiment:** Out of 12 major stocks tracked, only **2 broke out upward**, while **4 broke down**, and **6 remained sideways** inside their opening ranges. 
-* **Capital Base:** ₹5,000 capital deployed using an Opening Range Breakout strategy.
+The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have tested their opening boundaries, the strict volume requirements for a high-probability breakout have not been met for most candidates.
 
----
+#### **Top Entry Candidates (Watchlist)**
+*   **BAJFINANCE.NS:** Currently the strongest candidate. It has broken the opening high with a significant volume surge (2.7×). Monitor for a sustained move above ₹1,117.
+*   **RELIANCE.NS:** Has cleared the opening high, but lacks the required volume surge (currently 0.7×). Wait for a volume spike before considering entry.
+*   **ICICIBANK.NS:** Showing high momentum (95.3). It is currently trading just above the opening high; keep on high alert for a breakout confirmation.
 
-### 🎯 Top Entry Candidates & Watchlist
-* **No Active Buy Signals Right Now:** No stocks currently meet *all* strict entry criteria (price breakout + strong volume).
-* **Top Stock to Watch:** 
-  * **BAJFINANCE:** Best positive setup. It broke above its opening high with strong momentum and high volume (2.7× average).
-* **Secondary Watch:**
-  * **RELIANCE:** Price broke upward with decent momentum, but volume remains too low (0.7× average) to justify an entry.
+#### **Critical Warnings & Risk Management**
+*   **No Active Trades:** The system currently holds no positions. Do not force entries; wait for the volume criteria (≥1.8× average) to be satisfied.
+*   **Strict Risk Cap:** Limit total exposure to **2 trades maximum**. Each trade must have a hard stop-loss at -0.4% (max loss of ₹100).
+*   **Exit Discipline:** All positions must be squared off by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move the stop-loss to breakeven immediately to protect capital.
 
----
-
-### ⚠️ Critical Risk & Exit Rules
-* **Strict Square
+**Bottom Line:** The market is "building a setup." Stay patient, prioritize volume confirmation, and strictly adhere to the 2-trade limit.
 
 ---
 
 # 📈 Intraday Report — 2026-11-13
 
-> Auto-generated at **20:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:26 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
