@@ -1,15 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level summary of the intraday trading report:
+Here is a high-level, actionable summary of today’s intraday report:
 
-### 🌐 Market Context
-* **Mixed/Selective Market:** Out of 12 monitored stocks, 2 broke out
+### 📈 Market Context
+* **Cautious & Mixed Sentiment:** Out of 12 major stocks tracked, only **2 broke out upward**, while **4 broke down**, and **6 remained sideways** inside their opening ranges. 
+* **Capital Base:** ₹5,000 capital deployed using an Opening Range Breakout strategy.
+
+---
+
+### 🎯 Top Entry Candidates & Watchlist
+* **No Active Buy Signals Right Now:** No stocks currently meet *all* strict entry criteria (price breakout + strong volume).
+* **Top Stock to Watch:** 
+  * **BAJFINANCE:** Best positive setup. It broke above its opening high with strong momentum and high volume (2.7× average).
+* **Secondary Watch:**
+  * **RELIANCE:** Price broke upward with decent momentum, but volume remains too low (0.7× average) to justify an entry.
+
+---
+
+### ⚠️ Critical Risk & Exit Rules
+* **Strict Square
 
 ---
 
 # 📈 Intraday Report — 2026-11-13
 
-> Auto-generated at **19:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:27 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
