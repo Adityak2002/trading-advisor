@@ -1,17 +1,15 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of the intraday trading report:
+Here is your high-level summary of the intraday trading report:
 
-### 📌 Executive Summary
-
-#### **Market Context & Overview**
-* **Mixed Tone:** The market is split—
+### 🌐 Market Context
+* **Mixed/Selective Market:** Out of 12 monitored stocks, 2 broke out
 
 ---
 
 # 📈 Intraday Report — 2026-11-13
 
-> Auto-generated at **18:17 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
