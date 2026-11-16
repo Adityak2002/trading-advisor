@@ -1,15 +1,29 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level summary of today’s intraday report:
+### 📊 Market Strategy Brief: 2026-11-16
 
-### 📈 Market Context
-* **Mixed Sentiment:** The market showed clear sector divergence. **Banking and Power
+The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have shown volatility, the strict volume-based entry criteria (≥1.8× average) have not yet been met for new long positions.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+Keep these on your radar for a potential breakout above the "Opening High":
+*   **HDFCBANK.NS:** Strongest momentum; already trading above the opening high with a 1.9× volume surge.
+*   **POWERGRID.NS:** High momentum (78.7) and significant volume (2.2×); currently testing the breakout level.
+*   **AXISBANK.NS:** High momentum (79.6); keep an eye on the ₹1,351.20 resistance level.
+
+#### ⚠️ Critical Warnings & Risk Rules
+*   **No Active Trades:** The system is currently in "wait-and-see" mode. Do not force entries.
+*   **Strict Risk Cap:** Limit losses to **₹100 per trade** (2% of your ₹5,000 capital).
+*   **Position Limit:** Never hold more than **2 trades simultaneously**.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
+
+**Analyst Note:** The market is showing mixed signals with several stocks breaking *down* (ADANIENT, TCS, INFY). Exercise patience; wait for the volume confirmation before pulling the trigger.
 
 ---
 
 # 📈 Intraday Report — 2026-11-16
 
-> Auto-generated at **19:58 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
