@@ -1,29 +1,34 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Strategy Brief: 2026-11-16
+### 📊 Market Summary: 2026-11-16
 
-The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have shown volatility, the strict volume-based entry criteria (≥1.8× average) have not yet been met for new long positions.
+The market is currently in a **consolidation phase** following the initial 15-minute opening range. While several stocks have shown volatility, the "Opening Price Breakout" strategy is currently in a **wait-and-see mode** as no stocks have triggered a valid entry signal based on your strict volume and price criteria.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-Keep these on your radar for a potential breakout above the "Opening High":
-*   **HDFCBANK.NS:** Strongest momentum; already trading above the opening high with a 1.9× volume surge.
-*   **POWERGRID.NS:** High momentum (78.7) and significant volume (2.2×); currently testing the breakout level.
-*   **AXISBANK.NS:** High momentum (79.6); keep an eye on the ₹1,351.20 resistance level.
+---
 
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Trades:** The system is currently in "wait-and-see" mode. Do not force entries.
-*   **Strict Risk Cap:** Limit losses to **₹100 per trade** (2% of your ₹5,000 capital).
-*   **Position Limit:** Never hold more than **2 trades simultaneously**.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks are showing the strongest momentum and are closest to triggering a buy signal:
 
-**Analyst Note:** The market is showing mixed signals with several stocks breaking *down* (ADANIENT, TCS, INFY). Exercise patience; wait for the volume confirmation before pulling the trigger.
+*   **HDFCBANK.NS:** Currently trading above the opening high (₹816.50 vs ₹808.60). Strong volume surge (1.9×). **Primary candidate for a breakout.**
+*   **POWERGRID.NS:** Strong momentum (78.7) and trading above the opening high (₹262.20 vs ₹257.25). High volume surge (2.2×).
+*   **AXISBANK.NS:** High momentum (79.6); keep a close eye for a move above the ₹1,351.20 resistance level.
+
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** Do not force entries. Wait for the price to decisively clear the opening high with the required volume surge.
+*   **Strict Risk Cap:** If you enter, your maximum loss per trade is **₹100**. Exit immediately if the -0.4% stop loss is hit.
+*   **Auto-Exit:** All positions must be closed by **15:10 IST**. Do not hold anything overnight.
+*   **Avoid "Broken Down" Stocks:** Stocks like **ADANIENT.NS, TCS.NS, and INFY.NS** have broken below their opening lows; avoid buying these as they are currently in a bearish trend.
+*   **Trade Limit:** Do not exceed **2 concurrent trades** to maintain focus and capital protection.
+
+***Disclaimer:** This is an automated report. Ensure your brokerage platform is ready to execute orders only when the specific breakout criteria are met.*
 
 ---
 
 # 📈 Intraday Report — 2026-11-16
 
-> Auto-generated at **22:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:30 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
