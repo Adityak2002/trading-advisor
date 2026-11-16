@@ -1,31 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-16
+Here is a high-level summary of today’s intraday report:
 
-The market is currently in a **"Wait and See"** phase. While several stocks have shown volatility, the Opening Price Breakout (OPB) strategy has not yet triggered a high-conviction entry.
-
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks are showing strong momentum and are positioned near their opening highs. Monitor these for a breakout above the "Opening High" price:
-
-*   **AXISBANK.NS:** Strongest momentum (79.6); currently trading just below the breakout level of ₹1,351.20.
-*   **RELIANCE.NS:** Solid momentum (75.3); watch for a move above ₹1,347.10.
-*   **POWERGRID.NS:** Already showing a breakout with high volume (2.2×); keep on radar for sustained strength.
-*   **HDFCBANK.NS:** High volume (1.9×) and trading above the opening range; monitor for continued upward pressure.
-
-#### ⚠️ Critical Warnings & Risk Rules
-*   **No Active Trades:** Do not force entries. Wait for the price to decisively break the opening high with volume.
-*   **Strict Risk Cap:** Limit losses to **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **Position Limit:** Do not hold more than **2 active trades** simultaneously.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. Do not carry any trades overnight.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
-
-**Bottom Line:** The market is active but hasn't provided a "green light" yet. Stay disciplined, wait for the volume-backed breakout, and prioritize capital preservation.
+### 📈 Market Context
+* **Mixed Sentiment:** The market showed clear sector divergence. **Banking and Power
 
 ---
 
 # 📈 Intraday Report — 2026-11-16
 
-> Auto-generated at **18:48 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:58 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
