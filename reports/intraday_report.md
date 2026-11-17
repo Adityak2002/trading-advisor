@@ -1,31 +1,36 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan
+### 📊 Market Summary: 2026-11-17
 
-The market is currently showing a **bullish bias** with several key stocks breaking above their opening range. However, despite the breakouts, the system has not triggered an entry because the "Action Score" remains conservative and volume confirmation is inconsistent across the board.
+The market is currently showing **bullish momentum** with several key stocks breaking above their opening ranges. However, despite the breakouts, the system has not triggered an entry because the volume confirmation (the "fuel" for the move) is missing for most candidates.
 
-#### 🚀 Top Entry Candidates
-*   **SBIN.NS:** The strongest candidate. It has cleared the opening high with a **2.7× volume surge**, indicating high conviction from buyers.
-*   **BAJFINANCE.NS:** A solid secondary candidate. It has broken the opening high with the required **1.8× volume surge**.
+---
 
-#### ⚠️ Critical Warnings & Observations
-*   **Volume Filter:** Stocks like *ADANIENT.NS* and *RELIANCE.NS* have broken their opening highs but lack the necessary volume surge (0.4× and 0.8× respectively). **Do not enter these**; they are prone to "fake-outs."
-*   **Capital Discipline:** You are capped at **2 trades maximum**. If you enter SBIN and BAJFINANCE, do not initiate any further positions.
-*   **Risk Control:** Your hard stop-loss is **-0.4%**. If a trade hits this, exit immediately—do not hope for a reversal.
-*   **The "Breakeven" Rule:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
+### 🚀 Top Entry Candidates
+*Watch these stocks closely for a volume surge to confirm the breakout:*
 
-#### 🛑 Final Checklist Before Execution
-1.  **Verify Volume:** Ensure the volume is still trending at ≥1.8× average at the exact moment of entry.
-2.  **Time Constraint:** Ensure you are well before the 15:10 IST auto-close window.
-3.  **Risk Cap:** Ensure your position size does not exceed the **₹100 loss limit** per trade.
+*   **SBIN.NS (₹1,108.60):** Strongest candidate. It has cleared the opening high with a massive **2.7× volume surge**. This is your primary watch.
+*   **BAJFINANCE.NS (₹1,121.10):** Solid breakout with **1.8× volume**. Meets the minimum criteria for a high-probability trade.
+*   **ADANIENT.NS (₹2,745.10):** High momentum (73.2), but currently lacks the necessary volume surge. Watch for a sudden spike in trading activity.
 
-**Bottom Line:** Focus exclusively on **SBIN** and **BAJFINANCE**. Ignore all other breakouts that lack the required volume confirmation.
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **No "Blind" Entries:** Even if a stock breaks the price level, **do not enter** unless the volume is at least 1.8× the average.
+*   **Strict Risk Cap:** You are risking only **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
+*   **The 15:10 Rule:** All positions must be closed by 15:10 IST. Do not hold anything overnight.
+*   **Over-trading:** Limit yourself to a maximum of **2 active trades** at any given time to maintain focus and capital safety.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to your entry price (breakeven) to protect your capital.
+
+---
+
+**Bottom Line:** The market is leaning positive, but wait for the **volume confirmation** before pulling the trigger. If the volume isn't there, the breakout is likely a "fake-out."
 
 ---
 
 # 📈 Intraday Report — 2026-11-17
 
-> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
