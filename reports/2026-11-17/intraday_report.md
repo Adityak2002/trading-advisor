@@ -1,28 +1,30 @@
 # 🤖 Gemini AI Insights
 
-### 📊 **Market Snapshot: Nov 17, 2026**
+Based on the intraday data for November 17, 2026, here is your high-level trading summary:
 
-The market is showing a **bullish bias** for heavyweights in the banking and finance sectors. Several key stocks successfully broke above their initial 15-minute "opening range," though only a few did so with the high trading volume required to confirm a high-probability move.
+### 📈 Market Context
+The market is showing a **split personality**. While the Banking and Finance sectors are showing strong bullish breakouts, the Technology sector (INFY, WIPRO) is "breaking down" (trading below its opening range). The overall sentiment for the watchlist is cautiously optimistic, but success depends entirely on volume confirmation.
 
----
+### 🚀 Top Entry Candidates
+These stocks have cleared their opening highs and show the best technical alignment:
 
-### 🚀 **Top Entry Candidates (High Conviction)**
-These stocks met the "Breakout" criteria AND the "Volume Surge" (≥1.8x) requirement:
+*   **SBIN.NS (State Bank of India):** **Top Pick.** It has broken out with a massive **2.7× volume surge** and is trading above its average price. This is the highest-quality signal on the board.
+*   **BAJFINANCE.NS:** **Strong Runner.** Shows a healthy **1.8× volume surge** and positive momentum. It has cleared its opening high of ₹1119.15.
+*   **ADANIENT.NS:** **High Momentum but Risky.** While the price is up significantly, the volume is very low (0.4×). This suggests the move might lack "fuel" and could reverse.
 
-*   **SBIN.NS (State Bank of India):** **Top Pick.** Price broke out with a massive **2.7x volume surge**. It is trading well above its average price with steady momentum.
-*   **BAJFINANCE.NS:** **Strong Runner.** Successfully broke out with exactly **1.8x volume**. Momentum is slightly higher than SBIN, making it a solid secondary choice.
+### ⚠️ Critical Warnings & Exits
+*   **The "Fakeout" Alert:** Avoid **ADANIENT** and **RELIANCE** for now. Despite being "Broken Out," their volume is below average (<1.0×), meaning the breakout lacks institutional backing.
+*   **The "No-Go" Zone:** **INFY, WIPRO, and TMPV** are in a "Broken Down" state. Do not attempt to buy these; they are currently showing bearish patterns.
+*   **Hard Exit Rule:** All trades **must be closed by 15:10 IST**. Do not hold any positions overnight, regardless of profit or loss.
+*   **Risk Ceiling:** Your maximum loss is capped at **₹100 per trade**. If a stock hits your stop loss, exit immediately—do not "wait for a recovery."
 
----
-
-### ⚠️ **Stocks to Avoid (Low Conviction)**
-*   **ADANIENT.NS:** Despite a price breakout and high momentum, the **volume is weak (0.4x)**. This suggests a "fake-out" where the price might collapse back down.
-*   **HDFCBANK.NS & TCS.NS:** These are "stuck" inside their opening range. No trade should be taken until they break the high or low levels
+**Pro Tip:** Focus only on **SBIN** and **BAJFINANCE**. They are the only two tickers currently meeting both the price breakout and the volume surge (≥1.8×) criteria.
 
 ---
 
 # 📈 Intraday Report — 2026-11-17
 
-> Auto-generated at **22:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:55 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
