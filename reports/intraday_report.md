@@ -1,36 +1,28 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-17
+### 📊 **Market Snapshot: Nov 17, 2026**
 
-The market is currently showing **bullish momentum** with several key stocks breaking above their opening ranges. However, despite the breakouts, the system has not triggered an entry because the volume confirmation (the "fuel" for the move) is missing for most candidates.
-
----
-
-### 🚀 Top Entry Candidates
-*Watch these stocks closely for a volume surge to confirm the breakout:*
-
-*   **SBIN.NS (₹1,108.60):** Strongest candidate. It has cleared the opening high with a massive **2.7× volume surge**. This is your primary watch.
-*   **BAJFINANCE.NS (₹1,121.10):** Solid breakout with **1.8× volume**. Meets the minimum criteria for a high-probability trade.
-*   **ADANIENT.NS (₹2,745.10):** High momentum (73.2), but currently lacks the necessary volume surge. Watch for a sudden spike in trading activity.
+The market is showing a **bullish bias** for heavyweights in the banking and finance sectors. Several key stocks successfully broke above their initial 15-minute "opening range," though only a few did so with the high trading volume required to confirm a high-probability move.
 
 ---
 
-### ⚠️ Critical Warnings & Rules
-*   **No "Blind" Entries:** Even if a stock breaks the price level, **do not enter** unless the volume is at least 1.8× the average.
-*   **Strict Risk Cap:** You are risking only **₹100 per trade**. If a trade hits the -0.4% stop loss, exit immediately—no exceptions.
-*   **The 15:10 Rule:** All positions must be closed by 15:10 IST. Do not hold anything overnight.
-*   **Over-trading:** Limit yourself to a maximum of **2 active trades** at any given time to maintain focus and capital safety.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to your entry price (breakeven) to protect your capital.
+### 🚀 **Top Entry Candidates (High Conviction)**
+These stocks met the "Breakout" criteria AND the "Volume Surge" (≥1.8x) requirement:
+
+*   **SBIN.NS (State Bank of India):** **Top Pick.** Price broke out with a massive **2.7x volume surge**. It is trading well above its average price with steady momentum.
+*   **BAJFINANCE.NS:** **Strong Runner.** Successfully broke out with exactly **1.8x volume**. Momentum is slightly higher than SBIN, making it a solid secondary choice.
 
 ---
 
-**Bottom Line:** The market is leaning positive, but wait for the **volume confirmation** before pulling the trigger. If the volume isn't there, the breakout is likely a "fake-out."
+### ⚠️ **Stocks to Avoid (Low Conviction)**
+*   **ADANIENT.NS:** Despite a price breakout and high momentum, the **volume is weak (0.4x)**. This suggests a "fake-out" where the price might collapse back down.
+*   **HDFCBANK.NS & TCS.NS:** These are "stuck" inside their opening range. No trade should be taken until they break the high or low levels
 
 ---
 
 # 📈 Intraday Report — 2026-11-17
 
-> Auto-generated at **20:49 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
