@@ -2,29 +2,30 @@
 
 ### 📊 Market Summary & Action Plan
 
-The market is currently showing a **bullish bias** with several key stocks breaking above their opening ranges. However, despite the breakouts, the system has not triggered an automated entry, likely due to strict volume or momentum filters.
+The market is currently showing a **bullish bias** with several key stocks breaking above their opening range. However, despite the breakouts, the system has not triggered an entry because the "Action Score" remains conservative and volume confirmation is inconsistent across the board.
 
-#### **Top Entry Candidates (Watchlist)**
-These stocks have cleared their opening highs and are showing the strongest potential for a breakout trade:
-*   **SBIN.NS:** Strongest volume profile (2.7× surge) and clear breakout.
-*   **BAJFINANCE.NS:** Solid momentum (53) with a clean breakout above the opening range.
-*   **ADANIENT.NS:** Highest momentum (73), though volume is currently lagging; keep a close eye for a late-day surge.
+#### 🚀 Top Entry Candidates
+*   **SBIN.NS:** The strongest candidate. It has cleared the opening high with a **2.7× volume surge**, indicating high conviction from buyers.
+*   **BAJFINANCE.NS:** A solid secondary candidate. It has broken the opening high with the required **1.8× volume surge**.
 
-#### **Critical Warnings & Risk Management**
-*   **No "Blind" Entries:** Even though stocks have broken out, the system requires a specific volume surge (≥1.8×) to confirm the move. Do not chase if volume is low.
-*   **Strict Risk Cap:** You are limited to a **maximum of 2 concurrent trades**. Do not over-leverage.
-*   **Hard Stop-Loss:** If a trade is entered, the stop-loss is non-negotiable at **-0.4%**. Exit immediately if hit.
-*   **The 15:10 Rule:** All positions **must** be closed by 15:10 IST. No exceptions for overnight holding.
-*   **Profit Protection:** Once a trade hits +0.5% profit, move your stop-loss to breakeven to protect your capital.
+#### ⚠️ Critical Warnings & Observations
+*   **Volume Filter:** Stocks like *ADANIENT.NS* and *RELIANCE.NS* have broken their opening highs but lack the necessary volume surge (0.4× and 0.8× respectively). **Do not enter these**; they are prone to "fake-outs."
+*   **Capital Discipline:** You are capped at **2 trades maximum**. If you enter SBIN and BAJFINANCE, do not initiate any further positions.
+*   **Risk Control:** Your hard stop-loss is **-0.4%**. If a trade hits this, exit immediately—do not hope for a reversal.
+*   **The "Breakeven" Rule:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
 
----
-**Analyst Note:** The market is currently in a "wait-and-see" phase for your specific strategy. Focus on **SBIN** and **BAJFINANCE** as they currently meet the most criteria for a high-probability entry.
+#### 🛑 Final Checklist Before Execution
+1.  **Verify Volume:** Ensure the volume is still trending at ≥1.8× average at the exact moment of entry.
+2.  **Time Constraint:** Ensure you are well before the 15:10 IST auto-close window.
+3.  **Risk Cap:** Ensure your position size does not exceed the **₹100 loss limit** per trade.
+
+**Bottom Line:** Focus exclusively on **SBIN** and **BAJFINANCE**. Ignore all other breakouts that lack the required volume confirmation.
 
 ---
 
 # 📈 Intraday Report — 2026-11-17
 
-> Auto-generated at **18:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
