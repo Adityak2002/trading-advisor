@@ -1,12 +1,27 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Market Summary: 2026-11-18
+
+The market is currently exhibiting a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak, and volume surges are concentrated on the downside, suggesting selling pressure.
+
+#### 🚀 Top Entry Candidates (Watchlist)
+*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a significant **2.6× volume surge**. It is the only stock currently meeting all criteria for a long entry.
+*   **POWERGRID.NS:** Currently trading above its opening high, but lacks the required volume confirmation (0.7×). Monitor for a sudden spike in buying interest.
+*   **ICICIBANK.NS:** Still consolidating within its opening range. Keep on the radar for a potential breakout if momentum shifts.
+
+#### ⚠️ Critical Warnings & Risk Management
+*   **Bearish Trend:** Most stocks (TCS, HDFCBANK, AXISBANK) are showing strong volume on the downside. **Do not force long trades** if the broader market sentiment remains negative.
+*   **Strict Discipline:** 
+    *   **Max 2 trades:** Do not over-leverage.
+    *   **Hard Stop:** Exit immediately if the price hits the -0.4% stop loss.
+    *   **No Overnight:** All positions must be closed by **15:10 IST**.
+*   **Actionable Advice:** Focus exclusively on **SBIN.NS** for a long setup. If the volume on POWERGRID or ICICIBANK does not materialize, stay in cash. **Avoid all stocks currently breaking below their opening lows.**
 
 ---
 
 # 📈 Intraday Report — 2026-11-18
 
-> Auto-generated at **21:30 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
