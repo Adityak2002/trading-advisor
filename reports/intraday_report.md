@@ -2,25 +2,27 @@
 
 ### 📊 Market Summary: 2026-11-18
 
-The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak, and volume surges are concentrated in stocks trending downward, suggesting a lack of buying conviction.
+The market is currently showing a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak across the board, suggesting a cautious approach for any long-side strategies.
 
-#### 🎯 Top Entry Candidates
-*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a **2.6× volume surge**. It is the only stock currently meeting all criteria for a long position.
-*   **POWERGRID.NS:** Currently trading above its opening high, but lacks the required volume confirmation (0.7×). Monitor for a sudden volume spike before considering entry.
+#### 🚀 Top Entry Candidates
+*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a significant **2.6× volume surge**. It is the only stock currently meeting all criteria for a long entry.
+*   **POWERGRID.NS:** Also broke above its opening high, but lacks the necessary volume confirmation (only 0.7×). Monitor for a volume spike before considering entry.
 
-#### ⚠️ Critical Warnings & Exits
-*   **Bearish Trend:** Most stocks (TCS, HDFCBANK, AXISBANK) are showing significant downward pressure with high volume. **Avoid "catching falling knives"** in these tickers.
-*   **Strict Discipline:** 
-    *   **No active buy signals** exist beyond SBIN; do not force trades.
-    *   **Risk Cap:** Ensure your stop loss is set to limit losses to **₹100 per trade**.
-    *   **Exit Protocol:** All positions must be squared off by **15:10 IST**. Do not hold any positions overnight.
-*   **Strategy Note:** The "Opening Price Breakout" strategy requires both price action *and* volume confirmation. If the volume isn't there, the breakout is likely a "fake-out."
+#### ⚠️ Critical Warnings & Status
+*   **No Active Trades:** Despite the breakout in SBIN, the system reports no active entries. Ensure your execution platform is synced if you intend to trade the SBIN breakout.
+*   **Bearish Trend:** Most stocks (TCS, HDFCBANK, AXISBANK) are breaking down with high volume. **Do not force long trades** in a market that is clearly trending downward.
+*   **Risk Management:** 
+    *   Strictly adhere to the **₹100 max loss per trade**.
+    *   If you enter SBIN, ensure your stop loss is set at **-0.4%** immediately.
+    *   **Auto-close at 15:10 IST** is mandatory; do not hold these positions overnight under any circumstances.
+
+**Action Plan:** Focus exclusively on **SBIN.NS** if the momentum holds. Ignore the rest of the watchlist until the broader market sentiment shifts back to bullish.
 
 ---
 
 # 📈 Intraday Report — 2026-11-18
 
-> Auto-generated at **19:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
