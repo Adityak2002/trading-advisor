@@ -1,34 +1,52 @@
 # 🤖 Gemini AI Insights
 
-AI Summary unavailable (All Gemini models failed).
+### 📊 Trading Summary: 2026-11-18
+
+The market is currently in a **"Wait and Watch"** phase. With a bearish sentiment and all potential candidates currently overextended, capital preservation is the priority.
+
+#### 🌍 Market Context
+*   **Sentiment:** 🔴 **Bearish.** Global cues (S&P 500, NASDAQ) and domestic indices are trending downward.
+*   **Strategy Status:** 100% Cash. No active positions.
+*   **Key Headwind:** High RSI levels across the board indicate stocks are "overbought," making them poor candidates for a pullback strategy right now.
+
+#### 🎯 Entry Candidates
+*   **Status:** **None.** 
+*   **Why:** Every stock on the watchlist is currently trading too far above its 21-day moving average (EMA21) and has an RSI significantly higher than the target range (42–55). 
+*   **Action:** Do not initiate new positions. Wait for a price correction to bring these stocks back toward their moving averages.
+
+#### ⚠️ Critical Warnings & Strategy Notes
+*   **Avoid "FOMO" Buying:** Stocks like *Reliance, ICICI Bank,* and *HDFC Bank* are showing high momentum but are technically overextended. Buying now carries a high risk of a sharp correction.
+*   **Capital Protection:** With the Nifty down 0.63% and negative overnight global cues, the risk of a "gap down" opening tomorrow is elevated. Keep your ₹10,000 in cash until the RSI cools down.
+*   **Performance Check:** The strategy is currently 0-1 (100% loss rate on closed trades). Use this period of inactivity to refine entry criteria rather than forcing a trade.
+
+**Bottom Line:** The market is currently "too hot" for this strategy. **Stay in cash.**
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-18
-> *Auto-generated at 00:25 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 18:00 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
+**Overall Signal:** 🔴 Bearish — Avoid new entries; protect open positions
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,291.10 | 📈 +0.58% |
-| India VIX | 15.68 | 📈 +1.16% |
-| S&P 500 (overnight) | 7,326.70 | 📉 -1.21% |
-| NASDAQ | 24,223.01 | 📉 -1.17% |
-| WTI Crude Oil | $86.48 | 📈 +0.89% |
-| USD / INR | 93.4600 | 📉 -0.83% |
+| Nifty 50 | 25,227.95 | 📉 -0.63% |
+| India VIX | 15.52 | 📈 +0.00% |
+| S&P 500 (overnight) | 7,340.53 | 📉 -1.03% |
+| NASDAQ | 24,328.38 | 📉 -0.74% |
+| WTI Crude Oil | $84.01 | 📉 -2.33% |
+| USD / INR | 93.4400 | 📉 -0.56% |
 
 **Key Factors:**
-- VIX 15.7 — Moderate 🟡 (70% sizing)
-- S&P 500 -1.21% — Negative overnight cues 📉
-- NASDAQ -1.17% — Tech bearish
-- Nifty +0.58% — Domestic market bullish
-- WTI Crude $86.48 (+0.89%) — Neutral for OILIETF
-- USD/INR 93.46 (-0.826%) — Dollar weakening → intl ETFs headwind
+- VIX 15.5 — Moderate 🟡 (70% sizing)
+- S&P 500 -1.03% — Negative overnight cues 📉
+- Nifty -0.63% — Domestic market bearish
+- WTI Crude $84.01 (-2.33%) — Bearish for OILIETF 📉
+- USD/INR 93.44 (-0.557%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -57,16 +75,16 @@ AI Summary unavailable (All Gemini models failed).
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | 15.0 | RSI=80 (need 42–55) · Price +5.4% from EMA21 (need ±4%) · Score=15 (need ≥50) |
-| ICICIBANK.NS | 2.5 | RSI=80 (need 42–55) · Price +7.3% from EMA21 (need ±4%) · Score=2 (need ≥50) |
-| HDFCBANK.NS | 2.5 | RSI=89 (need 42–55) · Price +8.5% from EMA21 (need ±4%) · Score=2 (need ≥50) |
+| RELIANCE.NS | 20.0 | RSI=97 (need 42–55) · Price +5.6% from EMA21 (need ±4%) · Score=20 (need ≥50) |
+| ICICIBANK.NS | 14.0 | RSI=88 (need 42–55) · Price +6.9% from EMA21 (need ±4%) · Score=14 (need ≥50) |
+| HDFCBANK.NS | 14.0 | RSI=88 (need 42–55) · Price +5.9% from EMA21 (need ±4%) · Score=14 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| TITAN.NS | 21.0 | RSI=80 (need 42–55) · Price +4.3% from EMA21 (need ±4%) · Score=21 (need ≥50) |
-| PIDILITIND.NS | 19.5 | RSI=59 (need 42–55) · EMA21 < EMA50 · Score=20 (need ≥50) |
-| CDSL.NS | 8.5 | RSI=84 (need 42–55) · Price +7.3% from EMA21 (need ±4%) · Score=8 (need ≥50) |
+| ANGELONE.NS | 23.0 | RSI=75 (need 42–55) · Price +5.2% from EMA21 (need ±4%) · Score=23 (need ≥50) |
+| CDSL.NS | 20.0 | RSI=77 (need 42–55) · Price +4.8% from EMA21 (need ±4%) · Score=20 (need ≥50) |
+| BAJFINANCE.NS | 20.0 | RSI=80 (need 42–55) · Price +5.2% from EMA21 (need ±4%) · Score=20 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -78,17 +96,17 @@ AI Summary unavailable (All Gemini models failed).
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | TITAN.NS | 21.0 | 80 | 🟢 | — | -0.1 | ⏸ Skip |
-| 2 | PIDILITIND.NS | 19.5 | 59 | 🔴 | ✅ | 0.3 | ⏸ Skip |
-| 3 | RELIANCE.NS | 15.0 | 80 | 🟢 | — | -0.8 | ⏸ Skip |
-| 4 | CDSL.NS | 8.5 | 84 | 🟢 | — | -0.1 | ⏸ Skip |
-| 5 | BAJFINANCE.NS | 8.5 | 86 | 🟢 | — | -0.3 | ⏸ Skip |
-| 6 | ANGELONE.NS | 8.5 | 86 | 🟢 | — | 0.1 | ⏸ Skip |
-| 7 | ICICIBANK.NS | 2.5 | 80 | 🟢 | — | -0.8 | ⏸ Skip |
-| 8 | HDFCBANK.NS | 2.5 | 89 | 🟢 | — | -0.7 | ⏸ Skip |
-| 9 | HAVELLS.NS | -15.0 | 87 | 🔴 | — | -0.1 | ⏸ Skip |
-| 10 | POLYCAB.NS | -64.5 | 60 | 🔴 | — | -1.1 | ⏸ Skip |
-| 11 | KEI.NS | -64.5 | 58 | 🔴 | — | -0.6 | ⏸ Skip |
+| 1 | ANGELONE.NS | 23.0 | 75 | 🟢 | — | 1.1 | ⏸ Skip |
+| 2 | RELIANCE.NS | 20.0 | 97 | 🟢 | — | -0.2 | ⏸ Skip |
+| 3 | CDSL.NS | 20.0 | 77 | 🟢 | — | 0.4 | ⏸ Skip |
+| 4 | BAJFINANCE.NS | 20.0 | 80 | 🟢 | — | -0.2 | ⏸ Skip |
+| 5 | ICICIBANK.NS | 14.0 | 88 | 🟢 | — | -0.6 | ⏸ Skip |
+| 6 | HDFCBANK.NS | 14.0 | 88 | 🟢 | — | -1.0 | ⏸ Skip |
+| 7 | PIDILITIND.NS | 6.5 | 73 | 🔴 | ✅ | -0.5 | ⏸ Skip |
+| 8 | HAVELLS.NS | -3.5 | 74 | 🔴 | ✅ | -0.2 | ⏸ Skip |
+| 9 | TITAN.NS | -15.5 | 63 | 🟢 | — | 0.4 | ⏸ Skip |
+| 10 | KEI.NS | -41.5 | 44 | 🔴 | — | -0.1 | ⏸ Skip |
+| 11 | POLYCAB.NS | -80.5 | 39 | 🔴 | — | 3.2 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -105,6 +123,6 @@ AI Summary unavailable (All Gemini models failed).
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-18 00:25 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-18 18:00 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
