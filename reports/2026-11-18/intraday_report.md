@@ -2,28 +2,25 @@
 
 ### 📊 Market Summary: 2026-11-18
 
-The market is currently showing a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Despite the downward pressure, a few select stocks are showing resilience and potential for a reversal.
+The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak, and volume surges are concentrated in stocks trending downward, suggesting a lack of buying conviction.
 
-#### 🚀 Top Entry Candidates
-*   **SBIN.NS (State Bank of India):** The strongest candidate. It has successfully broken above its opening high with a significant volume surge (2.6×), indicating strong buying interest.
-*   **POWERGRID.NS:** Currently trading above its opening high. While volume is lower than ideal, it remains a secondary candidate if momentum sustains.
-*   **ICICIBANK.NS:** Currently consolidating inside its opening range. Keep this on your radar for a potential breakout if it clears the ₹1,610 resistance level.
+#### 🎯 Top Entry Candidates
+*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a **2.6× volume surge**. It is the only stock currently meeting all criteria for a long position.
+*   **POWERGRID.NS:** Currently trading above its opening high, but lacks the required volume confirmation (0.7×). Monitor for a sudden volume spike before considering entry.
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **Bearish Trend:** Most tracked stocks (TCS, HDFCBANK, INFY, etc.) have broken down with high volume. **Do not force long positions** if the broader market sentiment remains weak.
+#### ⚠️ Critical Warnings & Exits
+*   **Bearish Trend:** Most stocks (TCS, HDFCBANK, AXISBANK) are showing significant downward pressure with high volume. **Avoid "catching falling knives"** in these tickers.
 *   **Strict Discipline:** 
-    *   **Max Loss:** Limit loss to ₹100 per trade.
-    *   **No Overtrading:** Stick to a maximum of 2 active positions.
-    *   **Auto-Exit:** Ensure all positions are closed by **15:10 IST** to avoid overnight volatility.
-*   **Trailing Stop:** If a trade hits +0.5% profit, move your stop loss to breakeven immediately to protect your capital.
-
-**Bottom Line:** The market is leaning red. Focus exclusively on **SBIN.NS** if you are looking for long entries, and avoid catching falling knives in the stocks that have already broken down.
+    *   **No active buy signals** exist beyond SBIN; do not force trades.
+    *   **Risk Cap:** Ensure your stop loss is set to limit losses to **₹100 per trade**.
+    *   **Exit Protocol:** All positions must be squared off by **15:10 IST**. Do not hold any positions overnight.
+*   **Strategy Note:** The "Opening Price Breakout" strategy requires both price action *and* volume confirmation. If the volume isn't there, the breakout is likely a "fake-out."
 
 ---
 
 # 📈 Intraday Report — 2026-11-18
 
-> Auto-generated at **18:01 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
