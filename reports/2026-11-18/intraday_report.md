@@ -2,26 +2,27 @@
 
 ### 📊 Market Summary: 2026-11-18
 
-The market is currently exhibiting a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak, and volume surges are concentrated on the downside, suggesting selling pressure.
+The market is currently showing a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak across the board, suggesting a cautious approach for any long-side strategies.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a significant **2.6× volume surge**. It is the only stock currently meeting all criteria for a long entry.
-*   **POWERGRID.NS:** Currently trading above its opening high, but lacks the required volume confirmation (0.7×). Monitor for a sudden spike in buying interest.
-*   **ICICIBANK.NS:** Still consolidating within its opening range. Keep on the radar for a potential breakout if momentum shifts.
+#### 🚀 Top Entry Candidates
+*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a significant **2.6× volume surge**, signaling strong buyer conviction.
+*   **POWERGRID.NS:** Currently trading above its opening high, though volume remains below the required threshold. Monitor for a late-session volume spike.
 
 #### ⚠️ Critical Warnings & Risk Management
-*   **Bearish Trend:** Most stocks (TCS, HDFCBANK, AXISBANK) are showing strong volume on the downside. **Do not force long trades** if the broader market sentiment remains negative.
+*   **Bearish Trend:** Most tracked stocks (TCS, HDFCBANK, INFOSYS) are breaking down. Avoid "catching falling knives"—do not force long entries if the broader market sentiment remains negative.
 *   **Strict Discipline:** 
-    *   **Max 2 trades:** Do not over-leverage.
-    *   **Hard Stop:** Exit immediately if the price hits the -0.4% stop loss.
-    *   **No Overnight:** All positions must be closed by **15:10 IST**.
-*   **Actionable Advice:** Focus exclusively on **SBIN.NS** for a long setup. If the volume on POWERGRID or ICICIBANK does not materialize, stay in cash. **Avoid all stocks currently breaking below their opening lows.**
+    *   **Max Loss:** Limit loss to **₹100 per trade** (2% of your ₹5,000 capital).
+    *   **No Overtrading:** Stick to a maximum of **2 concurrent positions**.
+    *   **Auto-Exit:** Ensure all positions are closed by **15:10 IST** to eliminate overnight gap risk.
+*   **Trailing Stop:** If a trade moves in your favor, lock in gains by moving your stop-loss to breakeven once you hit **+0.5% profit**.
+
+**Action Plan:** Focus exclusively on **SBIN.NS** if it sustains its current momentum. If the broader market continues to break down, remain in cash and wait for tomorrow’s session.
 
 ---
 
 # 📈 Intraday Report — 2026-11-18
 
-> Auto-generated at **22:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:19 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
