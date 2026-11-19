@@ -1,28 +1,31 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary & Action Plan
+### 📊 Market Summary: 2026-11-19
 
-The market is showing strong bullish sentiment with multiple stocks breaking above their opening ranges. However, despite the breakouts, the system has **not triggered any entries** because the volume surge criteria (≥1.8× average) has not been met for the majority of candidates.
+The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the lack of high-conviction volume across the board suggests a cautious start.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-*   **ICICIBANK.NS:** The strongest candidate. It has already cleared the opening high with a **2.3× volume surge**, making it the primary focus for a momentum entry.
-*   **SBIN.NS:** Showing solid momentum (67.7) and a healthy volume surge (1.6×). Keep this on high alert for a potential entry if volume picks up slightly.
-*   **TMPV.NS:** Currently trading above its opening high with moderate volume (1.2×).
+#### 🚀 Top Entry Candidates
+*Focus on these tickers if they maintain momentum and volume holds:*
+*   **ICICIBANK.NS:** The strongest candidate. It is the only stock showing a **significant volume surge (2.3×)** alongside the breakout, confirming institutional interest.
+*   **SBIN.NS:** Showing solid momentum (67.7) and a healthy volume profile (1.6×). Keep this on your primary radar.
+*   **HDFCBANK.NS & TMPV.NS:** Secondary candidates. They have broken out but require a sharper increase in volume to confirm the move is sustainable.
 
-#### ⚠️ Critical Warnings & Rules
-*   **Volume is King:** Do not force a trade. The strategy strictly requires a **1.8× volume surge** to confirm the breakout. If the volume isn't there, the breakout is likely a "fake-out."
-*   **Risk Cap:** You are limited to a maximum of **2 active trades**. Do not over-leverage.
-*   **Hard Stop Loss:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit—never "hope" for a recovery.
-*   **The 15:10 Rule:** Regardless of profit or loss, all positions **must be closed by 15:10 IST**. No exceptions.
-*   **Trailing Stop:** Once a trade hits **+0.5% profit**, move your stop loss to breakeven to protect your capital.
+#### ⚠️ Critical Warnings & Risk Management
+*   **Volume is King:** Do not enter a trade based on price alone. The strategy requires a **≥1.8× volume surge** to validate the breakout. If the volume isn't there, stay sidelined.
+*   **Strict Exposure:** Limit yourself to a maximum of **2 active trades**. Do not chase the entire watchlist.
+*   **Hard Stop-Loss:** Your risk is capped at **₹100 per trade**. If the price hits your -0.4% stop-loss, exit immediately—no exceptions.
+*   **The "No-Go" Zone:** Avoid **TCS.NS** and **BAJFINANCE.NS** for now; they are trading below their average price and failing to show breakout strength.
+*   **EOD Discipline:** All positions must be squared off by **15:10 IST**. Do not carry any intraday trades into the next session.
 
-**Bottom Line:** The market is active, but the "smart money" volume confirmation is currently only present in **ICICIBANK**. Stay disciplined and wait for the volume trigger before clicking "Buy."
+***
+
+**Action Plan:** Monitor **ICICIBANK.NS** and **SBIN.NS** for the next volume spike. If volume remains stagnant, preserve your capital and wait for a clearer trend.
 
 ---
 
 # 📈 Intraday Report — 2026-11-19
 
-> Auto-generated at **21:37 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
