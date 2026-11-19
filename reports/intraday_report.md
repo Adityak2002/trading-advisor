@@ -1,28 +1,35 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-18
-
-The market is currently showing a **bearish bias**, with the majority of the watchlist breaking below their opening ranges. Momentum is generally weak across the board, suggesting a cautious approach for any long-side strategies.
-
-#### 🚀 Top Entry Candidates
-*   **SBIN.NS:** The strongest candidate. It has successfully broken above its opening high with a significant **2.6× volume surge**, signaling strong buyer conviction.
-*   **POWERGRID.NS:** Currently trading above its opening high, though volume remains below the required threshold. Monitor for a late-session volume spike.
-
-#### ⚠️ Critical Warnings & Risk Management
-*   **Bearish Trend:** Most tracked stocks (TCS, HDFCBANK, INFOSYS) are breaking down. Avoid "catching falling knives"—do not force long entries if the broader market sentiment remains negative.
-*   **Strict Discipline:** 
-    *   **Max Loss:** Limit loss to **₹100 per trade** (2% of your ₹5,000 capital).
-    *   **No Overtrading:** Stick to a maximum of **2 concurrent positions**.
-    *   **Auto-Exit:** Ensure all positions are closed by **15:10 IST** to eliminate overnight gap risk.
-*   **Trailing Stop:** If a trade moves in your favor, lock in gains by moving your stop-loss to breakeven once you hit **+0.5% profit**.
-
-**Action Plan:** Focus exclusively on **SBIN.NS** if it sustains its current momentum. If the broader market continues to break down, remain in cash and wait for tomorrow’s session.
+### 📈 **Market Snapshot: Nov 19, 2026**
+The market is showing a strong **bullish bias** among heavyweights. Most top-tier stocks have broken above their 15-minute opening ranges; however, price movement is currently outstripping trading volume, suggesting some "fakeout" risk for weaker stocks.
 
 ---
 
-# 📈 Intraday Report — 2026-11-18
+### 🚀 **Top Entry Candidate**
+Based on the strategy's strict criteria (Price Breakout + Volume Surge), only one stock stands out as a high-probability trade:
 
-> Auto-generated at **23:19 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+*   **ICICIBANK.NS**
+    *   **Status:** Confirmed Breakout.
+    *   **Why:** It is the only ticker meeting the volume requirement (**2.3x surge** vs. the 1.8x threshold).
+    *   **Action:** Strongest momentum with a healthy "Action Score" compared to the rest of the field.
+
+---
+
+### ⚠️ **Critical Warnings & Observations**
+*   **Volume Trap:** Stocks like **RELIANCE**, **AXISBANK**, and **POWERGRID** have broken their price ceilings but have **very low volume (0.5x – 0.6x)**. Avoid these; the breakout lacks the "fuel" to sustain a move.
+*   **Wait and Watch:** **WIPRO** and **INFY** are currently "Inside Range." Do not touch these until they clear their opening highs with a significant volume spike.
+*   **The "No-Go" Zone:** **TCS** and **BAJFINANCE** are trading below their average prices. These are showing weakness and should be ignored for buy signals today.
+
+---
+
+### 🛡️ **Risk Management Checklist**
+*   **Max
+
+---
+
+# 📈 Intraday Report — 2026-11-19
+
+> Auto-generated at **17:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -39,18 +46,18 @@ The market is currently showing a **bearish bias**, with the majority of the wat
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **SBIN.NS** | ₹1,135.00 | 🔼 Broken Out 🔼 | 32.7/100 | 63 | ✅ Yes | 2.6× | — |
-| **POWERGRID.NS** | ₹259.10 | 🔼 Broken Out 🔼 | 19.7/100 | 56 | ✅ Yes | 0.7× | — |
-| **ICICIBANK.NS** | ₹1,601.30 | ▶ Inside Range ▶ | 3.1/100 | 62 | ✅ Yes | — | — |
-| **RELIANCE.NS** | ₹1,363.00 | ▶ Inside Range ▶ | -4.1/100 | 42 | ❌ No | — | — |
-| **AXISBANK.NS** | ₹1,360.00 | 🔽 Broken Down 🔽 | -9.0/100 | 42 | ❌ No | 2.1× | — |
-| **ADANIENT.NS** | ₹2,684.20 | 🔽 Broken Down 🔽 | -9.0/100 | 40 | ❌ No | 2.2× | — |
-| **TCS.NS** | ₹2,379.50 | 🔽 Broken Down 🔽 | -10.6/100 | 38 | ❌ No | 8.7× | — |
-| **HDFCBANK.NS** | ₹808.15 | 🔽 Broken Down 🔽 | -15.6/100 | 39 | ❌ No | 1.9× | — |
-| **INFY.NS** | ₹1,108.80 | 🔽 Broken Down 🔽 | -19.2/100 | 40 | ❌ No | 1.4× | — |
-| **TMPV.NS** | ₹252.55 | 🔽 Broken Down 🔽 | -19.2/100 | 44 | ❌ No | 1.7× | — |
-| **BAJFINANCE.NS** | ₹1,093.85 | 🔽 Broken Down 🔽 | -20.0/100 | 44 | ❌ No | 0.8× | — |
-| **WIPRO.NS** | ₹185.14 | 🔽 Broken Down 🔽 | -26.8/100 | 27 | ❌ No | 0.9× | — |
+| **ICICIBANK.NS** | ₹1,608.90 | 🔼 Broken Out 🔼 | 30.9/100 | 59 | ✅ Yes | 2.3× | — |
+| **TMPV.NS** | ₹263.50 | 🔼 Broken Out 🔼 | 26.3/100 | 65 | ✅ Yes | 1.2× | — |
+| **SBIN.NS** | ₹1,156.00 | 🔼 Broken Out 🔼 | 25.7/100 | 68 | ✅ Yes | 1.6× | — |
+| **HDFCBANK.NS** | ₹821.80 | 🔼 Broken Out 🔼 | 25.5/100 | 66 | ✅ Yes | 1.1× | — |
+| **RELIANCE.NS** | ₹1,375.60 | 🔼 Broken Out 🔼 | 21.7/100 | 60 | ✅ Yes | 0.5× | — |
+| **AXISBANK.NS** | ₹1,380.80 | 🔼 Broken Out 🔼 | 19.1/100 | 75 | ✅ Yes | 0.6× | — |
+| **POWERGRID.NS** | ₹264.50 | 🔼 Broken Out 🔼 | 19.0/100 | 74 | ✅ Yes | 0.5× | — |
+| **WIPRO.NS** | ₹183.93 | ▶ Inside Range ▶ | 13.0/100 | 53 | ✅ Yes | — | — |
+| **ADANIENT.NS** | ₹2,703.10 | ▶ Inside Range ▶ | 8.9/100 | 46 | ✅ Yes | — | — |
+| **INFY.NS** | ₹1,091.90 | ▶ Inside Range ▶ | 6.2/100 | 76 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,342.70 | ▶ Inside Range ▶ | -2.5/100 | 52 | ❌ No | — | — |
+| **BAJFINANCE.NS** | ₹1,092.85 | ▶ Inside Range ▶ | -2.6/100 | 40 | ❌ No | — | — |
 
 ---
 
@@ -64,10 +71,12 @@ The market is currently showing a **bearish bias**, with the majority of the wat
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| SBIN.NS | ₹1,135.00 | ₹1118.10 | ₹1108.90 | 63.1 | 🟢 Yes |
-| POWERGRID.NS | ₹259.10 | ₹258.25 | ₹256.60 | 55.9 | 🟢 Yes |
-| ICICIBANK.NS | ₹1,601.30 | ₹1610.00 | ₹1601.60 | 62.1 | 🟢 Yes |
-| RELIANCE.NS | ₹1,363.00 | ₹1372.30 | ₹1361.00 | 41.8 | 🔴 No |
+| ICICIBANK.NS | ₹1,608.90 | ₹1602.00 | ₹1589.40 | 59.3 | 🟢 Yes |
+| TMPV.NS | ₹263.50 | ₹255.55 | ₹251.95 | 65.1 | 🟢 Yes |
+| SBIN.NS | ₹1,156.00 | ₹1150.55 | ₹1141.40 | 67.7 | 🟢 Yes |
+| HDFCBANK.NS | ₹821.80 | ₹809.30 | ₹804.20 | 66.4 | 🟢 Yes |
+| RELIANCE.NS | ₹1,375.60 | ₹1366.70 | ₹1355.20 | 60.3 | 🟢 Yes |
+| AXISBANK.NS | ₹1,380.80 | ₹1367.30 | ₹1358.10 | 74.8 | 🟢 Yes |
 
 ---
 
