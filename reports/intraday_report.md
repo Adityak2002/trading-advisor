@@ -2,30 +2,35 @@
 
 ### 📊 Market Summary: 2026-11-19
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically broken above their opening range, the lack of high-conviction volume across the board suggests a cautious start.
+The market is showing strong bullish sentiment with most major tickers trading above their opening ranges. However, despite the positive price action, **no stocks currently meet the strict volume criteria** required to trigger an automated buy signal.
 
-#### 🚀 Top Entry Candidates
-*Focus on these tickers if they maintain momentum and volume holds:*
-*   **ICICIBANK.NS:** The strongest candidate. It is the only stock showing a **significant volume surge (2.3×)** alongside the breakout, confirming institutional interest.
-*   **SBIN.NS:** Showing solid momentum (67.7) and a healthy volume profile (1.6×). Keep this on your primary radar.
-*   **HDFCBANK.NS & TMPV.NS:** Secondary candidates. They have broken out but require a sharper increase in volume to confirm the move is sustainable.
+---
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **Volume is King:** Do not enter a trade based on price alone. The strategy requires a **≥1.8× volume surge** to validate the breakout. If the volume isn't there, stay sidelined.
-*   **Strict Exposure:** Limit yourself to a maximum of **2 active trades**. Do not chase the entire watchlist.
-*   **Hard Stop-Loss:** Your risk is capped at **₹100 per trade**. If the price hits your -0.4% stop-loss, exit immediately—no exceptions.
-*   **The "No-Go" Zone:** Avoid **TCS.NS** and **BAJFINANCE.NS** for now; they are trading below their average price and failing to show breakout strength.
-*   **EOD Discipline:** All positions must be squared off by **15:10 IST**. Do not carry any intraday trades into the next session.
+### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are currently the strongest candidates if volume spikes:
 
-***
+*   **ICICIBANK.NS:** Strongest volume profile (2.3× average). Currently trading at ₹1,608.90; keep a close eye for further momentum.
+*   **SBIN.NS:** Solid momentum (67.7) with a 1.6× volume surge.
+*   **HDFCBANK.NS:** Steady breakout above the opening range; currently trading at ₹821.80.
 
-**Action Plan:** Monitor **ICICIBANK.NS** and **SBIN.NS** for the next volume spike. If volume remains stagnant, preserve your capital and wait for a clearer trend.
+---
+
+### ⚠️ Critical Warnings & Rules
+*   **Volume is King:** Do not enter a trade unless the volume surge is **≥1.8× the average**. Price movement without volume is a "fakeout" risk.
+*   **Strict Risk Cap:** You are limited to **₹100 max loss per trade**. If the price hits your -0.4% stop loss, exit immediately—no exceptions.
+*   **Position Limit:** Do not hold more than **2 active trades** simultaneously.
+*   **Mandatory Exit:** All positions must be closed by **15:10 IST**. Do not carry any positions overnight.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
+
+---
+
+**Bottom Line:** The setup is "waiting for confirmation." The market is primed, but the lack of volume on secondary candidates suggests waiting for a high-conviction surge before deploying the ₹5,000 capital.
 
 ---
 
 # 📈 Intraday Report — 2026-11-19
 
-> Auto-generated at **22:36 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:28 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
