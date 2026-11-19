@@ -1,41 +1,52 @@
 # 🤖 Gemini AI Insights
 
-### 📈 Market Summary: November 19, 2026
+### 📊 Market Summary: 2026-11-20
 
-The market is currently flashing a **Yellow Signal (Mildly Bearish)**. While the Nifty is showing domestic strength, global cues and rising volatility suggest a "wait-and-see" approach is best.
-
----
+The market is currently in a **"Wait and Watch"** phase. With global cues turning negative and domestic indices under pressure, the strategy remains defensive to protect your capital.
 
 #### 🌍 Market Context
-*   **Mixed Signals:** Nifty 50 rose +1.14%, but US markets (S&P 500/NASDAQ) closed in the red, creating a tug-of-war for direction.
-*   **Fear is Rising:** The India VIX (Volatility Index) jumped **+3.47%**. When VIX rises, it’s usually a sign to reduce trade sizes.
-*   **Currency Headwinds:** The USD/INR remains high at 93.28, though it weakened slightly today.
+*   **Bearish Sentiment:** Both Nifty 50 and major US indices (S&P 500, NASDAQ) are in the red.
+*   **Volatility:** India VIX is at 15.6, signaling moderate uncertainty.
+*   **Capital Status:** 100% of your ₹10,000 capital is sitting in cash. No active positions.
+
+#### 🎯 Entry Candidates
+*   **Status:** **None.** 
+*   **Why?** All stocks on your watchlist are currently "overheated." Their RSI levels are too high (indicating they are overbought), and they are trading too far above their 21-day moving average (EMA21). 
+*   **The Goal:** We are waiting for a **Momentum Pullback**—we need these stocks to cool off and drop closer to their 21-day average before it is safe to buy.
+
+#### ⚠️ Critical Warnings & Action Plan
+*   **Avoid FOMO:** Do not chase the current prices. The high RSI scores (e.g., Reliance at 97, ICICI Bank at 88) suggest a high probability of a price correction.
+*   **Stay Liquid:** Keep your capital idle. The current market environment does not meet your entry criteria.
+*   **Monitor:** Keep an eye on **ANGELONE** and **RELIANCE**; they are the closest to your target criteria, but they still require a significant price dip before they become "buyable."
+
+**Bottom Line:** The market is currently too expensive for your strategy. **Patience is your best trade today.**
 
 ---
 
-# 📈 Stock Delivery Report — 2026-11-19
-> *Auto-generated at 22:26 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 📈 Stock Delivery Report — 2026-11-20
+> *Auto-generated at 00:18 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
+**Overall Signal:** 🔴 Bearish — Avoid new entries; protect open positions
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,514.30 | 📈 +1.14% |
-| India VIX | 16.11 | 📈 +3.47% |
-| S&P 500 (overnight) | 7,277.56 | 📉 -0.63% |
-| NASDAQ | 24,355.55 | 📉 -0.30% |
-| WTI Crude Oil | $83.77 | 📈 +0.61% |
+| Nifty 50 | 25,227.95 | 📉 -0.63% |
+| India VIX | 15.57 | 📈 +0.32% |
+| S&P 500 (overnight) | 7,219.61 | 📉 -1.42% |
+| NASDAQ | 24,064.29 | 📉 -1.50% |
+| WTI Crude Oil | $83.20 | 📉 -0.07% |
 | USD / INR | 93.2800 | 📉 -0.21% |
 
 **Key Factors:**
-- VIX 16.1 — Moderate 🟡 (70% sizing)
-- S&P 500 -0.63% — Negative overnight cues 📉
-- Nifty +1.14% — Domestic market bullish
-- WTI Crude $83.77 (+0.61%) — Neutral for OILIETF
+- VIX 15.6 — Moderate 🟡 (70% sizing)
+- S&P 500 -1.42% — Negative overnight cues 📉
+- NASDAQ -1.50% — Tech bearish
+- Nifty -0.63% — Domestic market bearish
+- WTI Crude $83.20 (-0.07%) — Neutral for OILIETF
 - USD/INR 93.28 (-0.208%) — Dollar weakening → intl ETFs headwind
 
 ---
@@ -65,16 +76,16 @@ The market is currently flashing a **Yellow Signal (Mildly Bearish)**. While the
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| RELIANCE.NS | 21.5 | RSI=97 (need 42–55) · Price +5.9% from EMA21 (need ±4%) · Score=22 (need ≥50) |
-| ICICIBANK.NS | 15.5 | RSI=88 (need 42–55) · Price +6.7% from EMA21 (need ±4%) · Score=16 (need ≥50) |
-| HDFCBANK.NS | 15.5 | RSI=90 (need 42–55) · Price +7.0% from EMA21 (need ±4%) · Score=16 (need ≥50) |
+| RELIANCE.NS | 19.5 | RSI=97 (need 42–55) · Price +5.6% from EMA21 (need ±4%) · Score=20 (need ≥50) |
+| ICICIBANK.NS | 13.5 | RSI=88 (need 42–55) · Price +6.9% from EMA21 (need ±4%) · Score=14 (need ≥50) |
+| HDFCBANK.NS | 13.5 | RSI=88 (need 42–55) · Price +5.9% from EMA21 (need ±4%) · Score=14 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| TITAN.NS | 66.0 | RSI=62 (need 42–55) |
-| BAJFINANCE.NS | 21.5 | RSI=78 (need 42–55) · Price +4.7% from EMA21 (need ±4%) · Score=22 (need ≥50) |
-| ANGELONE.NS | 21.5 | RSI=73 (need 42–55) · Price +4.2% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| ANGELONE.NS | 22.5 | RSI=75 (need 42–55) · Price +5.2% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| CDSL.NS | 19.5 | RSI=77 (need 42–55) · Price +4.8% from EMA21 (need ±4%) · Score=20 (need ≥50) |
+| BAJFINANCE.NS | 19.5 | RSI=80 (need 42–55) · Price +5.2% from EMA21 (need ±4%) · Score=20 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -86,17 +97,17 @@ The market is currently flashing a **Yellow Signal (Mildly Bearish)**. While the
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | TITAN.NS | 66.0 | 62 | 🟢 | ✅ | 0.1 | 👀 Watch |
-| 2 | RELIANCE.NS | 21.5 | 97 | 🟢 | — | -0.4 | ⏸ Skip |
-| 3 | BAJFINANCE.NS | 21.5 | 78 | 🟢 | — | -0.3 | ⏸ Skip |
-| 4 | ANGELONE.NS | 21.5 | 73 | 🟢 | — | -0.1 | ⏸ Skip |
-| 5 | ICICIBANK.NS | 15.5 | 88 | 🟢 | — | -0.6 | ⏸ Skip |
-| 6 | HDFCBANK.NS | 15.5 | 90 | 🟢 | — | -0.8 | ⏸ Skip |
-| 7 | CDSL.NS | 15.5 | 74 | 🟢 | — | -0.6 | ⏸ Skip |
-| 8 | HAVELLS.NS | 12.0 | 81 | 🟢 | — | 0.7 | ⏸ Skip |
-| 9 | PIDILITIND.NS | -14.5 | 74 | 🔴 | ✅ | -0.1 | ⏸ Skip |
-| 10 | KEI.NS | -40.0 | 50 | 🔴 | — | -0.4 | ⏸ Skip |
-| 11 | POLYCAB.NS | -55.0 | 45 | 🔴 | — | 2.9 | ⏸ Skip |
+| 1 | ANGELONE.NS | 22.5 | 75 | 🟢 | — | 1.1 | ⏸ Skip |
+| 2 | RELIANCE.NS | 19.5 | 97 | 🟢 | — | -0.2 | ⏸ Skip |
+| 3 | CDSL.NS | 19.5 | 77 | 🟢 | — | 0.4 | ⏸ Skip |
+| 4 | BAJFINANCE.NS | 19.5 | 80 | 🟢 | — | -0.2 | ⏸ Skip |
+| 5 | ICICIBANK.NS | 13.5 | 88 | 🟢 | — | -0.6 | ⏸ Skip |
+| 6 | HDFCBANK.NS | 13.5 | 88 | 🟢 | — | -1.0 | ⏸ Skip |
+| 7 | PIDILITIND.NS | 6.0 | 73 | 🔴 | ✅ | -0.5 | ⏸ Skip |
+| 8 | HAVELLS.NS | -4.0 | 74 | 🔴 | ✅ | -0.2 | ⏸ Skip |
+| 9 | TITAN.NS | -16.0 | 63 | 🟢 | — | 0.4 | ⏸ Skip |
+| 10 | KEI.NS | -42.0 | 44 | 🔴 | — | -0.1 | ⏸ Skip |
+| 11 | POLYCAB.NS | -81.0 | 39 | 🔴 | — | 3.2 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -113,6 +124,6 @@ The market is currently flashing a **Yellow Signal (Mildly Bearish)**. While the
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-19 22:26 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-20 00:18 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
