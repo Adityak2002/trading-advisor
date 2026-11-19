@@ -1,37 +1,33 @@
 # 🤖 Gemini AI Insights
 
-### **📈 Market Snapshot: Nov 19, 2026**
+### 📈 **Market Executive Summary: Nov 19, 2026**
 
-The market is showing **strong bullish momentum** among heavyweights. Most top-tier banking and energy stocks have successfully broken above their initial 15-minute opening ranges, signaling a "risk-on" environment for the day.
-
----
-
-### **🚀 Top Entry Candidates**
-
-While several stocks broke out, only one met the strict "Volume Surge" criteria required for a high-probability trade:
-
-*   **ICICIBANK.NS (The Prime Setup):** 
-    *   **Status:** Confirmed Breakout.
-    *   **Why:** It is the only stock showing a massive **2.3× volume surge**, significantly higher than our 1.8× requirement. 
-    *   **Action:** This is the highest-quality signal on the board with a strong "Action Score."
-*   **SBIN.NS (The Runner-Up):** 
-    *   **Status:** Breakout with high momentum (68).
-    *   **Why:** Price is well above the opening high, though volume (1.6×) is slightly under the ideal threshold. Watch for a secondary volume spike.
+The market is showing **strong bullish momentum** this morning. Most major banking and energy stocks have successfully broken above their initial 15-minute opening ranges, signaling a potential trend day to the upside.
 
 ---
 
-### **⚠️ Critical Warnings & Exit Rules**
+### 🚀 **Top Entry Candidate**
+*   **ICICIBANK.NS (Prime Pick):** This is the only stock currently meeting all strategy criteria. 
+    *   **Why:** It broke its opening high with a **2.3× volume surge** (well above the 1.8× requirement). 
+    *   **Status:** High conviction; momentum is healthy at 59.
 
-*   **The "Volume" Filter:** Do **not** jump into RELIANCE or AXISBANK. Even though their prices are up, their volume is weak (0.5×–0.6×). These are "fake-out" risks.
-*   **Hard Stop:** The market is currently past the **15:10 IST Square-Off time**. All positions should be closed. **Never carry these intraday trades overnight**, as a gap-down tomorrow could wipe out your capital.
-*   **Risk Cap:** Ensure no single trade risks more than **₹100**. If ICICIBANK hits ₹1,602.50 (Stop Loss), exit immediately—no exceptions.
-*   **Patience Pays:** If a stock is "Inside Range" (like WIPRO or INFY), do not touch it. Wait for the breakout or move on.
+---
+
+### ⚠️ **Watchlist & Warnings**
+*   **False Breakout Alert:** Stocks like **TMPV, SBIN, and HDFCBANK** have moved above their opening prices, but **lack the required volume surge**. Do not enter these yet; they are "low-conviction" moves that could easily reverse.
+*   **Avoid for Now:** **TCS** and **BAJFINANCE** are trading below their average prices and showing negative action scores. Stay away from these laggards.
+
+---
+
+### 🛡️ **Critical Risk Rules (Actionable)**
+*   **The "Hard Stop":** All trades **must** be closed by **15:10 IST**. Do not hold any position overnight regardless of profit or loss.
+*   **Loss Limit:** If a trade loses **₹100
 
 ---
 
 # 📈 Intraday Report — 2026-11-19
 
-> Auto-generated at **19:33 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:30 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
