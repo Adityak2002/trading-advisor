@@ -2,25 +2,28 @@
 
 ### 📊 Market Summary: 2026-11-20
 
-The market is showing a **strong bullish bias** with most major tickers trading above their opening range highs. However, despite the price action, volume participation is generally weak, suggesting a lack of conviction for a sustained breakout.
+The market is showing broad bullish sentiment with most watchlist stocks trading above their opening ranges. However, **volume participation is currently weak**, meaning the "Opening Price Breakout" strategy has not triggered any high-conviction entries yet.
 
-#### 🚀 Top Entry Candidates
-*   **POWERGRID.NS:** The only ticker meeting your strict criteria. It shows a **1.9× volume surge** (exceeding your 1.8× threshold) and high momentum (77). This is your primary candidate for a breakout trade.
-*   **HDFCBANK.NS & ADANIENT.NS:** These are "runners-up." They have broken the opening range and show decent momentum, but their volume (1.6×) is currently just below your required threshold. Keep these on a secondary watchlist.
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have cleared their opening highs and are showing the strongest momentum. Monitor these for a sudden volume spike (≥1.8× average) to confirm an entry:
+*   **POWERGRID.NS:** Strongest momentum (77.1) and the only stock currently meeting the volume surge criteria (1.9×).
+*   **RELIANCE.NS:** Solid momentum (68.7) with price comfortably above the opening high.
+*   **BAJFINANCE.NS:** Consistent upward trend with momentum at 62.4.
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **Volume Filter is Key:** Do not chase breakouts that lack volume. The "Action Score" is currently low across the board because most stocks are breaking out on low volume, which often leads to "fake-outs."
-*   **Strict Discipline:** You are capped at **2 trades maximum**. Do not force entries into stocks that haven't met the 1.8× volume surge requirement.
-*   **Risk Cap:** Ensure your position sizing strictly adheres to the **₹100 max loss per trade** rule. 
-*   **Auto-Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+#### ⚠️ Critical Warnings & Rules
+*   **Volume is Key:** Do not enter a trade based on price alone. Wait for the **1.8× volume surge** to avoid "fake-out" breakouts.
+*   **Strict Risk Cap:** You are limited to a **₹100 loss per trade**. If a position hits your stop loss, exit immediately—do not hope for a reversal.
+*   **Position Limit:** Never hold more than **2 trades simultaneously**.
+*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
+*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
 
-**Bottom Line:** The market is "stretched" above opening highs. Wait for the volume to confirm the move in **POWERGRID** before pulling the trigger. If volume remains thin, stay on the sidelines to protect your capital.
+**Bottom Line:** The market is primed, but the "trigger" (volume) is missing for most stocks. Stay patient; wait for the volume surge before pulling the trigger on **POWERGRID** or **RELIANCE**.
 
 ---
 
 # 📈 Intraday Report — 2026-11-20
 
-> Auto-generated at **17:53 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **19:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
