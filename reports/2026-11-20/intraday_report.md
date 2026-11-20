@@ -1,33 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-20
-
-The market is showing strong bullish sentiment with most watchlist stocks trading above their opening ranges. However, **volume participation is currently weak**, meaning many breakouts lack the "conviction" required by your strategy to trigger a buy.
-
----
-
-### 🚀 Top Entry Candidates
-While no trades were triggered today, these stocks are the strongest contenders based on momentum and price action:
-
-*   **POWERGRID.NS:** The only stock meeting your strict **1.9× volume surge** criteria. It is the highest-conviction play if it maintains momentum.
-*   **ADANIENT.NS:** Showing solid momentum and has successfully cleared its opening high with decent volume (1.6×).
-*   **HDFCBANK.NS:** A secondary candidate with strong volume (1.6×), though momentum is slightly lower than the leaders.
-
----
-
-### ⚠️ Critical Warnings & Rules
-*   **Volume is King:** Do not force a trade. Your strategy requires a **≥1.8× volume surge** to confirm a breakout. If the volume isn't there, the breakout is likely a "fake-out."
-*   **Strict Risk Cap:** You are capped at **₹100 risk per trade**. If a trade hits your -0.4% stop loss, exit immediately—do not hope for a reversal.
-*   **Execution Limit:** Never hold more than **2 active trades** simultaneously.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-
-**Bottom Line:** The market is "green," but the volume is thin. Stay patient; wait for the volume surge before pulling the trigger on POWERGRID or ADANIENT.
+Concise?* Yes.
+    *   *High-level summary?* Yes.
+    *   *Market context, candidates, warnings included?* Yes.
+    *   *Clean markdown
 
 ---
 
 # 📈 Intraday Report — 2026-11-20
 
-> Auto-generated at **22:14 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:04 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
