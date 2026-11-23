@@ -1,21 +1,43 @@
 # 🤖 Gemini AI Insights
 
-### **Market Overview: Bearish Sentiment Dominates**
-The market is currently showing significant weakness. Out of the 12 monitored stocks, 10 have "Broken Down" (dropped below their opening price range), indicating a heavy selling bias across the board.
+### **Market Pulse: Bearish Sentiment Dominates**
 
-### **Top Entry Candidates**
-*   **No High-Conviction Trades:** There are currently **zero** active buy signals that meet all strategy criteria.
-*   **TCS.NS (Watch Only):** This is the only stock that has "Broken Out" to the upside with a volume surge (1.9x). However, its **Action Score is very low (6.1/100)** and it is trading below its average price, making it a risky "long" candidate.
-*   **WIPRO.NS (Neutral):** Currently stuck inside its opening range. No action is required until it breaks above ₹188.17 with high volume.
+The market is currently showing significant downward pressure. Most major stocks have failed to hold their opening prices, breaking below their 15-minute ranges on high volume. This indicates a "sell-on-rise" environment rather than a breakout-friendly one.
 
-### **Critical Warnings & Action Plan**
-*   **Stay on the
+---
+
+### **🚀 Top Entry Candidates**
+
+*   **TCS.NS (The Lone Outlier):** 
+    *   **Status:** The only stock to break *above* its opening high (₹2,433.70).
+    *   **The Catch:** Despite the breakout and a 1.9x volume surge, it is still trading **below its average price**. This suggests the move lacks strong institutional backing. 
+    *   **Action:** Watch for a move above the average price before considering an entry.
+
+*   **WIPRO.NS (Neutral):** 
+    *   **Status:** Currently "Inside Range." It is neither bullish nor bearish. 
+    *   **Action:** No action required until it clears ₹188.17 with high volume.
+
+---
+
+### **⚠️ Critical Warnings & Risk Alerts**
+
+*   **Heavy Selling Pressure:** Stocks like **HDFCBANK (3.6x volume)** and **AXISBANK (3.2x volume)** have crashed below their opening lows with massive volume. This confirms a strong bearish trend across the banking sector.
+*   **No Active Buy Signals:** The system currently shows **zero** high-confidence buy signals. Do not force a trade in a declining market.
+*   **Capital Protection:** With a small capital base of ₹5,000, your max loss is capped at **₹100 per trade**. Stick to this strictly.
+*   **The "Average Price" Rule:** Avoid buying stocks labeled "❌ No" under the *Above Average Price* column. These are statistically more likely to fail as "fake-outs."
+
+---
+
+### **💡 Action Plan**
+1.  **Stay Cash:** Since no stocks meet all criteria (Breakout + Above Average Price + Momentum), the best move is to wait.
+2.  **Monitor TCS:** If TCS climbs back above its average price, it becomes a viable candidate.
+3.  **Hard Stop:** Ensure all positions are closed by **15:10 IST** to avoid overnight volatility.
 
 ---
 
 # 📈 Intraday Report — 2026-11-23
 
-> Auto-generated at **19:25 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
