@@ -1,59 +1,53 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-20
+### 📊 Market Summary: 2026-11-23
 
-The market is currently showing a **"Risk-Off"** sentiment. While domestic indices (Nifty) are showing resilience, the sharp overnight sell-off in US tech markets and rising volatility (VIX) suggest caution is required.
+The market is currently in a **"Risk-Off"** phase. With global indices (S&P 500, NASDAQ) suffering significant overnight losses and the Nifty 50 showing weakness, the strategy remains in **defensive mode**.
 
-#### **Market Context**
-*   **Sentiment:** Mildly Bearish.
-*   **Global Cues:** Negative (S&P 500 and NASDAQ both down >2%).
-*   **Volatility:** India VIX is elevated at 17.3; keep position sizes conservative (70% of standard allocation).
-*   **Strategy:** "Oversold Bounce" — looking for short-term recovery in beaten-down assets.
+#### 🌍 Market Context
+*   **Sentiment:** Bearish. Global tech sell-offs and domestic weakness suggest high volatility.
+*   **VIX (Volatility):** Rising to 17.7; indicates market nervousness.
+*   **Strategy Status:** 100% Cash. No trades are currently justified under the "Oversold Bounce" criteria.
 
-#### **Top Entry Candidate**
-*   **ITETF.NS (Score: 42.5/100):** 
-    *   **Why:** Currently oversold (RSI 32.7) with strong volume support.
-    *   **Action:** Buy **232 shares** at ~₹33.27.
-    *   **Target:** ₹34.60 (+4%).
-    *   **Stop-Loss:** ₹31.76 (Hard exit to protect capital).
+#### 🎯 Entry Candidates (Watchlist)
+*   **ITETF.NS:** Closest to a potential setup, but currently lacks the required momentum and volume.
+*   **NHPC.NS:** Showing early signs of cooling, but RSI and volume metrics are not yet at "oversold" levels.
+*   *Note: All other candidates are currently too expensive or lack the necessary volume spike to trigger a buy.*
 
-#### **Critical Warnings & Strategy**
-*   **Capital Management:** Keep 30% of your planned allocation in cash due to the high VIX.
-*   **Execution:** Use GTT (Good Till Triggered) orders on your broker app (Groww) for both the Target and Stop-Loss immediately after buying to automate risk management.
-*   **Avoid:** Do not chase high-RSI stocks (e.g., BANKBEES, PSUBNKBEES, IREDA) as they are currently overbought and prone to profit-booking.
-*   **Stay Light:** With global markets shaky, prioritize capital preservation over aggressive growth.
+#### ⚠️ Critical Warnings & Action Plan
+*   **Stay Idle:** Do not force trades. The current market environment does not meet the "Oversold" threshold required for a high-probability bounce.
+*   **Capital Protection:** With the Nifty down 1.75% and global cues negative, the priority is preserving the ₹10,000 corpus.
+*   **Wait for Confirmation:** Only enter when the **Score hits ≥40** and **Vol-Z ≥1.5**. Currently, no ticker meets these criteria.
 
-***
-
-*Disclaimer: This is a quantitative analysis report. Ensure you verify all orders manually before execution.*
+**Bottom Line:** The market is bleeding; keep your capital on the sidelines until the "Oversold" signals align. **No action required today.**
 
 ---
 
-# 📊 ETF/MF Daily Report — 2026-11-20
-> *Auto-generated at 16:37 IST | Daily 08:30 IST*  
+# 📊 ETF/MF Daily Report — 2026-11-23
+> *Auto-generated at 17:31 IST | Daily 08:30 IST*  
 > *Strategy: Oversold Bounce | Capital: ₹10,000 | Hold: ~10 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
+**Overall Signal:** 🔴 Bearish — Avoid new entries; protect open positions
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,800.60 | 📈 +1.12% |
-| India VIX | 17.32 | 📈 +7.51% |
-| S&P 500 (overnight) | 7,175.83 | 📉 -2.02% |
-| NASDAQ | 23,879.20 | 📉 -2.25% |
-| WTI Crude Oil | $81.56 | 📉 -1.98% |
-| USD / INR | 92.6900 | 📉 -0.83% |
+| Nifty 50 | 25,349.65 | 📉 -1.75% |
+| India VIX | 17.70 | 📈 +2.18% |
+| S&P 500 (overnight) | 6,910.39 | 📉 -3.70% |
+| NASDAQ | 22,617.73 | 📉 -5.28% |
+| WTI Crude Oil | $82.12 | 📉 -2.21% |
+| USD / INR | 92.7300 | 📉 -0.61% |
 
 **Key Factors:**
-- VIX 17.3 — Moderate 🟡 (70% sizing)
-- S&P 500 -2.02% — Negative overnight cues 📉
-- NASDAQ -2.25% — Tech bearish
-- Nifty +1.12% — Domestic market bullish
-- WTI Crude $81.56 (-1.98%) — Bearish for OILIETF 📉
-- USD/INR 92.69 (-0.830%) — Dollar weakening → intl ETFs headwind
+- VIX 17.7 — Moderate 🟡 (70% sizing)
+- S&P 500 -3.70% — Negative overnight cues 📉
+- NASDAQ -5.28% — Tech bearish
+- Nifty -1.75% — Domestic market bearish
+- WTI Crude $82.12 (-2.21%) — Bearish for OILIETF 📉
+- USD/INR 92.73 (-0.606%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — ETF/MF Swing
@@ -75,31 +69,17 @@ The market is currently showing a **"Risk-Off"** sentiment. While domestic indic
 ---
 ## 🎯 Entry Candidates
 
-### #1 — ITETF.NS
-**Action Rating:** Moderate (Score: 42.5/100)
+*No entry candidates right now. All conditions not met or max positions reached.*
 
-> ⚠️ Position size reduced to **70%** due to elevated market volatility (VIX)
+**🔍 Monitor These (Getting Closer):**
 
-| Action Details | Value | Notes |
-|---|---|---|
-| 🟢 **Buy Price** | **₹33.27** | Buy at market or limit |
-| **Shares to Buy** | **232** | Sized to limit your risk |
-| **Investment Amount** | **₹7,718.64** | Total capital to deploy |
-| 🎯 **Target Price (+4%)** | **₹34.60** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹31.76** | Hard exit to cut losses |
-| Max Risk | ₹349.50 | Only 4.53% of investment at risk |
-
-**Simple Buying Checklist:**
-- ✅ ETF is oversold/cheap *(Momentum RSI: 32.7)*
-- ✅ Long-term uptrend is intact *(Price above 50-day average)*
-- ✅ High buying interest confirmed by volume *(Volume Z-score: 1.80)*
-- ✅ Overall setup is strong *(Score: 42.5/100)*
-
-> **Action on Groww:**
-> 1. Search `ITETF` ➔ Buy **232 shares** at market
-> 2. Immediately place GTT sell order at **₹34.60** (Target)
-> 3. Place Stop-Loss sell order at **₹31.76**
-> 4. Run `python scripts/update_position.py --mode etf` to log this trade
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| ITETF.NS | 19.5 | RSI=45 (need <38) · VolZ=0.1 (need ≥1.5) · Score=20 (need ≥40) |
+| NHPC.NS | 16.5 | RSI=39 (need <38) · Below EMA50 · VolZ=-0.6 (need ≥1.5) · Score=16 (need ≥40) |
+| TATAPOWER.NS | 7.2 | Below EMA50 · VolZ=-0.0 (need ≥1.5) · Score=7 (need ≥40) |
+| IRFC.NS | 7.0 | RSI=61 (need <38) · VolZ=-0.2 (need ≥1.5) · Score=7 (need ≥40) |
+| PHARMABEES.NS | -1.8 | RSI=69 (need <38) · VolZ=-0.3 (need ≥1.5) · Score=-2 (need ≥40) |
 
 ---
 ## 📰 News & Sentiment
@@ -111,27 +91,27 @@ The market is currently showing a **"Risk-Off"** sentiment. While domestic indic
 
 | # | Ticker | Score | RSI | EMA | Vol-Z | 52W High | Action |
 |---|--------|-------|-----|-----|-------|----------|--------|
-| 1 | ITETF.NS | 42.5 | 33 | 🟢 | 1.8 | -4.8% | 🎯 ENTRY |
-| 2 | NHPC.NS | 12.0 | 46 | 🟢 | -0.6 | -6.7% | ⏸ Skip |
-| 3 | RVNL.NS | 2.5 | 58 | 🟢 | -0.2 | -29.7% | ⏸ Skip |
-| 4 | PHARMABEES.NS | 1.2 | 69 | 🟢 | -0.5 | -2.1% | ⏸ Skip |
-| 5 | RECLTD.NS | -4.2 | 61 | 🟢 | -0.8 | -18.8% | ⏸ Skip |
-| 6 | ABFRL.NS | -5.0 | 46 | 🔴 | 2.5 | -44.0% | ⏸ Skip |
-| 7 | BANKBEES.NS | -7.0 | 91 | 🟢 | 1.7 | 0.0% | ⏸ Skip |
-| 8 | MAFANG.NS | -7.2 | 44 | 🔴 | 0.1 | -26.3% | ⏸ Skip |
-| 9 | JUNIORBEES.NS | -10.0 | 81 | 🟢 | -0.1 | -2.2% | ⏸ Skip |
-| 10 | IRFC.NS | -10.0 | 72 | 🟢 | -0.2 | -15.8% | ⏸ Skip |
-| 11 | HDFCAMC.NS | -10.0 | 77 | 🟢 | -0.1 | -3.7% | ⏸ Skip |
-| 12 | PSUBNKBEES.NS | -13.0 | 92 | 🟢 | 1.4 | 0.0% | ⏸ Skip |
-| 13 | IREDA.NS | -13.0 | 90 | 🟢 | 0.8 | -0.5% | ⏸ Skip |
-| 14 | CANBK.NS | -13.0 | 86 | 🟢 | 1.1 | 0.0% | ⏸ Skip |
-| 15 | BANKBARODA.NS | -13.0 | 87 | 🟢 | 0.9 | 0.0% | ⏸ Skip |
-| 16 | AUTOBEES.NS | -14.5 | 80 | 🟢 | 0.0 | -3.2% | ⏸ Skip |
-| 17 | HNGSNGBEES.NS | -14.8 | 46 | 🔴 | 1.3 | -21.1% | ⏸ Skip |
-| 18 | TATAPOWER.NS | -16.2 | 46 | 🔴 | 0.4 | -19.7% | ⏸ Skip |
-| 19 | OILIETF.NS | -18.5 | 89 | 🟢 | -0.5 | 0.0% | ⏸ Skip |
-| 20 | UNIONBANK.NS | -22.0 | 88 | 🟢 | 1.4 | 0.0% | ⏸ Skip |
-| 21 | SUZLON.NS | -33.0 | 68 | 🔴 | -0.6 | -37.7% | ⏸ Skip |
+| 1 | ITETF.NS | 19.5 | 45 | 🟢 | 0.1 | -2.9% | ⏸ Skip |
+| 2 | NHPC.NS | 16.5 | 39 | 🟢 | -0.6 | -8.2% | ⏸ Skip |
+| 3 | TATAPOWER.NS | 7.2 | 28 | 🔴 | -0.0 | -22.5% | ⏸ Skip |
+| 4 | IRFC.NS | 7.0 | 61 | 🟢 | -0.2 | -18.7% | ⏸ Skip |
+| 5 | PHARMABEES.NS | -1.8 | 69 | 🟢 | -0.3 | -2.2% | ⏸ Skip |
+| 6 | JUNIORBEES.NS | -13.0 | 72 | 🟢 | 0.3 | -3.0% | ⏸ Skip |
+| 7 | CANBK.NS | -13.0 | 72 | 🟢 | 0.4 | -3.7% | ⏸ Skip |
+| 8 | BANKBARODA.NS | -13.0 | 72 | 🟢 | 0.1 | -4.0% | ⏸ Skip |
+| 9 | HDFCAMC.NS | -13.0 | 73 | 🟢 | 0.2 | -4.2% | ⏸ Skip |
+| 10 | MAFANG.NS | -15.0 | 45 | 🔴 | 1.2 | -28.9% | ⏸ Skip |
+| 11 | ABFRL.NS | -15.5 | 44 | 🔴 | 0.3 | -43.8% | ⏸ Skip |
+| 12 | BANKBEES.NS | -16.0 | 78 | 🟢 | 1.5 | -3.0% | ⏸ Skip |
+| 13 | PSUBNKBEES.NS | -16.0 | 78 | 🟢 | 1.3 | -3.3% | ⏸ Skip |
+| 14 | UNIONBANK.NS | -16.0 | 71 | 🟢 | 0.7 | -4.9% | ⏸ Skip |
+| 15 | AUTOBEES.NS | -17.5 | 75 | 🟢 | -0.5 | -4.2% | ⏸ Skip |
+| 16 | IREDA.NS | -17.5 | 89 | 🟢 | 0.1 | -0.1% | ⏸ Skip |
+| 17 | SUZLON.NS | -19.2 | 54 | 🔴 | -0.5 | -39.5% | ⏸ Skip |
+| 18 | HNGSNGBEES.NS | -20.2 | 42 | 🔴 | 0.1 | -21.5% | ⏸ Skip |
+| 19 | OILIETF.NS | -20.4 | 72 | 🟢 | -1.1 | -1.5% | ⏸ Skip |
+| 20 | RVNL.NS | -24.2 | 49 | 🔴 | 0.3 | -31.9% | ⏸ Skip |
+| 21 | RECLTD.NS | -27.2 | 55 | 🔴 | -0.8 | -20.1% | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — ETF/MF Swing (Closed Trades)
@@ -139,6 +119,6 @@ The market is currently showing a **"Risk-Off"** sentiment. While domestic indic
 *No closed trades yet — performance data will populate after first trade cycle.*
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-20 16:37 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-23 17:31 IST*  
 *Mode: ETF/MF Swing | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
