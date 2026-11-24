@@ -1,38 +1,30 @@
 # 🤖 Gemini AI Insights
 
-Here is your high-level market summary and action plan for **November 25, 2026**:
+### 📊 Market Summary: 2026-11-25
 
-### 📉 Market Context: High Caution
-The overall market sentiment is **Bearish**. Global and domestic factors are currently working against new investments.
-*   **Nifty 50 Slump:** The index dropped **-1.75%**, indicating strong selling pressure in the Indian market.
-*   **Fear Index Rising:** The India VIX rose to **17.70**. While not in "panic" territory, it suggests increasing volatility and risk.
-*   **Global Drag:** Negative overnight cues from the US (NASDAQ **-1.57%**) and rising Crude Oil prices (**$81.71**) are creating a difficult environment for equities.
+The market is currently in a **"Risk-Off"** phase. With Nifty down 1.75% and global tech indices (NASDAQ) showing significant weakness, the environment is unfavorable for new long positions.
 
-### 🛑 Critical Warnings & Exits
-*   **Signal:** **🔴 AVOID NEW ENTRIES.** The system is explicitly signaling to stay on the sidelines.
-*   **Portfolio Status:** You are currently **100% in Cash (₹10,000)**. This is the safest place to be during a sharp market correction.
-*   **No Active Exits:** Since you have no open positions, there is no immediate risk of capital loss today.
+#### 🌍 Market Context
+*   **Sentiment:** Bearish. Avoid aggressive buying; focus on capital preservation.
+*   **Volatility:** India VIX is rising (17.70), signaling increased market nervousness.
+*   **Macro Cues:** Rising Crude Oil and a strengthening USD/INR are putting pressure on domestic equities.
 
-### 🎯 Entry Candidates (Monitoring Only)
-There are **no immediate buys**. The "Momentum Pullback" strategy requires stocks to cool down before entry, but current candidates are still too "hot" (overbought) or lack momentum.
+#### 🎯 Entry Candidates
+*   **Status:** **None.** 
+*   **Observation:** All stocks on your watchlist are currently "overheated" (RSI > 60). 
+*   **Action:** Wait for a pullback. Your strategy requires an RSI between 42–55 to ensure you aren't buying at a market peak. **PIDILITIND.NS** is the closest to your entry criteria but still requires a cooling-off period.
 
-**Top stocks to watch (but do not buy yet):**
-*   **PIDILITIND.NS:** The strongest candidate (Score: 34.5), but RSI is at 66. We need it to drop to the **42–55 range** for a safer entry.
-*   **ICICIBANK & HDFCBANK:** Both are showing long-term strength but are currently overextended. We are waiting for a price "pullback" to the 21-day moving average.
+#### ⚠️ Critical Warnings & Strategy Notes
+*   **Stay Idle:** You have 100% of your capital in cash. **Do not force a trade.** The current market drop is a signal to wait for better entry prices.
+*   **Strategy Discipline:** Your "Momentum Pullback" strategy is designed to buy dips, not breakouts. Buying now would violate your core risk management rules.
+*   **Performance Check:** With a 0% win rate on your first trade, prioritize patience over activity. Let the market come to your price levels.
 
-### 💡 Actionable Summary for Today
-1.  **Do Nothing:** The best trade right now is no trade. Your capital is fully preserved in cash.
-2.  **Wait for the "Cool Down":** We are looking for the RSI on top-tier stocks (like Pidilite or ICICI Bank) to drop into the 40s/50s.
-3.  **Protect Capital:** With a 0% win rate on the last trade, the priority is waiting for a high-probability setup rather than forcing a recovery.
-
-***
-
-**Status:** 🧊 **Sitting on Cash** | **Next Review:** Tomorrow at Market Open.
+**Bottom Line:** Keep your powder dry. The market is correcting; wait for the RSI to drop into your target buy zone (42–55) before deploying any capital.
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-25
-> *Auto-generated at 00:42 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 01:58 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -44,18 +36,18 @@ There are **no immediate buys**. The "Momentum Pullback" strategy requires stock
 |---------------|-------|--------|
 | Nifty 50 | 25,349.65 | 📉 -1.75% |
 | India VIX | 17.70 | 📈 +2.19% |
-| S&P 500 (overnight) | 7,197.02 | 📉 -0.56% |
-| NASDAQ | 23,710.23 | 📉 -1.57% |
-| WTI Crude Oil | $81.71 | 📈 +1.92% |
-| USD / INR | 92.7100 | 📈 +0.04% |
+| S&P 500 (overnight) | 7,176.01 | 📉 -0.84% |
+| NASDAQ | 23,618.82 | 📉 -1.95% |
+| WTI Crude Oil | $81.57 | 📈 +1.75% |
+| USD / INR | 92.9100 | 📈 +0.26% |
 
 **Key Factors:**
 - VIX 17.7 — Moderate 🟡 (70% sizing)
-- S&P 500 -0.56% — Negative overnight cues 📉
-- NASDAQ -1.57% — Tech bearish
+- S&P 500 -0.84% — Negative overnight cues 📉
+- NASDAQ -1.95% — Tech bearish
 - Nifty -1.75% — Domestic market bearish
-- WTI Crude $81.71 (+1.92%) — Bullish for OILIETF 📈
-- USD/INR 92.71 (+0.040%) — USD stable
+- WTI Crude $81.57 (+1.75%) — Bullish for OILIETF 📈
+- USD/INR 92.91 (+0.256%) — Dollar rising → intl ETFs gain in INR terms 📈
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -132,6 +124,6 @@ There are **no immediate buys**. The "Momentum Pullback" strategy requires stock
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-25 00:42 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-25 01:58 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
