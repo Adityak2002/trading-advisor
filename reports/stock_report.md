@@ -1,27 +1,30 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: November 25, 2026
+### **Market Summary: November 26, 2026**
 
-**Market Context: 🟡 Mixed & Cautious**
-*   **Domestic vs. Global:** While the Nifty 50 surged (+1.85%), global cues are dragging. The S&P 500 and NASDAQ are both down, suggesting a potential "fake-out" or short-term volatility ahead.
-*   **Risk Level:** India VIX is at 17.7 (Moderate). We are operating at **70% position sizing** to stay safe.
-*   **Currency & Oil:** A weakening Dollar and rising Crude Oil ($83.64) create a mixed bag—generally inflationary for India but a boost for energy-related assets.
+#### **🌍 Market Context: "Proceed with Caution"**
+*   **Signal:** 🟡 **Mildly Bearish.** The domestic market is under pressure, with the Nifty 50 dropping **-1.75%**.
+*   **Volatility:** India VIX has risen to **17.7**, suggesting increased fear. The strategy recommends reducing position sizes to **70%** if you do enter.
+*   **Global Headwinds:** US markets (S&P 500/NASDAQ) are down, and **Crude Oil is rising (+1.96%)**, which typically acts as a drag on Indian equities.
 
-**🎯 Entry Candidates: ⏸ No Immediate Buys**
-The strategy is currently "sitting on hands." While the market is green, stocks are **too expensive** (overbought) for our Momentum Pullback strategy.
-*   **Top Watch — Pidilite (PIDILITIND.NS):** The strongest candidate (Score: 33), but we need the RSI to cool down to the 42–55 range before entering.
-*   **Close Behind — CDSL:** Showing good alignment but needs a better price entry point.
-*   **The "Wait" List:** Heavyweights like ICICI Bank, Reliance, and HDFC Bank are currently "overextended"—meaning they’ve run up too fast and are likely to see a minor dip soon.
+#### **🎯 Entry Candidates: "Wait for the Dip"**
+*   **Current Status:** **No immediate buys.** All top-tier stocks are currently "too hot" (overbought) and haven't pulled back to the required entry zones.
+*   **Top Watchlist (Closest to Entry):**
+    *   **Pidilite (PIDILITIND.NS):** The strongest candidate (Score: 36.2), but needs its RSI to cool down from 66 to the 42–55 range.
+    *   **CDSL.NS:** Showing momentum but currently too expensive to buy safely.
+    *   **Banking (ICICI/HDFC):** Both are showing strong long-term scores but are significantly overextended. **Do not chase these prices.**
 
-**⚠️ Critical Warnings & Action Plan**
-*   **Status:** **100% Cash (₹10,000 idle).** Do not feel pressured to "chase" the Nifty rally.
-*   **The Trap:** Most stocks on the watchlist have RSIs between 66–79. In simple terms: **The market is currently "hot."** Buying now risks catching the top before a pullback.
-*   **Strategy:** We are waiting for a "
+#### **⚠️ Critical Warnings & Actions**
+*   **Action:** **Stay in Cash.** Your capital (₹10,000) is 100% idle. This is the correct move during a -1.75% market dump.
+*   **Risk Alert:** The "Momentum Pullback" strategy requires a specific dip to buy safely. Currently, stocks are either crashing (like Polycab) or haven't dipped enough (like Pidilite). 
+*   **Portfolio Health:** You have no open positions. After a previous loss, the priority is **capital preservation** until the Nifty stabilizes.
+
+**Bottom Line:** The market is currently "falling knives" or "overpriced." Keep your cash in the bank and wait for the RSI to cool down on the watchlist stocks.
 
 ---
 
-# 📈 Stock Delivery Report — 2026-11-25
-> *Auto-generated at 23:47 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 📈 Stock Delivery Report — 2026-11-26
+> *Auto-generated at 01:14 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
@@ -31,19 +34,18 @@ The strategy is currently "sitting on hands." While the market is green, stocks 
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,819.25 | 📈 +1.85% |
-| India VIX | 17.70 | 📉 -0.01% |
-| S&P 500 (overnight) | 7,150.53 | 📉 -0.70% |
-| NASDAQ | 23,386.80 | 📉 -1.46% |
-| WTI Crude Oil | $83.64 | 📈 +1.94% |
+| Nifty 50 | 25,349.65 | 📉 -1.75% |
+| India VIX | 17.70 | 📈 +2.19% |
+| S&P 500 (overnight) | 7,176.80 | 📉 -0.34% |
+| NASDAQ | 23,545.84 | 📉 -0.79% |
+| WTI Crude Oil | $83.66 | 📈 +1.96% |
 | USD / INR | 92.2200 | 📉 -0.75% |
 
 **Key Factors:**
 - VIX 17.7 — Moderate 🟡 (70% sizing)
-- S&P 500 -0.70% — Negative overnight cues 📉
-- NASDAQ -1.46% — Tech bearish
-- Nifty +1.85% — Domestic market bullish
-- WTI Crude $83.64 (+1.94%) — Bullish for OILIETF 📈
+- S&P 500 -0.34% — Neutral
+- Nifty -1.75% — Domestic market bearish
+- WTI Crude $83.66 (+1.96%) — Bullish for OILIETF 📈
 - USD/INR 92.22 (-0.748%) — Dollar weakening → intl ETFs headwind
 
 ---
@@ -73,16 +75,16 @@ The strategy is currently "sitting on hands." While the market is green, stocks 
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 21.0 | RSI=79 (need 42–55) · Price +6.7% from EMA21 (need ±4%) · Score=21 (need ≥50) |
-| RELIANCE.NS | 21.0 | RSI=76 (need 42–55) · Price +4.4% from EMA21 (need ±4%) · Score=21 (need ≥50) |
-| HDFCBANK.NS | 8.5 | RSI=79 (need 42–55) · Price +7.8% from EMA21 (need ±4%) · Score=8 (need ≥50) |
+| ICICIBANK.NS | 24.2 | RSI=78 (need 42–55) · Score=24 (need ≥50) |
+| HDFCBANK.NS | 24.2 | RSI=78 (need 42–55) · Price +5.0% from EMA21 (need ±4%) · Score=24 (need ≥50) |
+| RELIANCE.NS | 21.2 | RSI=73 (need 42–55) · Score=21 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| PIDILITIND.NS | 33.0 | RSI=66 (need 42–55) · Price +4.3% from EMA21 (need ±4%) · Score=33 (need ≥50) |
-| CDSL.NS | 27.0 | RSI=68 (need 42–55) · Score=27 (need ≥50) |
-| BAJFINANCE.NS | 21.0 | RSI=74 (need 42–55) · Price +6.5% from EMA21 (need ±4%) · Score=21 (need ≥50) |
+| PIDILITIND.NS | 36.2 | RSI=66 (need 42–55) · Score=36 (need ≥50) |
+| CDSL.NS | 27.8 | RSI=73 (need 42–55) · Score=28 (need ≥50) |
+| BAJFINANCE.NS | 21.2 | RSI=72 (need 42–55) · Score=21 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -94,17 +96,17 @@ The strategy is currently "sitting on hands." While the market is green, stocks 
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | PIDILITIND.NS | 33.0 | 66 | 🟢 | — | -0.1 | 👀 Watch |
-| 2 | CDSL.NS | 27.0 | 68 | 🟢 | ✅ | -0.7 | ⏸ Skip |
-| 3 | ICICIBANK.NS | 21.0 | 79 | 🟢 | — | 0.1 | ⏸ Skip |
-| 4 | RELIANCE.NS | 21.0 | 76 | 🟢 | — | -0.2 | ⏸ Skip |
-| 5 | BAJFINANCE.NS | 21.0 | 74 | 🟢 | — | 0.1 | ⏸ Skip |
-| 6 | ANGELONE.NS | 21.0 | 72 | 🟢 | — | -0.3 | ⏸ Skip |
-| 7 | HAVELLS.NS | 15.0 | 74 | 🟢 | — | -0.6 | ⏸ Skip |
-| 8 | HDFCBANK.NS | 8.5 | 79 | 🟢 | — | 0.4 | ⏸ Skip |
-| 9 | TITAN.NS | -4.5 | 56 | 🟢 | — | -0.3 | ⏸ Skip |
-| 10 | KEI.NS | -58.5 | 39 | 🔴 | — | 0.2 | ⏸ Skip |
-| 11 | POLYCAB.NS | -63.5 | 37 | 🔴 | — | 0.7 | ⏸ Skip |
+| 1 | PIDILITIND.NS | 36.2 | 66 | 🟢 | ✅ | 1.2 | 👀 Watch |
+| 2 | CDSL.NS | 27.8 | 73 | 🟢 | ✅ | -0.5 | ⏸ Skip |
+| 3 | ICICIBANK.NS | 24.2 | 78 | 🟢 | ✅ | 0.5 | ⏸ Skip |
+| 4 | HDFCBANK.NS | 24.2 | 78 | 🟢 | — | 0.8 | ⏸ Skip |
+| 5 | RELIANCE.NS | 21.2 | 73 | 🟢 | ✅ | -0.3 | ⏸ Skip |
+| 6 | BAJFINANCE.NS | 21.2 | 72 | 🟢 | ✅ | -0.0 | ⏸ Skip |
+| 7 | ANGELONE.NS | 21.2 | 74 | 🟢 | ✅ | -0.4 | ⏸ Skip |
+| 8 | HAVELLS.NS | 21.2 | 75 | 🟢 | — | -0.4 | ⏸ Skip |
+| 9 | TITAN.NS | -4.2 | 58 | 🟢 | — | -0.1 | ⏸ Skip |
+| 10 | KEI.NS | -40.2 | 47 | 🔴 | — | 0.2 | ⏸ Skip |
+| 11 | POLYCAB.NS | -66.2 | 37 | 🔴 | — | 0.5 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -121,6 +123,6 @@ The strategy is currently "sitting on hands." While the market is green, stocks 
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-25 23:47 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-26 01:14 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
