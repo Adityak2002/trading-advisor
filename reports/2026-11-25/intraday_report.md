@@ -1,34 +1,18 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-25
-
-The market is currently in a **"Wait and See"** phase. While several stocks have breached their opening range, none have met the strict volume requirements (≥1.8× average) necessary to trigger a high-probability breakout trade.
+Here is a high-level, actionable summary of today’s intraday report:
 
 ---
 
-### 🚀 Top Entry Candidates
-*Monitor these stocks closely for a sudden volume spike to confirm the breakout:*
-
-*   **POWERGRID.NS:** Strongest momentum (86.8). Currently trading above the opening high (₹266.75 vs ₹264.30). Needs a volume surge to confirm.
-*   **TMPV.NS:** Solid momentum (72.0). Trading above the opening high (₹262.10 vs ₹260.95). Awaiting volume confirmation.
-*   **ICICIBANK.NS & HDFCBANK.NS:** Both are currently "Inside Range." Keep these on your radar; if they break their respective opening highs with volume, they are prime candidates.
-
----
-
-### ⚠️ Critical Warnings & Rules
-*   **No Volume = No Trade:** Do not enter a position based on price movement alone. The 1.8× volume surge is your primary filter to avoid "fake-outs."
-*   **Strict Risk Cap:** You are capped at **₹100 loss per trade**. If the price hits your stop loss (-0.4%), exit immediately—do not hope for a reversal.
-*   **Hard Exit:** All positions must be closed by **15:10 IST**. No exceptions.
-*   **Position Limit:** Do not exceed **2 active trades** simultaneously to maintain capital control.
-*   **Trailing Stop:** Once a trade hits +0.5% profit, move your stop loss to breakeven to protect your capital.
-
-**Bottom Line:** The setup is building, but the market lacks the conviction (volume) to trigger an entry right now. **Patience is your best strategy.**
+### 🌐 **Market Context**
+* **Selective Momentum:** Market activity is mostly range-bound. Out of 12 key stocks, only 2 broke out to the upside and 2 broke down, while 8 remained trapped in their initial opening range.
+* **Lack of Volume:** While a couple of stocks cleared their opening price targets, overall trading volume remains too low across the board to safely confirm strong upward trends.
 
 ---
 
 # 📈 Intraday Report — 2026-11-25
 
-> Auto-generated at **19:16 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:44 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
