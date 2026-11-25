@@ -1,18 +1,33 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s intraday report:
+### 📊 Market Pulse: November 25, 2026
+
+The market is currently showing **low conviction**. While a few stocks have breached their opening ranges, the critical "Volume Surge" required for a high-probability trade is missing across the board.
 
 ---
 
-### 🌐 **Market Context**
-* **Selective Momentum:** Market activity is mostly range-bound. Out of 12 key stocks, only 2 broke out to the upside and 2 broke down, while 8 remained trapped in their initial opening range.
-* **Lack of Volume:** While a couple of stocks cleared their opening price targets, overall trading volume remains too low across the board to safely confirm strong upward trends.
+### 🚀 Top Entry Candidates (Watchlist)
+Despite some movement, **no stocks currently meet all entry criteria.** Here is the breakdown of the top performers:
+
+*   **TMPV.NS & POWERGRID.NS:** Both have "Broken Out" above their morning highs with strong momentum. However, **Volume is weak (0.8x)**, failing the required 1.8x surge. *Action: Do not enter yet; wait for a volume spike.*
+*   **ICICIBANK.NS & HDFCBANK.NS:** These are the "ones to watch." They are trading near their highs with positive momentum. If they break their resistance with heavy volume, they become primary buy targets.
+*   **ADANIENT.NS & INFY.NS:** Avoid these. They have "Broken Down" below their opening lows, signaling significant selling pressure.
+
+---
+
+### ⚠️ Critical Warnings & Action Plan
+*   **No Valid Buy Signal:** The strategy requires **Price Breakout + Volume Surge.** Currently, we have the price move but not the volume. **Stay on the sidelines** to protect your capital.
+*   **Strict Risk Cap:** Your maximum loss is capped at **₹100 per trade**. Never manually override your Stop Loss.
+*   **The 15:10 Rule:** All positions must be closed by **3:10 PM IST**. Do not carry any trades overnight, regardless of profit or loss.
+*   **Quality over Quantity:** With only ₹5,000 capital, focus on a maximum of **2 high-quality trades**. Over-trading will erode your balance through brokerage fees.
+
+**Bottom Line:** A "No Trade" day is better than a "Losing Trade" day. Wait for the volume to confirm the move.
 
 ---
 
 # 📈 Intraday Report — 2026-11-25
 
-> Auto-generated at **20:44 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:07 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
