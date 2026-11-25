@@ -6,7 +6,7 @@ AI Summary unavailable (All Gemini models failed).
 
 # 📈 Intraday Report — 2026-11-25
 
-> Auto-generated at **23:10 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:58 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
