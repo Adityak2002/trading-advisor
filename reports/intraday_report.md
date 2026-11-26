@@ -1,30 +1,15 @@
 # 🤖 Gemini AI Insights
 
-### 📊 **Market Pulse & Action Plan**
+Here is a high-level, actionable summary of today’s trading report:
 
-The market is showing a clear split: **IT stocks are surging** with strong momentum, while Banking stocks are dragging and breaking below their opening levels. Despite several breakouts, only one stock truly met our strict "High Volume" criteria for a high-probability trade.
-
----
-
-### 🚀 **Top Entry Candidate**
-*   **TCS.NS (Top Pick):** The standout performer. It broke its opening high with a **2.1× volume surge** (exceeding our 1.8× requirement) and boasts a near-perfect momentum score of 96. This is the highest-quality setup on the board.
-
----
-
-### 👁️ **Stocks on the Radar (Near Breakout)**
-*   **WIPRO.NS & TMPV.NS:** Both are currently "Inside Range" but trading within pennies of their opening highs. If they break above **₹196.97** and **₹262.10** respectively with a sudden spike in volume, they become immediate buys.
-*   **INFY.NS:** While the price has broken out, the volume (1.1×) is currently too weak to confirm a "strong" move. Wait for more buying pressure before committing.
-
----
-
-### ⚠️ **Critical Warnings & Risk Rules**
-*   **Avoid the "Lagg
+### 📈 Market Context
+* **Sector Split:** Strong bullish momentum in **Tech/IT** (TCS
 
 ---
 
 # 📈 Intraday Report — 2026-11-26
 
-> Auto-generated at **18:56 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
