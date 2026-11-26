@@ -1,52 +1,51 @@
 # 🤖 Gemini AI Insights
 
-### **Market Summary: November 26, 2026**
+### 📊 Trading Summary: 2026-11-26
 
-#### **🌍 Market Context: "Proceed with Caution"**
-*   **Signal:** 🟡 **Mildly Bearish.** The domestic market is under pressure, with the Nifty 50 dropping **-1.75%**.
-*   **Volatility:** India VIX has risen to **17.7**, suggesting increased fear. The strategy recommends reducing position sizes to **70%** if you do enter.
-*   **Global Headwinds:** US markets (S&P 500/NASDAQ) are down, and **Crude Oil is rising (+1.96%)**, which typically acts as a drag on Indian equities.
+The market is currently in a **"Wait and Watch"** phase. Your momentum pullback strategy requires stocks to cool off from recent rallies before entering; currently, most high-quality stocks are "overheated" (RSI too high), leaving your capital idle.
 
-#### **🎯 Entry Candidates: "Wait for the Dip"**
-*   **Current Status:** **No immediate buys.** All top-tier stocks are currently "too hot" (overbought) and haven't pulled back to the required entry zones.
-*   **Top Watchlist (Closest to Entry):**
-    *   **Pidilite (PIDILITIND.NS):** The strongest candidate (Score: 36.2), but needs its RSI to cool down from 66 to the 42–55 range.
-    *   **CDSL.NS:** Showing momentum but currently too expensive to buy safely.
-    *   **Banking (ICICI/HDFC):** Both are showing strong long-term scores but are significantly overextended. **Do not chase these prices.**
+#### **Market Context**
+*   **Sentiment:** Mildly Bullish, but cautious.
+*   **Volatility:** India VIX is at 16.8, suggesting moderate market swings.
+*   **Global Cues:** Weakness in US markets (S&P 500/NASDAQ) and a strengthening WTI Crude Oil price are acting as headwinds.
+*   **Strategy Status:** 100% Cash. No trades were triggered today because the market is currently too "expensive" for your entry criteria.
 
-#### **⚠️ Critical Warnings & Actions**
-*   **Action:** **Stay in Cash.** Your capital (₹10,000) is 100% idle. This is the correct move during a -1.75% market dump.
-*   **Risk Alert:** The "Momentum Pullback" strategy requires a specific dip to buy safely. Currently, stocks are either crashing (like Polycab) or haven't dipped enough (like Pidilite). 
-*   **Portfolio Health:** You have no open positions. After a previous loss, the priority is **capital preservation** until the Nifty stabilizes.
+#### **Top Entry Candidates (Monitor Only)**
+*   **BAJFINANCE.NS:** The closest candidate to an entry. It is currently the most reasonably priced relative to its moving average, but the RSI (65) is still too high for your "pullback" buy zone (42–55).
+*   **PIDILITIND.NS & HAVELLS.NS:** Strong fundamental performers, but currently trending too high. Keep these on your radar for a potential dip.
 
-**Bottom Line:** The market is currently "falling knives" or "overpriced." Keep your cash in the bank and wait for the RSI to cool down on the watchlist stocks.
+#### **Critical Warnings & Strategy Notes**
+*   **Avoid "FOMO" Buying:** Your strategy specifically targets stocks that have pulled back to their 21-day EMA. Buying now would mean chasing a rally, which increases your risk of a "stop-loss hit" (as seen in your previous trade).
+*   **Patience is Key:** Your current "Score" threshold is 50. All candidates are currently below this, confirming that the market is not offering a high-probability setup today.
+*   **Previous Performance:** Your last trade resulted in a ~7% loss. This reinforces the need to strictly adhere to the **RSI 42–55** and **EMA21** entry rules to ensure you aren't buying at the top.
+
+**Action Plan:** Keep the capital idle. Wait for a broader market correction or a cooling-off period where RSI levels drop into your target range.
 
 ---
 
 # 📈 Stock Delivery Report — 2026-11-26
-> *Auto-generated at 01:14 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+> *Auto-generated at 18:52 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bearish — Prefer staying light
+**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,349.65 | 📉 -1.75% |
-| India VIX | 17.70 | 📈 +2.19% |
-| S&P 500 (overnight) | 7,176.80 | 📉 -0.34% |
-| NASDAQ | 23,545.84 | 📉 -0.79% |
-| WTI Crude Oil | $83.66 | 📈 +1.96% |
-| USD / INR | 92.2200 | 📉 -0.75% |
+| Nifty 50 | 25,884.50 | 📈 +0.25% |
+| India VIX | 16.84 | 📉 -4.73% |
+| S&P 500 (overnight) | 7,182.78 | 📉 -0.25% |
+| NASDAQ | 23,585.80 | 📉 -0.62% |
+| WTI Crude Oil | $84.56 | 📈 +1.05% |
+| USD / INR | 92.5400 | 📉 -0.29% |
 
 **Key Factors:**
-- VIX 17.7 — Moderate 🟡 (70% sizing)
-- S&P 500 -0.34% — Neutral
-- Nifty -1.75% — Domestic market bearish
-- WTI Crude $83.66 (+1.96%) — Bullish for OILIETF 📈
-- USD/INR 92.22 (-0.748%) — Dollar weakening → intl ETFs headwind
+- VIX 16.8 — Moderate 🟡 (70% sizing)
+- S&P 500 -0.25% — Neutral
+- WTI Crude $84.56 (+1.05%) — Neutral for OILIETF
+- USD/INR 92.54 (-0.287%) — Dollar weakening → intl ETFs headwind
 
 ---
 ## 💼 Portfolio Status — Stock Delivery
@@ -75,16 +74,16 @@
 #### 📁 Long-Term Hold Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| ICICIBANK.NS | 24.2 | RSI=78 (need 42–55) · Score=24 (need ≥50) |
-| HDFCBANK.NS | 24.2 | RSI=78 (need 42–55) · Price +5.0% from EMA21 (need ±4%) · Score=24 (need ≥50) |
-| RELIANCE.NS | 21.2 | RSI=73 (need 42–55) · Score=21 (need ≥50) |
+| ICICIBANK.NS | 22.0 | RSI=73 (need 42–55) · Price +4.4% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| RELIANCE.NS | 22.0 | RSI=79 (need 42–55) · Price +5.5% from EMA21 (need ±4%) · Score=22 (need ≥50) |
+| HDFCBANK.NS | 12.5 | RSI=79 (need 42–55) · Price +8.8% from EMA21 (need ±4%) · Score=12 (need ≥50) |
 
 #### 📁 Short-Term Fundamentally Strong Watchlist
 | Ticker | Score | Blocking Reason |
 |--------|-------|-----------------|
-| PIDILITIND.NS | 36.2 | RSI=66 (need 42–55) · Score=36 (need ≥50) |
-| CDSL.NS | 27.8 | RSI=73 (need 42–55) · Score=28 (need ≥50) |
-| BAJFINANCE.NS | 21.2 | RSI=72 (need 42–55) · Score=21 (need ≥50) |
+| BAJFINANCE.NS | 34.0 | RSI=65 (need 42–55) · Score=34 (need ≥50) |
+| PIDILITIND.NS | 28.0 | RSI=64 (need 42–55) · Score=28 (need ≥50) |
+| HAVELLS.NS | 28.0 | RSI=69 (need 42–55) · Score=28 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -96,17 +95,17 @@
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | PIDILITIND.NS | 36.2 | 66 | 🟢 | ✅ | 1.2 | 👀 Watch |
-| 2 | CDSL.NS | 27.8 | 73 | 🟢 | ✅ | -0.5 | ⏸ Skip |
-| 3 | ICICIBANK.NS | 24.2 | 78 | 🟢 | ✅ | 0.5 | ⏸ Skip |
-| 4 | HDFCBANK.NS | 24.2 | 78 | 🟢 | — | 0.8 | ⏸ Skip |
-| 5 | RELIANCE.NS | 21.2 | 73 | 🟢 | ✅ | -0.3 | ⏸ Skip |
-| 6 | BAJFINANCE.NS | 21.2 | 72 | 🟢 | ✅ | -0.0 | ⏸ Skip |
-| 7 | ANGELONE.NS | 21.2 | 74 | 🟢 | ✅ | -0.4 | ⏸ Skip |
-| 8 | HAVELLS.NS | 21.2 | 75 | 🟢 | — | -0.4 | ⏸ Skip |
-| 9 | TITAN.NS | -4.2 | 58 | 🟢 | — | -0.1 | ⏸ Skip |
-| 10 | KEI.NS | -40.2 | 47 | 🔴 | — | 0.2 | ⏸ Skip |
-| 11 | POLYCAB.NS | -66.2 | 37 | 🔴 | — | 0.5 | ⏸ Skip |
+| 1 | BAJFINANCE.NS | 34.0 | 65 | 🟢 | ✅ | -0.4 | 👀 Watch |
+| 2 | PIDILITIND.NS | 28.0 | 64 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 3 | HAVELLS.NS | 28.0 | 69 | 🟢 | ✅ | -1.1 | ⏸ Skip |
+| 4 | ICICIBANK.NS | 22.0 | 73 | 🟢 | — | -0.2 | ⏸ Skip |
+| 5 | RELIANCE.NS | 22.0 | 79 | 🟢 | — | -0.1 | ⏸ Skip |
+| 6 | CDSL.NS | 22.0 | 71 | 🟢 | — | 0.1 | ⏸ Skip |
+| 7 | TITAN.NS | 14.5 | 44 | 🟢 | — | -0.3 | ⏸ Skip |
+| 8 | HDFCBANK.NS | 12.5 | 79 | 🟢 | — | 1.4 | ⏸ Skip |
+| 9 | ANGELONE.NS | 9.5 | 74 | 🟢 | — | -0.1 | ⏸ Skip |
+| 10 | POLYCAB.NS | -62.5 | 33 | 🔴 | — | 0.7 | ⏸ Skip |
+| 11 | KEI.NS | -76.0 | 32 | 🔴 | — | 1.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -123,6 +122,6 @@
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-26 01:14 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-26 18:52 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
