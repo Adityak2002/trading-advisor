@@ -2,30 +2,28 @@
 
 ### 📊 Market Analysis Summary: 2026-11-26
 
-The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the strategy is filtering for high-conviction volume surges to avoid "fake-outs."
+The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening range, the automated system has not triggered an entry because the volume criteria (the "fuel" for the breakout) are not yet fully aligned across the board.
 
-#### 🚀 Top Entry Candidates
-*   **TCS.NS (The Primary Lead):** The strongest candidate. It has broken the opening high with a significant **2.1× volume surge** and high momentum (96). This is the most actionable setup currently on the board.
-*   **INFY.NS & HDFCBANK.NS:** Both have cleared their opening highs with solid momentum. While their volume surge is lower than TCS, they remain on the "Watchlist" for potential entry if volume picks up.
+#### 🚀 Top Entry Candidates (Watchlist)
+These stocks have the strongest momentum and are currently trading above their opening highs. Keep these on your radar for a potential volume spike:
+*   **TCS.NS:** Strongest momentum (96.3) and the only stock currently meeting the volume surge criteria (2.1×). This is your primary candidate.
+*   **INFY.NS:** Solid momentum (93.8); keep an eye on volume to confirm the breakout.
+*   **HDFCBANK.NS:** Stable momentum (76.6); currently testing the breakout level.
 
-#### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The system has not triggered an entry yet. Do not force a trade; wait for the specific volume criteria (≥1.8× average) to be met.
-*   **Avoid "Broken Down" Stocks:** BAJFINANCE, AXISBANK, and ICICIBANK are showing bearish momentum. Do not attempt to "buy the dip" on these tickers.
-*   **Strict Discipline:** 
-    *   **Max 2 Trades:** Do not exceed two concurrent positions.
-    *   **Hard Stop:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
+#### ⚠️ Critical Warnings & Risk Rules
+*   **Volume is King:** Do not force a trade. The strategy requires a **1.8× volume surge** to confirm a breakout. Without this, the risk of a "fake-out" is high.
+*   **Strict Risk Cap:** You are limited to a **maximum of 2 concurrent trades**. Do not over-leverage.
+*   **Hard Stop-Loss:** If a trade moves against you, exit immediately at the **-0.4%** mark. Never "hope" for a recovery.
+*   **The 15:10 Rule:** All positions must be closed by 15:10 IST. No exceptions.
+*   **Trailing Stop:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
 
-#### 💡 Action Plan
-1.  **Monitor TCS.NS:** This is your lead indicator. If it sustains above the opening high, it is your primary candidate.
-2.  **Verify Volume:** Only enter if the volume surge is confirmed. If the price breaks out without the volume spike, ignore the signal.
-3.  **Stay Patient:** The "Inside Range" stocks (WIPRO, TMPV) are currently neutral; wait for a clear directional breakout before taking action.
+**Bottom Line:** The market is showing bullish intent, but wait for the volume confirmation before pulling the trigger. **TCS.NS** is the only stock currently showing the necessary strength to justify an entry.
 
 ---
 
 # 📈 Intraday Report — 2026-11-26
 
-> Auto-generated at **22:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:40 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
