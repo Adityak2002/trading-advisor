@@ -1,28 +1,31 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-26
+### 📊 Market Analysis Summary: 2026-11-26
 
-The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the strategy’s strict volume requirement (≥1.8× average) is filtering out most candidates, preventing premature entries.
+The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the strategy is filtering for high-conviction volume surges to avoid "fake-outs."
 
 #### 🚀 Top Entry Candidates
-*   **TCS.NS:** The strongest candidate. It has broken the opening high with a **2.1× volume surge** and high momentum (96). This is the primary watch for an immediate long position.
-*   **INFY.NS & HDFCBANK.NS:** Both have broken their opening highs, but volume is currently insufficient (1.1×–1.2×). Monitor for a sudden spike in buying pressure to confirm the move.
+*   **TCS.NS (The Primary Lead):** The strongest candidate. It has broken the opening high with a significant **2.1× volume surge** and high momentum (96). This is the most actionable setup currently on the board.
+*   **INFY.NS & HDFCBANK.NS:** Both have cleared their opening highs with solid momentum. While their volume surge is lower than TCS, they remain on the "Watchlist" for potential entry if volume picks up.
 
-#### ⚠️ Critical Warnings & Status
-*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume confirmation.
-*   **Avoid Shorting:** Despite some stocks breaking down (e.g., BAJFINANCE.NS), the strategy is currently optimized for **long-only breakouts**. Ignore breakdown signals.
-*   **Risk Discipline:** 
-    *   **Max Loss:** Hard cap of ₹100 per trade.
-    *   **Exposure:** Limit to a maximum of 2 concurrent positions.
-    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
+#### ⚠️ Critical Warnings & Risk Management
+*   **No Active Trades:** The system has not triggered an entry yet. Do not force a trade; wait for the specific volume criteria (≥1.8× average) to be met.
+*   **Avoid "Broken Down" Stocks:** BAJFINANCE, AXISBANK, and ICICIBANK are showing bearish momentum. Do not attempt to "buy the dip" on these tickers.
+*   **Strict Discipline:** 
+    *   **Max 2 Trades:** Do not exceed two concurrent positions.
+    *   **Hard Stop:** If you enter, your stop loss is fixed at **-0.4%**. Exit immediately if hit.
+    *   **Auto-Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
 
-**Action Plan:** Focus exclusively on **TCS.NS**. If volume holds, look for an entry above the opening high. If the momentum fades, remain in cash.
+#### 💡 Action Plan
+1.  **Monitor TCS.NS:** This is your lead indicator. If it sustains above the opening high, it is your primary candidate.
+2.  **Verify Volume:** Only enter if the volume surge is confirmed. If the price breaks out without the volume spike, ignore the signal.
+3.  **Stay Patient:** The "Inside Range" stocks (WIPRO, TMPV) are currently neutral; wait for a clear directional breakout before taking action.
 
 ---
 
 # 📈 Intraday Report — 2026-11-26
 
-> Auto-generated at **21:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **22:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
