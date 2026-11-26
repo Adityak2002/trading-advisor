@@ -1,15 +1,28 @@
 # 🤖 Gemini AI Insights
 
-Here is a high-level, actionable summary of today’s trading report:
+### 📊 Market Summary: 2026-11-26
 
-### 📈 Market Context
-* **Sector Split:** Strong bullish momentum in **Tech/IT** (TCS
+The market is currently in a **"Wait and See"** phase. While several stocks have cleared their opening range, the strategy’s strict volume requirement (≥1.8× average) is filtering out most candidates, preventing premature entries.
+
+#### 🚀 Top Entry Candidates
+*   **TCS.NS:** The strongest candidate. It has broken the opening high with a **2.1× volume surge** and high momentum (96). This is the primary watch for an immediate long position.
+*   **INFY.NS & HDFCBANK.NS:** Both have broken their opening highs, but volume is currently insufficient (1.1×–1.2×). Monitor for a sudden spike in buying pressure to confirm the move.
+
+#### ⚠️ Critical Warnings & Status
+*   **No Active Trades:** The system has not triggered any entries yet. Do not force trades; wait for the volume confirmation.
+*   **Avoid Shorting:** Despite some stocks breaking down (e.g., BAJFINANCE.NS), the strategy is currently optimized for **long-only breakouts**. Ignore breakdown signals.
+*   **Risk Discipline:** 
+    *   **Max Loss:** Hard cap of ₹100 per trade.
+    *   **Exposure:** Limit to a maximum of 2 concurrent positions.
+    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
+
+**Action Plan:** Focus exclusively on **TCS.NS**. If volume holds, look for an entry above the opening high. If the momentum fades, remain in cash.
 
 ---
 
 # 📈 Intraday Report — 2026-11-26
 
-> Auto-generated at **20:09 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **21:39 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
