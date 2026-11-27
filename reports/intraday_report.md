@@ -2,27 +2,27 @@
 
 ### 📊 Market Summary: 2026-11-27
 
-The market is currently in a **bearish consolidation phase**. Most stocks in the watchlist have failed to break above their opening range, with several showing downward momentum and volume spikes on the downside.
+The market is currently exhibiting **bearish sentiment**, with the majority of the watchlist failing to hold their opening ranges. No stocks met the criteria for a "Buy" signal today, as the momentum remains weak across the board.
 
-#### 🚀 Top Entry Candidates (Watchlist)
-*   **RELIANCE.NS:** The only stock currently trading above its average price. It is the primary candidate to watch for a potential bullish breakout if it clears the ₹1,397.90 resistance.
-*   **POWERGRID.NS:** Currently trading just below its opening high (₹268.60). Keep on alert for a low-volatility breakout.
+#### 🎯 Top Entry Candidates (Watchlist)
+*   **RELIANCE.NS:** The only stock currently trading above its average price. It is hovering near its opening low; watch for a reversal and a breakout above the **₹1,397.90** opening high.
+*   **POWERGRID.NS:** Currently consolidating tightly within its opening range (₹266.00–₹268.60). A clean break above ₹268.60 with a volume spike is the trigger to watch.
 
 #### ⚠️ Critical Warnings & Risk Management
-*   **No Active Trades:** The strategy has triggered zero buy signals today. **Do not force trades.**
-*   **Bearish Bias:** Multiple stocks (ADANIENT, BAJFINANCE, TMPV) have broken below their opening lows with significant volume, signaling selling pressure. Avoid "bottom fishing" these stocks.
+*   **No Active Positions:** The strategy correctly stayed sidelined today due to lack of bullish confirmation. **Do not force trades** in a weak market.
+*   **Bearish Bias:** Several stocks (ADANIENT, BAJFINANCE, TMPV) showed significant volume on the downside, indicating selling pressure. Avoid "bottom fishing" these stocks.
 *   **Strict Discipline:** 
-    *   **Max 2 trades:** Do not exceed this limit if signals emerge.
-    *   **Hard Stop:** If you enter, your risk is capped at ₹100 per trade.
-    *   **Auto-Exit:** All positions must be closed by **15:10 IST** regardless of profit/loss.
+    *   **Max Risk:** Never exceed a ₹100 loss per trade.
+    *   **No Overnight:** All positions must be closed by 15:10 IST.
+    *   **Volume Rule:** Only enter if the breakout is accompanied by a volume surge of **≥1.8×** the average.
 
-**Bottom Line:** The market is currently showing more weakness than strength. Stay patient and wait for a clear, high-volume breakout above the opening high before deploying capital.
+**Bottom Line:** The market is in a "wait-and-see" mode. Focus exclusively on **RELIANCE** and **POWERGRID** for potential breakouts, but only if they clear their opening highs with strong volume.
 
 ---
 
 # 📈 Intraday Report — 2026-11-27
 
-> Auto-generated at **22:31 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **23:23 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
