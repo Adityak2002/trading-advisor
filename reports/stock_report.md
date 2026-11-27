@@ -1,50 +1,50 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Trading Summary: 2026-11-27
+### 📊 Trading Summary: 2026-11-28
 
-The market is currently showing a **"Cautious Bullish"** sentiment. While domestic indices (Nifty) are under pressure, strong overnight cues from US markets (S&P 500/NASDAQ) and a rising USD/INR provide a potential buffer for international-linked assets.
+The market is currently in a **"Wait and Watch"** phase. While global cues are bullish, your momentum-pullback strategy requires stocks to cool down from their current overbought levels before deploying capital.
 
-#### 🎯 Top Entry Candidate
-*   **BAJFINANCE.NS:** The only active recommendation today.
-    *   **Strategy:** Momentum Pullback.
-    *   **Action:** Buy **4 shares** at ~₹1,080.
-    *   **Risk Management:** Set a hard Stop-Loss at **₹998.50** and a Profit Target at **₹1,188.00**.
-    *   **Sizing:** Position size is restricted to **70%** of your allocation due to current market volatility (VIX).
+#### **Market Context**
+*   **Sentiment:** Bullish (Nifty +0.25%, strong overnight US market performance).
+*   **Volatility:** India VIX at 16.8 (Moderate); suggests cautious position sizing (70% of capital).
+*   **Currency:** USD/INR is rising (+0.81%), which typically favors international-linked assets.
 
-#### ⚠️ Critical Warnings & Strategy Notes
-*   **Market Volatility:** The Nifty is down 1.07%. Do not over-leverage; stick strictly to the 70% capital allocation rule provided in the report.
-*   **Watchlist:** Keep an eye on **HAVELLS.NS** and **PIDILITIND.NS**. They are currently in the "Watch" phase—if they show further price stabilization, they may become viable entries in the next session.
-*   **Performance Check:** Your previous trade resulted in a loss (-7.14%). Ensure you are strictly adhering to the Stop-Loss levels to prevent further capital erosion.
-*   **Execution:** All trades are manual. Ensure you place your GTT (Good Till Triggered) orders immediately after buying to automate your exit strategy.
+#### **Top Entry Candidates**
+*   **Primary Watch:** **BAJFINANCE.NS** is your closest candidate. It is currently the highest-ranked stock, but it is still too "hot" (RSI 65). 
+*   **Strategy Note:** You are waiting for an RSI dip into the **42–55 range** and a price correction closer to the **21-day EMA**. Do not force entries while these stocks are extended.
 
-**Bottom Line:** The market is choppy. Focus on capital preservation by respecting the Stop-Loss on the Bajaj Finance trade. If the Nifty continues to slide tomorrow, hold off on new entries.
+#### **Critical Warnings & Status**
+*   **Capital Status:** 100% Cash (₹10,000). No active positions.
+*   **Overbought Alert:** Most of your watchlist (ICICIBANK, RELIANCE, HDFCBANK) is currently overextended with RSI levels between 73–79. Buying now would violate your "Momentum Pullback" discipline.
+*   **Performance Check:** Your previous trade resulted in a loss (-7.14%). Ensure your stop-loss discipline remains strict as you look for the next entry.
+
+**Action Plan:** Stay patient. The current market is trending upward, but your strategy specifically requires a **pullback** to enter safely. Keep monitoring the watchlist for the RSI to drop below 55.
 
 ---
 
-# 📈 Stock Delivery Report — 2026-11-27
-> *Auto-generated at 23:13 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
+# 📈 Stock Delivery Report — 2026-11-28
+> *Auto-generated at 00:48 IST | 2-hour scan during market hours (9:30–15:30 IST)*  
 > *Strategy: Momentum Pullback | Capital: ₹10,000 | Hold: ~20 days | Manual execution on Groww*
 
 ---
 ## 🌍 Market Context
 
-**Overall Signal:** 🟡 Mildly Bullish — Proceed with caution
+**Overall Signal:** 🟢 Bullish — Good day for entries
 
 | Index / Asset | Level | Change |
 |---------------|-------|--------|
-| Nifty 50 | 25,607.20 | 📉 -1.07% |
-| India VIX | 16.55 | 📉 -1.75% |
-| S&P 500 (overnight) | 7,278.28 | 📈 +1.33% |
-| NASDAQ | 24,013.25 | 📈 +1.81% |
-| WTI Crude Oil | $82.73 | 📉 -1.14% |
+| Nifty 50 | 25,884.50 | 📈 +0.25% |
+| India VIX | 16.84 | 📉 -4.70% |
+| S&P 500 (overnight) | 7,297.49 | 📈 +1.60% |
+| NASDAQ | 24,129.50 | 📈 +2.31% |
+| WTI Crude Oil | $83.06 | 📉 -0.74% |
 | USD / INR | 92.9800 | 📈 +0.81% |
 
 **Key Factors:**
-- VIX 16.5 — Moderate 🟡 (70% sizing)
-- S&P 500 +1.33% — Positive overnight cues 📈
-- NASDAQ +1.81% — Tech bullish (N100/MAFANG +ve)
-- Nifty -1.07% — Domestic market bearish
-- WTI Crude $82.73 (-1.14%) — Neutral for OILIETF
+- VIX 16.8 — Moderate 🟡 (70% sizing)
+- S&P 500 +1.60% — Positive overnight cues 📈
+- NASDAQ +2.31% — Tech bullish (N100/MAFANG +ve)
+- WTI Crude $83.06 (-0.74%) — Neutral for OILIETF
 - USD/INR 92.98 (+0.805%) — Dollar rising → intl ETFs gain in INR terms 📈
 
 ---
@@ -67,43 +67,23 @@ The market is currently showing a **"Cautious Bullish"** sentiment. While domest
 ---
 ## 🎯 Entry Candidates
 
-### 📁 Category A: Long-Term Hold
-Premium, highly stable blue-chip companies suitable for longer holding periods.
+*No entry candidates right now. All conditions not met or max positions reached.*
 
-*No long-term candidates currently meeting entry conditions.*
+**🔍 Monitor These (Getting Closer):**
 
-### 📁 Category B: Short-Term Fundamentally Strong
-High-growth quality stocks entering a strong pullback/momentum setup.
+#### 📁 Long-Term Hold Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| ICICIBANK.NS | 23.8 | RSI=73 (need 42–55) · Price +4.4% from EMA21 (need ±4%) · Score=24 (need ≥50) |
+| RELIANCE.NS | 23.8 | RSI=79 (need 42–55) · Price +5.5% from EMA21 (need ±4%) · Score=24 (need ≥50) |
+| HDFCBANK.NS | 14.2 | RSI=79 (need 42–55) · Price +8.8% from EMA21 (need ±4%) · Score=14 (need ≥50) |
 
-#### #1 — BAJFINANCE.NS
-**Action Rating:** Moderate (Score: 63.5/100)
-
-> ⚠️ Position size reduced to **70%** due to elevated market volatility (VIX)
-
-| Action Details | Value | Notes |
-|---|---|---|
-| 🟢 **Buy Price** | **₹1,080.00** | Buy at market or limit |
-| **Shares to Buy** | **4** | Sized to limit your risk |
-| **Investment Amount** | **₹4,320.00** | Total capital to deploy |
-| 🎯 **Target Price (+10%)** | **₹1,188.00** | Target exit for profit |
-| 🛑 **Stop-Loss** | **₹998.50** | Hard exit to cut losses |
-| Max Risk | ₹326.00 | Only 7.55% of investment at risk |
-| Holding Time | ~20 trading days (~4 weeks) | Expected duration |
-
-**Simple Buying Checklist:**
-- ✅ Stock is not too expensive / overbought *(Momentum RSI: 51.8)*
-- ✅ Medium-term trend is upward *(EMA21: ₹1,066.74 > EMA50: ₹1,036.08)*
-- ✅ Price is in a good buying zone (near 21-day average) *(distance: +1.24%)*
-- ✅ No panic selling / volume is stable *(Volume multiplier: -0.64)*
-- ✅ Overall setup is strong *(Score: 63.5/100)*
-- ✅ Overall market trend is stable (Nifty above 20-day average)
-- ✅ Sector is performing well compared to Nifty
-
-> **Action on Groww:**
-> 1. Search `BAJFINANCE` ➔ Buy **4 shares** at market
-> 2. Immediately place GTT sell order at **₹1,188.00** (Target)
-> 3. Place GTT Stop-Loss sell order at **₹998.50**
-> 4. Run `python scripts/update_position.py --mode stock` to log this trade
+#### 📁 Short-Term Fundamentally Strong Watchlist
+| Ticker | Score | Blocking Reason |
+|--------|-------|-----------------|
+| BAJFINANCE.NS | 35.8 | RSI=65 (need 42–55) · Score=36 (need ≥50) |
+| PIDILITIND.NS | 29.8 | RSI=64 (need 42–55) · Score=30 (need ≥50) |
+| HAVELLS.NS | 29.8 | RSI=69 (need 42–55) · Score=30 (need ≥50) |
 
 ---
 ## 📰 News & Sentiment
@@ -115,17 +95,17 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 
 | # | Ticker | Score | RSI | EMA Align | Near EMA21 | Vol-Z | Action |
 |---|--------|-------|-----|-----------|------------|-------|--------|
-| 1 | HAVELLS.NS | 67.5 | 61 | 🟢 | ✅ | -0.3 | 👀 Watch |
-| 2 | BAJFINANCE.NS | 63.5 | 52 | 🟢 | ✅ | -0.6 | 🎯 ENTRY |
-| 3 | PIDILITIND.NS | 51.5 | 57 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 4 | ICICIBANK.NS | 41.5 | 64 | 🟢 | ✅ | -0.9 | 👀 Watch |
-| 5 | CDSL.NS | 26.0 | 71 | 🟢 | — | 1.3 | ⏸ Skip |
-| 6 | RELIANCE.NS | 17.0 | 72 | 🟢 | — | -0.5 | ⏸ Skip |
-| 7 | ANGELONE.NS | 13.5 | 75 | 🟢 | — | 1.5 | ⏸ Skip |
-| 8 | HDFCBANK.NS | 4.5 | 75 | 🟢 | — | -0.6 | ⏸ Skip |
-| 9 | TITAN.NS | -2.5 | 42 | 🟢 | — | 0.4 | ⏸ Skip |
-| 10 | KEI.NS | -61.5 | 35 | 🔴 | — | 1.2 | ⏸ Skip |
-| 11 | POLYCAB.NS | -64.5 | 38 | 🔴 | — | 0.2 | ⏸ Skip |
+| 1 | BAJFINANCE.NS | 35.8 | 65 | 🟢 | ✅ | -0.4 | 👀 Watch |
+| 2 | PIDILITIND.NS | 29.8 | 64 | 🟢 | ✅ | -1.0 | ⏸ Skip |
+| 3 | HAVELLS.NS | 29.8 | 69 | 🟢 | ✅ | -1.1 | ⏸ Skip |
+| 4 | ICICIBANK.NS | 23.8 | 73 | 🟢 | — | -0.2 | ⏸ Skip |
+| 5 | RELIANCE.NS | 23.8 | 79 | 🟢 | — | -0.1 | ⏸ Skip |
+| 6 | CDSL.NS | 23.8 | 71 | 🟢 | — | 0.1 | ⏸ Skip |
+| 7 | TITAN.NS | 16.2 | 44 | 🟢 | — | -0.3 | ⏸ Skip |
+| 8 | HDFCBANK.NS | 14.2 | 79 | 🟢 | — | 1.4 | ⏸ Skip |
+| 9 | ANGELONE.NS | 11.2 | 74 | 🟢 | — | -0.1 | ⏸ Skip |
+| 10 | POLYCAB.NS | -60.8 | 33 | 🔴 | — | 0.7 | ⏸ Skip |
+| 11 | KEI.NS | -74.2 | 32 | 🔴 | — | 1.6 | ⏸ Skip |
 
 ---
 ## 📈 Strategy Performance — Stock Delivery (Closed Trades)
@@ -142,6 +122,6 @@ High-growth quality stocks entering a strong pullback/momentum setup.
 | Exit Breakdown | STOP_HIT: 1 |
 
 ---
-*Generated by Trading Advisory System v2.0 | 2026-11-27 23:13 IST*  
+*Generated by Trading Advisory System v2.0 | 2026-11-28 00:48 IST*  
 *Mode: Stock Delivery | ⚠️ Personal research tool only. Not SEBI-registered advice.*  
 *All decisions are manual. STCG tax (20%) applies on gains held < 1 year.*
