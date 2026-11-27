@@ -1,29 +1,34 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Analysis Summary: 2026-11-26
+### 📊 Market Summary: 2026-11-27
 
-The market is currently in a **"Wait and See"** phase. While several stocks have technically cleared their opening range, the automated system has not triggered an entry because the volume criteria (the "fuel" for the breakout) are not yet fully aligned across the board.
-
-#### 🚀 Top Entry Candidates (Watchlist)
-These stocks have the strongest momentum and are currently trading above their opening highs. Keep these on your radar for a potential volume spike:
-*   **TCS.NS:** Strongest momentum (96.3) and the only stock currently meeting the volume surge criteria (2.1×). This is your primary candidate.
-*   **INFY.NS:** Solid momentum (93.8); keep an eye on volume to confirm the breakout.
-*   **HDFCBANK.NS:** Stable momentum (76.6); currently testing the breakout level.
-
-#### ⚠️ Critical Warnings & Risk Rules
-*   **Volume is King:** Do not force a trade. The strategy requires a **1.8× volume surge** to confirm a breakout. Without this, the risk of a "fake-out" is high.
-*   **Strict Risk Cap:** You are limited to a **maximum of 2 concurrent trades**. Do not over-leverage.
-*   **Hard Stop-Loss:** If a trade moves against you, exit immediately at the **-0.4%** mark. Never "hope" for a recovery.
-*   **The 15:10 Rule:** All positions must be closed by 15:10 IST. No exceptions.
-*   **Trailing Stop:** Once a trade hits **+0.5% profit**, move your stop-loss to your entry price (breakeven) to protect your capital.
-
-**Bottom Line:** The market is showing bullish intent, but wait for the volume confirmation before pulling the trigger. **TCS.NS** is the only stock currently showing the necessary strength to justify an entry.
+The market is currently in a **bearish consolidation phase**. Most stocks in the watchlist have broken below their opening range, indicating selling pressure. There are currently **zero active buy signals** as no stock has managed to break above its opening high with the required volume surge.
 
 ---
 
-# 📈 Intraday Report — 2026-11-26
+### 🎯 Top Entry Candidates (Watchlist)
+*These stocks are currently "inside the range" and are the only ones worth monitoring for a potential bullish breakout:*
 
-> Auto-generated at **23:40 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+*   **RELIANCE.NS:** The strongest candidate. It is the only stock trading above its average price, showing relative strength despite the broader market weakness.
+*   **POWERGRID.NS:** Closest to its opening high (trading at ₹268.20 vs. high of ₹268.60). A minor move could trigger a breakout.
+
+---
+
+### ⚠️ Critical Warnings & Risk Management
+*   **No Trades Today:** Do not force entries. The current market environment is favoring sellers (breakdowns), not buyers.
+*   **Avoid "Falling Knives":** Stocks like **ADANIENT.NS** and **BAJFINANCE.NS** show high volume on the *downside*. Do not attempt to "buy the dip" on these; they are currently failing the strategy criteria.
+*   **Strict Discipline:** 
+    *   **Max 2 trades:** If a signal appears, do not exceed two concurrent positions.
+    *   **Risk Cap:** Ensure your stop-loss is set to exit at a maximum loss of ₹100 per trade.
+    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
+
+**Bottom Line:** Stay on the sidelines. Wait for a clear, high-volume breakout above the opening high before deploying any capital.
+
+---
+
+# 📈 Intraday Report — 2026-11-27
+
+> Auto-generated at **18:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
@@ -40,18 +45,18 @@ These stocks have the strongest momentum and are currently trading above their o
 
 | Ticker | Price (₹) | Breakout Status | Action Score | Momentum | Above Average Price? | Volume Surge | Entry? |
 |--------|-----------|-----------------|--------------|----------|----------------------|--------------|--------|
-| **TCS.NS** | ₹2,640.30 | 🔼 Broken Out 🔼 | 29.5/100 | 96 | ✅ Yes | 2.1× | — |
-| **INFY.NS** | ₹1,183.00 | 🔼 Broken Out 🔼 | 19.0/100 | 94 | ✅ Yes | 1.1× | — |
-| **HDFCBANK.NS** | ₹862.00 | 🔼 Broken Out 🔼 | 16.1/100 | 77 | ✅ Yes | 1.2× | — |
-| **RELIANCE.NS** | ₹1,396.20 | 🔼 Broken Out 🔼 | 14.5/100 | 80 | ✅ Yes | 0.6× | — |
-| **WIPRO.NS** | ₹196.54 | ▶ Inside Range ▶ | 12.2/100 | 69 | ✅ Yes | — | — |
-| **TMPV.NS** | ₹262.00 | ▶ Inside Range ▶ | 5.3/100 | 81 | ✅ Yes | — | — |
-| **POWERGRID.NS** | ₹266.95 | ▶ Inside Range ▶ | 2.6/100 | 59 | ❌ No | — | — |
-| **ADANIENT.NS** | ₹2,660.00 | ▶ Inside Range ▶ | 2.5/100 | 56 | ❌ No | — | — |
-| **SBIN.NS** | ₹1,136.65 | ▶ Inside Range ▶ | -1.9/100 | 45 | ❌ No | — | — |
-| **BAJFINANCE.NS** | ₹1,097.85 | 🔽 Broken Down 🔽 | -15.8/100 | 24 | ❌ No | 2.2× | — |
-| **AXISBANK.NS** | ₹1,408.00 | 🔽 Broken Down 🔽 | -16.2/100 | 57 | ❌ No | 1.6× | — |
-| **ICICIBANK.NS** | ₹1,611.00 | 🔽 Broken Down 🔽 | -20.2/100 | 55 | ❌ No | 0.8× | — |
+| **POWERGRID.NS** | ₹268.20 | ▶ Inside Range ▶ | 2.3/100 | 43 | ❌ No | — | — |
+| **RELIANCE.NS** | ₹1,382.60 | ▶ Inside Range ▶ | 1.5/100 | 51 | ✅ Yes | — | — |
+| **TCS.NS** | ₹2,572.50 | ▶ Inside Range ▶ | -8.2/100 | 27 | ❌ No | — | — |
+| **WIPRO.NS** | ₹192.10 | ▶ Inside Range ▶ | -9.7/100 | 25 | ❌ No | — | — |
+| **ADANIENT.NS** | ₹2,640.40 | 🔽 Broken Down 🔽 | -10.4/100 | 61 | ❌ No | 1.9× | — |
+| **BAJFINANCE.NS** | ₹1,080.00 | 🔽 Broken Down 🔽 | -12.2/100 | 40 | ❌ No | 2.3× | — |
+| **HDFCBANK.NS** | ₹857.25 | ▶ Inside Range ▶ | -13.7/100 | 23 | ❌ No | — | — |
+| **TMPV.NS** | ₹258.00 | 🔽 Broken Down 🔽 | -13.8/100 | 15 | ❌ No | 7.2× | — |
+| **ICICIBANK.NS** | ₹1,593.40 | 🔽 Broken Down 🔽 | -17.0/100 | 53 | ❌ No | 0.8× | — |
+| **INFY.NS** | ₹1,151.30 | 🔽 Broken Down 🔽 | -22.8/100 | 10 | ❌ No | 1.2× | — |
+| **SBIN.NS** | ₹1,123.90 | 🔽 Broken Down 🔽 | -22.8/100 | 29 | ❌ No | 1.1× | — |
+| **AXISBANK.NS** | ₹1,380.10 | 🔽 Broken Down 🔽 | -26.8/100 | 34 | ❌ No | 0.5× | — |
 
 ---
 
@@ -65,12 +70,11 @@ These stocks have the strongest momentum and are currently trading above their o
 
 | Ticker | Current Price | Opening High | Opening Low | Momentum | Above Average Price? |
 |--------|--------------|--------------|-------------|----------|----------------------|
-| TCS.NS | ₹2,640.30 | ₹2589.50 | ₹2530.70 | 96.3 | 🟢 Yes |
-| INFY.NS | ₹1,183.00 | ₹1166.50 | ₹1151.00 | 93.8 | 🟢 Yes |
-| HDFCBANK.NS | ₹862.00 | ₹855.95 | ₹845.75 | 76.6 | 🟢 Yes |
-| RELIANCE.NS | ₹1,396.20 | ₹1373.80 | ₹1362.00 | 80.1 | 🟢 Yes |
-| WIPRO.NS | ₹196.54 | ₹196.97 | ₹191.90 | 69.5 | 🟢 Yes |
-| TMPV.NS | ₹262.00 | ₹262.10 | ₹260.30 | 81.2 | 🟢 Yes |
+| POWERGRID.NS | ₹268.20 | ₹268.60 | ₹266.00 | 42.7 | 🔴 No |
+| RELIANCE.NS | ₹1,382.60 | ₹1397.90 | ₹1382.80 | 51.1 | 🟢 Yes |
+| TCS.NS | ₹2,572.50 | ₹2628.10 | ₹2564.80 | 27.0 | 🔴 No |
+| WIPRO.NS | ₹192.10 | ₹196.65 | ₹192.22 | 25.5 | 🔴 No |
+| HDFCBANK.NS | ₹857.25 | ₹864.45 | ₹858.00 | 22.7 | 🔴 No |
 
 ---
 
