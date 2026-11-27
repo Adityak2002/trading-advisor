@@ -1,34 +1,12 @@
 # 🤖 Gemini AI Insights
 
-### 📊 Market Summary: 2026-11-27
-
-The market is currently in a **bearish consolidation phase**. Most stocks in the watchlist have broken below their opening range, indicating selling pressure. There are currently **zero active buy signals** as no stock has managed to break above its opening high with the required volume surge.
-
----
-
-### 🎯 Top Entry Candidates (Watchlist)
-*These stocks are currently "inside the range" and are the only ones worth monitoring for a potential bullish breakout:*
-
-*   **RELIANCE.NS:** The strongest candidate. It is the only stock trading above its average price, showing relative strength despite the broader market weakness.
-*   **POWERGRID.NS:** Closest to its opening high (trading at ₹268.20 vs. high of ₹268.60). A minor move could trigger a breakout.
-
----
-
-### ⚠️ Critical Warnings & Risk Management
-*   **No Trades Today:** Do not force entries. The current market environment is favoring sellers (breakdowns), not buyers.
-*   **Avoid "Falling Knives":** Stocks like **ADANIENT.NS** and **BAJFINANCE.NS** show high volume on the *downside*. Do not attempt to "buy the dip" on these; they are currently failing the strategy criteria.
-*   **Strict Discipline:** 
-    *   **Max 2 trades:** If a signal appears, do not exceed two concurrent positions.
-    *   **Risk Cap:** Ensure your stop-loss is set to exit at a maximum loss of ₹100 per trade.
-    *   **Hard Exit:** All positions must be closed by **15:10 IST** regardless of profit or loss.
-
-**Bottom Line:** Stay on the sidelines. Wait for a clear, high-volume breakout above the opening high before deploying any capital.
+AI Summary unavailable (All Gemini models failed).
 
 ---
 
 # 📈 Intraday Report — 2026-11-27
 
-> Auto-generated at **18:52 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
+> Auto-generated at **20:06 IST** | Strategy: Opening Price Breakout | Capital: ₹5,000 | Square-Off Time: 15:10 IST
 
 ---
 
